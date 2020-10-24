@@ -1,0 +1,420 @@
+"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Gender","Occupation","Political_Affiliation","Result","Votes"
+"British Columbia",1878-09-17,"General","4","Cariboo","Thompson, Joshua Spencer","Man","Journalist","Liberal-Conservative","Elected (Acclamation)",0
+"British Columbia",1878-09-17,"General","4","New Westminster","McInnes, Thomas Robert","Man","Physician","Independent","Elected",388
+"British Columbia",1878-09-17,"General","4","New Westminster","ROBINSON, J.","Man",NA,"Unknown","Defeated",299
+"British Columbia",1878-09-17,"General","4","Vancouver","Bunster, Arthur","Man","Miller","Liberal Party of Canada","Elected",336
+"British Columbia",1878-09-17,"General","4","Vancouver","Gordon, David William","Man","Contractor","Liberal-Conservative","Defeated",267
+"British Columbia",1878-09-17,"General","4","Vancouver","MCLELLAN, A.J.","Man",NA,"Unknown","Defeated",74
+"British Columbia",1878-09-17,"General","4","Vancouver","JESSOP, John","Man",NA,"Unknown","Defeated",40
+"British Columbia",1878-09-17,"General","4","Victoria","Macdonald, John Alexander","Man","Minister of the Interior","Liberal-Conservative","Elected",896
+"British Columbia",1878-09-17,"General","4","Victoria","De Cosmos, Amor","Man","Editor","Liberal Party of Canada","Elected",538
+"British Columbia",1878-09-17,"General","4","Victoria","DAVIES, J.P.","Man",NA,"Unknown","Defeated",480
+"British Columbia",1878-09-17,"General","4","Yale","Dewdney, Edgar","Man","Civil engineer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Manitoba",1878-09-17,"General","4","Lisgar","Schultz, John Christian","Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
+"Manitoba",1878-09-17,"General","4","Marquette","Macdonald, John Alexander","Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
+"Manitoba",1878-09-17,"General","4","Provencher","Dubuc, Joseph","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Manitoba",1878-09-17,"General","4","Selkirk","Smith, Donald Alexander","Man","Hudson's Bay Co. employee","Independent Conservative","Elected",555
+"Manitoba",1878-09-17,"General","4","Selkirk","MORRIS, Hon. A.","Man","Lawyer","Conservative (1867-1942)","Defeated",546
+"New Brunswick",1878-09-17,"General","4","Albert","Rogers, Alexander","Man","Merchant","Liberal Party of Canada","Elected",684
+"New Brunswick",1878-09-17,"General","4","Albert","Wallace, John","Man","Farmer","Liberal Party of Canada","Defeated",596
+"New Brunswick",1878-09-17,"General","4","Albert","DOMVILLE, James","Man",NA,"Unknown","Defeated",558
+"New Brunswick",1878-09-17,"General","4","Carleton","Connell, George Heber","Man","Merchant","Independent","Elected",1766
+"New Brunswick",1878-09-17,"General","4","Carleton","Appleby, Stephen Burpee","Man","Lawyer","Liberal Party of Canada","Defeated",1447
+"New Brunswick",1878-09-17,"General","4","Charlotte","Gillmor, Arthur Hill","Man","Lumberman","Liberal Party of Canada","Elected",1522
+"New Brunswick",1878-09-17,"General","4","Charlotte","McAdam, John","Man","Lumber merchant","Liberal-Conservative","Defeated",1284
+"New Brunswick",1878-09-17,"General","4","Gloucester","Anglin, Timothy Warren","Man","Editor","Liberal Party of Canada","Elected (Acclamation)",0
+"New Brunswick",1878-09-17,"General","4","Kent","Girouard, Gilbert Anselme","Man","General merchant","Liberal-Conservative","Elected",810
+"New Brunswick",1878-09-17,"General","4","Kent","Cutler, Robert Barry","Man","Assistant paymaster","Liberal Party of Canada","Defeated",726
+"New Brunswick",1878-09-17,"General","4","Kent","McLeod, George","Man","Lumber merchant","Independent","Defeated",510
+"New Brunswick",1878-09-17,"General","4","Kent","O'LEARY, H.","Man",NA,"Unknown","Defeated",382
+"New Brunswick",1878-09-17,"General","4","Kent","McInerney, George Valentine","Man",NA,"Liberal Party of Canada","Defeated",280
+"New Brunswick",1878-09-17,"General","4","King's","Domville, James","Man","Merchant","Conservative (1867-1942)","Elected",1786
+"New Brunswick",1878-09-17,"General","4","King's","SHARP, L.N.","Man","Physician","Independent","Defeated",1452
+"New Brunswick",1878-09-17,"General","4","Northumberland","Snowball, Jabez Bunting","Man","Lumber exporter","Liberal Party of Canada","Elected",1585
+"New Brunswick",1878-09-17,"General","4","Northumberland","Mitchell, Peter","Man","Lawyer","Independent","Defeated",1384
+"New Brunswick",1878-09-17,"General","4","Queen's","King, George Gerald","Man","Businessman","Liberal Party of Canada","Elected",1143
+"New Brunswick",1878-09-17,"General","4","Queen's","WIGGINS, E.S.","Man",NA,"Unknown","Defeated",630
+"New Brunswick",1878-09-17,"General","4","Restigouche","Haddow, George","Man","Merchant","Independent","Elected (Acclamation)",0
+"New Brunswick",1878-09-17,"General","4","St. John (City and County of)","Burpee, Isaac","Man","Businessman","Liberal Party of Canada","Elected",2686
+"New Brunswick",1878-09-17,"General","4","St. John (City and County of)","Weldon, Charles Wesley","Man","Lawyer","Liberal Party of Canada","Elected",2449
+"New Brunswick",1878-09-17,"General","4","St. John (City and County of)","KING, G.E.","Man",NA,"Unknown","Defeated",2180
+"New Brunswick",1878-09-17,"General","4","St. John (City and County of)","Palmer, Acalus Lockwood","Man","Lawyer","Liberal Party of Canada","Defeated",1981
+"New Brunswick",1878-09-17,"General","4","St. John (City of )","Tilley, Samuel Leonard","Man","Druggist","Liberal-Conservative","Elected",1475
+"New Brunswick",1878-09-17,"General","4","St. John (City of )","De Veber, Jeremiah Smith Boies","Man","Businessman","Liberal Party of Canada","Defeated",1466
+"New Brunswick",1878-09-17,"General","4","Sunbury","Burpee, Charles","Man","Farmer","Liberal Party of Canada","Elected",558
+"New Brunswick",1878-09-17,"General","4","Sunbury","Perley, William Dell","Man","Farmer","Conservative (1867-1942)","Defeated",517
+"New Brunswick",1878-09-17,"General","4","Victoria","Costigan, John","Man","Judge","Liberal-Conservative","Elected",831
+"New Brunswick",1878-09-17,"General","4","Victoria","BERNIER, F.-X.","Man","Physician","Unknown","Defeated",368
+"New Brunswick",1878-09-17,"General","4","Westmorland","Smith, Albert James","Man","Lawyer","Liberal Party of Canada","Elected",2572
+"New Brunswick",1878-09-17,"General","4","Westmorland","CHAPMAN, R.A.","Man",NA,"Unknown","Defeated",1928
+"New Brunswick",1878-09-17,"General","4","York","Pickard, John","Man","Lumber merchant","Independent Liberal","Elected",1490
+"New Brunswick",1878-09-17,"General","4","York","FISHER, C.H.B.","Man",NA,"Unknown","Defeated",834
+"Nova Scotia",1878-09-17,"General","4","Annapolis","Longley, Avard","Man","Merchant","Conservative (1867-1942)","Elected",1301
+"Nova Scotia",1878-09-17,"General","4","Annapolis","Ray, William Hallett","Man","Farmer","Liberal Party of Canada","Defeated",1298
+"Nova Scotia",1878-09-17,"General","4","Antigonish","McIsaac, Angus","Man","Lawyer","Liberal Party of Canada","Elected",833
+"Nova Scotia",1878-09-17,"General","4","Antigonish","WHIDDEN, Charles B.","Man",NA,"Unknown","Defeated",702
+"Nova Scotia",1878-09-17,"General","4","Antigonish","MCKINNON, John J.","Man",NA,"Unknown","Defeated",315
+"Nova Scotia",1878-09-17,"General","4","Cape Breton","McLeod, Hugh","Man","Lawyer","Liberal-Conservative","Elected",2056
+"Nova Scotia",1878-09-17,"General","4","Cape Breton","McDonald, William","Man","Merchant","Conservative (1867-1942)","Elected",2051
+"Nova Scotia",1878-09-17,"General","4","Cape Breton","Mackay, Newton LeGayet","Man","Lawyer","Liberal Party of Canada","Defeated",1153
+"Nova Scotia",1878-09-17,"General","4","Cape Breton","YOUNG, Walter","Man",NA,"Unknown","Defeated",696
+"Nova Scotia",1878-09-17,"General","4","Colchester","McKay, Thomas","Man","Merchant","Liberal-Conservative","Elected",1829
+"Nova Scotia",1878-09-17,"General","4","Colchester","PAGE, Alex C.","Man","Physician","Unknown","Defeated",1453
+"Nova Scotia",1878-09-17,"General","4","Cumberland","Tupper, Charles","Man","Physician","Conservative (1867-1942)","Elected",2030
+"Nova Scotia",1878-09-17,"General","4","Cumberland","PIPES, Wm. Thos.","Man",NA,"Unknown","Defeated",1468
+"Nova Scotia",1878-09-17,"General","4","Digby","Wade, John Chipman","Man","Lawyer","Conservative (1867-1942)","Elected",1019
+"Nova Scotia",1878-09-17,"General","4","Digby","SMITH, P.W.","Man",NA,"Unknown","Defeated",1001
+"Nova Scotia",1878-09-17,"General","4","Guysborough","Ogden, Alfred","Man",NA,"Conservative (1867-1942)","Elected",936
+"Nova Scotia",1878-09-17,"General","4","Guysborough","Kirk, John Angus","Man","Farmer","Liberal Party of Canada","Defeated",772
+"Nova Scotia",1878-09-17,"General","4","Halifax","Richey, Matthew Henry","Man","Lawyer","Liberal-Conservative","Elected",3532
+"Nova Scotia",1878-09-17,"General","4","Halifax","Daly, Malachy Bowes","Man","Lawyer","Liberal-Conservative","Elected",3466
+"Nova Scotia",1878-09-17,"General","4","Halifax","Jones, Alfred Gilpin","Man","Merchant","Independent","Defeated",2863
+"Nova Scotia",1878-09-17,"General","4","Halifax","Power, Patrick","Man","Merchant","Independent Liberal","Defeated",2695
+"Nova Scotia",1878-09-17,"General","4","Hants","Allison, William Henry","Man","School lands commissioner","Conservative (1867-1942)","Elected",1662
+"Nova Scotia",1878-09-17,"General","4","Hants","Goudge, Monson Henry","Man","Merchant","Liberal Party of Canada","Defeated",1381
+"Nova Scotia",1878-09-17,"General","4","Inverness","McDonnell, Samuel","Man","Lawyer","Liberal Party of Canada","Elected",1284
+"Nova Scotia",1878-09-17,"General","4","Inverness","Cameron, Hugh","Man","Physician","Liberal-Conservative","Defeated",1175
+"Nova Scotia",1878-09-17,"General","4","Inverness","McLennan, Angus","Man",NA,"Unknown","Defeated",739
+"Nova Scotia",1878-09-17,"General","4","Kings","Borden, Frederick William","Man","Physician","Liberal Party of Canada","Elected",1639
+"Nova Scotia",1878-09-17,"General","4","Kings","Woodworth, Douglas Benjamin","Man","Lawyer","Liberal-Conservative","Defeated",1374
+"Nova Scotia",1878-09-17,"General","4","Lunenburg","Kaulbach, Charles Edwin","Man","Businessman","Conservative (1867-1942)","Elected",1899
+"Nova Scotia",1878-09-17,"General","4","Lunenburg","Church, Charles Edward","Man","Teacher","Liberal Party of Canada","Defeated",1173
+"Nova Scotia",1878-09-17,"General","4","Pictou","McDonald, James","Man","Lawyer","Conservative (1867-1942)","Elected",2747
+"Nova Scotia",1878-09-17,"General","4","Pictou","Doull, Robert","Man","Merchant","Liberal-Conservative","Elected",2681
+"Nova Scotia",1878-09-17,"General","4","Pictou","Carmichael, James William","Man","Shipowner","Liberal Party of Canada","Defeated",2433
+"Nova Scotia",1878-09-17,"General","4","Pictou","Dawson, John A.","Man","Hardware merchant","Liberal Party of Canada","Defeated",2378
+"Nova Scotia",1878-09-17,"General","4","Queens","Bill, Silas Tertius Rand","Man","Merchant","Liberal-Conservative","Elected",670
+"Nova Scotia",1878-09-17,"General","4","Queens","Forbes, James Fraser","Man","Physician","Liberal Party of Canada","Defeated",637
+"Nova Scotia",1878-09-17,"General","4","Richmond","Flynn, Edmund Power","Man","Merchant","Liberal Party of Canada","Elected",666
+"Nova Scotia",1878-09-17,"General","4","Richmond","BENOIT, Renée","Man",NA,"Unknown","Defeated",552
+"Nova Scotia",1878-09-17,"General","4","Shelburne","Robertson, Thomas","Man","Civil servant","Liberal Party of Canada","Elected",966
+"Nova Scotia",1878-09-17,"General","4","Shelburne","FREEMAN, Robert W.","Man",NA,"Unknown","Defeated",899
+"Nova Scotia",1878-09-17,"General","4","Shelburne","Coffin, Thomas","Man","Merchant","Liberal Party of Canada","Defeated",198
+"Nova Scotia",1878-09-17,"General","4","Victoria","McDonald, Duncan","Man","Merchant","Liberal Party of Canada","Elected",748
+"Nova Scotia",1878-09-17,"General","4","Victoria","Campbell, Charles James","Man","Merchant","Conservative (1867-1942)","Defeated",645
+"Nova Scotia",1878-09-17,"General","4","Yarmouth","Killam, Frank","Man","Shipowner","Liberal Party of Canada","Elected",1343
+"Nova Scotia",1878-09-17,"General","4","Yarmouth","Flint, Thomas Barnard","Man","Lawyer","Liberal Party of Canada","Defeated",802
+"Ontario",1878-09-17,"General","4","Addington","McRory, John","Man","Merchant","Conservative (1867-1942)","Elected",1656
+"Ontario",1878-09-17,"General","4","Addington","Shibley, Schuyler","Man","Farmer","Liberal-Conservative","Defeated",1244
+"Ontario",1878-09-17,"General","4","Algoma","Dawson, Simon James","Man","Civil engineer","Conservative (1867-1942)","Elected",885
+"Ontario",1878-09-17,"General","4","Algoma","RANKIN,","Man",NA,"Unknown","Defeated",480
+"Ontario",1878-09-17,"General","4","Bothwell","Mills, David","Man","Lawyer","Liberal Party of Canada","Elected",1852
+"Ontario",1878-09-17,"General","4","Bothwell","Hawkins, John Joseph","Man","Grocer","Liberal-Conservative","Defeated",1567
+"Ontario",1878-09-17,"General","4","Brant North","Fleming, Gavin","Man","Merchant","Liberal Party of Canada","Elected",931
+"Ontario",1878-09-17,"General","4","Brant North","CRAWFORD,","Man",NA,"Unknown","Defeated",734
+"Ontario",1878-09-17,"General","4","Brant South","Paterson, William","Man","Biscuit manufacturer","Liberal Party of Canada","Elected",1496
+"Ontario",1878-09-17,"General","4","Brant South","WATTS,","Man","Grain merchant","Unknown","Defeated",1298
+"Ontario",1878-09-17,"General","4","Brockville","Fitzsimmons, William","Man","Contractor","Conservative (1867-1942)","Elected",1033
+"Ontario",1878-09-17,"General","4","Brockville","Buell, Jacob Dockstader","Man","Lawyer","Liberal Party of Canada","Defeated",906
+"Ontario",1878-09-17,"General","4","Bruce North","Gillies, John","Man","Farmer","Liberal Party of Canada","Elected",1705
+"Ontario",1878-09-17,"General","4","Bruce North","Sproat, Alexander","Man","Treasurer","Conservative (1867-1942)","Defeated",1549
+"Ontario",1878-09-17,"General","4","Bruce South","Shaw, Alexander","Man","Lawyer","Liberal-Conservative","Elected",2673
+"Ontario",1878-09-17,"General","4","Bruce South","Blake, Edward","Man","Lawyer","Liberal Party of Canada","Defeated",2598
+"Ontario",1878-09-17,"General","4","Cardwell","White, Thomas","Man","Journalist","Conservative (1867-1942)","Elected",1218
+"Ontario",1878-09-17,"General","4","Cardwell","PATTULO, Jos.","Man",NA,"Unknown","Defeated",961
+"Ontario",1878-09-17,"General","4","Carleton","Rochester, John","Man","Lumber manufacturer","Conservative (1867-1942)","Elected",1282
+"Ontario",1878-09-17,"General","4","Carleton","MAY, John","Man",NA,"Unknown","Defeated",1196
+"Ontario",1878-09-17,"General","4","Carleton","Grant, James Alexander","Man",NA,"Unknown","Defeated",86
+"Ontario",1878-09-17,"General","4","Carleton","SPARKS, Nic.","Man",NA,"Unknown","Defeated",14
+"Ontario",1878-09-17,"General","4","Cornwall","Bergin, Darby","Man","Physician","Liberal-Conservative","Elected",575
+"Ontario",1878-09-17,"General","4","Cornwall","MCLENNAN, D.B.","Man",NA,"Liberal Party of Canada","Defeated",537
+"Ontario",1878-09-17,"General","4","Dundas","Ross, John Sylvester","Man","Mill owner","Liberal-Conservative","Elected",1727
+"Ontario",1878-09-17,"General","4","Dundas","LAFLAMME, A.J.","Man",NA,"Unknown","Defeated",1548
+"Ontario",1878-09-17,"General","4","Durham East","Williams, Arthur Trefusis Heneage","Man","Farmer","Conservative (1867-1942)","Elected",1717
+"Ontario",1878-09-17,"General","4","Durham East","Ross, Lewis","Man","Merchant","Liberal Party of Canada","Defeated",1317
+"Ontario",1878-09-17,"General","4","Durham West","Burk, Harvey William","Man","Farmer","Liberal Party of Canada","Elected",11214
+"Ontario",1878-09-17,"General","4","Durham West","CUBITT, F.","Man",NA,"Unknown","Defeated",1172
+"Ontario",1878-09-17,"General","4","Elgin East","Arkell, Thomas","Man","Grain merchant","Liberal-Conservative","Elected",2168
+"Ontario",1878-09-17,"General","4","Elgin East","Macdougall, Colin","Man","Lawyer","Liberal Party of Canada","Defeated",2128
+"Ontario",1878-09-17,"General","4","Elgin West","Casey, George Elliott","Man","Journalist","Liberal Party of Canada","Elected",1319
+"Ontario",1878-09-17,"General","4","Elgin West","MUNRO, M.G.","Man",NA,"Unknown","Defeated",1207
+"Ontario",1878-09-17,"General","4","Essex","Patterson, James Colebrooke","Man","Lawyer","Conservative (1867-1942)","Elected",2596
+"Ontario",1878-09-17,"General","4","Essex","McGregor, William","Man","Banker","Liberal Party of Canada","Defeated",2318
+"Ontario",1878-09-17,"General","4","Essex","MORGAN, J.H.","Man",NA,"Unknown","Defeated",27
+"Ontario",1878-09-17,"General","4","Frontenac","Kirkpatrick, George Airey","Man","Lawyer","Conservative (1867-1942)","Elected",958
+"Ontario",1878-09-17,"General","4","Frontenac","FERRIS, J.V.","Man",NA,"Unknown","Defeated",145
+"Ontario",1878-09-17,"General","4","Glengarry","McLennan, John","Man","Merchant","Liberal-Conservative","Elected",1330
+"Ontario",1878-09-17,"General","4","Glengarry","McNab, Archibald","Man","Railway company director","Unknown","Defeated",1269
+"Ontario",1878-09-17,"General","4","Grenville South","Wiser, John Philip","Man","Distiller","Liberal Party of Canada","Elected",1152
+"Ontario",1878-09-17,"General","4","Grenville South","DUMBRILLE, J.","Man",NA,"Unknown","Defeated",1127
+"Ontario",1878-09-17,"General","4","Grey East","Sproule, Thomas Simpson","Man","Physician","Conservative (1867-1942)","Elected",1664
+"Ontario",1878-09-17,"General","4","Grey East","GIFFORD, A.","Man",NA,"Unknown","Defeated",1133
+"Ontario",1878-09-17,"General","4","Grey North","Lane, Samuel Johnathan","Man","Barrister","Conservative (1867-1942)","Elected",1607
+"Ontario",1878-09-17,"General","4","Grey North","Snider, George","Man","Crown lands agent","Liberal Party of Canada","Defeated",1394
+"Ontario",1878-09-17,"General","4","Grey South","Jackson, George","Man","Crown lands agent","Liberal-Conservative","Elected",1163
+"Ontario",1878-09-17,"General","4","Grey South","Landerkin, George","Man","Physician","Liberal Party of Canada","Defeated",1082
+"Ontario",1878-09-17,"General","4","Haldimand","Thompson, David","Man","Merchant","Liberal Party of Canada","Elected",1566
+"Ontario",1878-09-17,"General","4","Haldimand","Davin, Nicholas Flood","Man","Lawyer","Conservative (1867-1942)","Defeated",1400
+"Ontario",1878-09-17,"General","4","Haldimand","LESTER,","Man",NA,"Unknown","Defeated",30
+"Ontario",1878-09-17,"General","4","Halton","McDougall, William","Man","Lawyer","Liberal-Conservative","Elected",1708
+"Ontario",1878-09-17,"General","4","Halton","McCraney, William","Man",NA,"Unknown","Defeated",1690
+"Ontario",1878-09-17,"General","4","Hamilton","Kilvert, Francis Edwin","Man","Lawyer","Conservative (1867-1942)","Elected",2252
+"Ontario",1878-09-17,"General","4","Hamilton","Robertson, Thomas","Man","Lawyer","Liberal Party of Canada","Elected",2214
+"Ontario",1878-09-17,"General","4","Hamilton","Irving, Aemilius","Man","Lawyer","Liberal Party of Canada","Defeated",2005
+"Ontario",1878-09-17,"General","4","Hamilton","Wood, Andrew Trew","Man","Businessman","Liberal Party of Canada","Defeated",1981
+"Ontario",1878-09-17,"General","4","Hastings East","White, John","Man","Machinist","Conservative (1867-1942)","Elected",1060
+"Ontario",1878-09-17,"General","4","Hastings East","AYLSWORTH, W.R.","Man",NA,"Unknown","Defeated",1040
+"Ontario",1878-09-17,"General","4","Hastings North","Bowell, Mackenzie","Man","Editor","Conservative (1867-1942)","Elected",1249
+"Ontario",1878-09-17,"General","4","Hastings North","O'FLYNN, E.D.","Man","Merchant","Unknown","Defeated",1008
+"Ontario",1878-09-17,"General","4","Hastings West","Brown, James","Man","Businessman","Conservative (1867-1942)","Elected",1306
+"Ontario",1878-09-17,"General","4","Hastings West","WALLBRIDGE,","Man","Lawyer","Liberal Party of Canada","Defeated",1055
+"Ontario",1878-09-17,"General","4","Huron Centre","Horton, Horace","Man","Insurance agent","Liberal Party of Canada","Elected",1732
+"Ontario",1878-09-17,"General","4","Huron Centre","PLATT, S.","Man",NA,"Unknown","Defeated",1361
+"Ontario",1878-09-17,"General","4","Huron North","Farrow, Thomas","Man","School superintendent","Liberal-Conservative","Elected",1933
+"Ontario",1878-09-17,"General","4","Huron North","SLOAN,","Man","Physician","Unknown","Defeated",1849
+"Ontario",1878-09-17,"General","4","Huron South","Cameron, Malcolm Colin","Man","Lawyer","Liberal Party of Canada","Elected",1874
+"Ontario",1878-09-17,"General","4","Huron South","Porter, Robert","Man",NA,"Liberal-Conservative","Defeated",1709
+"Ontario",1878-09-17,"General","4","Kent","Stephenson, Rufus","Man","Editor","Conservative (1867-1942)","Elected",2502
+"Ontario",1878-09-17,"General","4","Kent","MCMAHON, H.","Man",NA,"Unknown","Defeated",1969
+"Ontario",1878-09-17,"General","4","Kingston","Gunn, Alexander","Man","Wholesale grocer","Liberal Party of Canada","Elected",991
+"Ontario",1878-09-17,"General","4","Kingston","Macdonald, John Alexander","Man","Lawyer","Liberal-Conservative","Defeated",847
+"Ontario",1878-09-17,"General","4","Kingston","STEWART, J.","Man",NA,"Unknown","Defeated",6
+"Ontario",1878-09-17,"General","4","Lambton","Mackenzie, Alexander","Man","Contractor","Liberal Party of Canada","Elected",2707
+"Ontario",1878-09-17,"General","4","Lambton","MACKENZIE, J.A.","Man",NA,"Unknown","Defeated",2561
+"Ontario",1878-09-17,"General","4","Lanark North","Galbraith, Daniel","Man","Farmer","Liberal Party of Canada","Elected",992
+"Ontario",1878-09-17,"General","4","Lanark North","Jamieson, Joseph","Man","Lawyer","Conservative (1867-1942)","Defeated",949
+"Ontario",1878-09-17,"General","4","Lanark South","Haggart, John Graham","Man","Mill owner","Conservative (1867-1942)","Elected",1585
+"Ontario",1878-09-17,"General","4","Lanark South","Frost, Francis Theodore","Man",NA,"Unknown","Defeated",1261
+"Ontario",1878-09-17,"General","4","Leeds North and Grenville North","Ferguson, Charles Frederick","Man","Physician","Liberal-Conservative","Elected",859
+"Ontario",1878-09-17,"General","4","Leeds North and Grenville North","Jones, Francis","Man","Civil engineer","Conservative (1867-1942)","Defeated",823
+"Ontario",1878-09-17,"General","4","Leeds South","Jones, David Ford","Man","Manufacturer","Conservative (1867-1942)","Elected",1904
+"Ontario",1878-09-17,"General","4","Leeds South","FREDENBURGH, W.H.","Man",NA,"Unknown","Defeated",1783
+"Ontario",1878-09-17,"General","4","Lennox","Hooper, Edmund John Glyn","Man","Merchant","Liberal-Conservative","Elected",1358
+"Ontario",1878-09-17,"General","4","Lennox","Cartwright, Richard John","Man","Businessman","Liberal Party of Canada","Defeated",1299
+"Ontario",1878-09-17,"General","4","Lincoln","Rykert, John Charles","Man","Lawyer","Conservative (1867-1942)","Elected",1893
+"Ontario",1878-09-17,"General","4","Lincoln","Norris, James","Man","Merchant","Liberal Party of Canada","Defeated",1799
+"Ontario",1878-09-17,"General","4","London","Carling, John","Man","Brewer","Liberal-Conservative","Elected",1407
+"Ontario",1878-09-17,"General","4","London","Walker, John","Man","Manufacturer","Liberal Party of Canada","Defeated",1343
+"Ontario",1878-09-17,"General","4","Middlesex East","Macmillan, Duncan","Man","Lawyer","Liberal-Conservative","Elected",2428
+"Ontario",1878-09-17,"General","4","Middlesex East","Glass, David","Man","Lawyer","Conservative (1867-1942)","Defeated",2332
+"Ontario",1878-09-17,"General","4","Middlesex North","Coughlin, Timothy","Man","Farmer","Liberal-Conservative","Elected",1629
+"Ontario",1878-09-17,"General","4","Middlesex North","Scatcherd, Robert Colin","Man","Lawyer","Liberal Party of Canada","Defeated",1621
+"Ontario",1878-09-17,"General","4","Middlesex West","Ross, George William","Man","Schoolteacher","Liberal Party of Canada","Elected",1635
+"Ontario",1878-09-17,"General","4","Middlesex West","CURRIE, N.","Man",NA,"Unknown","Defeated",1587
+"Ontario",1878-09-17,"General","4","Monck","McCallum, Lachlin","Man","Shipbuilding contractor","Liberal-Conservative","Elected",1459
+"Ontario",1878-09-17,"General","4","Monck","Edgar, James David","Man","Barrister","Liberal Party of Canada","Defeated",1431
+"Ontario",1878-09-17,"General","4","Muskoka","Cockburn, Alexander Peter","Man","Merchant","Liberal Party of Canada","Elected",1259
+"Ontario",1878-09-17,"General","4","Muskoka","O'Brien, William Edward","Man",NA,"Unknown","Defeated",1196
+"Ontario",1878-09-17,"General","4","Niagara","Hughes, Patrick","Man","Merchant","Liberal Party of Canada","Elected",312
+"Ontario",1878-09-17,"General","4","Niagara","Plumb, Josiah Burr","Man","Bank manager","Conservative (1867-1942)","Defeated",310
+"Ontario",1878-09-17,"General","4","Norfolk North","Charlton, John","Man","Businessman","Liberal Party of Canada","Elected",1492
+"Ontario",1878-09-17,"General","4","Norfolk North","Walsh, Aquila","Man","Civil engineer","Conservative (1867-1942)","Defeated",1348
+"Ontario",1878-09-17,"General","4","Norfolk South","Wallace, William","Man","Journalist","Conservative (1867-1942)","Elected",1327
+"Ontario",1878-09-17,"General","4","Norfolk South","Allan, Henry William","Man","Merchant","Unknown","Defeated",1310
+"Ontario",1878-09-17,"General","4","Northumberland East","Keeler, Joseph","Man","Grain and lumber dealer","Liberal-Conservative","Elected",1799
+"Ontario",1878-09-17,"General","4","Northumberland East","Biggar, James Lyons","Man","General merchant","Independent Liberal","Defeated",1736
+"Ontario",1878-09-17,"General","4","Northumberland West","Cockburn, James","Man","Lawyer","Conservative (1867-1942)","Elected",1315
+"Ontario",1878-09-17,"General","4","Northumberland West","Kerr, William","Man","Lawyer","Liberal Party of Canada","Defeated",1227
+"Ontario",1878-09-17,"General","4","Ontario North","Wheler, George","Man","Mill proprietor","Liberal Party of Canada","Elected",2215
+"Ontario",1878-09-17,"General","4","Ontario North","Gibbs, William Henry","Man","Manufacturer","Conservative (1867-1942)","Defeated",2161
+"Ontario",1878-09-17,"General","4","Ontario South","Glen, Francis Wayland","Man","Manufacturer","Liberal Party of Canada","Elected",1867
+"Ontario",1878-09-17,"General","4","Ontario South","Gibbs, Thomas Nicholson","Man","Manufacturer","Liberal-Conservative","Defeated",1661
+"Ontario",1878-09-17,"General","4","Ottawa (City of)","Currier, Joseph Merrill","Man","Lumberman","Liberal-Conservative","Elected",1854
+"Ontario",1878-09-17,"General","4","Ottawa (City of)","Tassé, Joseph","Man","Journalist","Conservative (1867-1942)","Elected",1748
+"Ontario",1878-09-17,"General","4","Ottawa (City of)","St-Jean, Pierre","Man","Physician","Liberal Party of Canada","Defeated",1353
+"Ontario",1878-09-17,"General","4","Ottawa (City of)","BANGS, C.W.","Man",NA,"Unknown","Defeated",1239
+"Ontario",1878-09-17,"General","4","Oxford North","Oliver, Thomas","Man","Teacher","Liberal Party of Canada","Elected",1706
+"Ontario",1878-09-17,"General","4","Oxford North","WOOD,","Man",NA,"Unknown","Defeated",803
+"Ontario",1878-09-17,"General","4","Oxford South","Skinner, James Atchison","Man","Farmer","Liberal Party of Canada","Elected",1915
+"Ontario",1878-09-17,"General","4","Oxford South","GIBSON, Jos.","Man",NA,"Unknown","Defeated",1554
+"Ontario",1878-09-17,"General","4","Peel","Elliott, William","Man","Farmer","Conservative (1867-1942)","Elected",1414
+"Ontario",1878-09-17,"General","4","Peel","Smith, Robert","Man","Farmer","Liberal Party of Canada","Defeated",1325
+"Ontario",1878-09-17,"General","4","Perth North","Hesson, Samuel Rollin","Man","Merchant","Conservative (1867-1942)","Elected",2533
+"Ontario",1878-09-17,"General","4","Perth North","FISHER, J.","Man",NA,"Independent","Defeated",2450
+"Ontario",1878-09-17,"General","4","Perth South","Trow, James","Man","Banker","Liberal Party of Canada","Elected",1796
+"Ontario",1878-09-17,"General","4","Perth South","HORNIBROOK, E.","Man",NA,"Unknown","Defeated",1719
+"Ontario",1878-09-17,"General","4","Peterborough East","Burnham, John","Man","Lawyer","Conservative (1867-1942)","Elected",1262
+"Ontario",1878-09-17,"General","4","Peterborough East","MACLEOD, John D.","Man",NA,"Unknown","Defeated",1236
+"Ontario",1878-09-17,"General","4","Peterborough West","Hilliard, George","Man","Lumber merchant","Liberal-Conservative","Elected",1071
+"Ontario",1878-09-17,"General","4","Peterborough West","Bertram, John","Man","Businessman","Liberal Party of Canada","Defeated",874
+"Ontario",1878-09-17,"General","4","Prescott","Routhier, Félix","Man","Manufacturer","Conservative (1867-1942)","Elected",875
+"Ontario",1878-09-17,"General","4","Prescott","Hagar, Albert Peter","Man","Merchant","Liberal Party of Canada","Defeated",870
+"Ontario",1878-09-17,"General","4","Prescott","URQUHART, Angus","Man",NA,"Unknown","Defeated",661
+"Ontario",1878-09-17,"General","4","Prince Edward","McCuaig, James Simeon","Man","Businessman","Conservative (1867-1942)","Elected",1991
+"Ontario",1878-09-17,"General","4","Prince Edward","Platt, John Milton","Man","Physician","Liberal Party of Canada","Defeated",1701
+"Ontario",1878-09-17,"General","4","Renfrew North","White, Peter","Man","Merchant","Conservative (1867-1942)","Elected",1273
+"Ontario",1878-09-17,"General","4","Renfrew North","Findlay, James","Man",NA,"Unknown","Defeated",920
+"Ontario",1878-09-17,"General","4","Renfrew South","Bannerman, William","Man","Businessman","Conservative (1867-1942)","Elected",962
+"Ontario",1878-09-17,"General","4","Renfrew South","Campbell, Robert","Man",NA,"Unknown","Defeated",738
+"Ontario",1878-09-17,"General","4","Russell","O'Connor, John","Man","Lawyer","Conservative (1867-1942)","Elected",1612
+"Ontario",1878-09-17,"General","4","Russell","MORGAN, Ira","Man","Warden","Unknown","Defeated",1097
+"Ontario",1878-09-17,"General","4","Simcoe North","McCarthy, D'Alton","Man","Lawyer","Conservative (1867-1942)","Elected",2943
+"Ontario",1878-09-17,"General","4","Simcoe North","Cook, Herman Henry","Man","Businessman","Liberal Party of Canada","Defeated",2893
+"Ontario",1878-09-17,"General","4","Simcoe South","Little, William Carruthers","Man","Farmer","Liberal-Conservative","Elected",1137
+"Ontario",1878-09-17,"General","4","Simcoe South","FLETCHER, Geo.","Man",NA,"Unknown","Defeated",694
+"Ontario",1878-09-17,"General","4","Stormont","Fulton, Oscar","Man","Merchant","Liberal-Conservative","Elected",1082
+"Ontario",1878-09-17,"General","4","Stormont","Archibald, Cyril","Man","Paymaster","Liberal Party of Canada","Defeated",885
+"Ontario",1878-09-17,"General","4","Toronto Centre","Hay, Robert","Man","Manufacturer","Liberal-Conservative","Elected",1631
+"Ontario",1878-09-17,"General","4","Toronto Centre","Macdonald, John","Man","Businessman","Independent Liberal","Defeated",1141
+"Ontario",1878-09-17,"General","4","Toronto East","Platt, Samuel","Man","Brewer","Independent","Elected",1743
+"Ontario",1878-09-17,"General","4","Toronto East","GALLEY, Ed","Man",NA,"Unknown","Defeated",1052
+"Ontario",1878-09-17,"General","4","Toronto West","Robinson, John Beverley","Man","Barrister","Conservative (1867-1942)","Elected",2165
+"Ontario",1878-09-17,"General","4","Toronto West","HODGINS, J.","Man",NA,"Unknown","Defeated",1528
+"Ontario",1878-09-17,"General","4","Victoria North","Cameron, Hector","Man","Lawyer","Conservative (1867-1942)","Elected",917
+"Ontario",1878-09-17,"General","4","Victoria North","MCLENNAN, J.","Man","Lawyer","Liberal Party of Canada","Defeated",741
+"Ontario",1878-09-17,"General","4","Victoria South","McQuade, Arthur","Man","Farmer","Conservative (1867-1942)","Elected",1705
+"Ontario",1878-09-17,"General","4","Victoria South","CONNOLLY, J.","Man",NA,"Unknown","Defeated",1281
+"Ontario",1878-09-17,"General","4","Waterloo North","Kranz, Hugo","Man",NA,"Conservative (1867-1942)","Elected",1412
+"Ontario",1878-09-17,"General","4","Waterloo North","Bowman, Isaac Erb","Man","Businessman","Liberal Party of Canada","Defeated",1279
+"Ontario",1878-09-17,"General","4","Waterloo South","Merner, Samuel","Man","Blacksmith","Conservative (1867-1942)","Elected",1468
+"Ontario",1878-09-17,"General","4","Waterloo South","Young, James","Man","Journalist","Liberal Party of Canada","Defeated",1424
+"Ontario",1878-09-17,"General","4","Welland","Bunting, Christopher William","Man","Newspaper owner","Liberal-Conservative","Elected",1926
+"Ontario",1878-09-17,"General","4","Welland","EDWIN, H.","Man",NA,"Unknown","Defeated",1810
+"Ontario",1878-09-17,"General","4","Wellington Centre","Orton, George Turner","Man","Physician","Liberal-Conservative","Elected",1683
+"Ontario",1878-09-17,"General","4","Wellington Centre","ROBINSON, J.","Man",NA,"Unknown","Defeated",1677
+"Ontario",1878-09-17,"General","4","Wellington North","Drew, George Alexander","Man","Lawyer","Liberal-Conservative","Elected",1713
+"Ontario",1878-09-17,"General","4","Wellington North","Higinbotham, Nathaniel","Man","Druggist","Liberal Party of Canada","Defeated",1605
+"Ontario",1878-09-17,"General","4","Wellington South","Guthrie, Donald","Man","Lawyer","Liberal Party of Canada","Elected",1832
+"Ontario",1878-09-17,"General","4","Wellington South","GOLDIE, J.","Man",NA,"Unknown","Defeated",1529
+"Ontario",1878-09-17,"General","4","Wentworth North","Bain, Thomas","Man","Farmer","Liberal Party of Canada","Elected",1343
+"Ontario",1878-09-17,"General","4","Wentworth North","STOCK, Thos.","Man",NA,"Unknown","Defeated",1237
+"Ontario",1878-09-17,"General","4","Wentworth South","Rymal, Joseph","Man","Farmer","Liberal Party of Canada","Elected",1169
+"Ontario",1878-09-17,"General","4","Wentworth South","Carpenter, Franklin Metcalfe","Man",NA,"Unknown","Defeated",1095
+"Ontario",1878-09-17,"General","4","York East","Boultbee, Alfred","Man","Lawyer","Conservative (1867-1942)","Elected",1526
+"Ontario",1878-09-17,"General","4","York East","Metcalfe, James","Man","Builder","Liberal Party of Canada","Defeated",1460
+"Ontario",1878-09-17,"General","4","York North","Strange, Frederick William","Man","Physician","Liberal-Conservative","Elected",1792
+"Ontario",1878-09-17,"General","4","York North","Dymond, Alfred Hutchinson","Man","Writer","Liberal Party of Canada","Defeated",1778
+"Ontario",1878-09-17,"General","4","York West","Wallace, Nathaniel Clarke","Man","Miller","Conservative (1867-1942)","Elected",1326
+"Ontario",1878-09-17,"General","4","York West","Blain, David","Man","Lawyer","Liberal Party of Canada","Defeated",1124
+"Prince Edward Island",1878-09-17,"General","4","King's County","Macdonald, Augustine Colin","Man","Merchant","Liberal-Conservative","Elected",2264
+"Prince Edward Island",1878-09-17,"General","4","King's County","Muttart, Ephraim Bell","Man","Physician","Conservative (1867-1942)","Elected",2077
+"Prince Edward Island",1878-09-17,"General","4","King's County","McIntyre, Peter Adolphus","Man","Physician","Liberal Party of Canada","Defeated",1499
+"Prince Edward Island",1878-09-17,"General","4","King's County","MCFAYDEN, M.","Man",NA,"Unknown","Defeated",1251
+"Prince Edward Island",1878-09-17,"General","4","Prince County","Yeo, James","Man","Merchant shipbuilder","Liberal Party of Canada","Elected",1716
+"Prince Edward Island",1878-09-17,"General","4","Prince County","Hackett, Edward","Man","Merchant","Liberal-Conservative","Elected",1655
+"Prince Edward Island",1878-09-17,"General","4","Prince County","HOWATT, C.","Man",NA,"Unknown","Defeated",1605
+"Prince Edward Island",1878-09-17,"General","4","Prince County","Perry, Stanislaus Francis","Man","Farmer","Liberal Party of Canada","Defeated",1491
+"Prince Edward Island",1878-09-17,"General","4","Queen's County","Pope, James Colledge","Man","Merchant","Conservative (1867-1942)","Elected",3275
+"Prince Edward Island",1878-09-17,"General","4","Queen's County","Brecken, Frederick de St Croix","Man","Lawyer","Conservative (1867-1942)","Elected",3102
+"Prince Edward Island",1878-09-17,"General","4","Queen's County","Sinclair, Peter","Man","Farmer","Liberal Party of Canada","Defeated",2392
+"Prince Edward Island",1878-09-17,"General","4","Queen's County","MCGILL,","Man",NA,"Unknown","Defeated",2272
+"Quebec",1878-09-17,"General","4","Argenteuil","Christie, Thomas","Man","Physician","Liberal Party of Canada","Elected",919
+"Quebec",1878-09-17,"General","4","Argenteuil","Abbott, John Joseph Caldwell","Man","Lawyer","Liberal-Conservative","Defeated",830
+"Quebec",1878-09-17,"General","4","Bagot","Mousseau, Joseph Alfred","Man","Lawyer","Conservative (1867-1942)","Elected",1387
+"Quebec",1878-09-17,"General","4","Bagot","CHAGNON,","Man",NA,"Independent","Defeated",1226
+"Quebec",1878-09-17,"General","4","Beauce","Bolduc, Joseph","Man","Railway director","Conservative (1867-1942)","Elected",1523
+"Quebec",1878-09-17,"General","4","Beauce","LESARD, Geo.","Man",NA,"Unknown","Defeated",401
+"Quebec",1878-09-17,"General","4","Beauharnois","Cayley, Michael","Man","Lawyer","Conservative (1867-1942)","Elected",879
+"Quebec",1878-09-17,"General","4","Beauharnois","VALOIS, M.F.W.","Man",NA,"Unknown","Defeated",107
+"Quebec",1878-09-17,"General","4","Bellechasse","LaRue, Achille","Man","Lawyer","Liberal Party of Canada","Elected",1042
+"Quebec",1878-09-17,"General","4","Bellechasse","Amyot, Guillaume","Man","Lawyer","Conservative (1867-1942)","Defeated",990
+"Quebec",1878-09-17,"General","4","Berthier","Cuthbert, Edward Octavian","Man","Owner of Seigniory of Berthier","Conservative (1867-1942)","Elected",1134
+"Quebec",1878-09-17,"General","4","Berthier","BELIVEAU, P.","Man",NA,"Unknown","Defeated",915
+"Quebec",1878-09-17,"General","4","Bonaventure","Robitaille, Théodore","Man","Physician","Conservative (1867-1942)","Elected",1014
+"Quebec",1878-09-17,"General","4","Bonaventure","CLAPPERTON, W.H.","Man",NA,"Unknown","Defeated",825
+"Quebec",1878-09-17,"General","4","Brome","Chandler, Edmund Leavens","Man","Merchant","Liberal Party of Canada","Elected",1272
+"Quebec",1878-09-17,"General","4","Brome","FOSTER, S.L.","Man",NA,"Unknown","Defeated",991
+"Quebec",1878-09-17,"General","4","Chambly","Benoit, Pierre Basile","Man","Farmer","Conservative (1867-1942)","Elected",887
+"Quebec",1878-09-17,"General","4","Chambly","WILLETT, L.T.","Man",NA,"Unknown","Defeated",843
+"Quebec",1878-09-17,"General","4","Champlain","Montplaisir, Hippolyte","Man","Farmer","Liberal-Conservative","Elected",1673
+"Quebec",1878-09-17,"General","4","Champlain","FUGERE, N.","Man",NA,"Unknown","Defeated",527
+"Quebec",1878-09-17,"General","4","Charlevoix","Tremblay, Pierre Alexis","Man","Land surveyor","Liberal Party of Canada","Elected",1052
+"Quebec",1878-09-17,"General","4","Charlevoix","Perrault, Joseph Stanislas","Man","Lawyer","Unknown","Defeated",936
+"Quebec",1878-09-17,"General","4","Châteauguay","Holton, Luther Hamilton","Man","Merchant","Liberal Party of Canada","Elected",936
+"Quebec",1878-09-17,"General","4","Châteauguay","SEERS, L.A.","Man",NA,"Unknown","Defeated",757
+"Quebec",1878-09-17,"General","4","Chicoutimi--Saguenay","Cimon, Marie Honorius Ernest","Man","Lawyer","Conservative (1867-1942)","Elected",1453
+"Quebec",1878-09-17,"General","4","Chicoutimi--Saguenay","Gagné, Jean Alfred","Man","Lawyer","Conservative (1867-1942)","Defeated",1158
+"Quebec",1878-09-17,"General","4","Compton","Pope, John Henry","Man","Investor and promoter","Liberal-Conservative","Elected",1464
+"Quebec",1878-09-17,"General","4","Compton","LEONARD, H.","Man",NA,"Unknown","Defeated",796
+"Quebec",1878-09-17,"General","4","Dorchester","Rouleau, François Fortunat","Man","Lawyer","Liberal-Conservative","Elected",1081
+"Quebec",1878-09-17,"General","4","Dorchester","MARCEAU, H.","Man",NA,"Unknown","Defeated",362
+"Quebec",1878-09-17,"General","4","Drummond--Arthabaska","Bourbeau, Désiré Olivier","Man","Merchant","Conservative (1867-1942)","Elected",2143
+"Quebec",1878-09-17,"General","4","Drummond--Arthabaska","RAINVILLE, L.","Man",NA,"Unknown","Defeated",1981
+"Quebec",1878-09-17,"General","4","Gaspé","Fortin, Pierre","Man","Physician","Conservative (1867-1942)","Elected",913
+"Quebec",1878-09-17,"General","4","Gaspé","LEBOUTHILLIER, B.","Man",NA,"Unknown","Defeated",116
+"Quebec",1878-09-17,"General","4","Hochelaga","Desjardins, Alphonse","Man","Lawyer","Conservative (1867-1942)","Elected",3039
+"Quebec",1878-09-17,"General","4","Hochelaga","David, Laurent-Olivier","Man",NA,"Unknown","Defeated",2342
+"Quebec",1878-09-17,"General","4","Huntingdon","Scriver, Julius","Man","Mill and tannery owner","Liberal Party of Canada","Elected (Acclamation)",0
+"Quebec",1878-09-17,"General","4","Iberville","Béchard, François","Man","Farmer","Liberal Party of Canada","Elected",929
+"Quebec",1878-09-17,"General","4","Iberville","THIBEAULT, Ch.","Man",NA,"Unknown","Defeated",700
+"Quebec",1878-09-17,"General","4","Jacques Cartier","Girouard, Désiré","Man","Lawyer","Conservative (1867-1942)","Elected",1010
+"Quebec",1878-09-17,"General","4","Jacques Cartier","Laflamme, Toussaint Antoine Rodolphe","Man","Lawyer","Liberal Party of Canada","Defeated",1008
+"Quebec",1878-09-17,"General","4","Joliette","Baby, Louis François Georges","Man","Lawyer","Conservative (1867-1942)","Elected",1264
+"Quebec",1878-09-17,"General","4","Joliette","Godin, François Benjamin","Man","Lawyer","Liberal Party of Canada","Defeated",905
+"Quebec",1878-09-17,"General","4","Kamouraska","Dumont, Joseph","Man","Soldier","Liberal Party of Canada","Elected",1254
+"Quebec",1878-09-17,"General","4","Kamouraska","Roy, Charles François","Man","Civil engineer","Conservative (1867-1942)","Defeated",1245
+"Quebec",1878-09-17,"General","4","L'Assomption","Hurteau, Hilaire","Man","Notary","Liberal-Conservative","Elected",1021
+"Quebec",1878-09-17,"General","4","L'Assomption","FOREST, L.","Man",NA,"Unknown","Defeated",852
+"Quebec",1878-09-17,"General","4","L'Islet","Casgrain, Philippe Baby","Man","Lawyer","Liberal Party of Canada","Elected",687
+"Quebec",1878-09-17,"General","4","L'Islet","FOURNIER,","Man",NA,"Unknown","Defeated",628
+"Quebec",1878-09-17,"General","4","Laprairie","Pinsonneault, Alfred","Man","Farmer","Conservative (1867-1942)","Elected",661
+"Quebec",1878-09-17,"General","4","Laprairie","LONGTIN, T.A.","Man",NA,"Unknown","Defeated",601
+"Quebec",1878-09-17,"General","4","Laval","Ouimet, Joseph-Aldéric","Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
+"Quebec",1878-09-17,"General","4","Lévis","Blanchet, Joseph-Godric","Man","Physician","Liberal-Conservative","Elected",2144
+"Quebec",1878-09-17,"General","4","Lévis","Fréchette, Louis Honoré","Man","Writer","Liberal Party of Canada","Defeated",2026
+"Quebec",1878-09-17,"General","4","Lotbinière","Rinfret, Côme Isaïe","Man","Physician","Liberal Party of Canada","Elected",1083
+"Quebec",1878-09-17,"General","4","Lotbinière","COTÉ, L.A.","Man",NA,"Unknown","Defeated",972
+"Quebec",1878-09-17,"General","4","Maskinongé","Houde, Frédéric","Man","Journalist","Nationalist Conservative","Elected",838
+"Quebec",1878-09-17,"General","4","Maskinongé","DÉSAULNIERS,","Man","Lawyer","Conservative (1867-1942)","Defeated",296
+"Quebec",1878-09-17,"General","4","Maskinongé","YALE,","Man",NA,"Unknown","Defeated",279
+"Quebec",1878-09-17,"General","4","Mégantic","Olivier, Louis Ephrem","Man","Physician","Liberal Party of Canada","Elected",1191
+"Quebec",1878-09-17,"General","4","Mégantic","TURGEON, Jos E.","Man",NA,"Unknown","Defeated",881
+"Quebec",1878-09-17,"General","4","Missisquoi","Baker, George Barnard","Man","Lawyer","Liberal-Conservative","Elected",1355
+"Quebec",1878-09-17,"General","4","Missisquoi","Clayes, George","Man","Merchant","Liberal Party of Canada","Defeated",1209
+"Quebec",1878-09-17,"General","4","Montcalm","Dugas, Firmin","Man","Miller","Conservative (1867-1942)","Elected",698
+"Quebec",1878-09-17,"General","4","Montcalm","FOREST, N.","Man",NA,"Unknown","Defeated",374
+"Quebec",1878-09-17,"General","4","Montcalm","DESLONGCHAMP, I.B.","Man",NA,"Unknown","Defeated",240
+"Quebec",1878-09-17,"General","4","Montcalm","BROUILLET, V.J.E.","Man",NA,"Unknown","Defeated",86
+"Quebec",1878-09-17,"General","4","Montmagny","Landry, Auguste-Charles-Philippe-Robert","Man","Farmer","Conservative (1867-1942)","Elected",784
+"Quebec",1878-09-17,"General","4","Montmagny","Carbonneau, Onésiphore","Man",NA,"Unknown","Defeated",746
+"Quebec",1878-09-17,"General","4","Montmorency","Valin, Pierre Vincent","Man","Businessman","Conservative (1867-1942)","Elected",831
+"Quebec",1878-09-17,"General","4","Montmorency","Langelier, J.","Man",NA,"Unknown","Defeated",605
+"Quebec",1878-09-17,"General","4","Montreal Centre","Ryan, Michael Patrick","Man","Merchant","Liberal-Conservative","Elected",2624
+"Quebec",1878-09-17,"General","4","Montreal Centre","Devlin, Bernard","Man","Lawyer","Liberal Party of Canada","Defeated",1845
+"Quebec",1878-09-17,"General","4","Montreal East","Coursol, Michel Charles Joseph","Man","Lawyer","Conservative (1867-1942)","Elected",4626
+"Quebec",1878-09-17,"General","4","Montreal East","ARCHAMBEAULT, F.X.","Man",NA,"Unknown","Defeated",3234
+"Quebec",1878-09-17,"General","4","Montreal West","Gault, Matthew Hamilton","Man","Insurance agent","Conservative (1867-1942)","Elected",3334
+"Quebec",1878-09-17,"General","4","Montreal West","DARLING, Wm.","Man",NA,"Unknown","Defeated",1627
+"Quebec",1878-09-17,"General","4","Napierville","Coupal dit La Reine, Sixte","Man","Farmer","Liberal Party of Canada","Elected",749
+"Quebec",1878-09-17,"General","4","Napierville","BUREAU, J.E.","Man",NA,"Unknown","Defeated",617
+"Quebec",1878-09-17,"General","4","Nicolet","Méthot, François Xavier Ovide","Man",NA,"Independent Conservative","Elected",1759
+"Quebec",1878-09-17,"General","4","Nicolet","Turcotte, Gustave Adolphe","Man",NA,"Liberal Party of Canada","Defeated",1018
+"Quebec",1878-09-17,"General","4","Ottawa (County of)","Wright, Alonzo","Man","Farmer","Liberal-Conservative","Elected",3025
+"Quebec",1878-09-17,"General","4","Ottawa (County of)","CAMERON, J.A.","Man",NA,"Unknown","Defeated",1385
+"Quebec",1878-09-17,"General","4","Pontiac","Poupore, John","Man","Farmer","Conservative (1867-1942)","Elected",1381
+"Quebec",1878-09-17,"General","4","Pontiac","Murray, Thomas","Man",NA,"Unknown","Defeated",1174
+"Quebec",1878-09-17,"General","4","Portneuf","Vallée, Roch Pamphile","Man","Journalist","Conservative (1867-1942)","Elected",1605
+"Quebec",1878-09-17,"General","4","Portneuf","de Saint-Georges, Joseph Esdras Alfred","Man","Physician","Liberal Party of Canada","Defeated",1572
+"Quebec",1878-09-17,"General","4","Quebec County","Caron, Adolphe-Philippe","Man","Lawyer","Conservative (1867-1942)","Elected",1702
+"Quebec",1878-09-17,"General","4","Quebec County","THIBODEAU, J.","Man",NA,"Unknown","Defeated",1073
+"Quebec",1878-09-17,"General","4","Quebec East","Laurier, Wilfrid","Man","Lawyer","Liberal Party of Canada","Elected",1946
+"Quebec",1878-09-17,"General","4","Quebec East","VALLIÈRES, Phi.","Man",NA,"Unknown","Defeated",1168
+"Quebec",1878-09-17,"General","4","Quebec West","McGreevy, Thomas","Man","Contractor","Liberal-Conservative","Elected (Acclamation)",0
+"Quebec",1878-09-17,"General","4","Quebec-Centre","Malouin, Jacques","Man","Lawyer","Independent","Elected",1001
+"Quebec",1878-09-17,"General","4","Quebec-Centre","Ross, James Gibb","Man",NA,"Unknown","Defeated",782
+"Quebec",1878-09-17,"General","4","Richelieu","Massue, Louis Huet","Man","Farmer","Liberal-Conservative","Elected",1227
+"Quebec",1878-09-17,"General","4","Richelieu","Barthe, Georges Isidore","Man","Lawyer","Independent Conservative","Defeated",1117
+"Quebec",1878-09-17,"General","4","Richmond--Wolfe","Ives, William Bullock","Man","Businessman","Conservative (1867-1942)","Elected",1684
+"Quebec",1878-09-17,"General","4","Richmond--Wolfe","Aylmer, Henry","Man","Lawyer","Liberal Party of Canada","Defeated",1069
+"Quebec",1878-09-17,"General","4","Rimouski","Fiset, Jean-Baptiste Romuald","Man","Physician","Liberal Party of Canada","Elected",2003
+"Quebec",1878-09-17,"General","4","Rimouski","Langevin, Hector-Louis","Man","Lawyer","Conservative (1867-1942)","Defeated",1554
+"Quebec",1878-09-17,"General","4","Rouville","Gigault, Georges Auguste","Man","Notary","Conservative (1867-1942)","Elected",1073
+"Quebec",1878-09-17,"General","4","Rouville","Cheval dit St-Jacques, Guillaume","Man","Merchant","Liberal Party of Canada","Defeated",1038
+"Quebec",1878-09-17,"General","4","Saint Maurice","Desaulniers, Louis-Léon Lesieur","Man","Physician","Conservative (1867-1942)","Elected",811
+"Quebec",1878-09-17,"General","4","Saint Maurice","REMINGTON, S.J.","Man",NA,"Unknown","Defeated",731
+"Quebec",1878-09-17,"General","4","Shefford","Huntington, Lucius Seth","Man","Lawyer","Liberal Party of Canada","Elected",1414
+"Quebec",1878-09-17,"General","4","Shefford","NICOL, R.","Man",NA,"Unknown","Defeated",1186
+"Quebec",1878-09-17,"General","4","Shefford","Auger, Michel","Man",NA,"Unknown","Defeated",272
+"Quebec",1878-09-17,"General","4","Sherbrooke (Town of)","Brooks, Edward Towle","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Quebec",1878-09-17,"General","4","Soulanges","Lantier, Jacques Philippe","Man","Shopkeeper","Conservative (1867-1942)","Elected",852
+"Quebec",1878-09-17,"General","4","Soulanges","MASSON, L.H.","Man",NA,"Unknown","Defeated",325
+"Quebec",1878-09-17,"General","4","St. Hyacinthe","Tellier, Louis","Man","Lawyer","Conservative (1867-1942)","Elected",1181
+"Quebec",1878-09-17,"General","4","St. Hyacinthe","Mercier, Honoré","Man",NA,"Unknown","Defeated",1175
+"Quebec",1878-09-17,"General","4","St. John's","Bourassa, François","Man","Militia captain","Liberal Party of Canada","Elected",780
+"Quebec",1878-09-17,"General","4","St. John's","LOUPRET, Chs.","Man",NA,"Unknown","Defeated",583
+"Quebec",1878-09-17,"General","4","Stanstead","Colby, Charles Carroll","Man","Lawyer","Liberal-Conservative","Elected",1492
+"Quebec",1878-09-17,"General","4","Stanstead","JOHNSON, E.R.","Man",NA,"Unknown","Defeated",738
+"Quebec",1878-09-17,"General","4","Témiscouata","Grandbois, Paul Étienne","Man","Physician","Conservative (1867-1942)","Elected",1079
+"Quebec",1878-09-17,"General","4","Témiscouata","POULIOT, A.","Man",NA,"Unknown","Defeated",952
+"Quebec",1878-09-17,"General","4","Terrebonne","Masson, Louis-François-Rodrigue","Man","Lawyer","Conservative (1867-1942)","Elected",1194
+"Quebec",1878-09-17,"General","4","Terrebonne","LONGPRÉ, A.-B.","Man",NA,"Unknown","Defeated",181
+"Quebec",1878-09-17,"General","4","Three Rivers","Boucher de Niverville, Louis-Charles","Man","Lawyer","Conservative (1867-1942)","Elected",277
+"Quebec",1878-09-17,"General","4","Three Rivers","Genest,","Man",NA,"Unknown","Defeated",143
+"Quebec",1878-09-17,"General","4","Two Mountains","Daoust, Jean-Baptiste","Man","Farmer","Conservative (1867-1942)","Elected",797
+"Quebec",1878-09-17,"General","4","Two Mountains","CHAGNON, J.A.","Man",NA,"Unknown","Defeated",11
+"Quebec",1878-09-17,"General","4","Vaudreuil","Mongenais, Jean Baptiste","Man","Merchant","Conservative (1867-1942)","Elected",764
+"Quebec",1878-09-17,"General","4","Vaudreuil","Harwood, Robert William","Man","Farmer","Liberal-Conservative","Defeated",702
+"Quebec",1878-09-17,"General","4","Verchères","Geoffrion, Félix","Man","Notary","Liberal Party of Canada","Elected",935
+"Quebec",1878-09-17,"General","4","Verchères","DUCHARME, M.E.","Man",NA,"Unknown","Defeated",880
+"Quebec",1878-09-17,"General","4","Yamaska","Gill, Charles-Ignace","Man","Lawyer","Conservative (1867-1942)","Elected",1029
+"Quebec",1878-09-17,"General","4","Yamaska","GOUIN, F.","Man",NA,"Unknown","Defeated",706
