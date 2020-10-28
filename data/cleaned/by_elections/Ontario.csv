@@ -1,19 +1,19 @@
 "Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Bawa, Baljit",NA,NA,"People's Party of Canada",NA,0
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Brian, Chang","Man",NA,"New Democratic Party",NA,0
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Cappelletti, Dwayne","Man",NA,"Free Party Canada",NA,0
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Clarke, Kevin","Man",NA,"Independent",NA,0
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Gauri Sharma, Benjamin","Man",NA,"Conservative Party of Canada",NA,0
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Ien, Marci","Woman",NA,"Liberal Party of Canada",NA,0
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Komar, Keith","Man",NA,"Libertarian Party of Canada",NA,0
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Paul, Annamie","Woman",NA,"Green Party of Canada",NA,0
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Znoneofthe, Above",NA,NA,"No affiliation to a recognised party",NA,0
-"Ontario",2020-10-26,"By-Election","43","York Centre","Bernier, Maxime","Man",NA,"People's Party of Canada",NA,0
-"Ontario",2020-10-26,"By-Election","43","York Centre","Saks , Ya'ara","Woman",NA,"Liberal Party of Canada",NA,0
-"Ontario",2020-10-26,"By-Election","43","York Centre","Tiangson, Julius","Man",NA,"Conservative Party of Canada",NA,0
-"Ontario",2020-10-26,"By-Election","43","York Centre","Turmel, John The Engineer","Man",NA,"Independent",NA,0
-"Ontario",2020-10-26,"By-Election","43","York Centre","Vásquez Jiménez , Andrea","Woman",NA,"New Democratic Party",NA,0
-"Ontario",2020-10-26,"By-Election","43","York Centre","Zavarella, Sasha","Woman",NA,"Green Party of Canada",NA,0
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Ien, Marci","Woman",NA,"Liberal Party of Canada","Elected",10579
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Paul, Annamie","Woman",NA,"Green Party of Canada","Defeated",8250
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Brian, Chang","Man",NA,"New Democratic Party","Defeated",4280
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Gauri Sharma, Benjamin","Man",NA,"Conservative Party of Canada","Defeated",1435
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Bawa, Baljit","Man",NA,"People's Party of Canada","Defeated",271
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Komar, Keith","Man",NA,"Libertarian Party of Canada","Defeated",135
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Clarke, Kevin","Man",NA,"Independent","Defeated",123
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Cappelletti, Dwayne","Man",NA,"Free Party Canada","Defeated",74
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Znoneofthe, Above","Man",NA,"No affiliation to a recognised party","Defeated",56
+"Ontario",2020-10-26,"By-Election","43","York Centre","Saks, Ya'ara","Woman",NA,"Liberal Party of Canada","Elected",8253
+"Ontario",2020-10-26,"By-Election","43","York Centre","Tiangson, Julius","Man",NA,"Conservative Party of Canada","Defeated",7552
+"Ontario",2020-10-26,"By-Election","43","York Centre","Vásquez Jiménez , Andrea","Woman",NA,"New Democratic Party","Defeated",1046
+"Ontario",2020-10-26,"By-Election","43","York Centre","Bernier, Maxime","Man",NA,"People's Party of Canada","Defeated",642
+"Ontario",2020-10-26,"By-Election","43","York Centre","Zavarella, Sasha","Woman",NA,"Green Party of Canada","Defeated",461
+"Ontario",2020-10-26,"By-Election","43","York Centre","Turmel, John The Engineer","Man",NA,"Independent","Defeated",104
 "Ontario",2017-04-03,"By-Election","42","Markham--Thornhill","Ng, Mary","Woman","Political advisor","Liberal Party of Canada","Elected",9881
 "Ontario",2017-04-03,"By-Election","42","Markham--Thornhill","Paranchothy, Ragavan","Man","Broadcaster","Conservative Party of Canada","Defeated",7501
 "Ontario",2017-04-03,"By-Election","42","Markham--Thornhill","Hines, Gregory","Man","Upport worker/business owner","New Democratic Party","Defeated",671
