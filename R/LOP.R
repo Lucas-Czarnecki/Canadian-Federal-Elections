@@ -4,46 +4,50 @@
 
 # Source: https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections
 
-# ---- Raw Data / Packages  ----
+# ---- Import Data & Packages  ----
 
 # Load packages. 
 if(!require(pacman)) install.packages("pacman")
 pacman::p_load(readxl, tidyverse, zoo)
 
 # Import raw data from Library of Parliament (LOP). Data were manually exported from the LOP as an excel spreadsheet. Only one filter/selection was applied; `Column Chooser` to remove the `picture` column. 
-FED_1867_present <- read_excel("~/GitHub/Canadian-Federal-Elections/data/raw/FED_1867-present_elections_(Library_of_Parliament).xlsx")
+FED_1867_present <- read_excel("~/GitHub/Canadian-Federal-Elections/data/raw/electionsCandidates.xlsx")
 
-# Rename columns using a program-friendly format.
+# Rename columns using a program-friendly format. Identify the column `picture` as temporary. Online this column features a photo of the candidate. This column will be removed once other data are extracted. 
 FED_1867_present <- FED_1867_present %>% 
   rename(Province_Territory = `Province or Territory`,
-         Political_Affiliation = `Political Affiliation`)
+         Political_Affiliation = `Political Affiliation`,
+         Temp = Picture)
 
-# ---- Clean Data / Create New Variables ----
+# Replace NAs from temp column with `Province_Territory`.
+FED_1867_present$Temp <- ifelse(is.na(FED_1867_present$Temp), FED_1867_present$Province_Territory, FED_1867_present$Temp) 
+
+# ---- Clean Data  ----
 
 # 1. Create variable `Parliament`.
 FED_1867_present <- FED_1867_present %>% 
-  separate(Province_Territory, into = c("Province_Territory", "Parliament"), sep = "Parliament: ") 
+  separate(Temp, into = c("Temp", "Parliament"), sep = "Parliament: ") 
 
 # Replace missing values with non-NA prior.
 FED_1867_present$Parliament <- na.locf(FED_1867_present$Parliament)
 
 # Remove blank rows.
-FED_1867_present <- subset(FED_1867_present, Province_Territory != "")
+FED_1867_present <- subset(FED_1867_present, Temp != "")
 
 # 2. Create variable `Type`
 FED_1867_present <- FED_1867_present %>% 
-  separate(Province_Territory, into = c("Province_Territory", "Election_Type"), sep = "Type of Election: ") 
+  separate(Temp, into = c("Temp", "Election_Type"), sep = "Type of Election: ") 
 
 # Replace missing values with non-NA prior.
 FED_1867_present$Election_Type <- na.locf(FED_1867_present$Election_Type)
 
 # Remove blank rows.
-FED_1867_present <- subset(FED_1867_present, Province_Territory != "")
+FED_1867_present <- subset(FED_1867_present, Temp != "")
 
 # 3. Create variable `Date`.
 FED_1867_present <- FED_1867_present %>% 
-  separate(Province_Territory, into = c("Province_Territory", "Election_Date"), sep = "Date of Election: ") 
-  
+  separate(Temp, into = c("Temp", "Election_Date"), sep = "Date of Election: ") 
+
 # Convert to date format.
 FED_1867_present$Election_Date <- as.Date(FED_1867_present$Election_Date)
 
@@ -51,7 +55,14 @@ FED_1867_present$Election_Date <- as.Date(FED_1867_present$Election_Date)
 FED_1867_present$Election_Date <- na.locf(FED_1867_present$Election_Date)
 
 # Remove blank rows.
-FED_1867_present <- subset(FED_1867_present, Province_Territory != "")
+FED_1867_present <- subset(FED_1867_present, Temp != "")
+
+# 4. Remove `Temp` column.
+FED_1867_present$Temp <- NULL
+
+# 5. Organize order of columns.
+FED_1867_present <- FED_1867_present %>% 
+  select("Province_Territory", "Election_Date", "Election_Type", "Parliament", "Constituency", "Candidate", "Gender", "Occupation", "Political_Affiliation", "Result","Votes")
 
 # ---- Additional Data Processing ----
 
