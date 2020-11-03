@@ -12,9 +12,9 @@ Data from the LOP consists of candidate-level vote totals for all individuals wh
 
 ## Cleaned Data
 
-This repository processes the excel formatted data from the LOP into formats that are more convenient for social scientific research. More specifically, the cleaned data wrangles candidate-level vote totals into long-formatted .csv files and a master .Rds file for R-users. The cleaned data also features modified variables that help facilitate data exploration and analysis. You will find the modified data and more information on the variables in [this folder](https://github.com/Lucas-Czarnecki/Canadian-Federal-Elections/tree/main/data/cleaned).
+This repository processes the excel formatted data from the LOP into formats that are more convenient for social scientific research. More specifically, the cleaned data wrangles candidate-level election results into long-formatted .csv files and a master .Rds file for R-users. The cleaned data also features modified variables that help facilitate data exploration and analysis. You will find the modified data and more information on the variables in [this folder](https://github.com/Lucas-Czarnecki/Canadian-Federal-Elections/tree/main/data/cleaned).
 
-The script used to process the raw data can be found in the folder, [R](https://github.com/Lucas-Czarnecki/Canadian-Federal-Elections/tree/main/R).  
+The scripts used to process the raw data can be found in the folder, [R](https://github.com/Lucas-Czarnecki/Canadian-Federal-Elections/tree/main/R).  
 
 ## Credit and Copyright
 
