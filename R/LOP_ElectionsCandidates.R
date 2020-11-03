@@ -1,5 +1,7 @@
 # ==== Canadian Federal Election Data from the Library of Parliament ====
 
+# Author: Lucas Czarnecki
+
 # Description: This script was written to transform available federal election results (for general and by-elections) housed on the Library of Parliament's public database into formats that are easier for researchers to read and analyze. The script transforms messy excel data into long-formatted file(s) - available in csv and Rds formats. 
 
 # Source: https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections

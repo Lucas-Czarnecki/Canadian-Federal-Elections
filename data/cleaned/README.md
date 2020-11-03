@@ -1,12 +1,16 @@
 # The Data 
 
-Data are organized across three folders. Users who want to work with the entire data set will find the most relevant files in the `master` folder. This folder contains the entire cleaned LOP data set as either a .csv or .Rds file. 
+Data are organized across three main folders (i.e., `by-elections`, `general-elections`, and `master`) as well as a `supplementary` folder. The first three folders contain election results from Parlinfo's [Elections and Candidates](https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections) data set while the `supplementary` folder contains supplementary data from Parlinfo's [Ridings](https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Ridings) data set.
 
-Folders `by-elections` and `general-elections` separate data according to `Election_Type`. The former organizes by-elections according to province or territory with each file containing every by-election that took place within that area. The latter saves results on every general election by election date. 
+Users who want to work with the entire data set of election results (i.e., Elections and Candidates) will find the most relevant files in the `master` folder. This folder contains cleaned election results from 1867 to the present within a single .csv or .Rds file. 
 
-## Variables 
+Folders `by-elections` and `general-elections` separate data according to `Election_Type`. The former organizes by-elections according to `Province_Territory` with each file containing every by-election that took place within a given province or territory. The latter saves results on every general election by `Election_Date`.
 
-The data are candidate-level vote totals where each row pertains to the total votes that a candidate received in a given election. The following variables are available:
+The folder `supplementary` records the name, start date, and end date of every federal riding from 1867 to the present represented in the House of Commons. Users will find the data in .csv and .Rds format. 
+
+## Variables: Election Results
+
+The data found in `by-elections`, `general-elections`, and `master` are candidate-level vote totals where each row pertains to the total votes that a candidate received in a given election. The following variables are available:
 
 | Variable      | Description     |
 | :---        | :---- |
