@@ -77,6 +77,11 @@ FED_1867_present$Gender <- as.factor(FED_1867_present$Gender)
 FED_1867_present$Political_Affiliation <- as.factor(FED_1867_present$Political_Affiliation)
 FED_1867_present$Result <- as.factor(FED_1867_present$Result)
 
+# Clean candidate names for consistency. Some last names are uppercase while others are not. Apply capitalization only to the first letter of each name. 
+# FED_1867_present$Candidate <- stringr::str_to_title(FED_1867_present$Candidate, locale = "en")
+
+# Note: While the above command provides a considerable improvement to the data, some names are adversely effected (e.g., "McDaniel" becomes "Mcdaniel" and "McIntyre" becomes "Mcintyre"). Addressing these limitations may be worthwhile. 
+
 # ---- Export Data ----
 
 # 1. Create Master File.
