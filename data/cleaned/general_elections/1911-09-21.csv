@@ -1,462 +1,462 @@
-"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Alberta",1911-09-21,"General","12","Calgary","Bennett, Richard Bedford","Man","Lawyer","Conservative (1867-1942)","Elected",7671
-"Alberta",1911-09-21,"General","12","Calgary","VAN WART, Isaac Stephen Gerow","Man","n/a","Liberal Party of Canada","Defeated",4805
-"Alberta",1911-09-21,"General","12","Calgary","MASTERS, Arthur","Man","n/a","Unknown","Defeated",716
-"Alberta",1911-09-21,"General","12","Edmonton","Oliver, Frank","Man","Publisher","Liberal Party of Canada","Elected",7070
-"Alberta",1911-09-21,"General","12","Edmonton","Griesbach, William Antrobus","Man",NA,"Conservative (1867-1942)","Defeated",4832
-"Alberta",1911-09-21,"General","12","Edmonton","Farmilo, Alfred","Man",NA,"Independent","Defeated",555
-"Alberta",1911-09-21,"General","12","Macleod","Warnock, David","Man","Veterinary surgeon","Liberal Party of Canada","Elected",3660
-"Alberta",1911-09-21,"General","12","Macleod","Herron, John","Man","Rancher","Liberal-Conservative","Defeated",2841
-"Alberta",1911-09-21,"General","12","Macleod","FULCHER, Edmund","Man",NA,"Independent","Defeated",902
-"Alberta",1911-09-21,"General","12","Medicine Hat","Buchanan, William Ashbury","Man","Journalist","Liberal Party of Canada","Elected",6330
-"Alberta",1911-09-21,"General","12","Medicine Hat","Magrath, Charles Alexander","Man","Surveyor","Conservative (1867-1942)","Defeated",4875
-"Alberta",1911-09-21,"General","12","Red Deer","Clark, Michael","Man","Physician","Liberal Party of Canada","Elected",6711
-"Alberta",1911-09-21,"General","12","Red Deer","MCGILLIVRAY, Alexander Andrew","Man",NA,"Conservative (1867-1942)","Defeated",3882
-"Alberta",1911-09-21,"General","12","Strathcona","Douglas, James McCrie","Man","Businessman","Liberal Party of Canada","Elected",5396
-"Alberta",1911-09-21,"General","12","Strathcona","CAMPBELL, George Benjamin","Man",NA,"Conservative (1867-1942)","Defeated",2872
-"Alberta",1911-09-21,"General","12","Victoria","White, William Henry","Man","Farmer","Liberal Party of Canada","Elected",3225
-"Alberta",1911-09-21,"General","12","Victoria","MORRISON, Frederick Augustus","Man",NA,"Conservative (1867-1942)","Defeated",2702
-"Alberta",1911-09-21,"General","12","Victoria","JACKMAN, William James","Man",NA,"Independent","Defeated",719
-"British Columbia",1911-09-21,"General","12","Comox--Atlin","Clements, Herbert Sylvester","Man","Estate agent","Conservative (1867-1942)","Elected",1810
-"British Columbia",1911-09-21,"General","12","Comox--Atlin","Ross, Duncan","Man",NA,"Liberal Party of Canada","Defeated",1622
-"British Columbia",1911-09-21,"General","12","Kootenay","Goodeve, Arthur Samuel","Man","Pharmacist","Conservative (1867-1942)","Elected",4113
-"British Columbia",1911-09-21,"General","12","Kootenay","King, James Horace","Man",NA,"Liberal Party of Canada","Defeated",3039
-"British Columbia",1911-09-21,"General","12","Nanaimo","Shepherd, Francis Henry","Man","Engineer","Conservative (1867-1942)","Elected",2438
-"British Columbia",1911-09-21,"General","12","Nanaimo","Smith, Ralph","Man","Miner","Liberal Party of Canada","Defeated",1750
-"British Columbia",1911-09-21,"General","12","New Westminster","Taylor, James Davis","Man","Reporter","Conservative (1867-1942)","Elected",3542
-"British Columbia",1911-09-21,"General","12","New Westminster","BAKER, Stan","Man",NA,"Liberal Party of Canada","Defeated",1849
-"British Columbia",1911-09-21,"General","12","Vancouver City","Stevens, Henry Herbert","Man","Grocer","Conservative (1867-1942)","Elected",6902
-"British Columbia",1911-09-21,"General","12","Vancouver City","SENKLER, John Harold","Man",NA,"Liberal Party of Canada","Defeated",3796
-"British Columbia",1911-09-21,"General","12","Vancouver City","KINGSLEY, Eugene Thorton","Man",NA,"Socialist","Defeated",1056
-"British Columbia",1911-09-21,"General","12","Victoria City","Barnard, George Henry","Man","Lawyer","Conservative (1867-1942)","Elected",2816
-"British Columbia",1911-09-21,"General","12","Victoria City","Templeman, William","Man","Editor","Liberal Party of Canada","Defeated",2332
-"British Columbia",1911-09-21,"General","12","Victoria City","BROWN, Gordon","Man",NA,"Socialist","Defeated",290
-"British Columbia",1911-09-21,"General","12","Yale--Cariboo","Burrell, Martin","Man","Fruit grower","Conservative (1867-1942)","Elected",3851
-"British Columbia",1911-09-21,"General","12","Yale--Cariboo","MACDONALD, Kenneth Cattanach","Man",NA,"Liberal Party of Canada","Defeated",1962
-"British Columbia",1911-09-21,"General","12","Yale--Cariboo","JOHNSON, James Foulds","Man",NA,"Socialist","Defeated",246
-"Manitoba",1911-09-21,"General","12","Brandon","Aikins, James Albert Manning","Man","Lawyer","Conservative (1867-1942)","Elected",4436
-"Manitoba",1911-09-21,"General","12","Brandon","HILL, Alfred Edward","Man",NA,"Liberal Party of Canada","Defeated",3570
-"Manitoba",1911-09-21,"General","12","Dauphin","Cruise, Robert","Man","Farmer","Liberal Party of Canada","Elected",3674
-"Manitoba",1911-09-21,"General","12","Dauphin","Campbell, Glenlyon","Man","Trapper and rancher","Conservative (1867-1942)","Defeated",2926
-"Manitoba",1911-09-21,"General","12","Lisgar","Sharpe, William Henry","Man","General merchant","Conservative (1867-1942)","Elected",1692
-"Manitoba",1911-09-21,"General","12","Lisgar","GREENWAY, John Franklin","Man",NA,"Liberal Party of Canada","Defeated",1672
-"Manitoba",1911-09-21,"General","12","Macdonald","Staples, William D.","Man","Farmer","Conservative (1867-1942)","Elected",2956
-"Manitoba",1911-09-21,"General","12","Macdonald","WOODS, James Smith","Man",NA,"Liberal Party of Canada","Defeated",2795
-"Manitoba",1911-09-21,"General","12","Marquette","Roche, William James","Man","Physician","Conservative (1867-1942)","Elected",3409
-"Manitoba",1911-09-21,"General","12","Marquette","GRIERSON, George Allison","Man",NA,"Liberal Party of Canada","Defeated",3283
-"Manitoba",1911-09-21,"General","12","Portage la Prairie","Meighen, Arthur","Man","Lawyer","Conservative (1867-1942)","Elected",3267
-"Manitoba",1911-09-21,"General","12","Portage la Prairie","PATERSON, Robert","Man",NA,"Liberal Party of Canada","Defeated",2592
-"Manitoba",1911-09-21,"General","12","Provencher","Molloy, John Patrick","Man","Farmer","Liberal Party of Canada","Elected",3049
-"Manitoba",1911-09-21,"General","12","Provencher","BLEAU, Joseph Alfred Féréol","Man",NA,"Conservative (1867-1942)","Defeated",2668
-"Manitoba",1911-09-21,"General","12","Selkirk","Bradbury, George Henry","Man","Brick manufacturer","Conservative (1867-1942)","Elected",3098
-"Manitoba",1911-09-21,"General","12","Selkirk","BREDIN, Albert Ryerson","Man",NA,"Liberal Party of Canada","Defeated",3011
-"Manitoba",1911-09-21,"General","12","Selkirk","HOLOWACKY, Wasil","Man",NA,"Independent","Defeated",234
-"Manitoba",1911-09-21,"General","12","Souris","Schaffner, Frederick Laurence","Man","Physician","Conservative (1867-1942)","Elected",3150
-"Manitoba",1911-09-21,"General","12","Souris","Damerla, Dipika","Man",NA,"Liberal Party of Canada","Defeated",3086
-"Manitoba",1911-09-21,"General","12","Winnipeg","Haggart, Alexander","Man","Lawyer","Conservative (1867-1942)","Elected",12754
-"Manitoba",1911-09-21,"General","12","Winnipeg","ASHDOWN, James Henry","Man",NA,"Liberal Party of Canada","Defeated",8049
-"Manitoba",1911-09-21,"General","12","Winnipeg","RIGG, Richard Arthur","Man",NA,"Socialist","Defeated",2325
-"New Brunswick",1911-09-21,"General","12","Carleton","Carvell, Frank Broadstreet","Man","Lawyer","Liberal Party of Canada","Elected",2614
-"New Brunswick",1911-09-21,"General","12","Carleton","Smith, Benjamin Franklin","Man",NA,"Conservative (1867-1942)","Defeated",2603
-"New Brunswick",1911-09-21,"General","12","Charlotte","Hartt, Thomas Aaron","Man","Teacher","Conservative (1867-1942)","Elected",2685
-"New Brunswick",1911-09-21,"General","12","Charlotte","Todd, William Frederick","Man","Wholesale food merchant","Liberal Party of Canada","Defeated",2489
-"New Brunswick",1911-09-21,"General","12","Gloucester","Turgeon, Onésiphore","Man","Journalist","Liberal Party of Canada","Elected",3172
-"New Brunswick",1911-09-21,"General","12","Gloucester","BURNS, Theobald Matthew","Man",NA,"Conservative (1867-1942)","Defeated",2180
-"New Brunswick",1911-09-21,"General","12","Kent","Robidoux, Ferdinand Joseph","Man","Lawyer","Conservative (1867-1942)","Elected",2334
-"New Brunswick",1911-09-21,"General","12","Kent","Léger, Auguste Théophile","Man",NA,"Liberal Party of Canada","Defeated",2129
-"New Brunswick",1911-09-21,"General","12","King's and Albert","Fowler, George William","Man","Lawyer","Conservative (1867-1942)","Elected",3734
-"New Brunswick",1911-09-21,"General","12","King's and Albert","McAlister, Duncan Hamilton","Man","Physician","Liberal Party of Canada","Defeated",3402
-"New Brunswick",1911-09-21,"General","12","Northumberland","Loggie, William Stewart","Man","Merchant","Liberal Party of Canada","Elected",3128
-"New Brunswick",1911-09-21,"General","12","Northumberland","MORRISON, Donald","Man",NA,"Conservative (1867-1942)","Defeated",2736
-"New Brunswick",1911-09-21,"General","12","Restigouche","Reid, James","Man","General merchant","Liberal Party of Canada","Elected",1512
-"New Brunswick",1911-09-21,"General","12","Restigouche","MONTGOMERY, William Scott","Man",NA,"Conservative (1867-1942)","Defeated",1170
-"New Brunswick",1911-09-21,"General","12","St. John (City and County of)","Daniel, John Waterhouse","Man","Physician","Conservative (1867-1942)","Elected",5491
-"New Brunswick",1911-09-21,"General","12","St. John (City and County of)","LOWELL, James","Man",NA,"Liberal Party of Canada","Defeated",5381
-"New Brunswick",1911-09-21,"General","12","St. John (City of )","Pugsley, William","Man","Lawyer","Liberal Party of Canada","Elected",4360
-"New Brunswick",1911-09-21,"General","12","St. John (City of )","Powell, Henry Absalom","Man",NA,"Conservative (1867-1942)","Defeated",4295
-"New Brunswick",1911-09-21,"General","12","Sunbury--Queen's","McLean, Hugh Havelock","Man","Lawyer","Liberal Party of Canada","Elected",2020
-"New Brunswick",1911-09-21,"General","12","Sunbury--Queen's","SMITH, Luther Benjamin","Man",NA,"Conservative (1867-1942)","Defeated",2010
-"New Brunswick",1911-09-21,"General","12","Victoria","Michaud, Pius","Man","Lawyer","Liberal Party of Canada","Elected",3059
-"New Brunswick",1911-09-21,"General","12","Victoria","Cormier, Maximilien Dominic (Maxime)","Man",NA,"Conservative (1867-1942)","Defeated",1111
-"New Brunswick",1911-09-21,"General","12","Westmorland","Emmerson, Henry Robert","Man","Lawyer","Liberal Party of Canada","Elected",4452
-"New Brunswick",1911-09-21,"General","12","Westmorland","SIDDALL, Medley Godfrey","Man",NA,"Unknown","Defeated",4388
-"New Brunswick",1911-09-21,"General","12","York","Crocket, Oswald Smith","Man","Journalist","Conservative (1867-1942)","Elected",4143
-"New Brunswick",1911-09-21,"General","12","York","ATHERTON, Alfred Bennison","Man",NA,"Unknown","Defeated",2474
-"Nova Scotia",1911-09-21,"General","12","Annapolis","Davidson, Avard Longley","Man","Lawyer","Conservative (1867-1942)","Elected",2131
-"Nova Scotia",1911-09-21,"General","12","Annapolis","Pickup, Samuel Walter Willet","Man",NA,"Liberal Party of Canada","Defeated",2118
-"Nova Scotia",1911-09-21,"General","12","Antigonish","Chisholm, William","Man","Lawyer","Liberal Party of Canada","Elected",1468
-"Nova Scotia",1911-09-21,"General","12","Antigonish","CAMERON, John J.","Man",NA,"Conservative (1867-1942)","Defeated",987
-"Nova Scotia",1911-09-21,"General","12","Cape Breton South","Carroll, William F.","Man","Lawyer","Liberal Party of Canada","Elected",5069
-"Nova Scotia",1911-09-21,"General","12","Cape Breton South","Maddin, James William","Man","Lawyer","Liberal Party of Canada","Defeated",4965
-"Nova Scotia",1911-09-21,"General","12","Cape Breton South","MCKINNON, Alexander","Man",NA,"Independent","Defeated",223
-"Nova Scotia",1911-09-21,"General","12","Colchester","Stanfield, John","Man","Manufacturer","Conservative (1867-1942)","Elected",2847
-"Nova Scotia",1911-09-21,"General","12","Colchester","MCLELLAN, Samuel David","Man",NA,"Liberal Party of Canada","Defeated",2203
-"Nova Scotia",1911-09-21,"General","12","Cumberland","Rhodes, Edgar Nelson","Man","Lawyer","Conservative (1867-1942)","Elected",4780
-"Nova Scotia",1911-09-21,"General","12","Cumberland","Logan, Hance James","Man","Lawyer","Liberal Party of Canada","Defeated",4442
-"Nova Scotia",1911-09-21,"General","12","Digby","Jameson, Clarence","Man","Town clerk","Conservative (1867-1942)","Elected",2126
-"Nova Scotia",1911-09-21,"General","12","Digby","WALL, Allan Ellsworth","Man",NA,"Liberal Party of Canada","Defeated",1866
-"Nova Scotia",1911-09-21,"General","12","Guysborough","Sinclair, John Howard","Man","Lawyer","Liberal Party of Canada","Elected",2043
-"Nova Scotia",1911-09-21,"General","12","Guysborough","ROWLINGS, George Anderson Rowe","Man",NA,"Conservative (1867-1942)","Defeated",1700
-"Nova Scotia",1911-09-21,"General","12","Halifax","Borden, Robert Laird","Man","Lawyer","Conservative (1867-1942)","Elected",7040
-"Nova Scotia",1911-09-21,"General","12","Halifax","Maclean, Alexander Kenneth","Man","Lawyer","Liberal Party of Canada","Elected",6946
-"Nova Scotia",1911-09-21,"General","12","Halifax","Blackadder, Edward","Man","Physician","Liberal Party of Canada","Defeated",6879
-"Nova Scotia",1911-09-21,"General","12","Halifax","Crosby, Adam Brown","Man","Exporter and merchant","Conservative (1867-1942)","Defeated",6787
-"Nova Scotia",1911-09-21,"General","12","Hants","Tremain, Hadley Brown","Man","Lawyer","Conservative (1867-1942)","Elected",2191
-"Nova Scotia",1911-09-21,"General","12","Hants","Black, Judson Burpee","Man","Physician","Liberal Party of Canada","Defeated",2105
-"Nova Scotia",1911-09-21,"General","12","Inverness","Chisholm, Alexander William","Man","Physician","Liberal Party of Canada","Elected",2928
-"Nova Scotia",1911-09-21,"General","12","Inverness","GALLANT, Thomas","Man",NA,"Conservative (1867-1942)","Defeated",1920
-"Nova Scotia",1911-09-21,"General","12","Inverness","MACECHEN, Frank A.","Man",NA,"Independent","Defeated",128
-"Nova Scotia",1911-09-21,"General","12","Kings","Foster, Arthur de Witt","Man","Teacher","Conservative (1867-1942)","Elected",2474
-"Nova Scotia",1911-09-21,"General","12","Kings","Borden, Frederick William","Man","Physician","Liberal Party of Canada","Defeated",2323
-"Nova Scotia",1911-09-21,"General","12","Lunenburg","Stewart, Dugald","Man","Physician","Conservative (1867-1942)","Elected",3645
-"Nova Scotia",1911-09-21,"General","12","Lunenburg","Sperry, John Drew","Man","Merchant","Liberal Party of Canada","Defeated",3237
-"Nova Scotia",1911-09-21,"General","12","North Cape Breton and Victoria","McKenzie, Daniel Duncan","Man","Lawyer","Liberal Party of Canada","Elected",3418
-"Nova Scotia",1911-09-21,"General","12","North Cape Breton and Victoria","MACCORMACK, John","Man","Merchant","Conservative (1867-1942)","Defeated",2803
-"Nova Scotia",1911-09-21,"General","12","Pictou","Macdonald, Edward Mortimer","Man","Lawyer","Liberal Party of Canada","Elected",4221
-"Nova Scotia",1911-09-21,"General","12","Pictou","Bell, Adam Carr","Man","Merchant","Conservative (1867-1942)","Defeated",3937
-"Nova Scotia",1911-09-21,"General","12","Richmond","Kyte, George William","Man","Lawyer","Liberal Party of Canada","Elected",1268
-"Nova Scotia",1911-09-21,"General","12","Richmond","Gillies, Joseph Alexander","Man","Lawyer","Conservative (1867-1942)","Defeated",983
-"Nova Scotia",1911-09-21,"General","12","Shelburne and Queen's","McCurdy, Fleming Blanchard","Man","Financier","Conservative (1867-1942)","Elected",2678
-"Nova Scotia",1911-09-21,"General","12","Shelburne and Queen's","Fielding, William Stevens","Man","Journalist","Liberal Party of Canada","Defeated",2529
-"Nova Scotia",1911-09-21,"General","12","Yarmouth","Law, Bowman Brown","Man","Merchant","Liberal Party of Canada","Elected",2399
-"Nova Scotia",1911-09-21,"General","12","Yarmouth","CROSBY, Knowles Eugene","Man",NA,"Conservative (1867-1942)","Defeated",1215
-"Ontario",1911-09-21,"General","12","Algoma East","Smyth, William Ross","Man","Merchant and lumberman","Conservative (1867-1942)","Elected",3898
-"Ontario",1911-09-21,"General","12","Algoma East","REGAN, John Lionel","Man",NA,"Liberal Party of Canada","Defeated",3716
-"Ontario",1911-09-21,"General","12","Algoma West","Boyce, Arthur Cyril","Man","Lawyer","Conservative (1867-1942)","Elected",2738
-"Ontario",1911-09-21,"General","12","Algoma West","SMITH, Charles Napier","Man",NA,"Liberal Party of Canada","Defeated",2180
-"Ontario",1911-09-21,"General","12","Brant","Fisher, John Henry","Man","Merchant","Conservative (1867-1942)","Elected",1795
-"Ontario",1911-09-21,"General","12","Brant","Paterson, William","Man","Confectionery manufacturer","Liberal Party of Canada","Defeated",1666
-"Ontario",1911-09-21,"General","12","Brantford","Cockshutt, William Foster","Man","Manufacturer","Conservative (1867-1942)","Elected",3159
-"Ontario",1911-09-21,"General","12","Brantford","PRESTON, Thomas Hiram","Man",NA,"Liberal Party of Canada","Defeated",2440
-"Ontario",1911-09-21,"General","12","Brockville","Webster, John","Man","Produce merchant","Conservative (1867-1942)","Elected",2251
-"Ontario",1911-09-21,"General","12","Brockville","Graham, George Perry","Man","Newspaperman","Liberal Party of Canada","Defeated",2140
-"Ontario",1911-09-21,"General","12","Bruce North","Clark, Hugh","Man","Editor","Conservative (1867-1942)","Elected",2526
-"Ontario",1911-09-21,"General","12","Bruce North","Tolmie, John","Man","Salt manufacturer","Liberal Party of Canada","Defeated",2444
-"Ontario",1911-09-21,"General","12","Bruce South","Donnelly, James J.","Man","Company president","Conservative (1867-1942)","Elected",2878
-"Ontario",1911-09-21,"General","12","Bruce South","Truax, Reuben Eldridge","Man","Sawmill owner and operator","Liberal Party of Canada","Defeated",2775
-"Ontario",1911-09-21,"General","12","Carleton","Kidd, Edward","Man","Farmer and cheese manufacturer","Conservative (1867-1942)","Elected",2616
-"Ontario",1911-09-21,"General","12","Carleton","MACLEAN, Donald Hector","Man",NA,"Liberal Party of Canada","Defeated",1339
-"Ontario",1911-09-21,"General","12","Dufferin","Best, John","Man","Farmer","Conservative (1867-1942)","Elected",2496
-"Ontario",1911-09-21,"General","12","Dufferin","BROWN, David Bent","Man",NA,"Liberal Party of Canada","Defeated",1037
-"Ontario",1911-09-21,"General","12","Dundas","Broder, Andrew","Man","Farmer","Conservative (1867-1942)","Elected",2262
-"Ontario",1911-09-21,"General","12","Dundas","CAMPBELL, John Alexander","Man",NA,"Liberal Party of Canada","Defeated",1618
-"Ontario",1911-09-21,"General","12","Durham","Thornton, Charles Jonas","Man","Farmer","Conservative (1867-1942)","Elected",3291
-"Ontario",1911-09-21,"General","12","Durham","KELLY, Thomas Alexander","Man",NA,"Liberal Party of Canada","Defeated",2567
-"Ontario",1911-09-21,"General","12","Elgin East","Marshall, David","Man","Businessman","Conservative (1867-1942)","Elected",2313
-"Ontario",1911-09-21,"General","12","Elgin East","MILLER, Francis Hincks","Man",NA,"Liberal Party of Canada","Defeated",1919
-"Ontario",1911-09-21,"General","12","Elgin West","Crothers, Thomas Wilson","Man","Lawyer","Conservative (1867-1942)","Elected",3629
-"Ontario",1911-09-21,"General","12","Elgin West","MACNISH, Donald","Man",NA,"Liberal Party of Canada","Defeated",2732
-"Ontario",1911-09-21,"General","12","Essex North","Wilcox, Oliver James","Man","Farmer","Conservative (1867-1942)","Elected",3616
-"Ontario",1911-09-21,"General","12","Essex North","DEWAR, Peter Anderson","Man",NA,"Liberal Party of Canada","Defeated",3440
-"Ontario",1911-09-21,"General","12","Essex South","Clarke, Alfred Henry","Man","Lawyer","Liberal Party of Canada","Elected",2946
-"Ontario",1911-09-21,"General","12","Essex South","PARK, William Frederick","Man",NA,"Conservative (1867-1942)","Defeated",2745
-"Ontario",1911-09-21,"General","12","Frontenac","Edwards, John Wesley","Man","Physician","Conservative (1867-1942)","Elected",2629
-"Ontario",1911-09-21,"General","12","Frontenac","FAIR, Robert Hewton","Man",NA,"Liberal Party of Canada","Defeated",1776
-"Ontario",1911-09-21,"General","12","Glengarry","McMillan, John Angus","Man","Furniture merchant","Liberal Party of Canada","Elected",2175
-"Ontario",1911-09-21,"General","12","Glengarry","MCMARTIN, Duncan","Man",NA,"Conservative (1867-1942)","Defeated",1949
-"Ontario",1911-09-21,"General","12","Grenville","Reid, John Dowsley","Man","Physician","Conservative (1867-1942)","Elected",2286
-"Ontario",1911-09-21,"General","12","Grenville","MARTIN, Samuel John","Man",NA,"Unknown","Defeated",1373
-"Ontario",1911-09-21,"General","12","Grey East","Sproule, Thomas Simpson","Man","Physician","Conservative (1867-1942)","Elected",2560
-"Ontario",1911-09-21,"General","12","Grey East","HARTMAN, Clayton Webb","Man",NA,"Liberal Party of Canada","Defeated",1475
-"Ontario",1911-09-21,"General","12","Grey North","Middlebro, William Sora","Man","Lawyer","Conservative (1867-1942)","Elected",3326
-"Ontario",1911-09-21,"General","12","Grey North","HARRISON, Frederick William","Man",NA,"Liberal Party of Canada","Defeated",2974
-"Ontario",1911-09-21,"General","12","Grey South","Ball, Robert James","Man","School teacher","Conservative (1867-1942)","Elected",2139
-"Ontario",1911-09-21,"General","12","Grey South","Miller, Henry Horton","Man","Real estate agent","Liberal Party of Canada","Defeated",2091
-"Ontario",1911-09-21,"General","12","Haldimand","Lalor, Francis Ramsey","Man","Merchant","Conservative (1867-1942)","Elected",2817
-"Ontario",1911-09-21,"General","12","Haldimand","MILLER, Robert Francis","Man",NA,"Liberal Party of Canada","Defeated",2138
-"Ontario",1911-09-21,"General","12","Halton","Henderson, David","Man","Merchant","Conservative (1867-1942)","Elected",2618
-"Ontario",1911-09-21,"General","12","Halton","SMITH, Walter Harland","Man",NA,"Liberal Party of Canada","Defeated",2199
-"Ontario",1911-09-21,"General","12","Hamilton East","Barker, Samuel","Man","Lawyer","Conservative (1867-1942)","Elected",4981
-"Ontario",1911-09-21,"General","12","Hamilton East","PEEBLES, John","Man",NA,"Liberal Party of Canada","Defeated",2406
-"Ontario",1911-09-21,"General","12","Hamilton West","Stewart, Thomas Joseph","Man","Businessman","Conservative (1867-1942)","Elected",4390
-"Ontario",1911-09-21,"General","12","Hamilton West","MCLAREN, John Inglis","Man",NA,"Liberal Party of Canada","Defeated",2570
-"Ontario",1911-09-21,"General","12","Hamilton West","DICKHOUT, Hiram","Man",NA,"Unknown","Defeated",522
-"Ontario",1911-09-21,"General","12","Hastings East","Northrup, William Barton","Man","Lawyer","Conservative (1867-1942)","Elected",2899
-"Ontario",1911-09-21,"General","12","Hastings East","CLARK, Peter Perry","Man",NA,"Liberal Party of Canada","Defeated",1833
-"Ontario",1911-09-21,"General","12","Hastings West","Porter, Edward Guss","Man","Barrister","Conservative (1867-1942)","Elected",3623
-"Ontario",1911-09-21,"General","12","Hastings West","HUBBELL, William Henry","Man",NA,"Liberal Party of Canada","Defeated",1852
-"Ontario",1911-09-21,"General","12","Huron East","Bowman, James","Man","Farmer","Conservative (1867-1942)","Elected",2020
-"Ontario",1911-09-21,"General","12","Huron East","HISLOP, Archibald","Man",NA,"Liberal Party of Canada","Defeated",1822
-"Ontario",1911-09-21,"General","12","Huron South","Merner, Jonathan Joseph","Man","Merchant","Conservative (1867-1942)","Elected",2360
-"Ontario",1911-09-21,"General","12","Huron South","McLean, Murdo Young","Man","Journalist","Liberal Party of Canada","Defeated",2246
-"Ontario",1911-09-21,"General","12","Huron West","Lewis, Edward Norman","Man","Lawyer","Conservative (1867-1942)","Elected",2024
-"Ontario",1911-09-21,"General","12","Huron West","CAMERON, Malcolm Graeme","Man",NA,"Liberal Party of Canada","Defeated",1849
-"Ontario",1911-09-21,"General","12","Kent East","Gordon, David Alexander","Man","Manufacturer","Liberal Party of Canada","Elected",2604
-"Ontario",1911-09-21,"General","12","Kent East","FRENCH, Harry James","Man",NA,"Conservative (1867-1942)","Defeated",2321
-"Ontario",1911-09-21,"General","12","Kent West","McCoig, Archibald Blake","Man","Farmer","Liberal Party of Canada","Elected",3671
-"Ontario",1911-09-21,"General","12","Kent West","STANWORTH, Ward","Man",NA,"Conservative (1867-1942)","Defeated",3605
-"Ontario",1911-09-21,"General","12","Kingston","Nickle, William Folger","Man","Lawyer","Conservative (1867-1942)","Elected",2322
-"Ontario",1911-09-21,"General","12","Kingston","MOWAT, John McDonald","Man",NA,"Liberal Party of Canada","Defeated",1977
-"Ontario",1911-09-21,"General","12","Lambton East","ARMSTRONG, Joseph Emmanuel","Man","Oil producer","Conservative (1867-1942)","Elected",2720
-"Ontario",1911-09-21,"General","12","Lambton East","FAIRBANK, Charles Oliver","Man",NA,"Liberal Party of Canada","Defeated",2226
-"Ontario",1911-09-21,"General","12","Lambton West","Pardee, Frederick Forsyth","Man","Barrister-at-law","Liberal Party of Canada","Elected",3139
-"Ontario",1911-09-21,"General","12","Lambton West","LESUEUR, Richard Esnouf","Man",NA,"Conservative (1867-1942)","Defeated",3050
-"Ontario",1911-09-21,"General","12","Lanark North","Thoburn, William","Man","Woollen manufacturer","Conservative (1867-1942)","Elected",1613
-"Ontario",1911-09-21,"General","12","Lanark North","Caldwell, Thomas Boyd","Man","Woollen manufacturer","Liberal Party of Canada","Defeated",1386
-"Ontario",1911-09-21,"General","12","Lanark South","Haggart, John Graham","Man","Mill owner","Conservative (1867-1942)","Elected",2234
-"Ontario",1911-09-21,"General","12","Lanark South","MCKIMM, George Frederick","Man",NA,"Liberal Party of Canada","Defeated",1067
-"Ontario",1911-09-21,"General","12","Leeds","Taylor, George","Man","Manufacturer","Conservative (1867-1942)","Elected",2392
-"Ontario",1911-09-21,"General","12","Leeds","CROSS, Firman","Man",NA,"Liberal Party of Canada","Defeated",1452
-"Ontario",1911-09-21,"General","12","Lennox and Addington","Paul, William James","Man","Manufacturer","Conservative (1867-1942)","Elected",2580
-"Ontario",1911-09-21,"General","12","Lennox and Addington","VROOMAN, John Perry","Man",NA,"Liberal Party of Canada","Defeated",1994
-"Ontario",1911-09-21,"General","12","Lincoln","Lancaster, Edward Arthur","Man","Lawyer","Conservative (1867-1942)","Elected",4576
-"Ontario",1911-09-21,"General","12","Lincoln","LOVELACE, Edwin John","Man","Journalist","Liberal Party of Canada","Defeated",3023
-"Ontario",1911-09-21,"General","12","London","Beattie, Thomas","Man","Businessman","Conservative (1867-1942)","Elected",5263
-"Ontario",1911-09-21,"General","12","London","MCEVOY, John Millar","Man",NA,"Unknown","Defeated",3352
-"Ontario",1911-09-21,"General","12","Middlesex East","Elson, Peter","Man","Farmer","Conservative (1867-1942)","Elected",2477
-"Ontario",1911-09-21,"General","12","Middlesex East","ROUTLEDGE, George Albert","Man",NA,"Liberal Party of Canada","Defeated",1816
-"Ontario",1911-09-21,"General","12","Middlesex North","Elliott, George Adam","Man","Farmer","Conservative (1867-1942)","Elected",1768
-"Ontario",1911-09-21,"General","12","Middlesex North","Smith, Alexander Wilson","Man","Farmer","Liberal Party of Canada","Defeated",1715
-"Ontario",1911-09-21,"General","12","Middlesex West","Ross, Duncan Campbell","Man","Lawyer","Liberal Party of Canada","Elected",1883
-"Ontario",1911-09-21,"General","12","Middlesex West","COBBAN, James","Man",NA,"Conservative (1867-1942)","Defeated",1752
-"Ontario",1911-09-21,"General","12","Muskoka","Wright, William","Man","Blacksmith","Conservative (1867-1942)","Elected",2282
-"Ontario",1911-09-21,"General","12","Muskoka","THOMAS, Geo. Henry Oakwood","Man",NA,"Liberal Party of Canada","Defeated",1262
-"Ontario",1911-09-21,"General","12","Nipissing","Gordon, George","Man","Lumber merchant","Conservative (1867-1942)","Elected",5872
-"Ontario",1911-09-21,"General","12","Nipissing","YOUNG, Alfred James","Man",NA,"Liberal Party of Canada","Defeated",5327
-"Ontario",1911-09-21,"General","12","Norfolk","Charlton, William Andrew","Man","Businessman","Liberal Party of Canada","Elected",3179
-"Ontario",1911-09-21,"General","12","Norfolk","McCall, Alexander","Man",NA,"Conservative (1867-1942)","Defeated",3061
-"Ontario",1911-09-21,"General","12","Northumberland East","Walker, Henry Joseph","Man","Hardware merchant","Conservative (1867-1942)","Elected",2518
-"Ontario",1911-09-21,"General","12","Northumberland East","WEATHERSON, Alexander","Man",NA,"Liberal Party of Canada","Defeated",2127
-"Ontario",1911-09-21,"General","12","Northumberland West","Munson, Charles Arthur","Man",NA,"Conservative (1867-1942)","Elected",1426
-"Ontario",1911-09-21,"General","12","Northumberland West","McColl, John B.","Man","Lawyer","Liberal Party of Canada","Defeated",1420
-"Ontario",1911-09-21,"General","12","Ontario North","Sharpe, Samuel Simpson","Man","Lawyer","Conservative (1867-1942)","Elected",2130
-"Ontario",1911-09-21,"General","12","Ontario North","Mowat, Herbert Macdonald","Man",NA,"Liberal Party of Canada","Defeated",1572
-"Ontario",1911-09-21,"General","12","Ontario South","Smith, William","Man","Farmer","Conservative (1867-1942)","Elected",2917
-"Ontario",1911-09-21,"General","12","Ontario South","Fowke, Frederick Luther","Man","Businessman","Liberal Party of Canada","Defeated",2547
-"Ontario",1911-09-21,"General","12","Ottawa (City of)","Fripp, Alfred Ernest","Man","Lawyer","Conservative (1867-1942)","Elected",7062
-"Ontario",1911-09-21,"General","12","Ottawa (City of)","Chabot, John Léo","Man","Physician","Conservative (1867-1942)","Elected",6892
-"Ontario",1911-09-21,"General","12","Ottawa (City of)","McGiverin, Harold Buchanan","Man","Lawyer","Liberal Party of Canada","Defeated",6540
-"Ontario",1911-09-21,"General","12","Ottawa (City of)","Pinard, Joseph Albert","Man",NA,"Liberal Party of Canada","Defeated",6366
-"Ontario",1911-09-21,"General","12","Ottawa (City of)","MCCALLUM, Allan Gordon","Man",NA,"Socialist","Defeated",298
-"Ontario",1911-09-21,"General","12","Oxford North","Nesbitt, Edward Walter","Man","Real estate and insurance agent","Liberal Party of Canada","Elected",2898
-"Ontario",1911-09-21,"General","12","Oxford North","WALLACE, James Gamble","Man",NA,"Conservative (1867-1942)","Defeated",2603
-"Ontario",1911-09-21,"General","12","Oxford South","Sutherland, Donald","Man","Farmer","Conservative (1867-1942)","Elected",2503
-"Ontario",1911-09-21,"General","12","Oxford South","Schell, Malcolm Smith","Man","Farmer","Liberal Party of Canada","Defeated",2479
-"Ontario",1911-09-21,"General","12","Parry Sound","Arthurs, James","Man","Hardware merchant","Conservative (1867-1942)","Elected",2976
-"Ontario",1911-09-21,"General","12","Parry Sound","MORRISON, George","Man",NA,"Liberal Party of Canada","Defeated",1918
-"Ontario",1911-09-21,"General","12","Peel","Blain, Richard","Man","Hardware merchant","Conservative (1867-1942)","Elected",2656
-"Ontario",1911-09-21,"General","12","Peel","LOWE, William James","Man",NA,"Liberal Party of Canada","Defeated",2340
-"Ontario",1911-09-21,"General","12","Perth North","Morphy, Hugh Boulton","Man","Barrister","Conservative (1867-1942)","Elected",3741
-"Ontario",1911-09-21,"General","12","Perth North","Rankin, James Palmer","Man","Physician","Liberal Party of Canada","Defeated",3244
-"Ontario",1911-09-21,"General","12","Perth South","Steele, Michael","Man","Physician","Conservative (1867-1942)","Elected",2303
-"Ontario",1911-09-21,"General","12","Perth South","McIntyre, Gilbert Howard","Man","Pharmacist","Liberal Party of Canada","Defeated",2221
-"Ontario",1911-09-21,"General","12","Peterborough East","Sexsmith, John Albert","Man","Farmer","Conservative (1867-1942)","Elected",1992
-"Ontario",1911-09-21,"General","12","Peterborough East","KERR, Francis Dean","Man",NA,"Liberal Party of Canada","Defeated",1399
-"Ontario",1911-09-21,"General","12","Peterborough West","Burnham, John Hampden","Man","Lawyer","Conservative (1867-1942)","Elected",2944
-"Ontario",1911-09-21,"General","12","Peterborough West","Stratton, James Robert","Man","Businessman","Liberal Party of Canada","Defeated",2902
-"Ontario",1911-09-21,"General","12","Prescott","Proulx, Edmond","Man","Lawyer","Liberal Party of Canada","Elected",2532
-"Ontario",1911-09-21,"General","12","Prescott","QUESNEL, Eugène-Grégoire","Man",NA,"Nationalist Conservative","Defeated",1220
-"Ontario",1911-09-21,"General","12","Prince Edward","Hepburn, Bernard Rickart","Man","Businessman","Conservative (1867-1942)","Elected",2304
-"Ontario",1911-09-21,"General","12","Prince Edward","Currie, Morley","Man","Physician","Liberal Party of Canada","Defeated",2024
-"Ontario",1911-09-21,"General","12","Renfrew North","White, Gerald Verner","Man","Mining engineer","Conservative (1867-1942)","Elected",2573
-"Ontario",1911-09-21,"General","12","Renfrew North","MUNRO, James Francis","Man",NA,"Liberal Party of Canada","Defeated",1865
-"Ontario",1911-09-21,"General","12","Renfrew South","Low, Thomas Andrew","Man","Manufacturer","Liberal Party of Canada","Elected",2687
-"Ontario",1911-09-21,"General","12","Renfrew South","Maloney, Martin James","Man","Physician","Conservative (1867-1942)","Defeated",2068
-"Ontario",1911-09-21,"General","12","Russell","Murphy, Charles","Man","Lawyer","Liberal Party of Canada","Elected",3812
-"Ontario",1911-09-21,"General","12","Russell","VINCENT, Joseph Ulric","Man",NA,"Conservative (1867-1942)","Defeated",2836
-"Ontario",1911-09-21,"General","12","Simcoe East","Bennett, William Humphrey","Man","Lawyer","Conservative (1867-1942)","Elected",3315
-"Ontario",1911-09-21,"General","12","Simcoe East","Chew, Thomas Edward Manley","Man","Lumber merchant","Liberal Party of Canada","Defeated",2849
-"Ontario",1911-09-21,"General","12","Simcoe North","Currie, John Allister","Man","Journalist","Conservative (1867-1942)","Elected",2648
-"Ontario",1911-09-21,"General","12","Simcoe North","McCarthy, Leighton Goldie","Man",NA,"Liberal Party of Canada","Defeated",2476
-"Ontario",1911-09-21,"General","12","Simcoe South","Lennox, Haughton","Man","Lawyer","Conservative (1867-1942)","Elected",3278
-"Ontario",1911-09-21,"General","12","Simcoe South","HAMMELL, Thomas","Man",NA,"Liberal Party of Canada","Defeated",1636
-"Ontario",1911-09-21,"General","12","Stormont","Alguire, Duncan Orestes","Man","Physician","Conservative (1867-1942)","Elected",2539
-"Ontario",1911-09-21,"General","12","Stormont","GOGO, George Ira","Man",NA,"Liberal Party of Canada","Defeated",2408
-"Ontario",1911-09-21,"General","12","Thunder Bay and Rainy River","Carrick, John James","Man","Real estate broker","Conservative (1867-1942)","Elected (Acclamation)",0
-"Ontario",1911-09-21,"General","12","Toronto Centre","Bristol, Edmund James","Man","Barrister","Conservative (1867-1942)","Elected",5156
-"Ontario",1911-09-21,"General","12","Toronto Centre","MACGUIRE, Charles Alfred","Man",NA,"Liberal Party of Canada","Defeated",2994
-"Ontario",1911-09-21,"General","12","Toronto East","Kemp, Albert Edward","Man","Businessman","Conservative (1867-1942)","Elected",7082
-"Ontario",1911-09-21,"General","12","Toronto East","Russell, Joseph","Man","Brick manufacturer","Independent","Defeated",2281
-"Ontario",1911-09-21,"General","12","Toronto East","PEARSON, James","Man",NA,"Liberal Party of Canada","Defeated",1878
-"Ontario",1911-09-21,"General","12","Toronto East","Richards, James William","Man",NA,"Labour","Defeated",463
-"Ontario",1911-09-21,"General","12","Toronto North","Foster, George Eulas","Man","Teacher","Conservative (1867-1942)","Elected",6474
-"Ontario",1911-09-21,"General","12","Toronto North","SHAW, William Henry","Man",NA,"Liberal Party of Canada","Defeated",3157
-"Ontario",1911-09-21,"General","12","Toronto South","Macdonell, Angus Claude","Man","Lawyer","Conservative (1867-1942)","Elected",4473
-"Ontario",1911-09-21,"General","12","Toronto South","WARD, John Joseph","Man",NA,"Liberal Party of Canada","Defeated",2110
-"Ontario",1911-09-21,"General","12","Toronto West","Osler, Edmund Boyd","Man","Financier","Conservative (1867-1942)","Elected",11442
-"Ontario",1911-09-21,"General","12","Toronto West","WALDRON, Gordon","Man",NA,"Liberal Party of Canada","Defeated",3437
-"Ontario",1911-09-21,"General","12","Victoria","Hughes, Samuel","Man","Editor","Liberal-Conservative","Elected",4001
-"Ontario",1911-09-21,"General","12","Victoria","BEGG, James Burnett","Man",NA,"Unknown","Defeated",2707
-"Ontario",1911-09-21,"General","12","Waterloo North","Weichel, William George","Man","Merchant","Conservative (1867-1942)","Elected",3774
-"Ontario",1911-09-21,"General","12","Waterloo North","King, William Lyon Mackenzie","Man","Lawyer","Liberal Party of Canada","Defeated",3459
-"Ontario",1911-09-21,"General","12","Waterloo South","Clare, George Adam","Man","Businessman","Conservative (1867-1942)","Elected",3492
-"Ontario",1911-09-21,"General","12","Waterloo South","MOYER, Sylvester","Man",NA,"Liberal Party of Canada","Defeated",2639
-"Ontario",1911-09-21,"General","12","Welland","German, William Manley","Man","Barrister","Liberal Party of Canada","Elected (Acclamation)",0
-"Ontario",1911-09-21,"General","12","Wellington North","Clarke, William Aurelius","Man","Merchant","Conservative (1867-1942)","Elected",2530
-"Ontario",1911-09-21,"General","12","Wellington North","Martin, Alexander Munro","Man","Businessman","Liberal Party of Canada","Defeated",2505
-"Ontario",1911-09-21,"General","12","Wellington South","Guthrie, Hugh","Man","Lawyer","Liberal Party of Canada","Elected",3368
-"Ontario",1911-09-21,"General","12","Wellington South","EVANS, Arthur Thomas Kelly","Man",NA,"Conservative (1867-1942)","Defeated",2744
-"Ontario",1911-09-21,"General","12","Wentworth","Wilson, Gordon Crooks","Man","Hardware merchant","Conservative (1867-1942)","Elected",3832
-"Ontario",1911-09-21,"General","12","Wentworth","Sealey, William Oscar","Man","Farmer","Liberal Party of Canada","Defeated",2939
-"Ontario",1911-09-21,"General","12","York Centre","Wallace, Thomas George","Man","Merchant","Conservative (1867-1942)","Elected",2838
-"Ontario",1911-09-21,"General","12","York Centre","DEWART, Herbert Hartly","Man",NA,"Liberal Party of Canada","Defeated",2328
-"Ontario",1911-09-21,"General","12","York North","Armstrong, John Alexander Macdonald","Man","Conveyancer","Conservative (1867-1942)","Elected",2730
-"Ontario",1911-09-21,"General","12","York North","ROBINETTE, Thomas Cowper","Man",NA,"Liberal Party of Canada","Defeated",2671
-"Ontario",1911-09-21,"General","12","York South","Maclean, William Findlay","Man","Farmer","Independent Conservative","Elected",7194
-"Ontario",1911-09-21,"General","12","York South","HEYD, Louis Franklin","Man",NA,"Unknown","Defeated",1901
-"Prince Edward Island",1911-09-21,"General","12","King's","Hughes, James Joseph","Man","Merchant","Liberal Party of Canada","Elected",2538
-"Prince Edward Island",1911-09-21,"General","12","King's","Fraser, Austin Levi","Man","Lawyer","Conservative (1867-1942)","Defeated",2524
-"Prince Edward Island",1911-09-21,"General","12","Prince","Richards, James William","Man","Merchant","Liberal Party of Canada","Elected",3529
-"Prince Edward Island",1911-09-21,"General","12","Prince","Murphy, Patrick Charles","Man","Physician","Conservative (1867-1942)","Defeated",3414
-"Prince Edward Island",1911-09-21,"General","12","Queen's","McLean, Angus Alexander","Man","Lawyer","Conservative (1867-1942)","Elected",4392
-"Prince Edward Island",1911-09-21,"General","12","Queen's","Nicholson, Donald","Man","Tobacco manufacturer","Conservative (1867-1942)","Elected",4308
-"Prince Edward Island",1911-09-21,"General","12","Queen's","Warburton, Alexander Bannerman","Man","Lawyer","Liberal Party of Canada","Defeated",4016
-"Prince Edward Island",1911-09-21,"General","12","Queen's","Prowse, Lemuel Ezra","Man","Merchant","Liberal Party of Canada","Defeated",3915
-"Quebec",1911-09-21,"General","12","Argenteuil","Perley, George Halsey","Man","Lumber merchant","Conservative (1867-1942)","Elected",1824
-"Quebec",1911-09-21,"General","12","Argenteuil","TANNER, Agenor Henry","Man",NA,"Liberal Party of Canada","Defeated",1227
-"Quebec",1911-09-21,"General","12","Bagot","Marcile, Joseph Edmond","Man","Merchant","Liberal Party of Canada","Elected",1845
-"Quebec",1911-09-21,"General","12","Bagot","MARSIL, Tancrède","Man",NA,"Conservative (1867-1942)","Defeated",1750
-"Quebec",1911-09-21,"General","12","Beauce","Béland, Henri Sévérin","Man","Physician","Liberal Party of Canada","Elected",4823
-"Quebec",1911-09-21,"General","12","Beauce","CLOUTIER, Georges","Man",NA,"Conservative (1867-1942)","Defeated",3459
-"Quebec",1911-09-21,"General","12","Beauharnois","Papineau, Louis Joseph","Man","Lawyer","Conservative (1867-1942)","Elected",1876
-"Quebec",1911-09-21,"General","12","Beauharnois","Bergeron, Joseph Gédéon Horace","Man","Lawyer","Conservative (1867-1942)","Defeated",1849
-"Quebec",1911-09-21,"General","12","Bellechasse","Lavallée, Joseph Octave","Man","Company director","Conservative (1867-1942)","Elected",1742
-"Quebec",1911-09-21,"General","12","Bellechasse","Talbot, Onésiphore Ernest","Man","Farmer","Liberal Party of Canada","Defeated",1696
-"Quebec",1911-09-21,"General","12","Berthier","Barrette, Joseph Arthur","Man","Businessman","Conservative (1867-1942)","Elected",1638
-"Quebec",1911-09-21,"General","12","Berthier","ECREMENT, Joseph Wilfrid Arthur","Man","Notary","Liberal Party of Canada","Defeated",1612
-"Quebec",1911-09-21,"General","12","Berthier","Denis, Jean-Joseph","Man",NA,"Independent","Defeated",383
-"Quebec",1911-09-21,"General","12","Bonaventure","Marcil, Charles","Man","Journalist","Liberal Party of Canada","Elected",2444
-"Quebec",1911-09-21,"General","12","Bonaventure","MOUSSEAU, Joseph-Alfred","Man",NA,"Conservative (1867-1942)","Defeated",1395
-"Quebec",1911-09-21,"General","12","Brome","Baker, George Harold","Man","Lawyer","Conservative (1867-1942)","Elected",1520
-"Quebec",1911-09-21,"General","12","Brome","Fisher, Sydney Arthur","Man","Farmer","Liberal Party of Canada","Defeated",1496
-"Quebec",1911-09-21,"General","12","Chambly--Verchères","Rainville, Joseph Hormisdas","Man","Lawyer","Conservative (1867-1942)","Elected",2712
-"Quebec",1911-09-21,"General","12","Chambly--Verchères","Geoffrion, Victor","Man","Lawyer","Liberal Party of Canada","Defeated",2576
-"Quebec",1911-09-21,"General","12","Champlain","Blondin, Pierre Édouard","Man","Lawyer","Conservative (1867-1942)","Elected",3811
-"Quebec",1911-09-21,"General","12","Champlain","Rousseau, Jeffrey Alexandre","Man","Banker","Liberal Party of Canada","Defeated",3444
-"Quebec",1911-09-21,"General","12","Charlevoix","Forget, Joseph David Rodolphe","Man","Financier","Conservative (1867-1942)","Elected",2020
-"Quebec",1911-09-21,"General","12","Charlevoix","Cannon, Lucien","Man","Lawyer","Liberal Party of Canada","Defeated",1358
-"Quebec",1911-09-21,"General","12","Châteauguay","Brown, James Pollock","Man","Farmer","Liberal Party of Canada","Elected",1281
-"Quebec",1911-09-21,"General","12","Châteauguay","Morris, James","Man",NA,"Conservative (1867-1942)","Defeated",1241
-"Quebec",1911-09-21,"General","12","Chicoutimi--Saguenay","Girard, Joseph","Man","Farmer","Independent Conservative","Elected",3798
-"Quebec",1911-09-21,"General","12","Chicoutimi--Saguenay","SCOTT, Benjamin Alexandre","Man",NA,"Liberal Party of Canada","Defeated",2523
-"Quebec",1911-09-21,"General","12","Chicoutimi--Saguenay","BOIVIN, Elzéar","Man",NA,"Independent","Defeated",1989
-"Quebec",1911-09-21,"General","12","Chicoutimi--Saguenay","LÉVESQUE, Elzéar","Man",NA,"Independent","Defeated",1531
-"Quebec",1911-09-21,"General","12","Compton","Cromwell, Frederick Robert","Man","Farmer","Conservative (1867-1942)","Elected",2953
-"Quebec",1911-09-21,"General","12","Compton","Hunt, Aylmer Byron","Man","Company director","Liberal Party of Canada","Defeated",2877
-"Quebec",1911-09-21,"General","12","Dorchester","Sévigny, Albert","Man","Lawyer","Conservative (1867-1942)","Elected",2506
-"Quebec",1911-09-21,"General","12","Dorchester","Roy, Joseph Alfred Ernest","Man",NA,"Liberal Party of Canada","Defeated",2164
-"Quebec",1911-09-21,"General","12","Drummond--Arthabaska","Brouillard, Joseph Ovide","Man","Businessman","Liberal Party of Canada","Elected",3800
-"Quebec",1911-09-21,"General","12","Drummond--Arthabaska","Gilbert, Arthur","Man",NA,"Nationalist","Defeated",3533
-"Quebec",1911-09-21,"General","12","Gaspé","Gauthier, Louis-Philippe","Man","Physician","Conservative (1867-1942)","Elected",2470
-"Quebec",1911-09-21,"General","12","Gaspé","Lemieux, Rodolphe","Man","Lawyer","Liberal Party of Canada","Defeated",1900
-"Quebec",1911-09-21,"General","12","Hochelaga","Coderre, Louis","Man","Lawyer","Conservative (1867-1942)","Elected",7178
-"Quebec",1911-09-21,"General","12","Hochelaga","Rivet, Louis Alfred Adhémar","Man",NA,"Unknown","Defeated",5805
-"Quebec",1911-09-21,"General","12","Huntingdon","Robb, James Alexander","Man","Merchant","Liberal Party of Canada","Elected",1318
-"Quebec",1911-09-21,"General","12","Huntingdon","Walsh, Robert Nelson","Man","Veterinary surgeon","Conservative (1867-1942)","Defeated",1172
-"Quebec",1911-09-21,"General","12","Jacques Cartier","Monk, Frederick Debartzch","Man","Lawyer","Conservative (1867-1942)","Elected",5782
-"Quebec",1911-09-21,"General","12","Jacques Cartier","BOYER, Louis-Joseph-Charles-Émile","Man",NA,"Liberal Party of Canada","Defeated",4442
-"Quebec",1911-09-21,"General","12","Joliette","Guilbault, Joseph Pierre Octave","Man","Notary","Conservative (1867-1942)","Elected",2239
-"Quebec",1911-09-21,"General","12","Joliette","Dubeau, Joseph Adélard","Man","Lawyer","Liberal Party of Canada","Defeated",2173
-"Quebec",1911-09-21,"General","12","Kamouraska","Lapointe, Ernest","Man","Lawyer","Liberal Party of Canada","Elected",1840
-"Quebec",1911-09-21,"General","12","Kamouraska","POTVIN, Wilfrid Adélard","Man",NA,"Conservative (1867-1942)","Defeated",1754
-"Quebec",1911-09-21,"General","12","L'Assomption","Séguin, Paul-Arthur","Man","Notary","Liberal Party of Canada","Elected",1508
-"Quebec",1911-09-21,"General","12","L'Assomption","MORIN, Louis Joseph Siméon","Man",NA,"Conservative (1867-1942)","Defeated",1209
-"Quebec",1911-09-21,"General","12","L'Islet","Paquet, Eugène","Man","Physician","Conservative (1867-1942)","Elected",1578
-"Quebec",1911-09-21,"General","12","L'Islet","BOURGAULT, Armand","Man",NA,"Liberal Party of Canada","Defeated",1144
-"Quebec",1911-09-21,"General","12","Labelle","Achim, Honoré","Man","Lawyer","Conservative (1867-1942)","Elected",2902
-"Quebec",1911-09-21,"General","12","Labelle","Major, Charles Beautron","Man","Lawyer","Liberal Party of Canada","Defeated",2818
-"Quebec",1911-09-21,"General","12","Laprairie--Napierville","Lanctôt, Roch","Man","Farmer","Liberal Party of Canada","Elected",1795
-"Quebec",1911-09-21,"General","12","Laprairie--Napierville","Monette, Gustave","Man",NA,"Conservative (1867-1942)","Defeated",1626
-"Quebec",1911-09-21,"General","12","Laval","Wilson, Charles Avila","Man","Lawyer","Liberal Party of Canada","Elected",2648
-"Quebec",1911-09-21,"General","12","Laval","Léonard, Joseph-Édouard-Émile","Man","Lawyer","Conservative (1867-1942)","Defeated",2449
-"Quebec",1911-09-21,"General","12","Lévis","Bourassa, Joseph Boutin","Man","Notary","Liberal Party of Canada","Elected",2800
-"Quebec",1911-09-21,"General","12","Lévis","BÉGIN, Joseph","Man",NA,"Conservative (1867-1942)","Defeated",1971
-"Quebec",1911-09-21,"General","12","Lotbinière","Fortier, Edmond","Man","Teacher","Liberal Party of Canada","Elected",1870
-"Quebec",1911-09-21,"General","12","Lotbinière","LALIBERTÉ, Wilfrid","Man",NA,"Conservative (1867-1942)","Defeated",1520
-"Quebec",1911-09-21,"General","12","Maisonneuve","Verville, Alphonse","Man","Plumber","Labour","Elected",11538
-"Quebec",1911-09-21,"General","12","Maisonneuve","VILLENEUVE, Eugène Walter","Man",NA,"Conservative (1867-1942)","Defeated",9349
-"Quebec",1911-09-21,"General","12","Maskinongé","Bellemare, Adélard","Man","Business agent","Independent Conservative","Elected",1507
-"Quebec",1911-09-21,"General","12","Maskinongé","Mayrand, Hormidas","Man","Farmer","Liberal Party of Canada","Defeated",1398
-"Quebec",1911-09-21,"General","12","Mégantic","Pacaud, Lucien Turcotte","Man","Lawyer","Liberal Party of Canada","Elected",2986
-"Quebec",1911-09-21,"General","12","Mégantic","HUARD, Louis Honoré","Man",NA,"Unknown","Defeated",2619
-"Quebec",1911-09-21,"General","12","Missisquoi","Kay, William Frederic","Man","Farmer","Liberal Party of Canada","Elected",2002
-"Quebec",1911-09-21,"General","12","Missisquoi","Pickel, Follin Horace","Man",NA,"Conservative (1867-1942)","Defeated",1800
-"Quebec",1911-09-21,"General","12","Montcalm","Lafortune, David Arthur","Man","Lawyer","Liberal Party of Canada","Elected",1432
-"Quebec",1911-09-21,"General","12","Montcalm","MARION, Joseph-Eugène-Edmond","Man",NA,"Conservative (1867-1942)","Defeated",1374
-"Quebec",1911-09-21,"General","12","Montmagny","L'Espérance, David Ovide","Man","Manufacturer","Conservative (1867-1942)","Elected",1653
-"Quebec",1911-09-21,"General","12","Montmagny","Béland, Henri Sévérin","Man","Physician","Liberal Party of Canada","Defeated",1328
-"Quebec",1911-09-21,"General","12","Montmorency","Forget, Joseph David Rodolphe","Man","Businessman","Conservative (1867-1942)","Elected",1359
-"Quebec",1911-09-21,"General","12","Montmorency","Parent, Georges","Man","Lawyer","Liberal Party of Canada","Defeated",1292
-"Quebec",1911-09-21,"General","12","Nicolet","Lamarche, Paul-Émile","Man","Lawyer","Conservative (1867-1942)","Elected",2805
-"Quebec",1911-09-21,"General","12","Nicolet","Turcotte, Gustave Adolphe","Man","Physician","Liberal Party of Canada","Defeated",2721
-"Quebec",1911-09-21,"General","12","Pontiac","Brabazon, Gerald Hugh","Man","Land surveyor","Conservative (1867-1942)","Elected",2059
-"Quebec",1911-09-21,"General","12","Pontiac","Cahill, Frank S.","Man","Real estate broker","Liberal Party of Canada","Defeated",1393
-"Quebec",1911-09-21,"General","12","Pontiac","Hodgins, George Frederick","Man","Merchant","Liberal Party of Canada","Defeated",1166
-"Quebec",1911-09-21,"General","12","Portneuf","Delisle, Michel-Siméon","Man","Merchant","Liberal Party of Canada","Elected",2868
-"Quebec",1911-09-21,"General","12","Portneuf","GRENIER, Honoré","Man",NA,"Conservative (1867-1942)","Defeated",2105
-"Quebec",1911-09-21,"General","12","Quebec County","Pelletier, Louis-Philippe","Man","Lawyer","Conservative (1867-1942)","Elected",2295
-"Quebec",1911-09-21,"General","12","Quebec County","GRAHAM, J.H.","Man",NA,"Liberal Party of Canada","Defeated",2247
-"Quebec",1911-09-21,"General","12","Quebec East","Laurier, Wilfrid","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Quebec",1911-09-21,"General","12","Quebec West","Power, William","Man","Merchant","Liberal Party of Canada","Elected",1219
-"Quebec",1911-09-21,"General","12","Quebec West","Price, William","Man","Merchant","Conservative (1867-1942)","Defeated",1128
-"Quebec",1911-09-21,"General","12","Quebec-Centre","Lachance, Arthur","Man","Lawyer","Liberal Party of Canada","Elected",2122
-"Quebec",1911-09-21,"General","12","Quebec-Centre","HONE, Jules Jr.","Man",NA,"Conservative (1867-1942)","Defeated",1529
-"Quebec",1911-09-21,"General","12","Richelieu","Cardin, Pierre-Joseph-Arthur","Man","Lawyer","Liberal Party of Canada","Elected",2373
-"Quebec",1911-09-21,"General","12","Richelieu","VANASSE, Arthur Pierre","Man",NA,"Conservative (1867-1942)","Defeated",1639
-"Quebec",1911-09-21,"General","12","Richmond--Wolfe","Tobin, Edmund William","Man","Lumber merchant","Liberal Party of Canada","Elected",3855
-"Quebec",1911-09-21,"General","12","Richmond--Wolfe","HAYES, John","Man",NA,"Conservative (1867-1942)","Defeated",3311
-"Quebec",1911-09-21,"General","12","Rimouski","Boulay, Herménégilde","Man","Merchant and farmer","Conservative (1867-1942)","Elected",4179
-"Quebec",1911-09-21,"General","12","Rimouski","Ross, Jean Auguste","Man","Physician","Liberal Party of Canada","Defeated",3747
-"Quebec",1911-09-21,"General","12","Rouville","Lemieux, Rodolphe","Man","Lawyer","Liberal Party of Canada","Elected",1467
-"Quebec",1911-09-21,"General","12","Rouville","DUBREUIL, Hormidas","Man",NA,"Conservative (1867-1942)","Defeated",1189
-"Quebec",1911-09-21,"General","12","Shefford","Boivin, Georges Henri","Man","Lawyer","Liberal Party of Canada","Elected",2271
-"Quebec",1911-09-21,"General","12","Shefford","DAVIDSON, James","Man",NA,"Conservative (1867-1942)","Defeated",2245
-"Quebec",1911-09-21,"General","12","Sherbrooke (Town of)","McCrea, Francis N.","Man","Lumber merchant","Liberal Party of Canada","Elected",2321
-"Quebec",1911-09-21,"General","12","Sherbrooke (Town of)","WHITE, Charles Dickinson","Man",NA,"Conservative (1867-1942)","Defeated",2282
-"Quebec",1911-09-21,"General","12","Soulanges","Laurier, Wilfrid","Man","Lawyer","Liberal Party of Canada","Elected",1045
-"Quebec",1911-09-21,"General","12","Soulanges","Lortie, Joseph Arthur","Man","Physician","Conservative (1867-1942)","Defeated",903
-"Quebec",1911-09-21,"General","12","St. Anne","Doherty, Charles Joseph","Man","Lawyer","Conservative (1867-1942)","Elected",3319
-"Quebec",1911-09-21,"General","12","St. Anne","Walsh, Joseph Charles","Man","Lawyer","Liberal Party of Canada","Defeated",2566
-"Quebec",1911-09-21,"General","12","St. Antoine","Ames, Herbert Brown","Man","Businessman","Conservative (1867-1942)","Elected",4677
-"Quebec",1911-09-21,"General","12","St. Antoine","HERSEY, Milton Lewis","Man",NA,"Liberal Party of Canada","Defeated",2668
-"Quebec",1911-09-21,"General","12","St. Hyacinthe","Gauthier, Louis Joseph","Man","Lawyer","Liberal Party of Canada","Elected",2295
-"Quebec",1911-09-21,"General","12","St. Hyacinthe","GUIMONT, Ernest","Man",NA,"Conservative (1867-1942)","Defeated",2155
-"Quebec",1911-09-21,"General","12","St. James","Lapointe, Louis Audet","Man","Merchant","Liberal Party of Canada","Elected",4653
-"Quebec",1911-09-21,"General","12","St. James","ASSELIN, Olivar","Man","Journalist","Nationalist Conservative","Defeated",3179
-"Quebec",1911-09-21,"General","12","St. Johns--Iberville","Demers, Joseph","Man","Lawyer","Liberal Party of Canada","Elected",2638
-"Quebec",1911-09-21,"General","12","St. Johns--Iberville","LAREAU, Joseph-Edmond","Man",NA,"Conservative (1867-1942)","Defeated",729
-"Quebec",1911-09-21,"General","12","St. Lawrence","Bickerdike, Robert","Man","Businessman","Liberal Party of Canada","Elected",4469
-"Quebec",1911-09-21,"General","12","St. Lawrence","JOHNSTON, George Franklin","Man",NA,"Conservative (1867-1942)","Defeated",3421
-"Quebec",1911-09-21,"General","12","St. Lawrence","COTTON, William Ulric","Man",NA,"Socialist","Defeated",359
-"Quebec",1911-09-21,"General","12","St. Mary","Martin, Médéric","Man","Manufacturer","Liberal Party of Canada","Elected",5089
-"Quebec",1911-09-21,"General","12","St. Mary","massé, Joseph-Avila","Man",NA,"Conservative (1867-1942)","Defeated",2912
-"Quebec",1911-09-21,"General","12","St. Mary","Allard, Charles-Norbert","Man",NA,"Labour","Defeated",100
-"Quebec",1911-09-21,"General","12","Stanstead","Lovell, Charles Henry","Man","Farmer","Liberal Party of Canada","Elected",2310
-"Quebec",1911-09-21,"General","12","Stanstead","PAIGE, George Waldo","Man",NA,"Conservative (1867-1942)","Defeated",2106
-"Quebec",1911-09-21,"General","12","Témiscouata","Gauvreau, Charles Arthur","Man","Notary","Liberal Party of Canada","Elected",2913
-"Quebec",1911-09-21,"General","12","Témiscouata","LEBEL, Luc","Man",NA,"Conservative (1867-1942)","Defeated",2701
-"Quebec",1911-09-21,"General","12","Terrebonne","Nantel, Wilfrid Bruno","Man","Lawyer","Conservative (1867-1942)","Elected",2727
-"Quebec",1911-09-21,"General","12","Terrebonne","Desjardins, Samuel","Man","Physician","Liberal Party of Canada","Defeated",2101
-"Quebec",1911-09-21,"General","12","Three Rivers and St. Maurice","Bureau, Jacques","Man","Lawyer","Liberal Party of Canada","Elected",3155
-"Quebec",1911-09-21,"General","12","Three Rivers and St. Maurice","SHAW, Gordon","Man","Surgeon","Conservative (1867-1942)","Defeated",3146
-"Quebec",1911-09-21,"General","12","Two Mountains","Éthier, Joseph Arthur Calixte","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Quebec",1911-09-21,"General","12","Vaudreuil","Boyer, Gustave Benjamin","Man","Journalist","Liberal Party of Canada","Elected",1345
-"Quebec",1911-09-21,"General","12","Vaudreuil","MACDONALD, Archibald de Léry","Man",NA,"Conservative (1867-1942)","Defeated",1130
-"Quebec",1911-09-21,"General","12","Wright","Devlin, Emmanuel Berchmans","Man","Lawyer","Liberal Party of Canada","Elected",4003
-"Quebec",1911-09-21,"General","12","Wright","COUSINEAU, Louis","Man",NA,"Conservative (1867-1942)","Defeated",2819
-"Quebec",1911-09-21,"General","12","Yamaska","Mondou, Albéric Archie","Man","Notary public","Conservative (1867-1942)","Elected",1870
-"Quebec",1911-09-21,"General","12","Yamaska","Gladu, Joseph Ernest Oscar","Man","Notary","Liberal Party of Canada","Defeated",1777
-"Saskatchewan",1911-09-21,"General","12","Assiniboia","Turriff, John Gillanders","Man","Farmer","Liberal Party of Canada","Elected",5804
-"Saskatchewan",1911-09-21,"General","12","Assiniboia","SMITH, Christopher ""C"".","Man",NA,"Conservative (1867-1942)","Defeated",3578
-"Saskatchewan",1911-09-21,"General","12","Battleford","Champagne, Albert","Man","Farmer","Liberal Party of Canada","Elected",5453
-"Saskatchewan",1911-09-21,"General","12","Battleford","HOWELL, Marshall Job","Man",NA,"Conservative (1867-1942)","Defeated",3522
-"Saskatchewan",1911-09-21,"General","12","Humboldt","Neely, David Bradley","Man","Physician","Liberal Party of Canada","Elected",7265
-"Saskatchewan",1911-09-21,"General","12","Humboldt","HEARN, John Harvey","Man",NA,"Conservative (1867-1942)","Defeated",2947
-"Saskatchewan",1911-09-21,"General","12","Mackenzie","Cash, Edward L.","Man","Physician","Liberal Party of Canada","Elected",4090
-"Saskatchewan",1911-09-21,"General","12","Mackenzie","LIVINGSTONE, Charles Donald","Man",NA,"Conservative (1867-1942)","Defeated",1739
-"Saskatchewan",1911-09-21,"General","12","Moose Jaw","Knowles, William Erskine","Man","Lawyer","Liberal Party of Canada","Elected",8285
-"Saskatchewan",1911-09-21,"General","12","Moose Jaw","RATHWELL, Samuel K.","Man",NA,"Conservative (1867-1942)","Defeated",5953
-"Saskatchewan",1911-09-21,"General","12","Prince Albert","McKay, James","Man","Lawyer","Conservative (1867-1942)","Elected",3316
-"Saskatchewan",1911-09-21,"General","12","Prince Albert","Rutan, William Windfield","Man","Merchant","Liberal Party of Canada","Defeated",2961
-"Saskatchewan",1911-09-21,"General","12","Qu'Appelle","Thomson, Levi","Man","Lawyer","Liberal Party of Canada","Elected",4298
-"Saskatchewan",1911-09-21,"General","12","Qu'Appelle","Lake, Richard Stuart","Man","Lawyer","Conservative (1867-1942)","Defeated",3874
-"Saskatchewan",1911-09-21,"General","12","Regina","Martin, William Melville","Man","Lawyer","Liberal Party of Canada","Elected",5811
-"Saskatchewan",1911-09-21,"General","12","Regina","Cowan, Walter Davy","Man","Dentist","Conservative (1867-1942)","Defeated",4081
-"Saskatchewan",1911-09-21,"General","12","Regina","FLETCHER, Richard","Man",NA,"Independent","Defeated",745
-"Saskatchewan",1911-09-21,"General","12","Saltcoats","MacNutt, Thomas","Man",NA,"Liberal Party of Canada","Elected",3619
-"Saskatchewan",1911-09-21,"General","12","Saltcoats","NIXON, James","Man",NA,"Conservative (1867-1942)","Defeated",1934
-"Saskatchewan",1911-09-21,"General","12","Saskatoon","McCraney, George Ewan","Man","Lawyer","Liberal Party of Canada","Elected",5328
-"Saskatchewan",1911-09-21,"General","12","Saskatoon","MACLEAN, Donald","Man",NA,"Conservative (1867-1942)","Defeated",3756
-"Saskatchewan",1911-09-21,"General","12","Saskatoon","BAUMUNK, Newel Edward","Man",NA,"Independent","Defeated",656
-"Yukon",1911-09-21,"General","12","Yukon","Thompson, Alfred","Man","Physician","Conservative (1867-1942)","Elected",1285
-"Yukon",1911-09-21,"General","12","Yukon","Congdon, Frederick Tennyson","Man",NA,"Liberal Party of Canada","Defeated",829
+"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
+"Alberta",1911-09-21,"General","12","Calgary","Bennett, Richard Bedford","Bennett","Richard","Bedford","Man","Lawyer","Conservative (1867-1942)","Elected",7671
+"Alberta",1911-09-21,"General","12","Calgary","VAN WART, Isaac Stephen Gerow","VAN WART","Isaac","Stephen Gerow","Man","n/a","Liberal Party of Canada","Defeated",4805
+"Alberta",1911-09-21,"General","12","Calgary","Masters, Arthur","Masters","Arthur",NA,"Man","n/a","Unknown","Defeated",716
+"Alberta",1911-09-21,"General","12","Edmonton","Oliver, Frank","Oliver","Frank",NA,"Man","Publisher","Liberal Party of Canada","Elected",7070
+"Alberta",1911-09-21,"General","12","Edmonton","Griesbach, William Antrobus","Griesbach","William","Antrobus","Man",NA,"Conservative (1867-1942)","Defeated",4832
+"Alberta",1911-09-21,"General","12","Edmonton","Farmilo, Alfred","Farmilo","Alfred",NA,"Man",NA,"Independent","Defeated",555
+"Alberta",1911-09-21,"General","12","Macleod","Warnock, David","Warnock","David",NA,"Man","Veterinary surgeon","Liberal Party of Canada","Elected",3660
+"Alberta",1911-09-21,"General","12","Macleod","Herron, John","Herron","John",NA,"Man","Rancher","Liberal-Conservative","Defeated",2841
+"Alberta",1911-09-21,"General","12","Macleod","Fulcher, Edmund","Fulcher","Edmund",NA,"Man",NA,"Independent","Defeated",902
+"Alberta",1911-09-21,"General","12","Medicine Hat","Buchanan, William Ashbury","Buchanan","William","Ashbury","Man","Journalist","Liberal Party of Canada","Elected",6330
+"Alberta",1911-09-21,"General","12","Medicine Hat","Magrath, Charles Alexander","Magrath","Charles","Alexander","Man","Surveyor","Conservative (1867-1942)","Defeated",4875
+"Alberta",1911-09-21,"General","12","Red Deer","Clark, Michael","Clark","Michael",NA,"Man","Physician","Liberal Party of Canada","Elected",6711
+"Alberta",1911-09-21,"General","12","Red Deer","Mcgillivray, Alexander Andrew","Mcgillivray","Alexander","Andrew","Man",NA,"Conservative (1867-1942)","Defeated",3882
+"Alberta",1911-09-21,"General","12","Strathcona","Douglas, James McCrie","Douglas","James","McCrie","Man","Businessman","Liberal Party of Canada","Elected",5396
+"Alberta",1911-09-21,"General","12","Strathcona","Campbell, George Benjamin","Campbell","George","Benjamin","Man",NA,"Conservative (1867-1942)","Defeated",2872
+"Alberta",1911-09-21,"General","12","Victoria","White, William Henry","White","William","Henry","Man","Farmer","Liberal Party of Canada","Elected",3225
+"Alberta",1911-09-21,"General","12","Victoria","Morrison, Frederick Augustus","Morrison","Frederick","Augustus","Man",NA,"Conservative (1867-1942)","Defeated",2702
+"Alberta",1911-09-21,"General","12","Victoria","Jackman, William James","Jackman","William","James","Man",NA,"Independent","Defeated",719
+"British Columbia",1911-09-21,"General","12","Comox--Atlin","Clements, Herbert Sylvester","Clements","Herbert","Sylvester","Man","Estate agent","Conservative (1867-1942)","Elected",1810
+"British Columbia",1911-09-21,"General","12","Comox--Atlin","Ross, Duncan","Ross","Duncan",NA,"Man",NA,"Liberal Party of Canada","Defeated",1622
+"British Columbia",1911-09-21,"General","12","Kootenay","Goodeve, Arthur Samuel","Goodeve","Arthur","Samuel","Man","Pharmacist","Conservative (1867-1942)","Elected",4113
+"British Columbia",1911-09-21,"General","12","Kootenay","King, James Horace","King","James","Horace","Man",NA,"Liberal Party of Canada","Defeated",3039
+"British Columbia",1911-09-21,"General","12","Nanaimo","Shepherd, Francis Henry","Shepherd","Francis","Henry","Man","Engineer","Conservative (1867-1942)","Elected",2438
+"British Columbia",1911-09-21,"General","12","Nanaimo","Smith, Ralph","Smith","Ralph",NA,"Man","Miner","Liberal Party of Canada","Defeated",1750
+"British Columbia",1911-09-21,"General","12","New Westminster","Taylor, James Davis","Taylor","James","Davis","Man","Reporter","Conservative (1867-1942)","Elected",3542
+"British Columbia",1911-09-21,"General","12","New Westminster","Baker, Stan","Baker","Stan",NA,"Man",NA,"Liberal Party of Canada","Defeated",1849
+"British Columbia",1911-09-21,"General","12","Vancouver City","Stevens, Henry Herbert","Stevens","Henry","Herbert","Man","Grocer","Conservative (1867-1942)","Elected",6902
+"British Columbia",1911-09-21,"General","12","Vancouver City","Senkler, John Harold","Senkler","John","Harold","Man",NA,"Liberal Party of Canada","Defeated",3796
+"British Columbia",1911-09-21,"General","12","Vancouver City","Kingsley, Eugene Thorton","Kingsley","Eugene","Thorton","Man",NA,"Socialist","Defeated",1056
+"British Columbia",1911-09-21,"General","12","Victoria City","Barnard, George Henry","Barnard","George","Henry","Man","Lawyer","Conservative (1867-1942)","Elected",2816
+"British Columbia",1911-09-21,"General","12","Victoria City","Templeman, William","Templeman","William",NA,"Man","Editor","Liberal Party of Canada","Defeated",2332
+"British Columbia",1911-09-21,"General","12","Victoria City","Brown, Gordon","Brown","Gordon",NA,"Man",NA,"Socialist","Defeated",290
+"British Columbia",1911-09-21,"General","12","Yale--Cariboo","Burrell, Martin","Burrell","Martin",NA,"Man","Fruit grower","Conservative (1867-1942)","Elected",3851
+"British Columbia",1911-09-21,"General","12","Yale--Cariboo","Macdonald, Kenneth Cattanach","Macdonald","Kenneth","Cattanach","Man",NA,"Liberal Party of Canada","Defeated",1962
+"British Columbia",1911-09-21,"General","12","Yale--Cariboo","Johnson, James Foulds","Johnson","James","Foulds","Man",NA,"Socialist","Defeated",246
+"Manitoba",1911-09-21,"General","12","Brandon","Aikins, James Albert Manning","Aikins","James","Albert Manning","Man","Lawyer","Conservative (1867-1942)","Elected",4436
+"Manitoba",1911-09-21,"General","12","Brandon","Hill, Alfred Edward","Hill","Alfred","Edward","Man",NA,"Liberal Party of Canada","Defeated",3570
+"Manitoba",1911-09-21,"General","12","Dauphin","Cruise, Robert","Cruise","Robert",NA,"Man","Farmer","Liberal Party of Canada","Elected",3674
+"Manitoba",1911-09-21,"General","12","Dauphin","Campbell, Glenlyon","Campbell","Glenlyon",NA,"Man","Trapper and rancher","Conservative (1867-1942)","Defeated",2926
+"Manitoba",1911-09-21,"General","12","Lisgar","Sharpe, William Henry","Sharpe","William","Henry","Man","General merchant","Conservative (1867-1942)","Elected",1692
+"Manitoba",1911-09-21,"General","12","Lisgar","Greenway, John Franklin","Greenway","John","Franklin","Man",NA,"Liberal Party of Canada","Defeated",1672
+"Manitoba",1911-09-21,"General","12","Macdonald","Staples, William D.","Staples","William","D.","Man","Farmer","Conservative (1867-1942)","Elected",2956
+"Manitoba",1911-09-21,"General","12","Macdonald","Woods, James Smith","Woods","James","Smith","Man",NA,"Liberal Party of Canada","Defeated",2795
+"Manitoba",1911-09-21,"General","12","Marquette","Roche, William James","Roche","William","James","Man","Physician","Conservative (1867-1942)","Elected",3409
+"Manitoba",1911-09-21,"General","12","Marquette","Grierson, George Allison","Grierson","George","Allison","Man",NA,"Liberal Party of Canada","Defeated",3283
+"Manitoba",1911-09-21,"General","12","Portage la Prairie","Meighen, Arthur","Meighen","Arthur",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",3267
+"Manitoba",1911-09-21,"General","12","Portage la Prairie","Paterson, Robert","Paterson","Robert",NA,"Man",NA,"Liberal Party of Canada","Defeated",2592
+"Manitoba",1911-09-21,"General","12","Provencher","Molloy, John Patrick","Molloy","John","Patrick","Man","Farmer","Liberal Party of Canada","Elected",3049
+"Manitoba",1911-09-21,"General","12","Provencher","Bleau, Joseph Alfred Féréol","Bleau","Joseph","Alfred Féréol","Man",NA,"Conservative (1867-1942)","Defeated",2668
+"Manitoba",1911-09-21,"General","12","Selkirk","Bradbury, George Henry","Bradbury","George","Henry","Man","Brick manufacturer","Conservative (1867-1942)","Elected",3098
+"Manitoba",1911-09-21,"General","12","Selkirk","Bredin, Albert Ryerson","Bredin","Albert","Ryerson","Man",NA,"Liberal Party of Canada","Defeated",3011
+"Manitoba",1911-09-21,"General","12","Selkirk","Holowacky, Wasil","Holowacky","Wasil",NA,"Man",NA,"Independent","Defeated",234
+"Manitoba",1911-09-21,"General","12","Souris","Schaffner, Frederick Laurence","Schaffner","Frederick","Laurence","Man","Physician","Conservative (1867-1942)","Elected",3150
+"Manitoba",1911-09-21,"General","12","Souris","Damerla, Dipika","Damerla","Dipika",NA,"Man",NA,"Liberal Party of Canada","Defeated",3086
+"Manitoba",1911-09-21,"General","12","Winnipeg","Haggart, Alexander","Haggart","Alexander",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",12754
+"Manitoba",1911-09-21,"General","12","Winnipeg","Ashdown, James Henry","Ashdown","James","Henry","Man",NA,"Liberal Party of Canada","Defeated",8049
+"Manitoba",1911-09-21,"General","12","Winnipeg","Rigg, Richard Arthur","Rigg","Richard","Arthur","Man",NA,"Socialist","Defeated",2325
+"New Brunswick",1911-09-21,"General","12","Carleton","Carvell, Frank Broadstreet","Carvell","Frank","Broadstreet","Man","Lawyer","Liberal Party of Canada","Elected",2614
+"New Brunswick",1911-09-21,"General","12","Carleton","Smith, Benjamin Franklin","Smith","Benjamin","Franklin","Man",NA,"Conservative (1867-1942)","Defeated",2603
+"New Brunswick",1911-09-21,"General","12","Charlotte","Hartt, Thomas Aaron","Hartt","Thomas","Aaron","Man","Teacher","Conservative (1867-1942)","Elected",2685
+"New Brunswick",1911-09-21,"General","12","Charlotte","Todd, William Frederick","Todd","William","Frederick","Man","Wholesale food merchant","Liberal Party of Canada","Defeated",2489
+"New Brunswick",1911-09-21,"General","12","Gloucester","Turgeon, Onésiphore","Turgeon","Onésiphore",NA,"Man","Journalist","Liberal Party of Canada","Elected",3172
+"New Brunswick",1911-09-21,"General","12","Gloucester","Burns, Theobald Matthew","Burns","Theobald","Matthew","Man",NA,"Conservative (1867-1942)","Defeated",2180
+"New Brunswick",1911-09-21,"General","12","Kent","Robidoux, Ferdinand Joseph","Robidoux","Ferdinand","Joseph","Man","Lawyer","Conservative (1867-1942)","Elected",2334
+"New Brunswick",1911-09-21,"General","12","Kent","Léger, Auguste Théophile","Léger","Auguste","Théophile","Man",NA,"Liberal Party of Canada","Defeated",2129
+"New Brunswick",1911-09-21,"General","12","King's and Albert","Fowler, George William","Fowler","George","William","Man","Lawyer","Conservative (1867-1942)","Elected",3734
+"New Brunswick",1911-09-21,"General","12","King's and Albert","McAlister, Duncan Hamilton","McAlister","Duncan","Hamilton","Man","Physician","Liberal Party of Canada","Defeated",3402
+"New Brunswick",1911-09-21,"General","12","Northumberland","Loggie, William Stewart","Loggie","William","Stewart","Man","Merchant","Liberal Party of Canada","Elected",3128
+"New Brunswick",1911-09-21,"General","12","Northumberland","Morrison, Donald","Morrison","Donald",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2736
+"New Brunswick",1911-09-21,"General","12","Restigouche","Reid, James","Reid","James",NA,"Man","General merchant","Liberal Party of Canada","Elected",1512
+"New Brunswick",1911-09-21,"General","12","Restigouche","Montgomery, William Scott","Montgomery","William","Scott","Man",NA,"Conservative (1867-1942)","Defeated",1170
+"New Brunswick",1911-09-21,"General","12","St. John (City and County of)","Daniel, John Waterhouse","Daniel","John","Waterhouse","Man","Physician","Conservative (1867-1942)","Elected",5491
+"New Brunswick",1911-09-21,"General","12","St. John (City and County of)","Lowell, James","Lowell","James",NA,"Man",NA,"Liberal Party of Canada","Defeated",5381
+"New Brunswick",1911-09-21,"General","12","St. John (City of )","Pugsley, William","Pugsley","William",NA,"Man","Lawyer","Liberal Party of Canada","Elected",4360
+"New Brunswick",1911-09-21,"General","12","St. John (City of )","Powell, Henry Absalom","Powell","Henry","Absalom","Man",NA,"Conservative (1867-1942)","Defeated",4295
+"New Brunswick",1911-09-21,"General","12","Sunbury--Queen's","McLean, Hugh Havelock","McLean","Hugh","Havelock","Man","Lawyer","Liberal Party of Canada","Elected",2020
+"New Brunswick",1911-09-21,"General","12","Sunbury--Queen's","Smith, Luther Benjamin","Smith","Luther","Benjamin","Man",NA,"Conservative (1867-1942)","Defeated",2010
+"New Brunswick",1911-09-21,"General","12","Victoria","Michaud, Pius","Michaud","Pius",NA,"Man","Lawyer","Liberal Party of Canada","Elected",3059
+"New Brunswick",1911-09-21,"General","12","Victoria","Cormier, Maximilien Dominic (Maxime)","Cormier","Maximilien","Dominic (Maxime)","Man",NA,"Conservative (1867-1942)","Defeated",1111
+"New Brunswick",1911-09-21,"General","12","Westmorland","Emmerson, Henry Robert","Emmerson","Henry","Robert","Man","Lawyer","Liberal Party of Canada","Elected",4452
+"New Brunswick",1911-09-21,"General","12","Westmorland","Siddall, Medley Godfrey","Siddall","Medley","Godfrey","Man",NA,"Unknown","Defeated",4388
+"New Brunswick",1911-09-21,"General","12","York","Crocket, Oswald Smith","Crocket","Oswald","Smith","Man","Journalist","Conservative (1867-1942)","Elected",4143
+"New Brunswick",1911-09-21,"General","12","York","Atherton, Alfred Bennison","Atherton","Alfred","Bennison","Man",NA,"Unknown","Defeated",2474
+"Nova Scotia",1911-09-21,"General","12","Annapolis","Davidson, Avard Longley","Davidson","Avard","Longley","Man","Lawyer","Conservative (1867-1942)","Elected",2131
+"Nova Scotia",1911-09-21,"General","12","Annapolis","Pickup, Samuel Walter Willet","Pickup","Samuel","Walter Willet","Man",NA,"Liberal Party of Canada","Defeated",2118
+"Nova Scotia",1911-09-21,"General","12","Antigonish","Chisholm, William","Chisholm","William",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1468
+"Nova Scotia",1911-09-21,"General","12","Antigonish","Cameron, John J.","Cameron","John","J.","Man",NA,"Conservative (1867-1942)","Defeated",987
+"Nova Scotia",1911-09-21,"General","12","Cape Breton South","Carroll, William F.","Carroll","William","F.","Man","Lawyer","Liberal Party of Canada","Elected",5069
+"Nova Scotia",1911-09-21,"General","12","Cape Breton South","Maddin, James William","Maddin","James","William","Man","Lawyer","Liberal Party of Canada","Defeated",4965
+"Nova Scotia",1911-09-21,"General","12","Cape Breton South","Mckinnon, Alexander","Mckinnon","Alexander",NA,"Man",NA,"Independent","Defeated",223
+"Nova Scotia",1911-09-21,"General","12","Colchester","Stanfield, John","Stanfield","John",NA,"Man","Manufacturer","Conservative (1867-1942)","Elected",2847
+"Nova Scotia",1911-09-21,"General","12","Colchester","Mclellan, Samuel David","Mclellan","Samuel","David","Man",NA,"Liberal Party of Canada","Defeated",2203
+"Nova Scotia",1911-09-21,"General","12","Cumberland","Rhodes, Edgar Nelson","Rhodes","Edgar","Nelson","Man","Lawyer","Conservative (1867-1942)","Elected",4780
+"Nova Scotia",1911-09-21,"General","12","Cumberland","Logan, Hance James","Logan","Hance","James","Man","Lawyer","Liberal Party of Canada","Defeated",4442
+"Nova Scotia",1911-09-21,"General","12","Digby","Jameson, Clarence","Jameson","Clarence",NA,"Man","Town clerk","Conservative (1867-1942)","Elected",2126
+"Nova Scotia",1911-09-21,"General","12","Digby","Wall, Allan Ellsworth","Wall","Allan","Ellsworth","Man",NA,"Liberal Party of Canada","Defeated",1866
+"Nova Scotia",1911-09-21,"General","12","Guysborough","Sinclair, John Howard","Sinclair","John","Howard","Man","Lawyer","Liberal Party of Canada","Elected",2043
+"Nova Scotia",1911-09-21,"General","12","Guysborough","Rowlings, George Anderson Rowe","Rowlings","George","Anderson Rowe","Man",NA,"Conservative (1867-1942)","Defeated",1700
+"Nova Scotia",1911-09-21,"General","12","Halifax","Borden, Robert Laird","Borden","Robert","Laird","Man","Lawyer","Conservative (1867-1942)","Elected",7040
+"Nova Scotia",1911-09-21,"General","12","Halifax","Maclean, Alexander Kenneth","Maclean","Alexander","Kenneth","Man","Lawyer","Liberal Party of Canada","Elected",6946
+"Nova Scotia",1911-09-21,"General","12","Halifax","Blackadder, Edward","Blackadder","Edward",NA,"Man","Physician","Liberal Party of Canada","Defeated",6879
+"Nova Scotia",1911-09-21,"General","12","Halifax","Crosby, Adam Brown","Crosby","Adam","Brown","Man","Exporter and merchant","Conservative (1867-1942)","Defeated",6787
+"Nova Scotia",1911-09-21,"General","12","Hants","Tremain, Hadley Brown","Tremain","Hadley","Brown","Man","Lawyer","Conservative (1867-1942)","Elected",2191
+"Nova Scotia",1911-09-21,"General","12","Hants","Black, Judson Burpee","Black","Judson","Burpee","Man","Physician","Liberal Party of Canada","Defeated",2105
+"Nova Scotia",1911-09-21,"General","12","Inverness","Chisholm, Alexander William","Chisholm","Alexander","William","Man","Physician","Liberal Party of Canada","Elected",2928
+"Nova Scotia",1911-09-21,"General","12","Inverness","Gallant, Thomas","Gallant","Thomas",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1920
+"Nova Scotia",1911-09-21,"General","12","Inverness","Macechen, Frank A.","Macechen","Frank","A.","Man",NA,"Independent","Defeated",128
+"Nova Scotia",1911-09-21,"General","12","Kings","Foster, Arthur de Witt","Foster","Arthur","de Witt","Man","Teacher","Conservative (1867-1942)","Elected",2474
+"Nova Scotia",1911-09-21,"General","12","Kings","Borden, Frederick William","Borden","Frederick","William","Man","Physician","Liberal Party of Canada","Defeated",2323
+"Nova Scotia",1911-09-21,"General","12","Lunenburg","Stewart, Dugald","Stewart","Dugald",NA,"Man","Physician","Conservative (1867-1942)","Elected",3645
+"Nova Scotia",1911-09-21,"General","12","Lunenburg","Sperry, John Drew","Sperry","John","Drew","Man","Merchant","Liberal Party of Canada","Defeated",3237
+"Nova Scotia",1911-09-21,"General","12","North Cape Breton and Victoria","McKenzie, Daniel Duncan","McKenzie","Daniel","Duncan","Man","Lawyer","Liberal Party of Canada","Elected",3418
+"Nova Scotia",1911-09-21,"General","12","North Cape Breton and Victoria","Maccormack, John","Maccormack","John",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",2803
+"Nova Scotia",1911-09-21,"General","12","Pictou","Macdonald, Edward Mortimer","Macdonald","Edward","Mortimer","Man","Lawyer","Liberal Party of Canada","Elected",4221
+"Nova Scotia",1911-09-21,"General","12","Pictou","Bell, Adam Carr","Bell","Adam","Carr","Man","Merchant","Conservative (1867-1942)","Defeated",3937
+"Nova Scotia",1911-09-21,"General","12","Richmond","Kyte, George William","Kyte","George","William","Man","Lawyer","Liberal Party of Canada","Elected",1268
+"Nova Scotia",1911-09-21,"General","12","Richmond","Gillies, Joseph Alexander","Gillies","Joseph","Alexander","Man","Lawyer","Conservative (1867-1942)","Defeated",983
+"Nova Scotia",1911-09-21,"General","12","Shelburne and Queen's","McCurdy, Fleming Blanchard","McCurdy","Fleming","Blanchard","Man","Financier","Conservative (1867-1942)","Elected",2678
+"Nova Scotia",1911-09-21,"General","12","Shelburne and Queen's","Fielding, William Stevens","Fielding","William","Stevens","Man","Journalist","Liberal Party of Canada","Defeated",2529
+"Nova Scotia",1911-09-21,"General","12","Yarmouth","Law, Bowman Brown","Law","Bowman","Brown","Man","Merchant","Liberal Party of Canada","Elected",2399
+"Nova Scotia",1911-09-21,"General","12","Yarmouth","Crosby, Knowles Eugene","Crosby","Knowles","Eugene","Man",NA,"Conservative (1867-1942)","Defeated",1215
+"Ontario",1911-09-21,"General","12","Algoma East","Smyth, William Ross","Smyth","William","Ross","Man","Merchant and lumberman","Conservative (1867-1942)","Elected",3898
+"Ontario",1911-09-21,"General","12","Algoma East","Regan, John Lionel","Regan","John","Lionel","Man",NA,"Liberal Party of Canada","Defeated",3716
+"Ontario",1911-09-21,"General","12","Algoma West","Boyce, Arthur Cyril","Boyce","Arthur","Cyril","Man","Lawyer","Conservative (1867-1942)","Elected",2738
+"Ontario",1911-09-21,"General","12","Algoma West","Smith, Charles Napier","Smith","Charles","Napier","Man",NA,"Liberal Party of Canada","Defeated",2180
+"Ontario",1911-09-21,"General","12","Brant","Fisher, John Henry","Fisher","John","Henry","Man","Merchant","Conservative (1867-1942)","Elected",1795
+"Ontario",1911-09-21,"General","12","Brant","Paterson, William","Paterson","William",NA,"Man","Confectionery manufacturer","Liberal Party of Canada","Defeated",1666
+"Ontario",1911-09-21,"General","12","Brantford","Cockshutt, William Foster","Cockshutt","William","Foster","Man","Manufacturer","Conservative (1867-1942)","Elected",3159
+"Ontario",1911-09-21,"General","12","Brantford","Preston, Thomas Hiram","Preston","Thomas","Hiram","Man",NA,"Liberal Party of Canada","Defeated",2440
+"Ontario",1911-09-21,"General","12","Brockville","Webster, John","Webster","John",NA,"Man","Produce merchant","Conservative (1867-1942)","Elected",2251
+"Ontario",1911-09-21,"General","12","Brockville","Graham, George Perry","Graham","George","Perry","Man","Newspaperman","Liberal Party of Canada","Defeated",2140
+"Ontario",1911-09-21,"General","12","Bruce North","Clark, Hugh","Clark","Hugh",NA,"Man","Editor","Conservative (1867-1942)","Elected",2526
+"Ontario",1911-09-21,"General","12","Bruce North","Tolmie, John","Tolmie","John",NA,"Man","Salt manufacturer","Liberal Party of Canada","Defeated",2444
+"Ontario",1911-09-21,"General","12","Bruce South","Donnelly, James J.","Donnelly","James","J.","Man","Company president","Conservative (1867-1942)","Elected",2878
+"Ontario",1911-09-21,"General","12","Bruce South","Truax, Reuben Eldridge","Truax","Reuben","Eldridge","Man","Sawmill owner and operator","Liberal Party of Canada","Defeated",2775
+"Ontario",1911-09-21,"General","12","Carleton","Kidd, Edward","Kidd","Edward",NA,"Man","Farmer and cheese manufacturer","Conservative (1867-1942)","Elected",2616
+"Ontario",1911-09-21,"General","12","Carleton","Maclean, Donald Hector","Maclean","Donald","Hector","Man",NA,"Liberal Party of Canada","Defeated",1339
+"Ontario",1911-09-21,"General","12","Dufferin","Best, John","Best","John",NA,"Man","Farmer","Conservative (1867-1942)","Elected",2496
+"Ontario",1911-09-21,"General","12","Dufferin","Brown, David Bent","Brown","David","Bent","Man",NA,"Liberal Party of Canada","Defeated",1037
+"Ontario",1911-09-21,"General","12","Dundas","Broder, Andrew","Broder","Andrew",NA,"Man","Farmer","Conservative (1867-1942)","Elected",2262
+"Ontario",1911-09-21,"General","12","Dundas","Campbell, John Alexander","Campbell","John","Alexander","Man",NA,"Liberal Party of Canada","Defeated",1618
+"Ontario",1911-09-21,"General","12","Durham","Thornton, Charles Jonas","Thornton","Charles","Jonas","Man","Farmer","Conservative (1867-1942)","Elected",3291
+"Ontario",1911-09-21,"General","12","Durham","Kelly, Thomas Alexander","Kelly","Thomas","Alexander","Man",NA,"Liberal Party of Canada","Defeated",2567
+"Ontario",1911-09-21,"General","12","Elgin East","Marshall, David","Marshall","David",NA,"Man","Businessman","Conservative (1867-1942)","Elected",2313
+"Ontario",1911-09-21,"General","12","Elgin East","Miller, Francis Hincks","Miller","Francis","Hincks","Man",NA,"Liberal Party of Canada","Defeated",1919
+"Ontario",1911-09-21,"General","12","Elgin West","Crothers, Thomas Wilson","Crothers","Thomas","Wilson","Man","Lawyer","Conservative (1867-1942)","Elected",3629
+"Ontario",1911-09-21,"General","12","Elgin West","Macnish, Donald","Macnish","Donald",NA,"Man",NA,"Liberal Party of Canada","Defeated",2732
+"Ontario",1911-09-21,"General","12","Essex North","Wilcox, Oliver James","Wilcox","Oliver","James","Man","Farmer","Conservative (1867-1942)","Elected",3616
+"Ontario",1911-09-21,"General","12","Essex North","Dewar, Peter Anderson","Dewar","Peter","Anderson","Man",NA,"Liberal Party of Canada","Defeated",3440
+"Ontario",1911-09-21,"General","12","Essex South","Clarke, Alfred Henry","Clarke","Alfred","Henry","Man","Lawyer","Liberal Party of Canada","Elected",2946
+"Ontario",1911-09-21,"General","12","Essex South","Park, William Frederick","Park","William","Frederick","Man",NA,"Conservative (1867-1942)","Defeated",2745
+"Ontario",1911-09-21,"General","12","Frontenac","Edwards, John Wesley","Edwards","John","Wesley","Man","Physician","Conservative (1867-1942)","Elected",2629
+"Ontario",1911-09-21,"General","12","Frontenac","Fair, Robert Hewton","Fair","Robert","Hewton","Man",NA,"Liberal Party of Canada","Defeated",1776
+"Ontario",1911-09-21,"General","12","Glengarry","McMillan, John Angus","McMillan","John","Angus","Man","Furniture merchant","Liberal Party of Canada","Elected",2175
+"Ontario",1911-09-21,"General","12","Glengarry","Mcmartin, Duncan","Mcmartin","Duncan",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1949
+"Ontario",1911-09-21,"General","12","Grenville","Reid, John Dowsley","Reid","John","Dowsley","Man","Physician","Conservative (1867-1942)","Elected",2286
+"Ontario",1911-09-21,"General","12","Grenville","Martin, Samuel John","Martin","Samuel","John","Man",NA,"Unknown","Defeated",1373
+"Ontario",1911-09-21,"General","12","Grey East","Sproule, Thomas Simpson","Sproule","Thomas","Simpson","Man","Physician","Conservative (1867-1942)","Elected",2560
+"Ontario",1911-09-21,"General","12","Grey East","Hartman, Clayton Webb","Hartman","Clayton","Webb","Man",NA,"Liberal Party of Canada","Defeated",1475
+"Ontario",1911-09-21,"General","12","Grey North","Middlebro, William Sora","Middlebro","William","Sora","Man","Lawyer","Conservative (1867-1942)","Elected",3326
+"Ontario",1911-09-21,"General","12","Grey North","Harrison, Frederick William","Harrison","Frederick","William","Man",NA,"Liberal Party of Canada","Defeated",2974
+"Ontario",1911-09-21,"General","12","Grey South","Ball, Robert James","Ball","Robert","James","Man","School teacher","Conservative (1867-1942)","Elected",2139
+"Ontario",1911-09-21,"General","12","Grey South","Miller, Henry Horton","Miller","Henry","Horton","Man","Real estate agent","Liberal Party of Canada","Defeated",2091
+"Ontario",1911-09-21,"General","12","Haldimand","Lalor, Francis Ramsey","Lalor","Francis","Ramsey","Man","Merchant","Conservative (1867-1942)","Elected",2817
+"Ontario",1911-09-21,"General","12","Haldimand","Miller, Robert Francis","Miller","Robert","Francis","Man",NA,"Liberal Party of Canada","Defeated",2138
+"Ontario",1911-09-21,"General","12","Halton","Henderson, David","Henderson","David",NA,"Man","Merchant","Conservative (1867-1942)","Elected",2618
+"Ontario",1911-09-21,"General","12","Halton","Smith, Walter Harland","Smith","Walter","Harland","Man",NA,"Liberal Party of Canada","Defeated",2199
+"Ontario",1911-09-21,"General","12","Hamilton East","Barker, Samuel","Barker","Samuel",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",4981
+"Ontario",1911-09-21,"General","12","Hamilton East","Peebles, John","Peebles","John",NA,"Man",NA,"Liberal Party of Canada","Defeated",2406
+"Ontario",1911-09-21,"General","12","Hamilton West","Stewart, Thomas Joseph","Stewart","Thomas","Joseph","Man","Businessman","Conservative (1867-1942)","Elected",4390
+"Ontario",1911-09-21,"General","12","Hamilton West","Mclaren, John Inglis","Mclaren","John","Inglis","Man",NA,"Liberal Party of Canada","Defeated",2570
+"Ontario",1911-09-21,"General","12","Hamilton West","Dickhout, Hiram","Dickhout","Hiram",NA,"Man",NA,"Unknown","Defeated",522
+"Ontario",1911-09-21,"General","12","Hastings East","Northrup, William Barton","Northrup","William","Barton","Man","Lawyer","Conservative (1867-1942)","Elected",2899
+"Ontario",1911-09-21,"General","12","Hastings East","Clark, Peter Perry","Clark","Peter","Perry","Man",NA,"Liberal Party of Canada","Defeated",1833
+"Ontario",1911-09-21,"General","12","Hastings West","Porter, Edward Guss","Porter","Edward","Guss","Man","Barrister","Conservative (1867-1942)","Elected",3623
+"Ontario",1911-09-21,"General","12","Hastings West","Hubbell, William Henry","Hubbell","William","Henry","Man",NA,"Liberal Party of Canada","Defeated",1852
+"Ontario",1911-09-21,"General","12","Huron East","Bowman, James","Bowman","James",NA,"Man","Farmer","Conservative (1867-1942)","Elected",2020
+"Ontario",1911-09-21,"General","12","Huron East","Hislop, Archibald","Hislop","Archibald",NA,"Man",NA,"Liberal Party of Canada","Defeated",1822
+"Ontario",1911-09-21,"General","12","Huron South","Merner, Jonathan Joseph","Merner","Jonathan","Joseph","Man","Merchant","Conservative (1867-1942)","Elected",2360
+"Ontario",1911-09-21,"General","12","Huron South","McLean, Murdo Young","McLean","Murdo","Young","Man","Journalist","Liberal Party of Canada","Defeated",2246
+"Ontario",1911-09-21,"General","12","Huron West","Lewis, Edward Norman","Lewis","Edward","Norman","Man","Lawyer","Conservative (1867-1942)","Elected",2024
+"Ontario",1911-09-21,"General","12","Huron West","Cameron, Malcolm Graeme","Cameron","Malcolm","Graeme","Man",NA,"Liberal Party of Canada","Defeated",1849
+"Ontario",1911-09-21,"General","12","Kent East","Gordon, David Alexander","Gordon","David","Alexander","Man","Manufacturer","Liberal Party of Canada","Elected",2604
+"Ontario",1911-09-21,"General","12","Kent East","French, Harry James","French","Harry","James","Man",NA,"Conservative (1867-1942)","Defeated",2321
+"Ontario",1911-09-21,"General","12","Kent West","McCoig, Archibald Blake","McCoig","Archibald","Blake","Man","Farmer","Liberal Party of Canada","Elected",3671
+"Ontario",1911-09-21,"General","12","Kent West","Stanworth, Ward","Stanworth","Ward",NA,"Man",NA,"Conservative (1867-1942)","Defeated",3605
+"Ontario",1911-09-21,"General","12","Kingston","Nickle, William Folger","Nickle","William","Folger","Man","Lawyer","Conservative (1867-1942)","Elected",2322
+"Ontario",1911-09-21,"General","12","Kingston","Mowat, John McDonald","Mowat","John","McDonald","Man",NA,"Liberal Party of Canada","Defeated",1977
+"Ontario",1911-09-21,"General","12","Lambton East","Armstrong, Joseph Emmanuel","Armstrong","Joseph","Emmanuel","Man","Oil producer","Conservative (1867-1942)","Elected",2720
+"Ontario",1911-09-21,"General","12","Lambton East","Fairbank, Charles Oliver","Fairbank","Charles","Oliver","Man",NA,"Liberal Party of Canada","Defeated",2226
+"Ontario",1911-09-21,"General","12","Lambton West","Pardee, Frederick Forsyth","Pardee","Frederick","Forsyth","Man","Barrister-at-law","Liberal Party of Canada","Elected",3139
+"Ontario",1911-09-21,"General","12","Lambton West","Lesueur, Richard Esnouf","Lesueur","Richard","Esnouf","Man",NA,"Conservative (1867-1942)","Defeated",3050
+"Ontario",1911-09-21,"General","12","Lanark North","Thoburn, William","Thoburn","William",NA,"Man","Woollen manufacturer","Conservative (1867-1942)","Elected",1613
+"Ontario",1911-09-21,"General","12","Lanark North","Caldwell, Thomas Boyd","Caldwell","Thomas","Boyd","Man","Woollen manufacturer","Liberal Party of Canada","Defeated",1386
+"Ontario",1911-09-21,"General","12","Lanark South","Haggart, John Graham","Haggart","John","Graham","Man","Mill owner","Conservative (1867-1942)","Elected",2234
+"Ontario",1911-09-21,"General","12","Lanark South","Mckimm, George Frederick","Mckimm","George","Frederick","Man",NA,"Liberal Party of Canada","Defeated",1067
+"Ontario",1911-09-21,"General","12","Leeds","Taylor, George","Taylor","George",NA,"Man","Manufacturer","Conservative (1867-1942)","Elected",2392
+"Ontario",1911-09-21,"General","12","Leeds","Cross, Firman","Cross","Firman",NA,"Man",NA,"Liberal Party of Canada","Defeated",1452
+"Ontario",1911-09-21,"General","12","Lennox and Addington","Paul, William James","Paul","William","James","Man","Manufacturer","Conservative (1867-1942)","Elected",2580
+"Ontario",1911-09-21,"General","12","Lennox and Addington","Vrooman, John Perry","Vrooman","John","Perry","Man",NA,"Liberal Party of Canada","Defeated",1994
+"Ontario",1911-09-21,"General","12","Lincoln","Lancaster, Edward Arthur","Lancaster","Edward","Arthur","Man","Lawyer","Conservative (1867-1942)","Elected",4576
+"Ontario",1911-09-21,"General","12","Lincoln","Lovelace, Edwin John","Lovelace","Edwin","John","Man","Journalist","Liberal Party of Canada","Defeated",3023
+"Ontario",1911-09-21,"General","12","London","Beattie, Thomas","Beattie","Thomas",NA,"Man","Businessman","Conservative (1867-1942)","Elected",5263
+"Ontario",1911-09-21,"General","12","London","Mcevoy, John Millar","Mcevoy","John","Millar","Man",NA,"Unknown","Defeated",3352
+"Ontario",1911-09-21,"General","12","Middlesex East","Elson, Peter","Elson","Peter",NA,"Man","Farmer","Conservative (1867-1942)","Elected",2477
+"Ontario",1911-09-21,"General","12","Middlesex East","Routledge, George Albert","Routledge","George","Albert","Man",NA,"Liberal Party of Canada","Defeated",1816
+"Ontario",1911-09-21,"General","12","Middlesex North","Elliott, George Adam","Elliott","George","Adam","Man","Farmer","Conservative (1867-1942)","Elected",1768
+"Ontario",1911-09-21,"General","12","Middlesex North","Smith, Alexander Wilson","Smith","Alexander","Wilson","Man","Farmer","Liberal Party of Canada","Defeated",1715
+"Ontario",1911-09-21,"General","12","Middlesex West","Ross, Duncan Campbell","Ross","Duncan","Campbell","Man","Lawyer","Liberal Party of Canada","Elected",1883
+"Ontario",1911-09-21,"General","12","Middlesex West","Cobban, James","Cobban","James",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1752
+"Ontario",1911-09-21,"General","12","Muskoka","Wright, William","Wright","William",NA,"Man","Blacksmith","Conservative (1867-1942)","Elected",2282
+"Ontario",1911-09-21,"General","12","Muskoka","Thomas, Geo. Henry Oakwood","Thomas","Geo.","Henry Oakwood","Man",NA,"Liberal Party of Canada","Defeated",1262
+"Ontario",1911-09-21,"General","12","Nipissing","Gordon, George","Gordon","George",NA,"Man","Lumber merchant","Conservative (1867-1942)","Elected",5872
+"Ontario",1911-09-21,"General","12","Nipissing","Young, Alfred James","Young","Alfred","James","Man",NA,"Liberal Party of Canada","Defeated",5327
+"Ontario",1911-09-21,"General","12","Norfolk","Charlton, William Andrew","Charlton","William","Andrew","Man","Businessman","Liberal Party of Canada","Elected",3179
+"Ontario",1911-09-21,"General","12","Norfolk","McCall, Alexander","McCall","Alexander",NA,"Man",NA,"Conservative (1867-1942)","Defeated",3061
+"Ontario",1911-09-21,"General","12","Northumberland East","Walker, Henry Joseph","Walker","Henry","Joseph","Man","Hardware merchant","Conservative (1867-1942)","Elected",2518
+"Ontario",1911-09-21,"General","12","Northumberland East","Weatherson, Alexander","Weatherson","Alexander",NA,"Man",NA,"Liberal Party of Canada","Defeated",2127
+"Ontario",1911-09-21,"General","12","Northumberland West","Munson, Charles Arthur","Munson","Charles","Arthur","Man",NA,"Conservative (1867-1942)","Elected",1426
+"Ontario",1911-09-21,"General","12","Northumberland West","McColl, John B.","McColl","John","B.","Man","Lawyer","Liberal Party of Canada","Defeated",1420
+"Ontario",1911-09-21,"General","12","Ontario North","Sharpe, Samuel Simpson","Sharpe","Samuel","Simpson","Man","Lawyer","Conservative (1867-1942)","Elected",2130
+"Ontario",1911-09-21,"General","12","Ontario North","Mowat, Herbert Macdonald","Mowat","Herbert","Macdonald","Man",NA,"Liberal Party of Canada","Defeated",1572
+"Ontario",1911-09-21,"General","12","Ontario South","Smith, William","Smith","William",NA,"Man","Farmer","Conservative (1867-1942)","Elected",2917
+"Ontario",1911-09-21,"General","12","Ontario South","Fowke, Frederick Luther","Fowke","Frederick","Luther","Man","Businessman","Liberal Party of Canada","Defeated",2547
+"Ontario",1911-09-21,"General","12","Ottawa (City of)","Fripp, Alfred Ernest","Fripp","Alfred","Ernest","Man","Lawyer","Conservative (1867-1942)","Elected",7062
+"Ontario",1911-09-21,"General","12","Ottawa (City of)","Chabot, John Léo","Chabot","John","Léo","Man","Physician","Conservative (1867-1942)","Elected",6892
+"Ontario",1911-09-21,"General","12","Ottawa (City of)","McGiverin, Harold Buchanan","McGiverin","Harold","Buchanan","Man","Lawyer","Liberal Party of Canada","Defeated",6540
+"Ontario",1911-09-21,"General","12","Ottawa (City of)","Pinard, Joseph Albert","Pinard","Joseph","Albert","Man",NA,"Liberal Party of Canada","Defeated",6366
+"Ontario",1911-09-21,"General","12","Ottawa (City of)","Mccallum, Allan Gordon","Mccallum","Allan","Gordon","Man",NA,"Socialist","Defeated",298
+"Ontario",1911-09-21,"General","12","Oxford North","Nesbitt, Edward Walter","Nesbitt","Edward","Walter","Man","Real estate and insurance agent","Liberal Party of Canada","Elected",2898
+"Ontario",1911-09-21,"General","12","Oxford North","Wallace, James Gamble","Wallace","James","Gamble","Man",NA,"Conservative (1867-1942)","Defeated",2603
+"Ontario",1911-09-21,"General","12","Oxford South","Sutherland, Donald","Sutherland","Donald",NA,"Man","Farmer","Conservative (1867-1942)","Elected",2503
+"Ontario",1911-09-21,"General","12","Oxford South","Schell, Malcolm Smith","Schell","Malcolm","Smith","Man","Farmer","Liberal Party of Canada","Defeated",2479
+"Ontario",1911-09-21,"General","12","Parry Sound","Arthurs, James","Arthurs","James",NA,"Man","Hardware merchant","Conservative (1867-1942)","Elected",2976
+"Ontario",1911-09-21,"General","12","Parry Sound","Morrison, George","Morrison","George",NA,"Man",NA,"Liberal Party of Canada","Defeated",1918
+"Ontario",1911-09-21,"General","12","Peel","Blain, Richard","Blain","Richard",NA,"Man","Hardware merchant","Conservative (1867-1942)","Elected",2656
+"Ontario",1911-09-21,"General","12","Peel","Lowe, William James","Lowe","William","James","Man",NA,"Liberal Party of Canada","Defeated",2340
+"Ontario",1911-09-21,"General","12","Perth North","Morphy, Hugh Boulton","Morphy","Hugh","Boulton","Man","Barrister","Conservative (1867-1942)","Elected",3741
+"Ontario",1911-09-21,"General","12","Perth North","Rankin, James Palmer","Rankin","James","Palmer","Man","Physician","Liberal Party of Canada","Defeated",3244
+"Ontario",1911-09-21,"General","12","Perth South","Steele, Michael","Steele","Michael",NA,"Man","Physician","Conservative (1867-1942)","Elected",2303
+"Ontario",1911-09-21,"General","12","Perth South","McIntyre, Gilbert Howard","McIntyre","Gilbert","Howard","Man","Pharmacist","Liberal Party of Canada","Defeated",2221
+"Ontario",1911-09-21,"General","12","Peterborough East","Sexsmith, John Albert","Sexsmith","John","Albert","Man","Farmer","Conservative (1867-1942)","Elected",1992
+"Ontario",1911-09-21,"General","12","Peterborough East","Kerr, Francis Dean","Kerr","Francis","Dean","Man",NA,"Liberal Party of Canada","Defeated",1399
+"Ontario",1911-09-21,"General","12","Peterborough West","Burnham, John Hampden","Burnham","John","Hampden","Man","Lawyer","Conservative (1867-1942)","Elected",2944
+"Ontario",1911-09-21,"General","12","Peterborough West","Stratton, James Robert","Stratton","James","Robert","Man","Businessman","Liberal Party of Canada","Defeated",2902
+"Ontario",1911-09-21,"General","12","Prescott","Proulx, Edmond","Proulx","Edmond",NA,"Man","Lawyer","Liberal Party of Canada","Elected",2532
+"Ontario",1911-09-21,"General","12","Prescott","Quesnel, Eugène-Grégoire","Quesnel","Eugène-Grégoire",NA,"Man",NA,"Nationalist Conservative","Defeated",1220
+"Ontario",1911-09-21,"General","12","Prince Edward","Hepburn, Bernard Rickart","Hepburn","Bernard","Rickart","Man","Businessman","Conservative (1867-1942)","Elected",2304
+"Ontario",1911-09-21,"General","12","Prince Edward","Currie, Morley","Currie","Morley",NA,"Man","Physician","Liberal Party of Canada","Defeated",2024
+"Ontario",1911-09-21,"General","12","Renfrew North","White, Gerald Verner","White","Gerald","Verner","Man","Mining engineer","Conservative (1867-1942)","Elected",2573
+"Ontario",1911-09-21,"General","12","Renfrew North","Munro, James Francis","Munro","James","Francis","Man",NA,"Liberal Party of Canada","Defeated",1865
+"Ontario",1911-09-21,"General","12","Renfrew South","Low, Thomas Andrew","Low","Thomas","Andrew","Man","Manufacturer","Liberal Party of Canada","Elected",2687
+"Ontario",1911-09-21,"General","12","Renfrew South","Maloney, Martin James","Maloney","Martin","James","Man","Physician","Conservative (1867-1942)","Defeated",2068
+"Ontario",1911-09-21,"General","12","Russell","Murphy, Charles","Murphy","Charles",NA,"Man","Lawyer","Liberal Party of Canada","Elected",3812
+"Ontario",1911-09-21,"General","12","Russell","Vincent, Joseph Ulric","Vincent","Joseph","Ulric","Man",NA,"Conservative (1867-1942)","Defeated",2836
+"Ontario",1911-09-21,"General","12","Simcoe East","Bennett, William Humphrey","Bennett","William","Humphrey","Man","Lawyer","Conservative (1867-1942)","Elected",3315
+"Ontario",1911-09-21,"General","12","Simcoe East","Chew, Thomas Edward Manley","Chew","Thomas","Edward Manley","Man","Lumber merchant","Liberal Party of Canada","Defeated",2849
+"Ontario",1911-09-21,"General","12","Simcoe North","Currie, John Allister","Currie","John","Allister","Man","Journalist","Conservative (1867-1942)","Elected",2648
+"Ontario",1911-09-21,"General","12","Simcoe North","McCarthy, Leighton Goldie","McCarthy","Leighton","Goldie","Man",NA,"Liberal Party of Canada","Defeated",2476
+"Ontario",1911-09-21,"General","12","Simcoe South","Lennox, Haughton","Lennox","Haughton",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",3278
+"Ontario",1911-09-21,"General","12","Simcoe South","Hammell, Thomas","Hammell","Thomas",NA,"Man",NA,"Liberal Party of Canada","Defeated",1636
+"Ontario",1911-09-21,"General","12","Stormont","Alguire, Duncan Orestes","Alguire","Duncan","Orestes","Man","Physician","Conservative (1867-1942)","Elected",2539
+"Ontario",1911-09-21,"General","12","Stormont","Gogo, George Ira","Gogo","George","Ira","Man",NA,"Liberal Party of Canada","Defeated",2408
+"Ontario",1911-09-21,"General","12","Thunder Bay and Rainy River","Carrick, John James","Carrick","John","James","Man","Real estate broker","Conservative (1867-1942)","Elected (Acclamation)",0
+"Ontario",1911-09-21,"General","12","Toronto Centre","Bristol, Edmund James","Bristol","Edmund","James","Man","Barrister","Conservative (1867-1942)","Elected",5156
+"Ontario",1911-09-21,"General","12","Toronto Centre","Macguire, Charles Alfred","Macguire","Charles","Alfred","Man",NA,"Liberal Party of Canada","Defeated",2994
+"Ontario",1911-09-21,"General","12","Toronto East","Kemp, Albert Edward","Kemp","Albert","Edward","Man","Businessman","Conservative (1867-1942)","Elected",7082
+"Ontario",1911-09-21,"General","12","Toronto East","Russell, Joseph","Russell","Joseph",NA,"Man","Brick manufacturer","Independent","Defeated",2281
+"Ontario",1911-09-21,"General","12","Toronto East","Pearson, James","Pearson","James",NA,"Man",NA,"Liberal Party of Canada","Defeated",1878
+"Ontario",1911-09-21,"General","12","Toronto East","Richards, James William","Richards","James","William","Man",NA,"Labour","Defeated",463
+"Ontario",1911-09-21,"General","12","Toronto North","Foster, George Eulas","Foster","George","Eulas","Man","Teacher","Conservative (1867-1942)","Elected",6474
+"Ontario",1911-09-21,"General","12","Toronto North","Shaw, William Henry","Shaw","William","Henry","Man",NA,"Liberal Party of Canada","Defeated",3157
+"Ontario",1911-09-21,"General","12","Toronto South","Macdonell, Angus Claude","Macdonell","Angus","Claude","Man","Lawyer","Conservative (1867-1942)","Elected",4473
+"Ontario",1911-09-21,"General","12","Toronto South","Ward, John Joseph","Ward","John","Joseph","Man",NA,"Liberal Party of Canada","Defeated",2110
+"Ontario",1911-09-21,"General","12","Toronto West","Osler, Edmund Boyd","Osler","Edmund","Boyd","Man","Financier","Conservative (1867-1942)","Elected",11442
+"Ontario",1911-09-21,"General","12","Toronto West","Waldron, Gordon","Waldron","Gordon",NA,"Man",NA,"Liberal Party of Canada","Defeated",3437
+"Ontario",1911-09-21,"General","12","Victoria","Hughes, Samuel","Hughes","Samuel",NA,"Man","Editor","Liberal-Conservative","Elected",4001
+"Ontario",1911-09-21,"General","12","Victoria","Begg, James Burnett","Begg","James","Burnett","Man",NA,"Unknown","Defeated",2707
+"Ontario",1911-09-21,"General","12","Waterloo North","Weichel, William George","Weichel","William","George","Man","Merchant","Conservative (1867-1942)","Elected",3774
+"Ontario",1911-09-21,"General","12","Waterloo North","King, William Lyon Mackenzie","King","William","Lyon Mackenzie","Man","Lawyer","Liberal Party of Canada","Defeated",3459
+"Ontario",1911-09-21,"General","12","Waterloo South","Clare, George Adam","Clare","George","Adam","Man","Businessman","Conservative (1867-1942)","Elected",3492
+"Ontario",1911-09-21,"General","12","Waterloo South","Moyer, Sylvester","Moyer","Sylvester",NA,"Man",NA,"Liberal Party of Canada","Defeated",2639
+"Ontario",1911-09-21,"General","12","Welland","German, William Manley","German","William","Manley","Man","Barrister","Liberal Party of Canada","Elected (Acclamation)",0
+"Ontario",1911-09-21,"General","12","Wellington North","Clarke, William Aurelius","Clarke","William","Aurelius","Man","Merchant","Conservative (1867-1942)","Elected",2530
+"Ontario",1911-09-21,"General","12","Wellington North","Martin, Alexander Munro","Martin","Alexander","Munro","Man","Businessman","Liberal Party of Canada","Defeated",2505
+"Ontario",1911-09-21,"General","12","Wellington South","Guthrie, Hugh","Guthrie","Hugh",NA,"Man","Lawyer","Liberal Party of Canada","Elected",3368
+"Ontario",1911-09-21,"General","12","Wellington South","Evans, Arthur Thomas Kelly","Evans","Arthur","Thomas Kelly","Man",NA,"Conservative (1867-1942)","Defeated",2744
+"Ontario",1911-09-21,"General","12","Wentworth","Wilson, Gordon Crooks","Wilson","Gordon","Crooks","Man","Hardware merchant","Conservative (1867-1942)","Elected",3832
+"Ontario",1911-09-21,"General","12","Wentworth","Sealey, William Oscar","Sealey","William","Oscar","Man","Farmer","Liberal Party of Canada","Defeated",2939
+"Ontario",1911-09-21,"General","12","York Centre","Wallace, Thomas George","Wallace","Thomas","George","Man","Merchant","Conservative (1867-1942)","Elected",2838
+"Ontario",1911-09-21,"General","12","York Centre","Dewart, Herbert Hartly","Dewart","Herbert","Hartly","Man",NA,"Liberal Party of Canada","Defeated",2328
+"Ontario",1911-09-21,"General","12","York North","Armstrong, John Alexander Macdonald","Armstrong","John","Alexander Macdonald","Man","Conveyancer","Conservative (1867-1942)","Elected",2730
+"Ontario",1911-09-21,"General","12","York North","Robinette, Thomas Cowper","Robinette","Thomas","Cowper","Man",NA,"Liberal Party of Canada","Defeated",2671
+"Ontario",1911-09-21,"General","12","York South","Maclean, William Findlay","Maclean","William","Findlay","Man","Farmer","Independent Conservative","Elected",7194
+"Ontario",1911-09-21,"General","12","York South","Heyd, Louis Franklin","Heyd","Louis","Franklin","Man",NA,"Unknown","Defeated",1901
+"Prince Edward Island",1911-09-21,"General","12","King's","Hughes, James Joseph","Hughes","James","Joseph","Man","Merchant","Liberal Party of Canada","Elected",2538
+"Prince Edward Island",1911-09-21,"General","12","King's","Fraser, Austin Levi","Fraser","Austin","Levi","Man","Lawyer","Conservative (1867-1942)","Defeated",2524
+"Prince Edward Island",1911-09-21,"General","12","Prince","Richards, James William","Richards","James","William","Man","Merchant","Liberal Party of Canada","Elected",3529
+"Prince Edward Island",1911-09-21,"General","12","Prince","Murphy, Patrick Charles","Murphy","Patrick","Charles","Man","Physician","Conservative (1867-1942)","Defeated",3414
+"Prince Edward Island",1911-09-21,"General","12","Queen's","McLean, Angus Alexander","McLean","Angus","Alexander","Man","Lawyer","Conservative (1867-1942)","Elected",4392
+"Prince Edward Island",1911-09-21,"General","12","Queen's","Nicholson, Donald","Nicholson","Donald",NA,"Man","Tobacco manufacturer","Conservative (1867-1942)","Elected",4308
+"Prince Edward Island",1911-09-21,"General","12","Queen's","Warburton, Alexander Bannerman","Warburton","Alexander","Bannerman","Man","Lawyer","Liberal Party of Canada","Defeated",4016
+"Prince Edward Island",1911-09-21,"General","12","Queen's","Prowse, Lemuel Ezra","Prowse","Lemuel","Ezra","Man","Merchant","Liberal Party of Canada","Defeated",3915
+"Quebec",1911-09-21,"General","12","Argenteuil","Perley, George Halsey","Perley","George","Halsey","Man","Lumber merchant","Conservative (1867-1942)","Elected",1824
+"Quebec",1911-09-21,"General","12","Argenteuil","Tanner, Agenor Henry","Tanner","Agenor","Henry","Man",NA,"Liberal Party of Canada","Defeated",1227
+"Quebec",1911-09-21,"General","12","Bagot","Marcile, Joseph Edmond","Marcile","Joseph","Edmond","Man","Merchant","Liberal Party of Canada","Elected",1845
+"Quebec",1911-09-21,"General","12","Bagot","Marsil, Tancrède","Marsil","Tancrède",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1750
+"Quebec",1911-09-21,"General","12","Beauce","Béland, Henri Sévérin","Béland","Henri","Sévérin","Man","Physician","Liberal Party of Canada","Elected",4823
+"Quebec",1911-09-21,"General","12","Beauce","Cloutier, Georges","Cloutier","Georges",NA,"Man",NA,"Conservative (1867-1942)","Defeated",3459
+"Quebec",1911-09-21,"General","12","Beauharnois","Papineau, Louis Joseph","Papineau","Louis","Joseph","Man","Lawyer","Conservative (1867-1942)","Elected",1876
+"Quebec",1911-09-21,"General","12","Beauharnois","Bergeron, Joseph Gédéon Horace","Bergeron","Joseph","Gédéon Horace","Man","Lawyer","Conservative (1867-1942)","Defeated",1849
+"Quebec",1911-09-21,"General","12","Bellechasse","Lavallée, Joseph Octave","Lavallée","Joseph","Octave","Man","Company director","Conservative (1867-1942)","Elected",1742
+"Quebec",1911-09-21,"General","12","Bellechasse","Talbot, Onésiphore Ernest","Talbot","Onésiphore","Ernest","Man","Farmer","Liberal Party of Canada","Defeated",1696
+"Quebec",1911-09-21,"General","12","Berthier","Barrette, Joseph Arthur","Barrette","Joseph","Arthur","Man","Businessman","Conservative (1867-1942)","Elected",1638
+"Quebec",1911-09-21,"General","12","Berthier","Ecrement, Joseph Wilfrid Arthur","Ecrement","Joseph","Wilfrid Arthur","Man","Notary","Liberal Party of Canada","Defeated",1612
+"Quebec",1911-09-21,"General","12","Berthier","Denis, Jean-Joseph","Denis","Jean-Joseph",NA,"Man",NA,"Independent","Defeated",383
+"Quebec",1911-09-21,"General","12","Bonaventure","Marcil, Charles","Marcil","Charles",NA,"Man","Journalist","Liberal Party of Canada","Elected",2444
+"Quebec",1911-09-21,"General","12","Bonaventure","Mousseau, Joseph-Alfred","Mousseau","Joseph-Alfred",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1395
+"Quebec",1911-09-21,"General","12","Brome","Baker, George Harold","Baker","George","Harold","Man","Lawyer","Conservative (1867-1942)","Elected",1520
+"Quebec",1911-09-21,"General","12","Brome","Fisher, Sydney Arthur","Fisher","Sydney","Arthur","Man","Farmer","Liberal Party of Canada","Defeated",1496
+"Quebec",1911-09-21,"General","12","Chambly--Verchères","Rainville, Joseph Hormisdas","Rainville","Joseph","Hormisdas","Man","Lawyer","Conservative (1867-1942)","Elected",2712
+"Quebec",1911-09-21,"General","12","Chambly--Verchères","Geoffrion, Victor","Geoffrion","Victor",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",2576
+"Quebec",1911-09-21,"General","12","Champlain","Blondin, Pierre Édouard","Blondin","Pierre","Édouard","Man","Lawyer","Conservative (1867-1942)","Elected",3811
+"Quebec",1911-09-21,"General","12","Champlain","Rousseau, Jeffrey Alexandre","Rousseau","Jeffrey","Alexandre","Man","Banker","Liberal Party of Canada","Defeated",3444
+"Quebec",1911-09-21,"General","12","Charlevoix","Forget, Joseph David Rodolphe","Forget","Joseph","David Rodolphe","Man","Financier","Conservative (1867-1942)","Elected",2020
+"Quebec",1911-09-21,"General","12","Charlevoix","Cannon, Lucien","Cannon","Lucien",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",1358
+"Quebec",1911-09-21,"General","12","Châteauguay","Brown, James Pollock","Brown","James","Pollock","Man","Farmer","Liberal Party of Canada","Elected",1281
+"Quebec",1911-09-21,"General","12","Châteauguay","Morris, James","Morris","James",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1241
+"Quebec",1911-09-21,"General","12","Chicoutimi--Saguenay","Girard, Joseph","Girard","Joseph",NA,"Man","Farmer","Independent Conservative","Elected",3798
+"Quebec",1911-09-21,"General","12","Chicoutimi--Saguenay","Scott, Benjamin Alexandre","Scott","Benjamin","Alexandre","Man",NA,"Liberal Party of Canada","Defeated",2523
+"Quebec",1911-09-21,"General","12","Chicoutimi--Saguenay","Boivin, Elzéar","Boivin","Elzéar",NA,"Man",NA,"Independent","Defeated",1989
+"Quebec",1911-09-21,"General","12","Chicoutimi--Saguenay","Lévesque, Elzéar","Lévesque","Elzéar",NA,"Man",NA,"Independent","Defeated",1531
+"Quebec",1911-09-21,"General","12","Compton","Cromwell, Frederick Robert","Cromwell","Frederick","Robert","Man","Farmer","Conservative (1867-1942)","Elected",2953
+"Quebec",1911-09-21,"General","12","Compton","Hunt, Aylmer Byron","Hunt","Aylmer","Byron","Man","Company director","Liberal Party of Canada","Defeated",2877
+"Quebec",1911-09-21,"General","12","Dorchester","Sévigny, Albert","Sévigny","Albert",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2506
+"Quebec",1911-09-21,"General","12","Dorchester","Roy, Joseph Alfred Ernest","Roy","Joseph","Alfred Ernest","Man",NA,"Liberal Party of Canada","Defeated",2164
+"Quebec",1911-09-21,"General","12","Drummond--Arthabaska","Brouillard, Joseph Ovide","Brouillard","Joseph","Ovide","Man","Businessman","Liberal Party of Canada","Elected",3800
+"Quebec",1911-09-21,"General","12","Drummond--Arthabaska","Gilbert, Arthur","Gilbert","Arthur",NA,"Man",NA,"Nationalist","Defeated",3533
+"Quebec",1911-09-21,"General","12","Gaspé","Gauthier, Louis-Philippe","Gauthier","Louis-Philippe",NA,"Man","Physician","Conservative (1867-1942)","Elected",2470
+"Quebec",1911-09-21,"General","12","Gaspé","Lemieux, Rodolphe","Lemieux","Rodolphe",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",1900
+"Quebec",1911-09-21,"General","12","Hochelaga","Coderre, Louis","Coderre","Louis",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",7178
+"Quebec",1911-09-21,"General","12","Hochelaga","Rivet, Louis Alfred Adhémar","Rivet","Louis","Alfred Adhémar","Man",NA,"Unknown","Defeated",5805
+"Quebec",1911-09-21,"General","12","Huntingdon","Robb, James Alexander","Robb","James","Alexander","Man","Merchant","Liberal Party of Canada","Elected",1318
+"Quebec",1911-09-21,"General","12","Huntingdon","Walsh, Robert Nelson","Walsh","Robert","Nelson","Man","Veterinary surgeon","Conservative (1867-1942)","Defeated",1172
+"Quebec",1911-09-21,"General","12","Jacques Cartier","Monk, Frederick Debartzch","Monk","Frederick","Debartzch","Man","Lawyer","Conservative (1867-1942)","Elected",5782
+"Quebec",1911-09-21,"General","12","Jacques Cartier","Boyer, Louis-Joseph-Charles-Émile","Boyer","Louis-Joseph-Charles-Émile",NA,"Man",NA,"Liberal Party of Canada","Defeated",4442
+"Quebec",1911-09-21,"General","12","Joliette","Guilbault, Joseph Pierre Octave","Guilbault","Joseph","Pierre Octave","Man","Notary","Conservative (1867-1942)","Elected",2239
+"Quebec",1911-09-21,"General","12","Joliette","Dubeau, Joseph Adélard","Dubeau","Joseph","Adélard","Man","Lawyer","Liberal Party of Canada","Defeated",2173
+"Quebec",1911-09-21,"General","12","Kamouraska","Lapointe, Ernest","Lapointe","Ernest",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1840
+"Quebec",1911-09-21,"General","12","Kamouraska","Potvin, Wilfrid Adélard","Potvin","Wilfrid","Adélard","Man",NA,"Conservative (1867-1942)","Defeated",1754
+"Quebec",1911-09-21,"General","12","L'Assomption","Séguin, Paul-Arthur","Séguin","Paul-Arthur",NA,"Man","Notary","Liberal Party of Canada","Elected",1508
+"Quebec",1911-09-21,"General","12","L'Assomption","Morin, Louis Joseph Siméon","Morin","Louis","Joseph Siméon","Man",NA,"Conservative (1867-1942)","Defeated",1209
+"Quebec",1911-09-21,"General","12","L'Islet","Paquet, Eugène","Paquet","Eugène",NA,"Man","Physician","Conservative (1867-1942)","Elected",1578
+"Quebec",1911-09-21,"General","12","L'Islet","Bourgault, Armand","Bourgault","Armand",NA,"Man",NA,"Liberal Party of Canada","Defeated",1144
+"Quebec",1911-09-21,"General","12","Labelle","Achim, Honoré","Achim","Honoré",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2902
+"Quebec",1911-09-21,"General","12","Labelle","Major, Charles Beautron","Major","Charles","Beautron","Man","Lawyer","Liberal Party of Canada","Defeated",2818
+"Quebec",1911-09-21,"General","12","Laprairie--Napierville","Lanctôt, Roch","Lanctôt","Roch",NA,"Man","Farmer","Liberal Party of Canada","Elected",1795
+"Quebec",1911-09-21,"General","12","Laprairie--Napierville","Monette, Gustave","Monette","Gustave",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1626
+"Quebec",1911-09-21,"General","12","Laval","Wilson, Charles Avila","Wilson","Charles","Avila","Man","Lawyer","Liberal Party of Canada","Elected",2648
+"Quebec",1911-09-21,"General","12","Laval","Léonard, Joseph-Édouard-Émile","Léonard","Joseph-Édouard-Émile",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",2449
+"Quebec",1911-09-21,"General","12","Lévis","Bourassa, Joseph Boutin","Bourassa","Joseph","Boutin","Man","Notary","Liberal Party of Canada","Elected",2800
+"Quebec",1911-09-21,"General","12","Lévis","Bégin, Joseph","Bégin","Joseph",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1971
+"Quebec",1911-09-21,"General","12","Lotbinière","Fortier, Edmond","Fortier","Edmond",NA,"Man","Teacher","Liberal Party of Canada","Elected",1870
+"Quebec",1911-09-21,"General","12","Lotbinière","Laliberté, Wilfrid","Laliberté","Wilfrid",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1520
+"Quebec",1911-09-21,"General","12","Maisonneuve","Verville, Alphonse","Verville","Alphonse",NA,"Man","Plumber","Labour","Elected",11538
+"Quebec",1911-09-21,"General","12","Maisonneuve","Villeneuve, Eugène Walter","Villeneuve","Eugène","Walter","Man",NA,"Conservative (1867-1942)","Defeated",9349
+"Quebec",1911-09-21,"General","12","Maskinongé","Bellemare, Adélard","Bellemare","Adélard",NA,"Man","Business agent","Independent Conservative","Elected",1507
+"Quebec",1911-09-21,"General","12","Maskinongé","Mayrand, Hormidas","Mayrand","Hormidas",NA,"Man","Farmer","Liberal Party of Canada","Defeated",1398
+"Quebec",1911-09-21,"General","12","Mégantic","Pacaud, Lucien Turcotte","Pacaud","Lucien","Turcotte","Man","Lawyer","Liberal Party of Canada","Elected",2986
+"Quebec",1911-09-21,"General","12","Mégantic","Huard, Louis Honoré","Huard","Louis","Honoré","Man",NA,"Unknown","Defeated",2619
+"Quebec",1911-09-21,"General","12","Missisquoi","Kay, William Frederic","Kay","William","Frederic","Man","Farmer","Liberal Party of Canada","Elected",2002
+"Quebec",1911-09-21,"General","12","Missisquoi","Pickel, Follin Horace","Pickel","Follin","Horace","Man",NA,"Conservative (1867-1942)","Defeated",1800
+"Quebec",1911-09-21,"General","12","Montcalm","Lafortune, David Arthur","Lafortune","David","Arthur","Man","Lawyer","Liberal Party of Canada","Elected",1432
+"Quebec",1911-09-21,"General","12","Montcalm","Marion, Joseph-Eugène-Edmond","Marion","Joseph-Eugène-Edmond",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1374
+"Quebec",1911-09-21,"General","12","Montmagny","L'Espérance, David Ovide","L'Espérance","David","Ovide","Man","Manufacturer","Conservative (1867-1942)","Elected",1653
+"Quebec",1911-09-21,"General","12","Montmagny","Béland, Henri Sévérin","Béland","Henri","Sévérin","Man","Physician","Liberal Party of Canada","Defeated",1328
+"Quebec",1911-09-21,"General","12","Montmorency","Forget, Joseph David Rodolphe","Forget","Joseph","David Rodolphe","Man","Businessman","Conservative (1867-1942)","Elected",1359
+"Quebec",1911-09-21,"General","12","Montmorency","Parent, Georges","Parent","Georges",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",1292
+"Quebec",1911-09-21,"General","12","Nicolet","Lamarche, Paul-Émile","Lamarche","Paul-Émile",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2805
+"Quebec",1911-09-21,"General","12","Nicolet","Turcotte, Gustave Adolphe","Turcotte","Gustave","Adolphe","Man","Physician","Liberal Party of Canada","Defeated",2721
+"Quebec",1911-09-21,"General","12","Pontiac","Brabazon, Gerald Hugh","Brabazon","Gerald","Hugh","Man","Land surveyor","Conservative (1867-1942)","Elected",2059
+"Quebec",1911-09-21,"General","12","Pontiac","Cahill, Frank S.","Cahill","Frank","S.","Man","Real estate broker","Liberal Party of Canada","Defeated",1393
+"Quebec",1911-09-21,"General","12","Pontiac","Hodgins, George Frederick","Hodgins","George","Frederick","Man","Merchant","Liberal Party of Canada","Defeated",1166
+"Quebec",1911-09-21,"General","12","Portneuf","Delisle, Michel-Siméon","Delisle","Michel-Siméon",NA,"Man","Merchant","Liberal Party of Canada","Elected",2868
+"Quebec",1911-09-21,"General","12","Portneuf","Grenier, Honoré","Grenier","Honoré",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2105
+"Quebec",1911-09-21,"General","12","Quebec County","Pelletier, Louis-Philippe","Pelletier","Louis-Philippe",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2295
+"Quebec",1911-09-21,"General","12","Quebec County","Graham, J.H.","Graham","J.H.",NA,"Man",NA,"Liberal Party of Canada","Defeated",2247
+"Quebec",1911-09-21,"General","12","Quebec East","Laurier, Wilfrid","Laurier","Wilfrid",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
+"Quebec",1911-09-21,"General","12","Quebec West","Power, William","Power","William",NA,"Man","Merchant","Liberal Party of Canada","Elected",1219
+"Quebec",1911-09-21,"General","12","Quebec West","Price, William","Price","William",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",1128
+"Quebec",1911-09-21,"General","12","Quebec-Centre","Lachance, Arthur","Lachance","Arthur",NA,"Man","Lawyer","Liberal Party of Canada","Elected",2122
+"Quebec",1911-09-21,"General","12","Quebec-Centre","Hone, Jules Jr.","Hone","Jules","Jr.","Man",NA,"Conservative (1867-1942)","Defeated",1529
+"Quebec",1911-09-21,"General","12","Richelieu","Cardin, Pierre-Joseph-Arthur","Cardin","Pierre-Joseph-Arthur",NA,"Man","Lawyer","Liberal Party of Canada","Elected",2373
+"Quebec",1911-09-21,"General","12","Richelieu","Vanasse, Arthur Pierre","Vanasse","Arthur","Pierre","Man",NA,"Conservative (1867-1942)","Defeated",1639
+"Quebec",1911-09-21,"General","12","Richmond--Wolfe","Tobin, Edmund William","Tobin","Edmund","William","Man","Lumber merchant","Liberal Party of Canada","Elected",3855
+"Quebec",1911-09-21,"General","12","Richmond--Wolfe","Hayes, John","Hayes","John",NA,"Man",NA,"Conservative (1867-1942)","Defeated",3311
+"Quebec",1911-09-21,"General","12","Rimouski","Boulay, Herménégilde","Boulay","Herménégilde",NA,"Man","Merchant and farmer","Conservative (1867-1942)","Elected",4179
+"Quebec",1911-09-21,"General","12","Rimouski","Ross, Jean Auguste","Ross","Jean","Auguste","Man","Physician","Liberal Party of Canada","Defeated",3747
+"Quebec",1911-09-21,"General","12","Rouville","Lemieux, Rodolphe","Lemieux","Rodolphe",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1467
+"Quebec",1911-09-21,"General","12","Rouville","Dubreuil, Hormidas","Dubreuil","Hormidas",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1189
+"Quebec",1911-09-21,"General","12","Shefford","Boivin, Georges Henri","Boivin","Georges","Henri","Man","Lawyer","Liberal Party of Canada","Elected",2271
+"Quebec",1911-09-21,"General","12","Shefford","Davidson, James","Davidson","James",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2245
+"Quebec",1911-09-21,"General","12","Sherbrooke (Town of)","McCrea, Francis N.","McCrea","Francis","N.","Man","Lumber merchant","Liberal Party of Canada","Elected",2321
+"Quebec",1911-09-21,"General","12","Sherbrooke (Town of)","White, Charles Dickinson","White","Charles","Dickinson","Man",NA,"Conservative (1867-1942)","Defeated",2282
+"Quebec",1911-09-21,"General","12","Soulanges","Laurier, Wilfrid","Laurier","Wilfrid",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1045
+"Quebec",1911-09-21,"General","12","Soulanges","Lortie, Joseph Arthur","Lortie","Joseph","Arthur","Man","Physician","Conservative (1867-1942)","Defeated",903
+"Quebec",1911-09-21,"General","12","St. Anne","Doherty, Charles Joseph","Doherty","Charles","Joseph","Man","Lawyer","Conservative (1867-1942)","Elected",3319
+"Quebec",1911-09-21,"General","12","St. Anne","Walsh, Joseph Charles","Walsh","Joseph","Charles","Man","Lawyer","Liberal Party of Canada","Defeated",2566
+"Quebec",1911-09-21,"General","12","St. Antoine","Ames, Herbert Brown","Ames","Herbert","Brown","Man","Businessman","Conservative (1867-1942)","Elected",4677
+"Quebec",1911-09-21,"General","12","St. Antoine","Hersey, Milton Lewis","Hersey","Milton","Lewis","Man",NA,"Liberal Party of Canada","Defeated",2668
+"Quebec",1911-09-21,"General","12","St. Hyacinthe","Gauthier, Louis Joseph","Gauthier","Louis","Joseph","Man","Lawyer","Liberal Party of Canada","Elected",2295
+"Quebec",1911-09-21,"General","12","St. Hyacinthe","Guimont, Ernest","Guimont","Ernest",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2155
+"Quebec",1911-09-21,"General","12","St. James","Lapointe, Louis Audet","Lapointe","Louis","Audet","Man","Merchant","Liberal Party of Canada","Elected",4653
+"Quebec",1911-09-21,"General","12","St. James","Asselin, Olivar","Asselin","Olivar",NA,"Man","Journalist","Nationalist Conservative","Defeated",3179
+"Quebec",1911-09-21,"General","12","St. Johns--Iberville","Demers, Joseph","Demers","Joseph",NA,"Man","Lawyer","Liberal Party of Canada","Elected",2638
+"Quebec",1911-09-21,"General","12","St. Johns--Iberville","Lareau, Joseph-Edmond","Lareau","Joseph-Edmond",NA,"Man",NA,"Conservative (1867-1942)","Defeated",729
+"Quebec",1911-09-21,"General","12","St. Lawrence","Bickerdike, Robert","Bickerdike","Robert",NA,"Man","Businessman","Liberal Party of Canada","Elected",4469
+"Quebec",1911-09-21,"General","12","St. Lawrence","Johnston, George Franklin","Johnston","George","Franklin","Man",NA,"Conservative (1867-1942)","Defeated",3421
+"Quebec",1911-09-21,"General","12","St. Lawrence","Cotton, William Ulric","Cotton","William","Ulric","Man",NA,"Socialist","Defeated",359
+"Quebec",1911-09-21,"General","12","St. Mary","Martin, Médéric","Martin","Médéric",NA,"Man","Manufacturer","Liberal Party of Canada","Elected",5089
+"Quebec",1911-09-21,"General","12","St. Mary","massé, Joseph-Avila","massé","Joseph-Avila",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2912
+"Quebec",1911-09-21,"General","12","St. Mary","Allard, Charles-Norbert","Allard","Charles-Norbert",NA,"Man",NA,"Labour","Defeated",100
+"Quebec",1911-09-21,"General","12","Stanstead","Lovell, Charles Henry","Lovell","Charles","Henry","Man","Farmer","Liberal Party of Canada","Elected",2310
+"Quebec",1911-09-21,"General","12","Stanstead","Paige, George Waldo","Paige","George","Waldo","Man",NA,"Conservative (1867-1942)","Defeated",2106
+"Quebec",1911-09-21,"General","12","Témiscouata","Gauvreau, Charles Arthur","Gauvreau","Charles","Arthur","Man","Notary","Liberal Party of Canada","Elected",2913
+"Quebec",1911-09-21,"General","12","Témiscouata","Lebel, Luc","Lebel","Luc",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2701
+"Quebec",1911-09-21,"General","12","Terrebonne","Nantel, Wilfrid Bruno","Nantel","Wilfrid","Bruno","Man","Lawyer","Conservative (1867-1942)","Elected",2727
+"Quebec",1911-09-21,"General","12","Terrebonne","Desjardins, Samuel","Desjardins","Samuel",NA,"Man","Physician","Liberal Party of Canada","Defeated",2101
+"Quebec",1911-09-21,"General","12","Three Rivers and St. Maurice","Bureau, Jacques","Bureau","Jacques",NA,"Man","Lawyer","Liberal Party of Canada","Elected",3155
+"Quebec",1911-09-21,"General","12","Three Rivers and St. Maurice","Shaw, Gordon","Shaw","Gordon",NA,"Man","Surgeon","Conservative (1867-1942)","Defeated",3146
+"Quebec",1911-09-21,"General","12","Two Mountains","Éthier, Joseph Arthur Calixte","Éthier","Joseph","Arthur Calixte","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
+"Quebec",1911-09-21,"General","12","Vaudreuil","Boyer, Gustave Benjamin","Boyer","Gustave","Benjamin","Man","Journalist","Liberal Party of Canada","Elected",1345
+"Quebec",1911-09-21,"General","12","Vaudreuil","Macdonald, Archibald de Léry","Macdonald","Archibald","de Léry","Man",NA,"Conservative (1867-1942)","Defeated",1130
+"Quebec",1911-09-21,"General","12","Wright","Devlin, Emmanuel Berchmans","Devlin","Emmanuel","Berchmans","Man","Lawyer","Liberal Party of Canada","Elected",4003
+"Quebec",1911-09-21,"General","12","Wright","Cousineau, Louis","Cousineau","Louis",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2819
+"Quebec",1911-09-21,"General","12","Yamaska","Mondou, Albéric Archie","Mondou","Albéric","Archie","Man","Notary public","Conservative (1867-1942)","Elected",1870
+"Quebec",1911-09-21,"General","12","Yamaska","Gladu, Joseph Ernest Oscar","Gladu","Joseph","Ernest Oscar","Man","Notary","Liberal Party of Canada","Defeated",1777
+"Saskatchewan",1911-09-21,"General","12","Assiniboia","Turriff, John Gillanders","Turriff","John","Gillanders","Man","Farmer","Liberal Party of Canada","Elected",5804
+"Saskatchewan",1911-09-21,"General","12","Assiniboia","Smith, Christopher ""C"".","Smith","Christopher","""C"".","Man",NA,"Conservative (1867-1942)","Defeated",3578
+"Saskatchewan",1911-09-21,"General","12","Battleford","Champagne, Albert","Champagne","Albert",NA,"Man","Farmer","Liberal Party of Canada","Elected",5453
+"Saskatchewan",1911-09-21,"General","12","Battleford","Howell, Marshall Job","Howell","Marshall","Job","Man",NA,"Conservative (1867-1942)","Defeated",3522
+"Saskatchewan",1911-09-21,"General","12","Humboldt","Neely, David Bradley","Neely","David","Bradley","Man","Physician","Liberal Party of Canada","Elected",7265
+"Saskatchewan",1911-09-21,"General","12","Humboldt","Hearn, John Harvey","Hearn","John","Harvey","Man",NA,"Conservative (1867-1942)","Defeated",2947
+"Saskatchewan",1911-09-21,"General","12","Mackenzie","Cash, Edward L.","Cash","Edward","L.","Man","Physician","Liberal Party of Canada","Elected",4090
+"Saskatchewan",1911-09-21,"General","12","Mackenzie","Livingstone, Charles Donald","Livingstone","Charles","Donald","Man",NA,"Conservative (1867-1942)","Defeated",1739
+"Saskatchewan",1911-09-21,"General","12","Moose Jaw","Knowles, William Erskine","Knowles","William","Erskine","Man","Lawyer","Liberal Party of Canada","Elected",8285
+"Saskatchewan",1911-09-21,"General","12","Moose Jaw","Rathwell, Samuel K.","Rathwell","Samuel","K.","Man",NA,"Conservative (1867-1942)","Defeated",5953
+"Saskatchewan",1911-09-21,"General","12","Prince Albert","McKay, James","McKay","James",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",3316
+"Saskatchewan",1911-09-21,"General","12","Prince Albert","Rutan, William Windfield","Rutan","William","Windfield","Man","Merchant","Liberal Party of Canada","Defeated",2961
+"Saskatchewan",1911-09-21,"General","12","Qu'Appelle","Thomson, Levi","Thomson","Levi",NA,"Man","Lawyer","Liberal Party of Canada","Elected",4298
+"Saskatchewan",1911-09-21,"General","12","Qu'Appelle","Lake, Richard Stuart","Lake","Richard","Stuart","Man","Lawyer","Conservative (1867-1942)","Defeated",3874
+"Saskatchewan",1911-09-21,"General","12","Regina","Martin, William Melville","Martin","William","Melville","Man","Lawyer","Liberal Party of Canada","Elected",5811
+"Saskatchewan",1911-09-21,"General","12","Regina","Cowan, Walter Davy","Cowan","Walter","Davy","Man","Dentist","Conservative (1867-1942)","Defeated",4081
+"Saskatchewan",1911-09-21,"General","12","Regina","Fletcher, Richard","Fletcher","Richard",NA,"Man",NA,"Independent","Defeated",745
+"Saskatchewan",1911-09-21,"General","12","Saltcoats","MacNutt, Thomas","MacNutt","Thomas",NA,"Man",NA,"Liberal Party of Canada","Elected",3619
+"Saskatchewan",1911-09-21,"General","12","Saltcoats","Nixon, James","Nixon","James",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1934
+"Saskatchewan",1911-09-21,"General","12","Saskatoon","McCraney, George Ewan","McCraney","George","Ewan","Man","Lawyer","Liberal Party of Canada","Elected",5328
+"Saskatchewan",1911-09-21,"General","12","Saskatoon","Maclean, Donald","Maclean","Donald",NA,"Man",NA,"Conservative (1867-1942)","Defeated",3756
+"Saskatchewan",1911-09-21,"General","12","Saskatoon","Baumunk, Newel Edward","Baumunk","Newel","Edward","Man",NA,"Independent","Defeated",656
+"Yukon",1911-09-21,"General","12","Yukon","Thompson, Alfred","Thompson","Alfred",NA,"Man","Physician","Conservative (1867-1942)","Elected",1285
+"Yukon",1911-09-21,"General","12","Yukon","Congdon, Frederick Tennyson","Congdon","Frederick","Tennyson","Man",NA,"Liberal Party of Canada","Defeated",829

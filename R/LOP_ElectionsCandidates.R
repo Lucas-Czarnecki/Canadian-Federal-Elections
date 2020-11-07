@@ -68,7 +68,7 @@ FED_1867_present <- FED_1867_present %>%
 
 # ---- Additional Data Processing ----
 
-# Assign appropriate variable class.
+# 1. Assign appropriate variable class.
 FED_1867_present$Province_Territory <- factor(FED_1867_present$Province_Territory, levels = c("British Columbia", "Alberta", "Saskatchewan", "Manitoba", "Ontario", "Quebec", "Newfoundland and Labrador", "New Brunswick", "Nova Scotia", "Prince Edward Island", "Yukon", "Northwest Territories", "Nunavut"))
 FED_1867_present$Election_Type <- as.factor(FED_1867_present$Election_Type)
 FED_1867_present$Parliament <- as.factor(FED_1867_present$Parliament)
@@ -77,10 +77,32 @@ FED_1867_present$Gender <- as.factor(FED_1867_present$Gender)
 FED_1867_present$Political_Affiliation <- as.factor(FED_1867_present$Political_Affiliation)
 FED_1867_present$Result <- as.factor(FED_1867_present$Result)
 
-# Clean candidate names for consistency. Some last names are uppercase while others are not. Apply capitalization only to the first letter of each name. 
-# FED_1867_present$Candidate <- stringr::str_to_title(FED_1867_present$Candidate, locale = "en")
+# 2. Casefold candidates' last names. Multiple candidates' last names are recorded in all uppercase, which is inconsistent with most of the data. 
 
-# Note: While the above command provides a considerable improvement to the data, some names are adversely effected (e.g., "McDaniel" becomes "Mcdaniel" and "McIntyre" becomes "Mcintyre"). Addressing these limitations may be worthwhile. 
+# Create new variables to differentiate first, middle, and last names.
+FED_1867_present <- FED_1867_present %>% 
+  separate(col = Candidate, into = c("Last_Name", "First_Name"), sep = ", ", remove=FALSE, extra = "merge") %>% 
+  separate(col = First_Name, into = c("First_Name", "Middle_Names"), sep = " ", extra = "merge")
+
+# Remove redundant commas from names that appear to be the result of human error.
+FED_1867_present$First_Name <- gsub(',','',FED_1867_present$First_Name)
+FED_1867_present$Last_Name <- gsub(',','',FED_1867_present$Last_Name)
+FED_1867_present$Middle_Names <- gsub(',','',FED_1867_present$Middle_Names)
+
+# If last name is in all uppercase then transform the length of the string such that only the first letter is capitalized.
+FED_1867_present$Last_Name <- ifelse(str_detect(FED_1867_present$Last_Name, "^[:upper:]+$"), 
+                                     stringr::str_to_title(FED_1867_present$Last_Name, locale = "en"), 
+                                     FED_1867_present$Last_Name)
+
+# Recreate `Candidate` combined key using cleaned first, middle, and last names.
+FED_1867_present$Candidate <-  paste(FED_1867_present$Last_Name, FED_1867_present$First_Name, sep=", ") %>% 
+  paste(FED_1867_present$Middle_Names, sep=" ") 
+
+# Remove or replace missing values to tidy cleaned `Candidate` key. 
+FED_1867_present$Candidate <- gsub(", NA NA", ", (unknown)", FED_1867_present$Candidate)
+FED_1867_present$Candidate <- gsub(" NA", "", FED_1867_present$Candidate)
+
+# NOTE: The current script misses names that have spacing in between strings (e.g., DES BRISAY). Other names that were all uppercase may not return the correct spelling (e.g., "MACDONALD" becomes "Macdonald" and not "MacDonald"). With the latter cases, some names may only be fixed manually after consulting official documentation. 
 
 # ---- Export Data ----
 

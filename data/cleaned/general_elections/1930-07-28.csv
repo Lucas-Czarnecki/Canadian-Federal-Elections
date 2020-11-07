@@ -1,543 +1,543 @@
-"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Alberta",1930-07-28,"General","17","Acadia","Gardiner, Robert","Man","Farmer","United Farmers of Alberta","Elected (Acclamation)",0
-"Alberta",1930-07-28,"General","17","Athabaska","Buckley, John Francis","Man","Barrister","Liberal Party of Canada","Elected",5504
-"Alberta",1930-07-28,"General","17","Athabaska","Kellner, Donald Ferdinand","Man","Farmer","United Farmers of Alberta","Defeated",4190
-"Alberta",1930-07-28,"General","17","Athabaska","MICHAJLUK, Emanuel","Man","Farmer, barrister","Conservative (1867-1942)","Defeated",2218
-"Alberta",1930-07-28,"General","17","Battle River","Spencer, Henry Elvins","Man","Farmer","United Farmers of Alberta","Elected",6874
-"Alberta",1930-07-28,"General","17","Battle River","MORRISON, John William Geddie","Man","Barrister","Conservative (1867-1942)","Defeated",3927
-"Alberta",1930-07-28,"General","17","Bow River","Garland, Edward Joseph","Man","Farmer","United Farmers of Alberta","Elected",5825
-"Alberta",1930-07-28,"General","17","Bow River","GRAHAM, Dawson","Man","Physician","Conservative (1867-1942)","Defeated",4653
-"Alberta",1930-07-28,"General","17","Calgary East","Stanley, George Douglass","Man","Physician","Conservative (1867-1942)","Elected",11344
-"Alberta",1930-07-28,"General","17","Calgary East","Adshead, Herbert Bealey","Man","Retired farmer","Labour","Defeated",6002
-"Alberta",1930-07-28,"General","17","Calgary West","Bennett, Richard Bedford","Man","Barrister","Conservative (1867-1942)","Elected",13883
-"Alberta",1930-07-28,"General","17","Calgary West","MCLAURIN, Colin Campbell","Man","Barrister","Liberal Party of Canada","Defeated",5887
-"Alberta",1930-07-28,"General","17","Camrose","Lucas, William Thomas","Man","Farmer","United Farmers of Alberta","Elected",6462
-"Alberta",1930-07-28,"General","17","Camrose","MCIVOR, Donald Randolph","Man","Merchant","Liberal Party of Canada","Defeated",4432
-"Alberta",1930-07-28,"General","17","Edmonton East","Bury, Ambrose Upton Gledstanes","Man","Barrister","Conservative (1867-1942)","Elected",6662
-"Alberta",1930-07-28,"General","17","Edmonton East","Blatchford, Kenneth Alexander","Man","Insurance broker","Liberal Party of Canada","Defeated",4921
-"Alberta",1930-07-28,"General","17","Edmonton West","Stewart, Charles A.","Man","Farmer","Liberal Party of Canada","Elected",9223
-"Alberta",1930-07-28,"General","17","Edmonton West","JAMIESON, Frederick Charles","Man","Barrister","Conservative (1867-1942)","Defeated",8960
-"Alberta",1930-07-28,"General","17","Lethbridge","Stewart, John Smith","Man","Dentist","Conservative (1867-1942)","Elected",4863
-"Alberta",1930-07-28,"General","17","Lethbridge","KING, Thomas Owen","Man","Farmer","Progressive","Defeated",3880
-"Alberta",1930-07-28,"General","17","Lethbridge","BAALIM, Arthur George","Man","Automobile dealer","Liberal Party of Canada","Defeated",3779
-"Alberta",1930-07-28,"General","17","Macleod","Coote, George Gibson","Man","Farmer","United Farmers of Alberta","Elected",6897
-"Alberta",1930-07-28,"General","17","Macleod","MATHESON, Joseph Duncan","Man","Barrister","Conservative (1867-1942)","Defeated",6105
-"Alberta",1930-07-28,"General","17","Medicine Hat","Gershaw, Frederick William","Man","Physician","Liberal Party of Canada","Elected",6043
-"Alberta",1930-07-28,"General","17","Medicine Hat","BLACKSTOCK, Gilbert McNeill","Man","Barrister","Conservative (1867-1942)","Defeated",3109
-"Alberta",1930-07-28,"General","17","Peace River","Kennedy, Donald MacBeth","Man","Farmer","United Farmers of Alberta","Elected",10204
-"Alberta",1930-07-28,"General","17","Peace River","THOMSON, John Ewing","Man","Merchant","Liberal Party of Canada","Defeated",8390
-"Alberta",1930-07-28,"General","17","Red Deer","Speakman, Alfred","Man","Farmer","United Farmers of Alberta","Elected",6256
-"Alberta",1930-07-28,"General","17","Red Deer","BOTTERILL, William John","Man","Agent","Liberal Party of Canada","Defeated",4571
-"Alberta",1930-07-28,"General","17","Vegreville","Luchkovich, Michael","Man","Teacher","United Farmers of Alberta","Elected",5510
-"Alberta",1930-07-28,"General","17","Vegreville","GORDON, Charles","Man","Lumber merchant","Liberal Party of Canada","Defeated",4500
-"Alberta",1930-07-28,"General","17","Wetaskiwin","Irvine, William","Man","Farmer","United Farmers of Alberta","Elected",4750
-"Alberta",1930-07-28,"General","17","Wetaskiwin","RUSSELL, Charles Homer","Man","Barrister","Conservative (1867-1942)","Defeated",4326
-"Alberta",1930-07-28,"General","17","Wetaskiwin","Hayhurst, William","Man","Farmer","Liberal Party of Canada","Defeated",2876
-"British Columbia",1930-07-28,"General","17","Cariboo","Fraser, John Anderson","Man","Merchant","Conservative (1867-1942)","Elected",8548
-"British Columbia",1930-07-28,"General","17","Cariboo","PERRY, Henry George Thomas","Man","Insurance agent","Liberal Party of Canada","Defeated",8220
-"British Columbia",1930-07-28,"General","17","Comox--Alberni","Neill, Alan Webster","Man","Retired merchant","Independent","Elected",5651
-"British Columbia",1930-07-28,"General","17","Comox--Alberni","GRAHAM, Thomas","Man","Civil engineer","Conservative (1867-1942)","Defeated",3270
-"British Columbia",1930-07-28,"General","17","Fraser Valley","Barber, Harry James","Man","Druggist","Conservative (1867-1942)","Elected",6946
-"British Columbia",1930-07-28,"General","17","Fraser Valley","McGeer, Gerald Grattan","Man","Barrister","Liberal Party of Canada","Defeated",6374
-"British Columbia",1930-07-28,"General","17","Kootenay East","McLean, Michael Dalton","Man","Overman","Conservative (1867-1942)","Elected",4674
-"British Columbia",1930-07-28,"General","17","Kootenay East","GUIMONT, Joseph-Francis","Man","Train dispatcher","Liberal Party of Canada","Defeated",4468
-"British Columbia",1930-07-28,"General","17","Kootenay West","Esling, William Kemble","Man","General agent","Conservative (1867-1942)","Elected",7699
-"British Columbia",1930-07-28,"General","17","Kootenay West","MCLEAN, Duncan Daniel","Man","Railroad conductor","Liberal Party of Canada","Defeated",5938
-"British Columbia",1930-07-28,"General","17","Nanaimo","Dickie, Charles Herbert","Man","Miner","Conservative (1867-1942)","Elected",11827
-"British Columbia",1930-07-28,"General","17","Nanaimo","O'HALLORAN, Cornelius Hawkins","Man","Barrister","Liberal Party of Canada","Defeated",8596
-"British Columbia",1930-07-28,"General","17","New Westminster","Reid, Thomas","Man","Rancher","Liberal Party of Canada","Elected",13293
-"British Columbia",1930-07-28,"General","17","New Westminster","McQuarrie, William Garland","Man","Barrister","Conservative (1867-1942)","Defeated",10502
-"British Columbia",1930-07-28,"General","17","Skeena","Hanson, Olof","Man","Lumberman","Liberal Party of Canada","Elected",5351
-"British Columbia",1930-07-28,"General","17","Skeena","Brady, James Charles","Man","School principal","Conservative (1867-1942)","Defeated",4327
-"British Columbia",1930-07-28,"General","17","Vancouver Centre","Mackenzie, Ian Alistair","Man","Barrister","Liberal Party of Canada","Elected",12064
-"British Columbia",1930-07-28,"General","17","Vancouver Centre","Stevens, Henry Herbert","Man","Accountant and broker","Conservative (1867-1942)","Defeated",10023
-"British Columbia",1930-07-28,"General","17","Vancouver North","Munn, Albert Edward","Man","Lumberman","Liberal Party of Canada","Elected",6799
-"British Columbia",1930-07-28,"General","17","Vancouver North","McRae, Alexander Duncan","Man","Retired","Conservative (1867-1942)","Defeated",5757
-"British Columbia",1930-07-28,"General","17","Vancouver South","MacInnis, Angus","Man","Motorman","Independent Labour","Elected",15732
-"British Columbia",1930-07-28,"General","17","Vancouver South","Ladner, Leon Johnson","Man","Barrister","Conservative (1867-1942)","Defeated",14850
-"British Columbia",1930-07-28,"General","17","Vancouver South","BENNETT, William","Man","Labourer","Communist Party of Canada","Defeated",861
-"British Columbia",1930-07-28,"General","17","Vancouver--Burrard","Hanbury, Wilfred","Man","Lumberman","Liberal Party of Canada","Elected",16619
-"British Columbia",1930-07-28,"General","17","Vancouver--Burrard","HAMILTON, Robert James","Man","Lumberman","Conservative (1867-1942)","Defeated",13885
-"British Columbia",1930-07-28,"General","17","Vancouver--Burrard","WOODWORTH, Charles Milton","Man","Barrister","Independent","Defeated",687
-"British Columbia",1930-07-28,"General","17","Vancouver--Burrard","APPLEBY, Edwin Clarke","Man","Watchman","Prohibitionist","Defeated",266
-"British Columbia",1930-07-28,"General","17","Victoria","Plunkett, D'Arcy Britton","Man","Sheet metal worker","Conservative (1867-1942)","Elected",8319
-"British Columbia",1930-07-28,"General","17","Victoria","HENDERSON, Stuart Alexander","Man","Barrister","Liberal Party of Canada","Defeated",6303
-"British Columbia",1930-07-28,"General","17","Yale","Stirling, Grote","Man","Civil engineer","Conservative (1867-1942)","Elected",8447
-"British Columbia",1930-07-28,"General","17","Yale","WILKINS, Walter Gordon","Man","Broker","Liberal Party of Canada","Defeated",4908
-"Manitoba",1930-07-28,"General","17","Brandon","Beaubier, David Wilson","Man","Farmer","Conservative (1867-1942)","Elected",8512
-"Manitoba",1930-07-28,"General","17","Brandon","Crerar, Thomas Alexander","Man","Minister of Railways and Canals","Liberal Party of Canada","Defeated",6457
-"Manitoba",1930-07-28,"General","17","Brandon","BRIGDEN, Beatrice Alice","Woman","Educationalist","Labour","Defeated",1331
-"Manitoba",1930-07-28,"General","17","Dauphin","Bowman, James Langstaff","Man","Barrister","Conservative (1867-1942)","Elected",7083
-"Manitoba",1930-07-28,"General","17","Dauphin","Ward, William John","Man","Farmer","Liberal Progressive","Defeated",6399
-"Manitoba",1930-07-28,"General","17","Lisgar","Brown, John Livingstone","Man","Farmer","Liberal Progressive","Elected",5162
-"Manitoba",1930-07-28,"General","17","Lisgar","HEWITT, Robert Thomas","Man","Station agent","Conservative (1867-1942)","Defeated",4990
-"Manitoba",1930-07-28,"General","17","Macdonald","Weir, William Gilbert","Man","Farmer","Liberal Progressive","Elected",6100
-"Manitoba",1930-07-28,"General","17","Macdonald","WOODS, John Ernest","Man","Grain merchant","Conservative (1867-1942)","Defeated",5601
-"Manitoba",1930-07-28,"General","17","Marquette","Mullins, Henry Alfred","Man","Retired farmer and exporter","Conservative (1867-1942)","Elected",8663
-"Manitoba",1930-07-28,"General","17","Marquette","Glen, James Allison","Man","Barrister","Liberal Progressive","Defeated",5979
-"Manitoba",1930-07-28,"General","17","Neepawa","Murphy, Thomas Gerow","Man","Druggist","Conservative (1867-1942)","Elected",5638
-"Manitoba",1930-07-28,"General","17","Neepawa","Milne, Robert","Man","Farmer","Progressive","Defeated",5161
-"Manitoba",1930-07-28,"General","17","Nelson","Stitt, Bernard Munroe","Man","Agent","Conservative (1867-1942)","Elected",4741
-"Manitoba",1930-07-28,"General","17","Nelson","Bird, Thomas William","Man","Clergyman","Progressive","Defeated",4067
-"Manitoba",1930-07-28,"General","17","Portage la Prairie","Burns, William Herbert","Man","Merchant","Conservative (1867-1942)","Elected",6372
-"Manitoba",1930-07-28,"General","17","Portage la Prairie","McPherson, Ewen Alexander","Man","Barrister-at-law","Liberal Party of Canada","Defeated",6230
-"Manitoba",1930-07-28,"General","17","Provencher","Beaubien, Arthur-Lucien","Man","Farmer","Liberal Progressive","Elected",4562
-"Manitoba",1930-07-28,"General","17","Provencher","BELANGER, Joseph-Arthur","Man","Physician","Conservative (1867-1942)","Defeated",2274
-"Manitoba",1930-07-28,"General","17","Provencher","KOBZAR, Wasyl","Man","Farmer","Independent Conservative","Defeated",715
-"Manitoba",1930-07-28,"General","17","Provencher","AYOTTE, Alexandre","Man","Farmer","Liberal Party of Canada","Defeated",321
-"Manitoba",1930-07-28,"General","17","Selkirk","Stitt, James Herbert","Man","Barrister","Conservative (1867-1942)","Elected",6581
-"Manitoba",1930-07-28,"General","17","Selkirk","Bancroft, Leland Payson","Man","Traveller","Liberal Progressive","Defeated",6098
-"Manitoba",1930-07-28,"General","17","Selkirk","NAWIZOWSKY, John","Man","Printer","Communist Party of Canada","Defeated",1709
-"Manitoba",1930-07-28,"General","17","Souris","Willis, Errick French","Man","Barrister","Conservative (1867-1942)","Elected",6252
-"Manitoba",1930-07-28,"General","17","Souris","Steedsman, James","Man","Farmer","Progressive","Defeated",5780
-"Manitoba",1930-07-28,"General","17","Springfield","Hay, Thomas","Man","Farmer","Conservative (1867-1942)","Elected",5446
-"Manitoba",1930-07-28,"General","17","Springfield","Bissett, Edgar Douglas Richmond","Man","Physician","Liberal Progressive","Defeated",3617
-"Manitoba",1930-07-28,"General","17","Springfield","LANGE, Frederick William","Man","Salesman","Labour","Defeated",1106
-"Manitoba",1930-07-28,"General","17","Springfield","ROSS, Donald Andrew","Man","Nurseryman","Independent Liberal","Defeated",511
-"Manitoba",1930-07-28,"General","17","Springfield","GRABOWSKI, Stanley","Man","Restaurateur","Independent Liberal","Defeated",307
-"Manitoba",1930-07-28,"General","17","St. Boniface","Howden, John Power","Man","Physician","Liberal Party of Canada","Elected",7045
-"Manitoba",1930-07-28,"General","17","St. Boniface","COOK, Edgar Honwell","Man","Locomotive engineer","Conservative (1867-1942)","Defeated",4630
-"Manitoba",1930-07-28,"General","17","St. Boniface","HANSFORD, Edwin Arnold","Man","Switchman","Labour","Defeated",1943
-"Manitoba",1930-07-28,"General","17","Winnipeg North","Heaps, Abraham Albert","Man","Upholsterer","Labour","Elected",6907
-"Manitoba",1930-07-28,"General","17","Winnipeg North","Blake, Matthew Robert","Man","Physician","Conservative (1867-1942)","Defeated",5011
-"Manitoba",1930-07-28,"General","17","Winnipeg North","MORRIS, Leslie","Man",NA,"Liberal Party of Canada","Defeated",2164
-"Manitoba",1930-07-28,"General","17","Winnipeg North Centre","Woodsworth, James Shaver","Man","Lecturer","Labour","Elected",8265
-"Manitoba",1930-07-28,"General","17","Winnipeg North Centre","GARGAN, Thomas","Man","Contractor","Independent Conservative","Defeated",2028
-"Manitoba",1930-07-28,"General","17","Winnipeg North Centre","FORKIN, Martin Joseph","Man","Transient worker","Communist Party of Canada","Defeated",492
-"Manitoba",1930-07-28,"General","17","Winnipeg South","Rogers, Robert","Man","Gentleman","Conservative (1867-1942)","Elected",10117
-"Manitoba",1930-07-28,"General","17","Winnipeg South","McDiarmid, John Stewart","Man","Lumber merchant","Liberal Party of Canada","Defeated",9774
-"Manitoba",1930-07-28,"General","17","Winnipeg South","TANNER, Charles Albert","Man","Editor","Independent Labour","Defeated",256
-"Manitoba",1930-07-28,"General","17","Winnipeg South Centre","Kennedy, William Walker","Man","Barrister","Conservative (1867-1942)","Elected",17355
-"Manitoba",1930-07-28,"General","17","Winnipeg South Centre","Thorson, Joseph Thorarinn","Man","Barrister","Liberal Party of Canada","Defeated",13637
-"New Brunswick",1930-07-28,"General","17","Charlotte","Ganong, Arthur D.","Man","Manufacturer","Conservative (1867-1942)","Elected",5595
-"New Brunswick",1930-07-28,"General","17","Charlotte","SCOVIL, John W.","Man","Merchant","Liberal Party of Canada","Defeated",4092
-"New Brunswick",1930-07-28,"General","17","Gloucester","Veniot, Peter John","Man","Insurance agent","Liberal Party of Canada","Elected",7716
-"New Brunswick",1930-07-28,"General","17","Gloucester","Robichaud, Albany M.","Man","Barrister","Conservative (1867-1942)","Defeated",7460
-"New Brunswick",1930-07-28,"General","17","Kent","Arsenault, Telesphore","Man","Farmer","Conservative (1867-1942)","Elected",4884
-"New Brunswick",1930-07-28,"General","17","Kent","Bourgeois, Alfred Edmond","Man","Landowner","Liberal Party of Canada","Defeated",4504
-"New Brunswick",1930-07-28,"General","17","Northumberland","McDade, George Manning","Man","Barrister","Conservative (1867-1942)","Elected",8095
-"New Brunswick",1930-07-28,"General","17","Northumberland","Burchill, George Percival","Man","Lumber merchant","Liberal Party of Canada","Defeated",5637
-"New Brunswick",1930-07-28,"General","17","Restigouche--Madawaska","Cormier, Maximilien Dominic (Maxime)","Man","Barrister","Conservative (1867-1942)","Elected",10037
-"New Brunswick",1930-07-28,"General","17","Restigouche--Madawaska","MCEVOY, Thomas Henry","Man","Manager","Liberal Party of Canada","Defeated",9489
-"New Brunswick",1930-07-28,"General","17","Royal","Jones, George Burpee","Man","Merchant","Conservative (1867-1942)","Elected",8698
-"New Brunswick",1930-07-28,"General","17","Royal","WHITE, Donald V.","Man","Barrister-at-law","Liberal Party of Canada","Defeated",5774
-"New Brunswick",1930-07-28,"General","17","St. John--Albert","MacLaren, Murray","Man","Physician","Conservative (1867-1942)","Elected",16454
-"New Brunswick",1930-07-28,"General","17","St. John--Albert","Bell, Thomas","Man","Merchant","Conservative (1867-1942)","Elected",16395
-"New Brunswick",1930-07-28,"General","17","St. John--Albert","McAvity, Allan Getchell","Man","Merchant","Liberal Party of Canada","Defeated",8595
-"New Brunswick",1930-07-28,"General","17","St. John--Albert","Ryan, William Michael","Man","Barrister","Liberal Party of Canada","Defeated",8371
-"New Brunswick",1930-07-28,"General","17","Victoria--Carleton","Smith, Benjamin Franklin","Man","Produce merchant","Conservative (1867-1942)","Elected",8628
-"New Brunswick",1930-07-28,"General","17","Victoria--Carleton","Foster, Albion Roudolph","Man","Farmer","Liberal Party of Canada","Defeated",5776
-"New Brunswick",1930-07-28,"General","17","Westmorland","Price, Otto Baird","Man","Dentist","Conservative (1867-1942)","Elected",13304
-"New Brunswick",1930-07-28,"General","17","Westmorland","Emmerson, Henry Read","Man","Salesman","Liberal Party of Canada","Defeated",10836
-"New Brunswick",1930-07-28,"General","17","York--Sunbury","Hanson, Richard Burpee","Man","Barrister","Conservative (1867-1942)","Elected",10166
-"New Brunswick",1930-07-28,"General","17","York--Sunbury","WINSLOW, J.J. Fraser","Man","Barrister","Liberal Party of Canada","Defeated",4552
-"Nova Scotia",1930-07-28,"General","17","Antigonish--Guysborough","Duff, William","Man","Merchant and ship owner","Liberal Party of Canada","Elected",6370
-"Nova Scotia",1930-07-28,"General","17","Antigonish--Guysborough","RICE, Howard A.","Man","Merchant","Conservative (1867-1942)","Defeated",5811
-"Nova Scotia",1930-07-28,"General","17","Cape Breton North--Victoria","Johnstone, Lewis Wilkieson","Man","Physician","Conservative (1867-1942)","Elected",7075
-"Nova Scotia",1930-07-28,"General","17","Cape Breton North--Victoria","DWYER, Michael","Man","Mechanical engineer","Liberal Party of Canada","Defeated",5184
-"Nova Scotia",1930-07-28,"General","17","Cape Breton South","MacDonald, Finlay","Man","Barrister","Conservative (1867-1942)","Elected",15886
-"Nova Scotia",1930-07-28,"General","17","Cape Breton South","Cameron, Daniel Alexander","Man","Barrister","Liberal Party of Canada","Defeated",9268
-"Nova Scotia",1930-07-28,"General","17","Colchester","Urquhart, Martin Luther","Man","Wholesale grocer","Liberal Party of Canada","Elected",6131
-"Nova Scotia",1930-07-28,"General","17","Colchester","MacNutt, George Taylor","Man","Lumber merchant","Conservative (1867-1942)","Defeated",5734
-"Nova Scotia",1930-07-28,"General","17","Cumberland","Smith, Robert Knowlton","Man","Barrister","Conservative (1867-1942)","Elected",8854
-"Nova Scotia",1930-07-28,"General","17","Cumberland","SMILEY, John Stanley","Man","Barrister","Liberal Party of Canada","Defeated",7401
-"Nova Scotia",1930-07-28,"General","17","Digby--Annapolis","Short, Harry Bernard","Man","Manager","Conservative (1867-1942)","Elected",8357
-"Nova Scotia",1930-07-28,"General","17","Digby--Annapolis","Pickup, Samuel Walter Willet","Man","Farmer","Liberal Party of Canada","Defeated",8282
-"Nova Scotia",1930-07-28,"General","17","Halifax","Black, William Anderson","Man","Shipping Agent","Conservative (1867-1942)","Elected",21611
-"Nova Scotia",1930-07-28,"General","17","Halifax","Quinn, Felix Patrick","Man","Manufacturer","Conservative (1867-1942)","Elected",21280
-"Nova Scotia",1930-07-28,"General","17","Halifax","JACK, Peter R.","Man","Manufacturer and broker","Liberal Party of Canada","Defeated",19439
-"Nova Scotia",1930-07-28,"General","17","Halifax","CRAGG, Edward Joseph","Man","Merchant","Liberal Party of Canada","Defeated",19185
-"Nova Scotia",1930-07-28,"General","17","Hants--Kings","Ilsley, James Lorimer","Man","Barrister","Liberal Party of Canada","Elected",11059
-"Nova Scotia",1930-07-28,"General","17","Hants--Kings","Foster, Arthur de Witt","Man","Broker","Conservative (1867-1942)","Defeated",9947
-"Nova Scotia",1930-07-28,"General","17","Inverness","MacDougall, Isaac Duncan","Man","Barrister","Conservative (1867-1942)","Elected",4887
-"Nova Scotia",1930-07-28,"General","17","Inverness","Macdonald, Angus Lewis","Man","Barrister","Liberal Party of Canada","Defeated",4722
-"Nova Scotia",1930-07-28,"General","17","Pictou","Cantley, Thomas","Man","Manufacturer","Conservative (1867-1942)","Elected",9672
-"Nova Scotia",1930-07-28,"General","17","Pictou","MACQUARRIE, Josiah H.","Man","Barrister","Liberal Party of Canada","Defeated",9174
-"Nova Scotia",1930-07-28,"General","17","Queens--Lunenburg","Ernst, William Gordon","Man","Barrister","Conservative (1867-1942)","Elected",10504
-"Nova Scotia",1930-07-28,"General","17","Queens--Lunenburg","Kinley, John James","Man","Druggist","Liberal Party of Canada","Defeated",9378
-"Nova Scotia",1930-07-28,"General","17","Richmond--West Cape Breton","Macdonald, John Alexander (1883-1945)","Man","Physician","Conservative (1867-1942)","Elected",4085
-"Nova Scotia",1930-07-28,"General","17","Richmond--West Cape Breton","DOYLE, Edward Charles","Man","Carpenter","Liberal Party of Canada","Defeated",3413
-"Nova Scotia",1930-07-28,"General","17","Shelburne--Yarmouth","Ralston, James Layton","Man","Barrister","Liberal Party of Canada","Elected",8173
-"Nova Scotia",1930-07-28,"General","17","Shelburne--Yarmouth","WALKER, James Marvin","Man","Merchant","Conservative (1867-1942)","Defeated",6800
-"Ontario",1930-07-28,"General","17","Algoma East","Nicholson, George Brecken","Man","Lumberman","Conservative (1867-1942)","Elected",7231
-"Ontario",1930-07-28,"General","17","Algoma East","Bowman, Beniah","Man","Farmer","Liberal Party of Canada","Defeated",6934
-"Ontario",1930-07-28,"General","17","Algoma West","Simpson, Thomas Edward","Man","Merchant","Conservative (1867-1942)","Elected",7531
-"Ontario",1930-07-28,"General","17","Algoma West","WHYTALL, Albert Ernest","Man","Clerk","Liberal Party of Canada","Defeated",6108
-"Ontario",1930-07-28,"General","17","Brant","Smoke, Franklin","Man","Barrister","Conservative (1867-1942)","Elected",5094
-"Ontario",1930-07-28,"General","17","Brant","Harold, John","Man","Manufacturer","Liberal Party of Canada","Defeated",4372
-"Ontario",1930-07-28,"General","17","Brantford City","Ryerson, Robert Edwy","Man","Merchant","Conservative (1867-1942)","Elected",9154
-"Ontario",1930-07-28,"General","17","Brantford City","Macdonald, William Ross","Man","Barrister","Liberal Party of Canada","Defeated",6072
-"Ontario",1930-07-28,"General","17","Bruce North","Malcolm, James","Man","Minister of Trade and Commerce","Liberal Party of Canada","Elected",5620
-"Ontario",1930-07-28,"General","17","Bruce North","MITCHELL, William","Man","President of Circle Bar Knitting Co.","Conservative (1867-1942)","Defeated",5543
-"Ontario",1930-07-28,"General","17","Bruce South","Hall, Walter Allan","Man","Physician","Liberal Party of Canada","Elected",5738
-"Ontario",1930-07-28,"General","17","Bruce South","MOFFAT, Foster Graham","Man","Farmer","Conservative (1867-1942)","Defeated",4837
-"Ontario",1930-07-28,"General","17","Carleton","Garland, William Foster","Man","Druggist","Conservative (1867-1942)","Elected",7317
-"Ontario",1930-07-28,"General","17","Carleton","CUMMINGS, Mortimer Newton","Man","Manufacturer","Liberal Party of Canada","Defeated",7027
-"Ontario",1930-07-28,"General","17","Carleton","MORRIS, Robert Ormond","Man","Merchant","Independent Conservative","Defeated",2369
-"Ontario",1930-07-28,"General","17","Dufferin--Simcoe","Rowe, William Earl","Man","Farmer","Conservative (1867-1942)","Elected",9369
-"Ontario",1930-07-28,"General","17","Dufferin--Simcoe","Case, Wilfrid Garfield","Man","Insurance manager","Liberal Party of Canada","Defeated",4388
-"Ontario",1930-07-28,"General","17","Durham","Bowen, Fred Wellington","Man","Farmer","Conservative (1867-1942)","Elected",6827
-"Ontario",1930-07-28,"General","17","Durham","HOLMAN, Montague John","Man",NA,"Liberal Party of Canada","Defeated",5221
-"Ontario",1930-07-28,"General","17","Elgin West","Hepburn, Mitchell Frederick","Man","Farmer","Liberal Party of Canada","Elected",10020
-"Ontario",1930-07-28,"General","17","Elgin West","DOWLER, Jonathan","Man","Retired merchant","Conservative (1867-1942)","Defeated",8583
-"Ontario",1930-07-28,"General","17","Essex East","Morand, Raymond Ducharme","Man","Physician","Conservative (1867-1942)","Elected",9243
-"Ontario",1930-07-28,"General","17","Essex East","Odette, Edmond George","Man","Manufacturer","Liberal Party of Canada","Defeated",7133
-"Ontario",1930-07-28,"General","17","Essex South","Gott, Eccles James","Man","Real estate broker","Conservative (1867-1942)","Elected",8261
-"Ontario",1930-07-28,"General","17","Essex South","MONTGOMERY, John Clarence","Man","Insurance salesman","Liberal Party of Canada","Defeated",6281
-"Ontario",1930-07-28,"General","17","Essex West","Robinson, Sidney Cecil","Man","Gentleman","Conservative (1867-1942)","Elected",17150
-"Ontario",1930-07-28,"General","17","Essex West","KENNEDY, Glencora","Woman",NA,"Liberal Party of Canada","Defeated",10690
-"Ontario",1930-07-28,"General","17","Fort William","Manion, Robert James","Man","Physician","Conservative (1867-1942)","Elected",6939
-"Ontario",1930-07-28,"General","17","Fort William","WILSON, Charles White","Man","Merchant","Liberal Party of Canada","Defeated",3262
-"Ontario",1930-07-28,"General","17","Fort William","SMITH, Albert Edward","Man","Secretary","Independent","Defeated",594
-"Ontario",1930-07-28,"General","17","Frontenac--Addington","Spankie, William","Man","Physician","Conservative (1867-1942)","Elected",7432
-"Ontario",1930-07-28,"General","17","Frontenac--Addington","STINCHCOMBE, Samuel Dudley","Man","Farmer","Liberal Party of Canada","Defeated",4061
-"Ontario",1930-07-28,"General","17","Glengarry","McGillis, Angus","Man","Farmer","Conservative (1867-1942)","Elected",5059
-"Ontario",1930-07-28,"General","17","Glengarry","HUOT, Joseph A.C.","Man",NA,"Liberal Party of Canada","Defeated",3830
-"Ontario",1930-07-28,"General","17","Grenville--Dundas","Casselman, Arza Clair","Man","Lawyer","Conservative (1867-1942)","Elected",9498
-"Ontario",1930-07-28,"General","17","Grenville--Dundas","TAUGHER, William John","Man","Physician","Liberal Party of Canada","Defeated",5078
-"Ontario",1930-07-28,"General","17","Grey North","Porteous, Victor Clarence","Man","Farmer","Conservative (1867-1942)","Elected",7617
-"Ontario",1930-07-28,"General","17","Grey North","Telford, William Pattison","Man","Barrister","Liberal Party of Canada","Defeated",7430
-"Ontario",1930-07-28,"General","17","Grey Southeast","Macphail, Agnes Campbell","Woman","Schoolteacher and farmer","Progressive","Elected",6619
-"Ontario",1930-07-28,"General","17","Grey Southeast","CAMPBELL, Lewis G.","Man","Dentist","Liberal Party of Canada","Defeated",6376
-"Ontario",1930-07-28,"General","17","Haldimand","Senn, Mark Cecil","Man","Merchant","Conservative (1867-1942)","Elected",6171
-"Ontario",1930-07-28,"General","17","Haldimand","CAMELFORD, William Whyte","Man","Manufacturer","Liberal Party of Canada","Defeated",4864
-"Ontario",1930-07-28,"General","17","Halton","Anderson, Robert King","Man","Physician","Conservative (1867-1942)","Elected",6976
-"Ontario",1930-07-28,"General","17","Halton","WALDBROOK, James","Man","Farmer","Progressive","Defeated",5806
-"Ontario",1930-07-28,"General","17","Hamilton East","Rennie, George Septimus","Man","Physician","Conservative (1867-1942)","Elected",12893
-"Ontario",1930-07-28,"General","17","Hamilton East","TRELEAVEN, Freeman Ferrier","Man","Barrister","Liberal Party of Canada","Defeated",8142
-"Ontario",1930-07-28,"General","17","Hamilton East","COHEN, Saul","Man","Steelworker","Communist Party of Canada","Defeated",343
-"Ontario",1930-07-28,"General","17","Hamilton West","Bell, Charles William","Man","Lawyer","Conservative (1867-1942)","Elected",10978
-"Ontario",1930-07-28,"General","17","Hamilton West","RISELAY, Cranmer Egerton","Man","Merchant","Liberal Party of Canada","Defeated",6275
-"Ontario",1930-07-28,"General","17","Hastings South","Tummon, William Ernest","Man","Contractor","Conservative (1867-1942)","Elected",10340
-"Ontario",1930-07-28,"General","17","Hastings South","Hanna, Charles Edward","Man","Merchant","Liberal Party of Canada","Defeated",8143
-"Ontario",1930-07-28,"General","17","Hastings--Peterborough","Embury, Alexander Thomas","Man","Physician","Conservative (1867-1942)","Elected",6993
-"Ontario",1930-07-28,"General","17","Hastings--Peterborough","AYLSWORTH, Fraser","Man","Land surveyor","Liberal Party of Canada","Defeated",2999
-"Ontario",1930-07-28,"General","17","Huron North","Spotton, George","Man","Businessman","Conservative (1867-1942)","Elected",6160
-"Ontario",1930-07-28,"General","17","Huron North","ROBERTSON, William Henry","Man","Publisher","Liberal Party of Canada","Defeated",5927
-"Ontario",1930-07-28,"General","17","Huron South","McMillan, Thomas","Man","Farmer","Liberal Party of Canada","Elected",6176
-"Ontario",1930-07-28,"General","17","Huron South","TREWARTHA, Nelson W.","Man","Produce merchant","Conservative (1867-1942)","Defeated",5827
-"Ontario",1930-07-28,"General","17","Kenora--Rainy River","Heenan, Peter","Man","Locomotive engineer","Liberal Party of Canada","Elected",6313
-"Ontario",1930-07-28,"General","17","Kenora--Rainy River","MCMANUS, Francis James","Man","Conductor","Unknown","Defeated",5811
-"Ontario",1930-07-28,"General","17","Kent","Rutherford, James Warren","Man","Physician","Liberal Party of Canada","Elected",12179
-"Ontario",1930-07-28,"General","17","Kent","STONEHOUSE, Calvert Stanley","Man","Merchant","Conservative (1867-1942)","Defeated",10765
-"Ontario",1930-07-28,"General","17","Kingston City","Ross, Arthur Edward","Man","Physician","Conservative (1867-1942)","Elected",6359
-"Ontario",1930-07-28,"General","17","Kingston City","Halliday, James","Man","Electrician","Liberal Party of Canada","Defeated",4771
-"Ontario",1930-07-28,"General","17","Lambton East","Sproule, John Thomas","Man","Farmer","Conservative (1867-1942)","Elected",6209
-"Ontario",1930-07-28,"General","17","Lambton East","Fansher, Burt Wendell","Man","Farmer","Progressive","Defeated",6196
-"Ontario",1930-07-28,"General","17","Lambton East","DUNLOP, Charles Goodspeed","Man","Teacher","Liberal Party of Canada","Defeated",153
-"Ontario",1930-07-28,"General","17","Lambton West","Gray, Ross Wilfred","Man","Barrister","Liberal Party of Canada","Elected",7868
-"Ontario",1930-07-28,"General","17","Lambton West","HANEY, Wilfred Smith","Man","Barrister","Conservative (1867-1942)","Defeated",7314
-"Ontario",1930-07-28,"General","17","Lanark","Thompson, Thomas Alfred","Man","Farmer","Conservative (1867-1942)","Elected",7064
-"Ontario",1930-07-28,"General","17","Lanark","Soper, Bert H.","Man","Wholesale manager","Liberal Party of Canada","Defeated",5699
-"Ontario",1930-07-28,"General","17","Lanark","Murphy, William Samuel","Man","Physician","Independent Conservative","Defeated",3937
-"Ontario",1930-07-28,"General","17","Lanark","LOW, Mildred Amelia","Woman","Writer","Independent Conservative","Defeated",75
-"Ontario",1930-07-28,"General","17","Leeds","Stewart, Hugh Alexander","Man","Barrister-at-law","Conservative (1867-1942)","Elected",9401
-"Ontario",1930-07-28,"General","17","Leeds","MACLAREN, James Roderick","Man",NA,"Liberal Party of Canada","Defeated",6256
-"Ontario",1930-07-28,"General","17","Lincoln","Chaplin, James Dew","Man","Manufacturer","Conservative (1867-1942)","Elected",13474
-"Ontario",1930-07-28,"General","17","Lincoln","GREENWOOD, May Louise","Woman","Married woman","Liberal Party of Canada","Defeated",7526
-"Ontario",1930-07-28,"General","17","London","White, John Franklin","Man","Manufacturer","Conservative (1867-1942)","Elected",13981
-"Ontario",1930-07-28,"General","17","London","VINING, Jared","Man","Lawyer","Liberal Party of Canada","Defeated",9698
-"Ontario",1930-07-28,"General","17","Middlesex East","Boyes, Frank","Man","Cheese manufacturer","Conservative (1867-1942)","Elected",7909
-"Ontario",1930-07-28,"General","17","Middlesex East","Ross, Duncan Graham","Man","Merchant","Liberal Party of Canada","Defeated",6231
-"Ontario",1930-07-28,"General","17","Middlesex West","Elliott, John Campbell","Man","Lawyer","Liberal Party of Canada","Elected",6329
-"Ontario",1930-07-28,"General","17","Middlesex West","CAMPBELL, Peter Henry","Man","Farmer","Conservative (1867-1942)","Defeated",4839
-"Ontario",1930-07-28,"General","17","Muskoka--Ontario","McGibbon, Peter","Man","Physician","Conservative (1867-1942)","Elected",8828
-"Ontario",1930-07-28,"General","17","Muskoka--Ontario","MACDONALD, James Dean","Man","Physician","Liberal Party of Canada","Defeated",5880
-"Ontario",1930-07-28,"General","17","Nipissing","Hurtubise, Joseph Raoul","Man","Physician","Liberal Party of Canada","Elected",12588
-"Ontario",1930-07-28,"General","17","Nipissing","MOREL, Henry","Man","Lumberman","Conservative (1867-1942)","Defeated",10437
-"Ontario",1930-07-28,"General","17","Nipissing","HILL, Amos Tobias","Man","Electrician","Communist Party of Canada","Defeated",531
-"Ontario",1930-07-28,"General","17","Norfolk--Elgin","Taylor, William Horace","Man","Farmer","Liberal Party of Canada","Elected",9424
-"Ontario",1930-07-28,"General","17","Norfolk--Elgin","Stansell, John Lawrence","Man","Farmer","Conservative (1867-1942)","Defeated",9419
-"Ontario",1930-07-28,"General","17","Northumberland","Fraser, William Alexander","Man","Manufacturer and farmer","Liberal Party of Canada","Elected",8436
-"Ontario",1930-07-28,"General","17","Northumberland","Maybee, Milton Edgar","Man","Farmer","Conservative (1867-1942)","Defeated",7495
-"Ontario",1930-07-28,"General","17","Northumberland","MACDONALD, Edith Kerr","Woman","Widow","Independent","Defeated",180
-"Ontario",1930-07-28,"General","17","Ontario","Moore, William Henry","Man","Farmer","Liberal Party of Canada","Elected",10116
-"Ontario",1930-07-28,"General","17","Ontario","Kaiser, Thomas Erlin","Man","Physician","Conservative (1867-1942)","Defeated",9646
-"Ontario",1930-07-28,"General","17","Ottawa (City of)","Chevrier, Edgar-Rodolphe-Eugène","Man","Barrister-at-law","Liberal Party of Canada","Elected",25721
-"Ontario",1930-07-28,"General","17","Ottawa (City of)","Ahearn, Thomas Franklin","Man","Agent","Liberal Party of Canada","Elected",25632
-"Ontario",1930-07-28,"General","17","Ottawa (City of)","PLANT, Frank Henry","Man","Manufacturer","Conservative (1867-1942)","Defeated",23166
-"Ontario",1930-07-28,"General","17","Ottawa (City of)","LAFORTUNE, Frank","Man","Merchant","Conservative (1867-1942)","Defeated",22579
-"Ontario",1930-07-28,"General","17","Oxford North","Sutherland, Donald Matheson","Man","Physician","Conservative (1867-1942)","Elected",7217
-"Ontario",1930-07-28,"General","17","Oxford North","Allan, Hugh","Man","Township clerk","Liberal Party of Canada","Defeated",6180
-"Ontario",1930-07-28,"General","17","Oxford South","Cayley, Thomas Merritt","Man","Insurance agent","Liberal Party of Canada","Elected",5711
-"Ontario",1930-07-28,"General","17","Oxford South","Sutherland, Donald","Man","Farmer","Conservative (1867-1942)","Defeated",5656
-"Ontario",1930-07-28,"General","17","Parkdale","Spence, David","Man","Merchant","Conservative (1867-1942)","Elected",11713
-"Ontario",1930-07-28,"General","17","Parkdale","GILLIES, Angus","Man","Contractor","Liberal Party of Canada","Defeated",5823
-"Ontario",1930-07-28,"General","17","Parry Sound","Arthurs, James","Man","Gentleman","Conservative (1867-1942)","Elected",5504
-"Ontario",1930-07-28,"General","17","Parry Sound","HILLIAR, Joseph","Man","Merchant","Liberal Party of Canada","Defeated",4365
-"Ontario",1930-07-28,"General","17","Peel","Charters, Samuel","Man","Publisher","Conservative (1867-1942)","Elected",7112
-"Ontario",1930-07-28,"General","17","Peel","LOWE, William James","Man","Livestock dealer","Liberal Party of Canada","Defeated",6847
-"Ontario",1930-07-28,"General","17","Perth North","Wright, David McKenzie","Man","Manufacturer","Conservative (1867-1942)","Elected",8726
-"Ontario",1930-07-28,"General","17","Perth North","SMITH, David","Man","Physician","Liberal Party of Canada","Defeated",7850
-"Ontario",1930-07-28,"General","17","Perth South","Sanderson, Frederick George","Man","Flax grower","Liberal Party of Canada","Elected",5063
-"Ontario",1930-07-28,"General","17","Perth South","MONTEITH, Samuel James","Man","Farmer","Conservative (1867-1942)","Defeated",4346
-"Ontario",1930-07-28,"General","17","Peterborough West","Peck, Edward Armour","Man","Barrister","Conservative (1867-1942)","Elected",9663
-"Ontario",1930-07-28,"General","17","Peterborough West","Duffus, Joseph James","Man","Merchant","Liberal Party of Canada","Defeated",7902
-"Ontario",1930-07-28,"General","17","Port Arthur--Thunder Bay","Cowan, Donald James","Man","Barrister","Conservative (1867-1942)","Elected",6371
-"Ontario",1930-07-28,"General","17","Port Arthur--Thunder Bay","Carrick, John James","Man","Financial agent","Liberal Party of Canada","Defeated",4415
-"Ontario",1930-07-28,"General","17","Prescott","Bertrand, Elie-Oscar","Man","Merchant","Liberal Party of Canada","Elected",6572
-"Ontario",1930-07-28,"General","17","Prescott","MOONEY, Edmund Alexander","Man","Dentist","Conservative (1867-1942)","Defeated",2326
-"Ontario",1930-07-28,"General","17","Prince Edward--Lennox","Weese, John Aaron","Man","Farmer","Conservative (1867-1942)","Elected",6923
-"Ontario",1930-07-28,"General","17","Prince Edward--Lennox","BENSON, William Henry","Man","Manufacturer","Liberal Party of Canada","Defeated",5447
-"Ontario",1930-07-28,"General","17","Renfrew North","Cotnam, Ira Delbert","Man","Physician","Conservative (1867-1942)","Elected",6125
-"Ontario",1930-07-28,"General","17","Renfrew North","McKay, Matthew","Man","Dentist","Liberal Party of Canada","Defeated",4897
-"Ontario",1930-07-28,"General","17","Renfrew South","Maloney, Martin James","Man","Physician","Conservative (1867-1942)","Elected",6404
-"Ontario",1930-07-28,"General","17","Renfrew South","Low, Thomas Andrew","Man","Manufacturer","Liberal Party of Canada","Defeated",6144
-"Ontario",1930-07-28,"General","17","Russell","Goulet, Alfred","Man","Merchant","Liberal Party of Canada","Elected",9551
-"Ontario",1930-07-28,"General","17","Russell","MARION, Alexandre","Man","Manager","Conservative (1867-1942)","Defeated",7964
-"Ontario",1930-07-28,"General","17","Simcoe East","Thompson, Alfred Burke","Man","Barrister","Conservative (1867-1942)","Elected",7974
-"Ontario",1930-07-28,"General","17","Simcoe East","McLean, George Alexander","Man","Insurance agent","Liberal Party of Canada","Defeated",7629
-"Ontario",1930-07-28,"General","17","Simcoe North","Simpson, John Thomas","Man","County clerk","Conservative (1867-1942)","Elected",7295
-"Ontario",1930-07-28,"General","17","Simcoe North","Gouin, Léon Mercier","Man","Farmer","Progressive","Defeated",6459
-"Ontario",1930-07-28,"General","17","Stormont","Shaver, Frank Thomas","Man","Merchant","Conservative (1867-1942)","Elected",7901
-"Ontario",1930-07-28,"General","17","Stormont","Smith, Arnold Neilson","Man","Steamboat owner","Liberal Party of Canada","Defeated",7326
-"Ontario",1930-07-28,"General","17","Timiskaming North","Bradette, Joseph-Arthur","Man","Gentleman","Liberal Party of Canada","Elected",9586
-"Ontario",1930-07-28,"General","17","Timiskaming North","CHENIER, David Alexandre","Man","Pulpwood buyer","Conservative (1867-1942)","Defeated",7022
-"Ontario",1930-07-28,"General","17","Timiskaming South","Gordon, Wesley Ashton","Man","Barrister","Conservative (1867-1942)","Elected",8729
-"Ontario",1930-07-28,"General","17","Timiskaming South","Lang, Malcolm","Man","Prospector","Liberal Labour Party","Defeated",7195
-"Ontario",1930-07-28,"General","17","Toronto East","Ryckman, Edmond Baird","Man","Barrister","Conservative (1867-1942)","Elected",13423
-"Ontario",1930-07-28,"General","17","Toronto East","ALLEN, Robert A.","Man","Agent","Liberal Party of Canada","Defeated",6348
-"Ontario",1930-07-28,"General","17","Toronto East Centre","Matthews, Robert Charles","Man","Gentleman","Conservative (1867-1942)","Elected",10949
-"Ontario",1930-07-28,"General","17","Toronto East Centre","DONNELLY, Patrick","Man","Financial agent","Liberal Party of Canada","Defeated",5461
-"Ontario",1930-07-28,"General","17","Toronto Northeast","Baker, Richard Langton","Man","Manufacturer","Conservative (1867-1942)","Elected",16979
-"Ontario",1930-07-28,"General","17","Toronto Northeast","URQUHART, George Alexander","Man","Barrister","Liberal Party of Canada","Defeated",10701
-"Ontario",1930-07-28,"General","17","Toronto Northwest","MacNicol, John Ritchie","Man","Gentleman","Conservative (1867-1942)","Elected",14343
-"Ontario",1930-07-28,"General","17","Toronto Northwest","MACRAE, Farguhar John","Man","Barrister","Liberal Party of Canada","Defeated",5513
-"Ontario",1930-07-28,"General","17","Toronto South","Geary, George Reginald","Man","Barrister","Conservative (1867-1942)","Elected",4635
-"Ontario",1930-07-28,"General","17","Toronto South","MCINTYRE, Adam Gordon","Man","Manufacturer","Liberal Party of Canada","Defeated",2244
-"Ontario",1930-07-28,"General","17","Toronto South","ROMER, Jacob","Man","Dentist","Labour","Defeated",730
-"Ontario",1930-07-28,"General","17","Toronto West Centre","Factor, Samuel","Man","Barrister","Liberal Party of Canada","Elected",8367
-"Ontario",1930-07-28,"General","17","Toronto West Centre","Church, Thomas Langton","Man","Barrister","Conservative (1867-1942)","Defeated",7803
-"Ontario",1930-07-28,"General","17","Toronto West Centre","SIMS, Charles","Man","Coal miner","Communist Party of Canada","Defeated",621
-"Ontario",1930-07-28,"General","17","Toronto West Centre","CONNER, James McArthur","Man","Insurance agent","Labour","Defeated",264
-"Ontario",1930-07-28,"General","17","Toronto--High Park","Anderson, Alexander James","Man","Barrister","Conservative (1867-1942)","Elected",11807
-"Ontario",1930-07-28,"General","17","Toronto--High Park","BOND, Aubrey Albert","Man","Barrister","Liberal Party of Canada","Defeated",5765
-"Ontario",1930-07-28,"General","17","Toronto--Scarborough","Harris, Joseph Henry","Man","Manager","Conservative (1867-1942)","Elected",17122
-"Ontario",1930-07-28,"General","17","Toronto--Scarborough","FORD, William Henry","Man","Barrister","Liberal Party of Canada","Defeated",6156
-"Ontario",1930-07-28,"General","17","Victoria","Stinson, Thomas Hubert","Man","Barrister","Conservative (1867-1942)","Elected",8999
-"Ontario",1930-07-28,"General","17","Victoria","CARLEY, Thomas John","Man","Barrister","Liberal Party of Canada","Defeated",6269
-"Ontario",1930-07-28,"General","17","Waterloo North","Euler, William Daum","Man","Publisher","Liberal Party of Canada","Elected",12785
-"Ontario",1930-07-28,"General","17","Waterloo North","Homuth, Karl Kenneth","Man","Manufacturer","Conservative (1867-1942)","Defeated",9732
-"Ontario",1930-07-28,"General","17","Waterloo South","Edwards, Alexander McKay","Man","Manufacturer","Conservative (1867-1942)","Elected",8999
-"Ontario",1930-07-28,"General","17","Waterloo South","WIDDIFIELD, Charles Russell","Man","Barrister","Liberal Party of Canada","Defeated",4950
-"Ontario",1930-07-28,"General","17","Welland","Pettit, George Hamilton","Man","Barrister","Conservative (1867-1942)","Elected",15503
-"Ontario",1930-07-28,"General","17","Welland","Damude, Arthur Byron","Man","Agent","Liberal Party of Canada","Defeated",13037
-"Ontario",1930-07-28,"General","17","Wellington North","Blair, John Knox","Man","Physician","Liberal Party of Canada","Elected",4716
-"Ontario",1930-07-28,"General","17","Wellington North","Sinclair, Duncan","Man","Gentleman","Conservative (1867-1942)","Defeated",4626
-"Ontario",1930-07-28,"General","17","Wellington South","Guthrie, Hugh","Man","Barrister","Conservative (1867-1942)","Elected",8887
-"Ontario",1930-07-28,"General","17","Wellington South","MITCHELL, John Burr","Man","Manufacturer","Liberal Party of Canada","Defeated",7893
-"Ontario",1930-07-28,"General","17","Wentworth","Wilson, Gordon Crooks","Man","Gentleman","Conservative (1867-1942)","Elected",13436
-"Ontario",1930-07-28,"General","17","Wentworth","BIGGS, Frank Campbell","Man","Farmer","Liberal Party of Canada","Defeated",9628
-"Ontario",1930-07-28,"General","17","Wentworth","WEAVER, Samuel Radcliffe","Man","Hairdresser","Unknown","Defeated",1630
-"Ontario",1930-07-28,"General","17","York North","Lennox, Thomas Herbert","Man","Lawyer","Conservative (1867-1942)","Elected",10402
-"Ontario",1930-07-28,"General","17","York North","Mulock, William Pate","Man","Lawyer","Liberal Party of Canada","Defeated",10104
-"Ontario",1930-07-28,"General","17","York South","McGregor, Robert Henry","Man","Gardener","Conservative (1867-1942)","Elected",11852
-"Ontario",1930-07-28,"General","17","York South","MCCARTHY, Dennis","Man","Sheet metal worker","Liberal Party of Canada","Defeated",5394
-"Ontario",1930-07-28,"General","17","York West","Lawson, James Earl","Man","Barrister","Conservative (1867-1942)","Elected",20843
-"Ontario",1930-07-28,"General","17","York West","EDWARDS, William Arthur","Man","Railroad engineer","Liberal Party of Canada","Defeated",11368
-"Prince Edward Island",1930-07-28,"General","17","King's","Macdonald, John Alexander (1874-1948)","Man","Merchant","Conservative (1867-1942)","Elected",4719
-"Prince Edward Island",1930-07-28,"General","17","King's","Grant, Thomas Vincent","Man",NA,"Liberal Party of Canada","Defeated",4391
-"Prince Edward Island",1930-07-28,"General","17","Prince","MacLean, Alfred Edgar","Man","Farmer","Liberal Party of Canada","Elected",8058
-"Prince Edward Island",1930-07-28,"General","17","Prince","ARNETT, J. Frank","Man","Wholesale merchant","Conservative (1867-1942)","Defeated",6485
-"Prince Edward Island",1930-07-28,"General","17","Queen's","McLure, Winfield Chester Scott","Man","Trader","Conservative (1867-1942)","Elected",9310
-"Prince Edward Island",1930-07-28,"General","17","Queen's","Myers, John Howard","Man","Farmer","Conservative (1867-1942)","Elected",9178
-"Prince Edward Island",1930-07-28,"General","17","Queen's","Jenkins, Robert Harold","Man","Investor","Liberal Party of Canada","Defeated",8767
-"Prince Edward Island",1930-07-28,"General","17","Queen's","Macmillan, Cyrus","Man","Minister of Fisheries","Liberal Party of Canada","Defeated",8482
-"Quebec",1930-07-28,"General","17","Argenteuil","Perley, George Halsey","Man","Lumber merchant","Conservative (1867-1942)","Elected",4709
-"Quebec",1930-07-28,"General","17","Argenteuil","LEGAULT, Joseph-Louis-Lorenzo","Man","Lawyer","Liberal Party of Canada","Defeated",3940
-"Quebec",1930-07-28,"General","17","Bagot","Dumaine, Cyrille","Man","Notary","Liberal Party of Canada","Elected",3654
-"Quebec",1930-07-28,"General","17","Bagot","GAUTHIER, Léon","Man","Physician","Conservative (1867-1942)","Defeated",3479
-"Quebec",1930-07-28,"General","17","Beauce","Lacroix, Édouard","Man","Lumber merchant","Liberal Party of Canada","Elected",12093
-"Quebec",1930-07-28,"General","17","Beauce","JACOB, J.-Linière","Man","Merchant","Conservative (1867-1942)","Defeated",6567
-"Quebec",1930-07-28,"General","17","Beauharnois","Raymond, Maxime","Man","Lawyer","Liberal Party of Canada","Elected",5714
-"Quebec",1930-07-28,"General","17","Beauharnois","LEBEUF, Joseph-Hormisdas","Man","Manager","Conservative (1867-1942)","Defeated",3989
-"Quebec",1930-07-28,"General","17","Bellechasse","Boulanger, Joseph Oscar Lefebre","Man","Lawyer","Liberal Party of Canada","Elected",4786
-"Quebec",1930-07-28,"General","17","Bellechasse","GAUDETTE, Joseph-Wilfrid","Man","Pharmacist","Conservative (1867-1942)","Defeated",2793
-"Quebec",1930-07-28,"General","17","Berthier--Maskinongé","Barrette, Joseph Arthur","Man","Notary","Conservative (1867-1942)","Elected",7206
-"Quebec",1930-07-28,"General","17","Berthier--Maskinongé","Gervais, Joseph-Charles-Théodore","Man","Physician","Liberal Party of Canada","Defeated",6850
-"Quebec",1930-07-28,"General","17","Bonaventure","Marcil, Charles","Man","Journalist","Liberal Party of Canada","Elected",5894
-"Quebec",1930-07-28,"General","17","Bonaventure","MORGAN, Edward Andrew D.","Man","Lawyer","Conservative (1867-1942)","Defeated",5848
-"Quebec",1930-07-28,"General","17","Brome--Missisquoi","Pickel, Follin Horace","Man","Farmer and physician","Conservative (1867-1942)","Elected",8070
-"Quebec",1930-07-28,"General","17","Brome--Missisquoi","Kay, William Frederic","Man","Farmer","Liberal Party of Canada","Defeated",6584
-"Quebec",1930-07-28,"General","17","Cartier","Jacobs, Samuel William","Man","Lawyer","Liberal Party of Canada","Elected",8231
-"Quebec",1930-07-28,"General","17","Cartier","WOLFE, Louis","Man","Stevedore","Conservative (1867-1942)","Defeated",1928
-"Quebec",1930-07-28,"General","17","Cartier","MASSON, Médéric","Man","Dentist","Independent Progressive","Defeated",1294
-"Quebec",1930-07-28,"General","17","Cartier","PARENT, Paul-E.","Man","Journalist","Independent Liberal","Defeated",540
-"Quebec",1930-07-28,"General","17","Chambly--Verchères","Duranleau, Alfred","Man","Lawyer","Conservative (1867-1942)","Elected",9024
-"Quebec",1930-07-28,"General","17","Chambly--Verchères","GEOFFRION, Amédée","Man","Lawyer","Liberal Party of Canada","Defeated",7827
-"Quebec",1930-07-28,"General","17","Champlain","Baribeau, Jean Louis","Man","Businessman","Conservative (1867-1942)","Elected",9024
-"Quebec",1930-07-28,"General","17","Champlain","Desaulniers, Arthur Lesieur","Man","Hardware merchant","Liberal Party of Canada","Defeated",8232
-"Quebec",1930-07-28,"General","17","Champlain","GUIBORD, Joseph-Edmond","Man","Physician","Independent Liberal","Defeated",1797
-"Quebec",1930-07-28,"General","17","Charlevoix--Saguenay","Casgrain, Pierre-François","Man","Lawyer","Liberal Party of Canada","Elected",10806
-"Quebec",1930-07-28,"General","17","Charlevoix--Saguenay","MAHER, Thomas","Man","Forest engineer","Conservative (1867-1942)","Defeated",8078
-"Quebec",1930-07-28,"General","17","Châteauguay--Huntingdon","Moore, John Clarke","Man","Physician","Conservative (1867-1942)","Elected",5934
-"Quebec",1930-07-28,"General","17","Châteauguay--Huntingdon","O'Connor, Dennis James","Man","Contractor","Liberal Party of Canada","Defeated",5445
-"Quebec",1930-07-28,"General","17","Chicoutimi","Dubuc, Julien-Édouard-Alfred","Man","Manufacturer","Liberal Party of Canada","Elected",10641
-"Quebec",1930-07-28,"General","17","Chicoutimi","LAVERGNE, Joseph-Adam","Man","Merchant","Conservative (1867-1942)","Defeated",9744
-"Quebec",1930-07-28,"General","17","Compton","Gobeil, Samuel","Man","Farmer","Conservative (1867-1942)","Elected",6701
-"Quebec",1930-07-28,"General","17","Compton","Letellier de Saint-Just, Joseph-Étienne","Man","Jeweller","Liberal Party of Canada","Defeated",6393
-"Quebec",1930-07-28,"General","17","Dorchester","Gagnon, Onésime","Man","Lawyer","Conservative (1867-1942)","Elected",5771
-"Quebec",1930-07-28,"General","17","Dorchester","Cannon, Lucien","Man","Lawyer","Liberal Party of Canada","Defeated",5433
-"Quebec",1930-07-28,"General","17","Drummond--Arthabaska","Girouard, Wilfrid","Man","Lawyer","Liberal Party of Canada","Elected",11241
-"Quebec",1930-07-28,"General","17","Drummond--Arthabaska","KIROUAC, Agésilas","Man","Merchant","Conservative (1867-1942)","Defeated",7784
-"Quebec",1930-07-28,"General","17","Gaspé","Brasset, Maurice","Man","Lawyer","Liberal Party of Canada","Elected",9784
-"Quebec",1930-07-28,"General","17","Gaspé","FLYNN, William Albert Edward","Man","Lawyer","Conservative (1867-1942)","Defeated",6413
-"Quebec",1930-07-28,"General","17","Hochelaga","St-Père, Édouard-Charles","Man","Journalist","Liberal Party of Canada","Elected",19382
-"Quebec",1930-07-28,"General","17","Hochelaga","SIMARD, Joseph-Thomas-Ulric","Man","Broker","Conservative (1867-1942)","Defeated",8949
-"Quebec",1930-07-28,"General","17","Hull","Fournier, Alphonse","Man","Lawyer","Liberal Party of Canada","Elected",12543
-"Quebec",1930-07-28,"General","17","Hull","BEAUCHAMP, Jean-Noël","Man","Lawyer","Conservative (1867-1942)","Defeated",5911
-"Quebec",1930-07-28,"General","17","Jacques Cartier","Laurin, Joseph-Georges-Philippe","Man","Notary","Conservative (1867-1942)","Elected",22907
-"Quebec",1930-07-28,"General","17","Jacques Cartier","Rhéaume, Joseph-Théodule","Man","Lawyer","Liberal Party of Canada","Defeated",20438
-"Quebec",1930-07-28,"General","17","Jacques Cartier","RANGER, Wilfrid-Émile","Man","Garage owner","Independent Liberal","Defeated",981
-"Quebec",1930-07-28,"General","17","Joliette","Ferland, Charles-Édouard","Man","Lawyer","Liberal Party of Canada","Elected",5904
-"Quebec",1930-07-28,"General","17","Joliette","PERRAULT, Joseph-Conrad","Man","Broker","Conservative (1867-1942)","Defeated",4979
-"Quebec",1930-07-28,"General","17","Kamouraska","Bouchard, Joseph Georges","Man","Agronomist","Liberal Party of Canada","Elected",4534
-"Quebec",1930-07-28,"General","17","Kamouraska","AUDET, Pierre","Man","Lawyer","Conservative (1867-1942)","Defeated",4109
-"Quebec",1930-07-28,"General","17","L'Assomption--Montcalm","Séguin, Paul-Arthur","Man","Notary","Liberal Party of Canada","Elected",6568
-"Quebec",1930-07-28,"General","17","L'Assomption--Montcalm","JEANNOTTE, Charles-Édouard","Man","Farmer","Conservative (1867-1942)","Defeated",4650
-"Quebec",1930-07-28,"General","17","L'Islet","Fafard, Joseph-Fernand","Man","Land surveyor","Liberal Party of Canada","Elected",3558
-"Quebec",1930-07-28,"General","17","L'Islet","Gauthier, Louis Joseph","Man","Lawyer","Conservative (1867-1942)","Defeated",3165
-"Quebec",1930-07-28,"General","17","Labelle","Bourassa, Joseph Henri Napoléon","Man","Publicist","Independent","Elected (Acclamation)",0
-"Quebec",1930-07-28,"General","17","Lake St. John","Duguay, Joseph Léonard","Man","Dentist","Conservative (1867-1942)","Elected",8387
-"Quebec",1930-07-28,"General","17","Lake St. John","Sylvestre, Armand","Man",NA,"Liberal Party of Canada","Defeated",8211
-"Quebec",1930-07-28,"General","17","Laprairie--Napierville","Dupuis, Vincent","Man","Lawyer","Liberal Party of Canada","Elected",4321
-"Quebec",1930-07-28,"General","17","Laprairie--Napierville","Monette, Gustave","Man","Lawyer","Conservative (1867-1942)","Defeated",3968
-"Quebec",1930-07-28,"General","17","Laurier--Outremont","Mercier, Joseph-Alexandre","Man","Lawyer","Liberal Party of Canada","Elected",15259
-"Quebec",1930-07-28,"General","17","Laurier--Outremont","FORTIER, Hector-Frédéric","Man","Manufacturer","Conservative (1867-1942)","Defeated",7590
-"Quebec",1930-07-28,"General","17","Laurier--Outremont","JACOBS, Lyon William","Man","Lawyer","Liberal Protectionist","Defeated",2723
-"Quebec",1930-07-28,"General","17","Laurier--Outremont","SHINNICK, John Alexander","Man","Manager","Independent Conservative","Defeated",1236
-"Quebec",1930-07-28,"General","17","Laval--Two Mountains","Sauvé, Arthur","Man","Journalist","Conservative (1867-1942)","Elected",6601
-"Quebec",1930-07-28,"General","17","Laval--Two Mountains","Lacombe, Liguori","Man","Lawyer","Liberal Party of Canada","Defeated",5634
-"Quebec",1930-07-28,"General","17","Lévis","Fortin, Émile","Man","Physician","Conservative (1867-1942)","Elected",7065
-"Quebec",1930-07-28,"General","17","Lévis","Dussault, Joseph-Étienne","Man","Industrialist","Liberal Party of Canada","Defeated",6880
-"Quebec",1930-07-28,"General","17","Lotbinière","Verville, Joseph-Achille","Man","Notary","Liberal Party of Canada","Elected",5068
-"Quebec",1930-07-28,"General","17","Lotbinière","LALIBERTÉ, Wilfrid","Man","Lawyer","Conservative (1867-1942)","Defeated",3863
-"Quebec",1930-07-28,"General","17","Maisonneuve","Robitaille, Clément","Man","Lawyer","Liberal Party of Canada","Elected",18894
-"Quebec",1930-07-28,"General","17","Maisonneuve","DESJARDINS, Hubert","Man","Manufacturer","Conservative (1867-1942)","Defeated",13492
-"Quebec",1930-07-28,"General","17","Maisonneuve","COURCHESNE, Déus","Man","Trader","Independent","Defeated",1053
-"Quebec",1930-07-28,"General","17","Maisonneuve","SIMARD, Edmond","Man","Blacksmith","Conservative (1867-1942)","Defeated",313
-"Quebec",1930-07-28,"General","17","Matane","LaRue, Joseph-Ernest-Henri","Man","Notary","Conservative (1867-1942)","Elected",7710
-"Quebec",1930-07-28,"General","17","Matane","Dionne, Georges-Léonidas","Man","Notary","Liberal Party of Canada","Defeated",6975
-"Quebec",1930-07-28,"General","17","Mégantic","Roberge, Eusèbe","Man","Merchant","Liberal Party of Canada","Elected",7609
-"Quebec",1930-07-28,"General","17","Mégantic","BEAUDOIN, Joseph-Théophile","Man","Manufacturer and importer","Conservative (1867-1942)","Defeated",5757
-"Quebec",1930-07-28,"General","17","Montmagny","La Vergne, Armand Renaud","Man","Lawyer","Conservative (1867-1942)","Elected",3857
-"Quebec",1930-07-28,"General","17","Montmagny","Laflamme, Leo Kemner","Man","Lawyer","Liberal Party of Canada","Defeated",3653
-"Quebec",1930-07-28,"General","17","Mount Royal","White, Robert Smeaton","Man","Gentleman","Conservative (1867-1942)","Elected",19932
-"Quebec",1930-07-28,"General","17","Mount Royal","ENGLAND, Grace Ritchie","Woman","Physician","Liberal Party of Canada","Defeated",6483
-"Quebec",1930-07-28,"General","17","Nicolet","Dubois, Lucien","Man","Farmer","Liberal Party of Canada","Elected",6303
-"Quebec",1930-07-28,"General","17","Nicolet","GAUDET, Joseph-Alfred","Man","Lawyer","Conservative (1867-1942)","Defeated",5102
-"Quebec",1930-07-28,"General","17","Pontiac","Bélec, Charles","Man","Farmer","Conservative (1867-1942)","Elected",8884
-"Quebec",1930-07-28,"General","17","Pontiac","COTÉ, J.-Philippe","Man","Contractor","Independent Liberal","Defeated",6988
-"Quebec",1930-07-28,"General","17","Pontiac","Cahill, Frank S.","Man","Broker","Liberal Party of Canada","Defeated",5891
-"Quebec",1930-07-28,"General","17","Portneuf","Desrochers, Jules","Man","Physician","Liberal Party of Canada","Elected",7813
-"Quebec",1930-07-28,"General","17","Portneuf","FOLEY, J.-Alfred","Man","Farmer","Conservative (1867-1942)","Defeated",7262
-"Quebec",1930-07-28,"General","17","Quebec East","Lapointe, Ernest","Man","Minister of Justice","Liberal Party of Canada","Elected",11822
-"Quebec",1930-07-28,"General","17","Quebec East","TASCHEREAU, Alleyn","Man","Lawyer","Conservative (1867-1942)","Defeated",9642
-"Quebec",1930-07-28,"General","17","Quebec South","Power, Charles Gavan","Man","Lawyer","Liberal Party of Canada","Elected",8086
-"Quebec",1930-07-28,"General","17","Quebec South","DINAN, Francis J.","Man","Notary","Conservative (1867-1942)","Defeated",6633
-"Quebec",1930-07-28,"General","17","Quebec West","Dupré, Maurice","Man","Lawyer","Conservative (1867-1942)","Elected",10215
-"Quebec",1930-07-28,"General","17","Quebec West","LACROIX, Gérard","Man","Lawyer","Liberal Party of Canada","Defeated",9769
-"Quebec",1930-07-28,"General","17","Québec--Montmorency","Dorion, Charles Napoléon","Man","Lawyer","Conservative (1867-1942)","Elected",7212
-"Quebec",1930-07-28,"General","17","Québec--Montmorency","Lavigueur, Henri-Edgar","Man","Merchant","Liberal Party of Canada","Defeated",7165
-"Quebec",1930-07-28,"General","17","Québec--Montmorency","GALIBOIS, François-Xavier","Man","Insurance agent","Independent","Defeated",150
-"Quebec",1930-07-28,"General","17","Richelieu","Cardin, Pierre-Joseph-Arthur","Man","Lawyer","Liberal Party of Canada","Elected",5644
-"Quebec",1930-07-28,"General","17","Richelieu","L'HEUREUX, Joseph-Louis-Alphonse","Man","Notary","Conservative (1867-1942)","Defeated",3236
-"Quebec",1930-07-28,"General","17","Richmond--Wolfe","Laflèche, Joseph-François","Man","Physician","Conservative (1867-1942)","Elected",9025
-"Quebec",1930-07-28,"General","17","Richmond--Wolfe","Mitchell, Walter George","Man","Lawyer","Liberal Party of Canada","Defeated",7870
-"Quebec",1930-07-28,"General","17","Rimouski","Fiset, Eugène","Man","Physician","Liberal Party of Canada","Elected",6257
-"Quebec",1930-07-28,"General","17","Rimouski","Boulay, Herménégilde","Man","Farmer and manufacturer","Conservative (1867-1942)","Defeated",4722
-"Quebec",1930-07-28,"General","17","Shefford","Tétreault, J.-Eugène","Man","Merchant","Conservative (1867-1942)","Elected",7064
-"Quebec",1930-07-28,"General","17","Shefford","Boivin, Pierre-Ernest","Man","Manufacturer","Liberal Party of Canada","Defeated",5478
-"Quebec",1930-07-28,"General","17","Sherbrooke","Howard, Charles Benjamin","Man","Manufacturer","Liberal Party of Canada","Elected",8546
-"Quebec",1930-07-28,"General","17","Sherbrooke","LYNCH, Walter Harold","Man","Lawyer","Conservative (1867-1942)","Defeated",8048
-"Quebec",1930-07-28,"General","17","St. Ann","Sullivan, John Alexander","Man","Lawyer","Conservative (1867-1942)","Elected",11384
-"Quebec",1930-07-28,"General","17","St. Ann","Guérin, James John Edmund","Man","Physician","Liberal Party of Canada","Defeated",11017
-"Quebec",1930-07-28,"General","17","St. Antoine","Bell, Leslie Gordon","Man","Lawyer","Conservative (1867-1942)","Elected",7192
-"Quebec",1930-07-28,"General","17","St. Antoine","Hushion, William James","Man","Merchant","Liberal Party of Canada","Defeated",5185
-"Quebec",1930-07-28,"General","17","St. Denis","Denis, Joseph-Arthur","Man","Physician","Liberal Party of Canada","Elected",28646
-"Quebec",1930-07-28,"General","17","St. Denis","GAUTHIER, Joseph-Cyriac","Man","Pilot","Conservative (1867-1942)","Defeated",14382
-"Quebec",1930-07-28,"General","17","St. Denis","SAINT-JEAN, Idola","Woman","Teacher and journalist","Independent","Defeated",1732
-"Quebec",1930-07-28,"General","17","St. Henri","Mercier, Paul","Man","Lawyer","Liberal Party of Canada","Elected",11520
-"Quebec",1930-07-28,"General","17","St. Henri","BOYER, Auguste","Man","Lawyer","Conservative (1867-1942)","Defeated",5917
-"Quebec",1930-07-28,"General","17","St. Hyacinthe--Rouville","Fontaine, Joseph-Théophile-Adélard","Man","Lawyer","Liberal Party of Canada","Elected",8616
-"Quebec",1930-07-28,"General","17","St. Hyacinthe--Rouville","SYLVESTRE, Victor","Man","Merchant","Conservative (1867-1942)","Defeated",7459
-"Quebec",1930-07-28,"General","17","St. James","Rinfret, Louis Édouard Fernand","Man","Secretary of State","Liberal Party of Canada","Elected",13299
-"Quebec",1930-07-28,"General","17","St. James","LAMARCHE, Joseph-Paul","Man","Lawyer","Conservative (1867-1942)","Defeated",6208
-"Quebec",1930-07-28,"General","17","St. Johns--Iberville","Rhéaume, Pierre Auguste Martial","Man","Butcher","Liberal Party of Canada","Elected",7958
-"Quebec",1930-07-28,"General","17","St. Johns--Iberville","SABOURIN, Yvan","Man","Lawyer","Conservative (1867-1942)","Defeated",4018
-"Quebec",1930-07-28,"General","17","St. Lawrence--St. George","Cahan, Charles Hazlitt","Man","Lawyer","Conservative (1867-1942)","Elected",6666
-"Quebec",1930-07-28,"General","17","St. Lawrence--St. George","PITT, Ernest","Man","Real estate broker","Liberal Party of Canada","Defeated",3653
-"Quebec",1930-07-28,"General","17","St. Mary","Deslauriers, Hermas","Man","Physician","Liberal Party of Canada","Elected",16540
-"Quebec",1930-07-28,"General","17","St. Mary","Lefort, Théodore","Man","Dentist","Conservative (1867-1942)","Defeated",6099
-"Quebec",1930-07-28,"General","17","Stanstead","Hackett, John Thomas","Man","Lawyer","Conservative (1867-1942)","Elected",5804
-"Quebec",1930-07-28,"General","17","Stanstead","BROWN, Cecil Lorne","Man","Physician","Liberal Party of Canada","Defeated",3900
-"Quebec",1930-07-28,"General","17","Stanstead","SAMSON, Jean-Charles","Man","Lawyer","Independent Liberal","Defeated",1584
-"Quebec",1930-07-28,"General","17","Témiscouata","Pouliot, Jean-François","Man","Lawyer","Liberal Party of Canada","Elected",8761
-"Quebec",1930-07-28,"General","17","Témiscouata","DUBÉ, Charles-Eugène","Man","Merchant","Conservative (1867-1942)","Defeated",8644
-"Quebec",1930-07-28,"General","17","Terrebonne","Parent, Louis-Étienne","Man","Manufacturer","Liberal Party of Canada","Elected",8609
-"Quebec",1930-07-28,"General","17","Terrebonne","Fauteux, Guillaume-André","Man","Lawyer","Conservative (1867-1942)","Defeated",6727
-"Quebec",1930-07-28,"General","17","Three Rivers--St. Maurice","Bettez, Arthur","Man","Accountant","Liberal Party of Canada","Elected",14732
-"Quebec",1930-07-28,"General","17","Three Rivers--St. Maurice","DURAND, Louis-D.","Man","Lawyer","Conservative (1867-1942)","Defeated",11083
-"Quebec",1930-07-28,"General","17","Vaudreuil--Soulanges","Thauvette, Joseph","Man","Physician","Liberal Party of Canada","Elected",4313
-"Quebec",1930-07-28,"General","17","Vaudreuil--Soulanges","GAGNÉ, Horace-Joseph","Man","Lawyer","Conservative (1867-1942)","Defeated",2432
-"Quebec",1930-07-28,"General","17","Vaudreuil--Soulanges","PATON, Saul","Man","Lawyer","Independent Liberal","Defeated",1718
-"Quebec",1930-07-28,"General","17","Wright","Perras, Fizalam-William","Man","Lumber merchant","Liberal Party of Canada","Elected",6015
-"Quebec",1930-07-28,"General","17","Wright","COUSINEAU, Louis","Man","Lawyer","Conservative (1867-1942)","Defeated",4932
-"Quebec",1930-07-28,"General","17","Yamaska","Boucher, Aimé","Man","Notary","Liberal Party of Canada","Elected",3505
-"Quebec",1930-07-28,"General","17","Yamaska","Comtois, Paul","Man","Farmer","Conservative (1867-1942)","Defeated",3504
-"Saskatchewan",1930-07-28,"General","17","Assiniboia","McKenzie, Robert","Man","Agent","Liberal Party of Canada","Elected",8226
-"Saskatchewan",1930-07-28,"General","17","Assiniboia","CREIGHTON, James Forbes","Man","Physician","Conservative (1867-1942)","Defeated",7466
-"Saskatchewan",1930-07-28,"General","17","Humboldt","Totzke, Albert Frederick","Man","Druggist","Liberal Party of Canada","Elected",7915
-"Saskatchewan",1930-07-28,"General","17","Humboldt","WILSON, Edward Sexton","Man","Barrister","Conservative (1867-1942)","Defeated",3984
-"Saskatchewan",1930-07-28,"General","17","Humboldt","KELLERMAN, Frank Henry","Man","Farmer","Progressive","Defeated",2116
-"Saskatchewan",1930-07-28,"General","17","Kindersley","Carmichael, Archibald M.","Man","Farmer","Progressive","Elected",7350
-"Saskatchewan",1930-07-28,"General","17","Kindersley","Henderson, Charles Albert","Man","Farmer","Liberal Party of Canada","Defeated",5170
-"Saskatchewan",1930-07-28,"General","17","Last Mountain","Butcher, Harry","Man","Barrister","Liberal Party of Canada","Elected",5087
-"Saskatchewan",1930-07-28,"General","17","Last Mountain","Fansher, William Russell","Man","Farmer","Progressive","Defeated",4250
-"Saskatchewan",1930-07-28,"General","17","Last Mountain","MINOR, Harold J.","Man","Farmer","Conservative (1867-1942)","Defeated",3563
-"Saskatchewan",1930-07-28,"General","17","Long Lake","Cowan, Walter Davy","Man","Dentist","Conservative (1867-1942)","Elected",5577
-"Saskatchewan",1930-07-28,"General","17","Long Lake","Johnston, John Frederick","Man","Farmer","Liberal Party of Canada","Defeated",5383
-"Saskatchewan",1930-07-28,"General","17","Long Lake","MCNEAL, Ida Elizabeth","Woman","Farmer's wife","Farmer","Defeated",1516
-"Saskatchewan",1930-07-28,"General","17","Mackenzie","Campbell, Milton Neil","Man","Farmer","Progressive","Elected",6578
-"Saskatchewan",1930-07-28,"General","17","Mackenzie","MCLEAN, Allan Grant","Man","Insurance agent","Liberal Party of Canada","Defeated",3502
-"Saskatchewan",1930-07-28,"General","17","Mackenzie","SWYSTUN, Wasyl","Man","Principal of institute","Liberal Party of Canada","Defeated",3432
-"Saskatchewan",1930-07-28,"General","17","Maple Creek","Swanston, James Beck","Man","Surgeon","Conservative (1867-1942)","Elected",7772
-"Saskatchewan",1930-07-28,"General","17","Maple Creek","Bock, William George","Man","Farmer","Liberal Party of Canada","Defeated",7215
-"Saskatchewan",1930-07-28,"General","17","Maple Creek","HOLLIS, Annie L.","Woman","Housewife","Farmer","Defeated",2388
-"Saskatchewan",1930-07-28,"General","17","Melfort","Weir, Robert","Man","Farmer","Conservative (1867-1942)","Elected",8689
-"Saskatchewan",1930-07-28,"General","17","Melfort","McLean, Malcolm","Man","Farmer","Liberal Party of Canada","Defeated",7367
-"Saskatchewan",1930-07-28,"General","17","Melfort","DOYLE, Ferman E.","Man","Farmer","Farmer","Defeated",1435
-"Saskatchewan",1930-07-28,"General","17","Melville","Motherwell, William Richard","Man","Farmer","Liberal Party of Canada","Elected",6965
-"Saskatchewan",1930-07-28,"General","17","Melville","HART, George Nelson","Man","Merchant","Conservative (1867-1942)","Defeated",4041
-"Saskatchewan",1930-07-28,"General","17","Melville","THOMAS, John Morris","Man","Teacher","Farmer","Defeated",3221
-"Saskatchewan",1930-07-28,"General","17","Moose Jaw","Beynon, William Addison","Man","Barrister","Conservative (1867-1942)","Elected",9290
-"Saskatchewan",1930-07-28,"General","17","Moose Jaw","Ross, John Gordon","Man","Farmer","Liberal Party of Canada","Defeated",8351
-"Saskatchewan",1930-07-28,"General","17","North Battleford","McIntosh, Cameron Ross","Man","Publisher","Liberal Party of Canada","Elected",7168
-"Saskatchewan",1930-07-28,"General","17","North Battleford","MACKENZIE, William","Man","Farmer","Independent","Defeated",6073
-"Saskatchewan",1930-07-28,"General","17","North Battleford","ROSE, Arthur O.","Man","Physician","Progressive","Defeated",2248
-"Saskatchewan",1930-07-28,"General","17","Prince Albert","King, William Lyon Mackenzie","Man","Gentleman","Liberal Party of Canada","Elected",9283
-"Saskatchewan",1930-07-28,"General","17","Prince Albert","BRADEN, George","Man","Merchant","Conservative (1867-1942)","Defeated",8091
-"Saskatchewan",1930-07-28,"General","17","Qu'Appelle","Perley, Ernest Edward","Man","Farmer","Liberal Party of Canada","Elected",7888
-"Saskatchewan",1930-07-28,"General","17","Qu'Appelle","Millar, John","Man","School teacher","Liberal Progressive","Defeated",6905
-"Saskatchewan",1930-07-28,"General","17","Regina","Turnbull, Franklin White","Man","Barrister","Conservative (1867-1942)","Elected",14446
-"Saskatchewan",1930-07-28,"General","17","Regina","Dunning, Charles Avery","Man","Minister of Finance","Liberal Party of Canada","Defeated",10746
-"Saskatchewan",1930-07-28,"General","17","Regina","CARMAN, Lt. Col. R.A.","Man","Gentleman","Independent","Defeated",82
-"Saskatchewan",1930-07-28,"General","17","Rosetown","Loucks, William John","Man","Farmer","Conservative (1867-1942)","Elected",5310
-"Saskatchewan",1930-07-28,"General","17","Rosetown","RICHARDSON, William","Man","Farmer","Liberal Party of Canada","Defeated",4237
-"Saskatchewan",1930-07-28,"General","17","Rosetown","Evans, John","Man","Farmer","Progressive","Defeated",2879
-"Saskatchewan",1930-07-28,"General","17","Saskatoon","MacMillan, Frank Roland","Man","Merchant","Conservative (1867-1942)","Elected",11663
-"Saskatchewan",1930-07-28,"General","17","Saskatoon","Young, Alexander MacGillivray","Man","Physician","Liberal Party of Canada","Defeated",9799
-"Saskatchewan",1930-07-28,"General","17","South Battleford","Vallance, John","Man","Farmer","Liberal Party of Canada","Elected",6664
-"Saskatchewan",1930-07-28,"General","17","South Battleford","ROUTLEDGE, James Anson","Man","Physician","Conservative (1867-1942)","Defeated",6049
-"Saskatchewan",1930-07-28,"General","17","South Battleford","Campbell, Alexander Maxwell (Max)","Man","Farmer","Farmer","Defeated",3439
-"Saskatchewan",1930-07-28,"General","17","Swift Current","Bothwell, Charles Edward","Man","Barrister","Liberal Party of Canada","Elected",6382
-"Saskatchewan",1930-07-28,"General","17","Swift Current","IRWIN, Oscar M.","Man","Physician","Conservative (1867-1942)","Defeated",5456
-"Saskatchewan",1930-07-28,"General","17","Weyburn","Young, Edward James","Man","Farmer","Liberal Party of Canada","Elected",7259
-"Saskatchewan",1930-07-28,"General","17","Weyburn","MORLEY, John Rennie","Man","Lumberman","Conservative (1867-1942)","Defeated",5723
-"Saskatchewan",1930-07-28,"General","17","Weyburn","MCMANUS, James Hamilton","Man","Veterinary surgeon","Progressive","Defeated",1433
-"Saskatchewan",1930-07-28,"General","17","Willow Bunch","Donnelly, Thomas F.","Man","Physician","Liberal Party of Canada","Elected",9730
-"Saskatchewan",1930-07-28,"General","17","Willow Bunch","HOATH, Robert Bingham","Man","Farmer","Conservative (1867-1942)","Defeated",8992
-"Saskatchewan",1930-07-28,"General","17","Yorkton","McPhee, George Washington","Man","Barrister","Liberal Party of Canada","Elected",6887
-"Saskatchewan",1930-07-28,"General","17","Yorkton","BARBOUR, Robert","Man","Manager","Independent","Defeated",5406
-"Yukon",1930-07-28,"General","17","Yukon","Black, George","Man","Barrister","Conservative (1867-1942)","Elected",846
-"Yukon",1930-07-28,"General","17","Yukon","THOMPSON, William Edward","Man","Physician","Liberal Party of Canada","Defeated",557
+"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
+"Alberta",1930-07-28,"General","17","Acadia","Gardiner, Robert","Gardiner","Robert",NA,"Man","Farmer","United Farmers of Alberta","Elected (Acclamation)",0
+"Alberta",1930-07-28,"General","17","Athabaska","Buckley, John Francis","Buckley","John","Francis","Man","Barrister","Liberal Party of Canada","Elected",5504
+"Alberta",1930-07-28,"General","17","Athabaska","Kellner, Donald Ferdinand","Kellner","Donald","Ferdinand","Man","Farmer","United Farmers of Alberta","Defeated",4190
+"Alberta",1930-07-28,"General","17","Athabaska","Michajluk, Emanuel","Michajluk","Emanuel",NA,"Man","Farmer, barrister","Conservative (1867-1942)","Defeated",2218
+"Alberta",1930-07-28,"General","17","Battle River","Spencer, Henry Elvins","Spencer","Henry","Elvins","Man","Farmer","United Farmers of Alberta","Elected",6874
+"Alberta",1930-07-28,"General","17","Battle River","Morrison, John William Geddie","Morrison","John","William Geddie","Man","Barrister","Conservative (1867-1942)","Defeated",3927
+"Alberta",1930-07-28,"General","17","Bow River","Garland, Edward Joseph","Garland","Edward","Joseph","Man","Farmer","United Farmers of Alberta","Elected",5825
+"Alberta",1930-07-28,"General","17","Bow River","Graham, Dawson","Graham","Dawson",NA,"Man","Physician","Conservative (1867-1942)","Defeated",4653
+"Alberta",1930-07-28,"General","17","Calgary East","Stanley, George Douglass","Stanley","George","Douglass","Man","Physician","Conservative (1867-1942)","Elected",11344
+"Alberta",1930-07-28,"General","17","Calgary East","Adshead, Herbert Bealey","Adshead","Herbert","Bealey","Man","Retired farmer","Labour","Defeated",6002
+"Alberta",1930-07-28,"General","17","Calgary West","Bennett, Richard Bedford","Bennett","Richard","Bedford","Man","Barrister","Conservative (1867-1942)","Elected",13883
+"Alberta",1930-07-28,"General","17","Calgary West","Mclaurin, Colin Campbell","Mclaurin","Colin","Campbell","Man","Barrister","Liberal Party of Canada","Defeated",5887
+"Alberta",1930-07-28,"General","17","Camrose","Lucas, William Thomas","Lucas","William","Thomas","Man","Farmer","United Farmers of Alberta","Elected",6462
+"Alberta",1930-07-28,"General","17","Camrose","Mcivor, Donald Randolph","Mcivor","Donald","Randolph","Man","Merchant","Liberal Party of Canada","Defeated",4432
+"Alberta",1930-07-28,"General","17","Edmonton East","Bury, Ambrose Upton Gledstanes","Bury","Ambrose","Upton Gledstanes","Man","Barrister","Conservative (1867-1942)","Elected",6662
+"Alberta",1930-07-28,"General","17","Edmonton East","Blatchford, Kenneth Alexander","Blatchford","Kenneth","Alexander","Man","Insurance broker","Liberal Party of Canada","Defeated",4921
+"Alberta",1930-07-28,"General","17","Edmonton West","Stewart, Charles A.","Stewart","Charles","A.","Man","Farmer","Liberal Party of Canada","Elected",9223
+"Alberta",1930-07-28,"General","17","Edmonton West","Jamieson, Frederick Charles","Jamieson","Frederick","Charles","Man","Barrister","Conservative (1867-1942)","Defeated",8960
+"Alberta",1930-07-28,"General","17","Lethbridge","Stewart, John Smith","Stewart","John","Smith","Man","Dentist","Conservative (1867-1942)","Elected",4863
+"Alberta",1930-07-28,"General","17","Lethbridge","King, Thomas Owen","King","Thomas","Owen","Man","Farmer","Progressive","Defeated",3880
+"Alberta",1930-07-28,"General","17","Lethbridge","Baalim, Arthur George","Baalim","Arthur","George","Man","Automobile dealer","Liberal Party of Canada","Defeated",3779
+"Alberta",1930-07-28,"General","17","Macleod","Coote, George Gibson","Coote","George","Gibson","Man","Farmer","United Farmers of Alberta","Elected",6897
+"Alberta",1930-07-28,"General","17","Macleod","Matheson, Joseph Duncan","Matheson","Joseph","Duncan","Man","Barrister","Conservative (1867-1942)","Defeated",6105
+"Alberta",1930-07-28,"General","17","Medicine Hat","Gershaw, Frederick William","Gershaw","Frederick","William","Man","Physician","Liberal Party of Canada","Elected",6043
+"Alberta",1930-07-28,"General","17","Medicine Hat","Blackstock, Gilbert McNeill","Blackstock","Gilbert","McNeill","Man","Barrister","Conservative (1867-1942)","Defeated",3109
+"Alberta",1930-07-28,"General","17","Peace River","Kennedy, Donald MacBeth","Kennedy","Donald","MacBeth","Man","Farmer","United Farmers of Alberta","Elected",10204
+"Alberta",1930-07-28,"General","17","Peace River","Thomson, John Ewing","Thomson","John","Ewing","Man","Merchant","Liberal Party of Canada","Defeated",8390
+"Alberta",1930-07-28,"General","17","Red Deer","Speakman, Alfred","Speakman","Alfred",NA,"Man","Farmer","United Farmers of Alberta","Elected",6256
+"Alberta",1930-07-28,"General","17","Red Deer","Botterill, William John","Botterill","William","John","Man","Agent","Liberal Party of Canada","Defeated",4571
+"Alberta",1930-07-28,"General","17","Vegreville","Luchkovich, Michael","Luchkovich","Michael",NA,"Man","Teacher","United Farmers of Alberta","Elected",5510
+"Alberta",1930-07-28,"General","17","Vegreville","Gordon, Charles","Gordon","Charles",NA,"Man","Lumber merchant","Liberal Party of Canada","Defeated",4500
+"Alberta",1930-07-28,"General","17","Wetaskiwin","Irvine, William","Irvine","William",NA,"Man","Farmer","United Farmers of Alberta","Elected",4750
+"Alberta",1930-07-28,"General","17","Wetaskiwin","Russell, Charles Homer","Russell","Charles","Homer","Man","Barrister","Conservative (1867-1942)","Defeated",4326
+"Alberta",1930-07-28,"General","17","Wetaskiwin","Hayhurst, William","Hayhurst","William",NA,"Man","Farmer","Liberal Party of Canada","Defeated",2876
+"British Columbia",1930-07-28,"General","17","Cariboo","Fraser, John Anderson","Fraser","John","Anderson","Man","Merchant","Conservative (1867-1942)","Elected",8548
+"British Columbia",1930-07-28,"General","17","Cariboo","Perry, Henry George Thomas","Perry","Henry","George Thomas","Man","Insurance agent","Liberal Party of Canada","Defeated",8220
+"British Columbia",1930-07-28,"General","17","Comox--Alberni","Neill, Alan Webster","Neill","Alan","Webster","Man","Retired merchant","Independent","Elected",5651
+"British Columbia",1930-07-28,"General","17","Comox--Alberni","Graham, Thomas","Graham","Thomas",NA,"Man","Civil engineer","Conservative (1867-1942)","Defeated",3270
+"British Columbia",1930-07-28,"General","17","Fraser Valley","Barber, Harry James","Barber","Harry","James","Man","Druggist","Conservative (1867-1942)","Elected",6946
+"British Columbia",1930-07-28,"General","17","Fraser Valley","McGeer, Gerald Grattan","McGeer","Gerald","Grattan","Man","Barrister","Liberal Party of Canada","Defeated",6374
+"British Columbia",1930-07-28,"General","17","Kootenay East","McLean, Michael Dalton","McLean","Michael","Dalton","Man","Overman","Conservative (1867-1942)","Elected",4674
+"British Columbia",1930-07-28,"General","17","Kootenay East","Guimont, Joseph-Francis","Guimont","Joseph-Francis",NA,"Man","Train dispatcher","Liberal Party of Canada","Defeated",4468
+"British Columbia",1930-07-28,"General","17","Kootenay West","Esling, William Kemble","Esling","William","Kemble","Man","General agent","Conservative (1867-1942)","Elected",7699
+"British Columbia",1930-07-28,"General","17","Kootenay West","Mclean, Duncan Daniel","Mclean","Duncan","Daniel","Man","Railroad conductor","Liberal Party of Canada","Defeated",5938
+"British Columbia",1930-07-28,"General","17","Nanaimo","Dickie, Charles Herbert","Dickie","Charles","Herbert","Man","Miner","Conservative (1867-1942)","Elected",11827
+"British Columbia",1930-07-28,"General","17","Nanaimo","O'HALLORAN, Cornelius Hawkins","O'HALLORAN","Cornelius","Hawkins","Man","Barrister","Liberal Party of Canada","Defeated",8596
+"British Columbia",1930-07-28,"General","17","New Westminster","Reid, Thomas","Reid","Thomas",NA,"Man","Rancher","Liberal Party of Canada","Elected",13293
+"British Columbia",1930-07-28,"General","17","New Westminster","McQuarrie, William Garland","McQuarrie","William","Garland","Man","Barrister","Conservative (1867-1942)","Defeated",10502
+"British Columbia",1930-07-28,"General","17","Skeena","Hanson, Olof","Hanson","Olof",NA,"Man","Lumberman","Liberal Party of Canada","Elected",5351
+"British Columbia",1930-07-28,"General","17","Skeena","Brady, James Charles","Brady","James","Charles","Man","School principal","Conservative (1867-1942)","Defeated",4327
+"British Columbia",1930-07-28,"General","17","Vancouver Centre","Mackenzie, Ian Alistair","Mackenzie","Ian","Alistair","Man","Barrister","Liberal Party of Canada","Elected",12064
+"British Columbia",1930-07-28,"General","17","Vancouver Centre","Stevens, Henry Herbert","Stevens","Henry","Herbert","Man","Accountant and broker","Conservative (1867-1942)","Defeated",10023
+"British Columbia",1930-07-28,"General","17","Vancouver North","Munn, Albert Edward","Munn","Albert","Edward","Man","Lumberman","Liberal Party of Canada","Elected",6799
+"British Columbia",1930-07-28,"General","17","Vancouver North","McRae, Alexander Duncan","McRae","Alexander","Duncan","Man","Retired","Conservative (1867-1942)","Defeated",5757
+"British Columbia",1930-07-28,"General","17","Vancouver South","MacInnis, Angus","MacInnis","Angus",NA,"Man","Motorman","Independent Labour","Elected",15732
+"British Columbia",1930-07-28,"General","17","Vancouver South","Ladner, Leon Johnson","Ladner","Leon","Johnson","Man","Barrister","Conservative (1867-1942)","Defeated",14850
+"British Columbia",1930-07-28,"General","17","Vancouver South","Bennett, William","Bennett","William",NA,"Man","Labourer","Communist Party of Canada","Defeated",861
+"British Columbia",1930-07-28,"General","17","Vancouver--Burrard","Hanbury, Wilfred","Hanbury","Wilfred",NA,"Man","Lumberman","Liberal Party of Canada","Elected",16619
+"British Columbia",1930-07-28,"General","17","Vancouver--Burrard","Hamilton, Robert James","Hamilton","Robert","James","Man","Lumberman","Conservative (1867-1942)","Defeated",13885
+"British Columbia",1930-07-28,"General","17","Vancouver--Burrard","Woodworth, Charles Milton","Woodworth","Charles","Milton","Man","Barrister","Independent","Defeated",687
+"British Columbia",1930-07-28,"General","17","Vancouver--Burrard","Appleby, Edwin Clarke","Appleby","Edwin","Clarke","Man","Watchman","Prohibitionist","Defeated",266
+"British Columbia",1930-07-28,"General","17","Victoria","Plunkett, D'Arcy Britton","Plunkett","D'Arcy","Britton","Man","Sheet metal worker","Conservative (1867-1942)","Elected",8319
+"British Columbia",1930-07-28,"General","17","Victoria","Henderson, Stuart Alexander","Henderson","Stuart","Alexander","Man","Barrister","Liberal Party of Canada","Defeated",6303
+"British Columbia",1930-07-28,"General","17","Yale","Stirling, Grote","Stirling","Grote",NA,"Man","Civil engineer","Conservative (1867-1942)","Elected",8447
+"British Columbia",1930-07-28,"General","17","Yale","Wilkins, Walter Gordon","Wilkins","Walter","Gordon","Man","Broker","Liberal Party of Canada","Defeated",4908
+"Manitoba",1930-07-28,"General","17","Brandon","Beaubier, David Wilson","Beaubier","David","Wilson","Man","Farmer","Conservative (1867-1942)","Elected",8512
+"Manitoba",1930-07-28,"General","17","Brandon","Crerar, Thomas Alexander","Crerar","Thomas","Alexander","Man","Minister of Railways and Canals","Liberal Party of Canada","Defeated",6457
+"Manitoba",1930-07-28,"General","17","Brandon","Brigden, Beatrice Alice","Brigden","Beatrice","Alice","Woman","Educationalist","Labour","Defeated",1331
+"Manitoba",1930-07-28,"General","17","Dauphin","Bowman, James Langstaff","Bowman","James","Langstaff","Man","Barrister","Conservative (1867-1942)","Elected",7083
+"Manitoba",1930-07-28,"General","17","Dauphin","Ward, William John","Ward","William","John","Man","Farmer","Liberal Progressive","Defeated",6399
+"Manitoba",1930-07-28,"General","17","Lisgar","Brown, John Livingstone","Brown","John","Livingstone","Man","Farmer","Liberal Progressive","Elected",5162
+"Manitoba",1930-07-28,"General","17","Lisgar","Hewitt, Robert Thomas","Hewitt","Robert","Thomas","Man","Station agent","Conservative (1867-1942)","Defeated",4990
+"Manitoba",1930-07-28,"General","17","Macdonald","Weir, William Gilbert","Weir","William","Gilbert","Man","Farmer","Liberal Progressive","Elected",6100
+"Manitoba",1930-07-28,"General","17","Macdonald","Woods, John Ernest","Woods","John","Ernest","Man","Grain merchant","Conservative (1867-1942)","Defeated",5601
+"Manitoba",1930-07-28,"General","17","Marquette","Mullins, Henry Alfred","Mullins","Henry","Alfred","Man","Retired farmer and exporter","Conservative (1867-1942)","Elected",8663
+"Manitoba",1930-07-28,"General","17","Marquette","Glen, James Allison","Glen","James","Allison","Man","Barrister","Liberal Progressive","Defeated",5979
+"Manitoba",1930-07-28,"General","17","Neepawa","Murphy, Thomas Gerow","Murphy","Thomas","Gerow","Man","Druggist","Conservative (1867-1942)","Elected",5638
+"Manitoba",1930-07-28,"General","17","Neepawa","Milne, Robert","Milne","Robert",NA,"Man","Farmer","Progressive","Defeated",5161
+"Manitoba",1930-07-28,"General","17","Nelson","Stitt, Bernard Munroe","Stitt","Bernard","Munroe","Man","Agent","Conservative (1867-1942)","Elected",4741
+"Manitoba",1930-07-28,"General","17","Nelson","Bird, Thomas William","Bird","Thomas","William","Man","Clergyman","Progressive","Defeated",4067
+"Manitoba",1930-07-28,"General","17","Portage la Prairie","Burns, William Herbert","Burns","William","Herbert","Man","Merchant","Conservative (1867-1942)","Elected",6372
+"Manitoba",1930-07-28,"General","17","Portage la Prairie","McPherson, Ewen Alexander","McPherson","Ewen","Alexander","Man","Barrister-at-law","Liberal Party of Canada","Defeated",6230
+"Manitoba",1930-07-28,"General","17","Provencher","Beaubien, Arthur-Lucien","Beaubien","Arthur-Lucien",NA,"Man","Farmer","Liberal Progressive","Elected",4562
+"Manitoba",1930-07-28,"General","17","Provencher","Belanger, Joseph-Arthur","Belanger","Joseph-Arthur",NA,"Man","Physician","Conservative (1867-1942)","Defeated",2274
+"Manitoba",1930-07-28,"General","17","Provencher","Kobzar, Wasyl","Kobzar","Wasyl",NA,"Man","Farmer","Independent Conservative","Defeated",715
+"Manitoba",1930-07-28,"General","17","Provencher","Ayotte, Alexandre","Ayotte","Alexandre",NA,"Man","Farmer","Liberal Party of Canada","Defeated",321
+"Manitoba",1930-07-28,"General","17","Selkirk","Stitt, James Herbert","Stitt","James","Herbert","Man","Barrister","Conservative (1867-1942)","Elected",6581
+"Manitoba",1930-07-28,"General","17","Selkirk","Bancroft, Leland Payson","Bancroft","Leland","Payson","Man","Traveller","Liberal Progressive","Defeated",6098
+"Manitoba",1930-07-28,"General","17","Selkirk","Nawizowsky, John","Nawizowsky","John",NA,"Man","Printer","Communist Party of Canada","Defeated",1709
+"Manitoba",1930-07-28,"General","17","Souris","Willis, Errick French","Willis","Errick","French","Man","Barrister","Conservative (1867-1942)","Elected",6252
+"Manitoba",1930-07-28,"General","17","Souris","Steedsman, James","Steedsman","James",NA,"Man","Farmer","Progressive","Defeated",5780
+"Manitoba",1930-07-28,"General","17","Springfield","Hay, Thomas","Hay","Thomas",NA,"Man","Farmer","Conservative (1867-1942)","Elected",5446
+"Manitoba",1930-07-28,"General","17","Springfield","Bissett, Edgar Douglas Richmond","Bissett","Edgar","Douglas Richmond","Man","Physician","Liberal Progressive","Defeated",3617
+"Manitoba",1930-07-28,"General","17","Springfield","Lange, Frederick William","Lange","Frederick","William","Man","Salesman","Labour","Defeated",1106
+"Manitoba",1930-07-28,"General","17","Springfield","Ross, Donald Andrew","Ross","Donald","Andrew","Man","Nurseryman","Independent Liberal","Defeated",511
+"Manitoba",1930-07-28,"General","17","Springfield","Grabowski, Stanley","Grabowski","Stanley",NA,"Man","Restaurateur","Independent Liberal","Defeated",307
+"Manitoba",1930-07-28,"General","17","St. Boniface","Howden, John Power","Howden","John","Power","Man","Physician","Liberal Party of Canada","Elected",7045
+"Manitoba",1930-07-28,"General","17","St. Boniface","Cook, Edgar Honwell","Cook","Edgar","Honwell","Man","Locomotive engineer","Conservative (1867-1942)","Defeated",4630
+"Manitoba",1930-07-28,"General","17","St. Boniface","Hansford, Edwin Arnold","Hansford","Edwin","Arnold","Man","Switchman","Labour","Defeated",1943
+"Manitoba",1930-07-28,"General","17","Winnipeg North","Heaps, Abraham Albert","Heaps","Abraham","Albert","Man","Upholsterer","Labour","Elected",6907
+"Manitoba",1930-07-28,"General","17","Winnipeg North","Blake, Matthew Robert","Blake","Matthew","Robert","Man","Physician","Conservative (1867-1942)","Defeated",5011
+"Manitoba",1930-07-28,"General","17","Winnipeg North","Morris, Leslie","Morris","Leslie",NA,"Man",NA,"Liberal Party of Canada","Defeated",2164
+"Manitoba",1930-07-28,"General","17","Winnipeg North Centre","Woodsworth, James Shaver","Woodsworth","James","Shaver","Man","Lecturer","Labour","Elected",8265
+"Manitoba",1930-07-28,"General","17","Winnipeg North Centre","Gargan, Thomas","Gargan","Thomas",NA,"Man","Contractor","Independent Conservative","Defeated",2028
+"Manitoba",1930-07-28,"General","17","Winnipeg North Centre","Forkin, Martin Joseph","Forkin","Martin","Joseph","Man","Transient worker","Communist Party of Canada","Defeated",492
+"Manitoba",1930-07-28,"General","17","Winnipeg South","Rogers, Robert","Rogers","Robert",NA,"Man","Gentleman","Conservative (1867-1942)","Elected",10117
+"Manitoba",1930-07-28,"General","17","Winnipeg South","McDiarmid, John Stewart","McDiarmid","John","Stewart","Man","Lumber merchant","Liberal Party of Canada","Defeated",9774
+"Manitoba",1930-07-28,"General","17","Winnipeg South","Tanner, Charles Albert","Tanner","Charles","Albert","Man","Editor","Independent Labour","Defeated",256
+"Manitoba",1930-07-28,"General","17","Winnipeg South Centre","Kennedy, William Walker","Kennedy","William","Walker","Man","Barrister","Conservative (1867-1942)","Elected",17355
+"Manitoba",1930-07-28,"General","17","Winnipeg South Centre","Thorson, Joseph Thorarinn","Thorson","Joseph","Thorarinn","Man","Barrister","Liberal Party of Canada","Defeated",13637
+"New Brunswick",1930-07-28,"General","17","Charlotte","Ganong, Arthur D.","Ganong","Arthur","D.","Man","Manufacturer","Conservative (1867-1942)","Elected",5595
+"New Brunswick",1930-07-28,"General","17","Charlotte","Scovil, John W.","Scovil","John","W.","Man","Merchant","Liberal Party of Canada","Defeated",4092
+"New Brunswick",1930-07-28,"General","17","Gloucester","Veniot, Peter John","Veniot","Peter","John","Man","Insurance agent","Liberal Party of Canada","Elected",7716
+"New Brunswick",1930-07-28,"General","17","Gloucester","Robichaud, Albany M.","Robichaud","Albany","M.","Man","Barrister","Conservative (1867-1942)","Defeated",7460
+"New Brunswick",1930-07-28,"General","17","Kent","Arsenault, Telesphore","Arsenault","Telesphore",NA,"Man","Farmer","Conservative (1867-1942)","Elected",4884
+"New Brunswick",1930-07-28,"General","17","Kent","Bourgeois, Alfred Edmond","Bourgeois","Alfred","Edmond","Man","Landowner","Liberal Party of Canada","Defeated",4504
+"New Brunswick",1930-07-28,"General","17","Northumberland","McDade, George Manning","McDade","George","Manning","Man","Barrister","Conservative (1867-1942)","Elected",8095
+"New Brunswick",1930-07-28,"General","17","Northumberland","Burchill, George Percival","Burchill","George","Percival","Man","Lumber merchant","Liberal Party of Canada","Defeated",5637
+"New Brunswick",1930-07-28,"General","17","Restigouche--Madawaska","Cormier, Maximilien Dominic (Maxime)","Cormier","Maximilien","Dominic (Maxime)","Man","Barrister","Conservative (1867-1942)","Elected",10037
+"New Brunswick",1930-07-28,"General","17","Restigouche--Madawaska","Mcevoy, Thomas Henry","Mcevoy","Thomas","Henry","Man","Manager","Liberal Party of Canada","Defeated",9489
+"New Brunswick",1930-07-28,"General","17","Royal","Jones, George Burpee","Jones","George","Burpee","Man","Merchant","Conservative (1867-1942)","Elected",8698
+"New Brunswick",1930-07-28,"General","17","Royal","White, Donald V.","White","Donald","V.","Man","Barrister-at-law","Liberal Party of Canada","Defeated",5774
+"New Brunswick",1930-07-28,"General","17","St. John--Albert","MacLaren, Murray","MacLaren","Murray",NA,"Man","Physician","Conservative (1867-1942)","Elected",16454
+"New Brunswick",1930-07-28,"General","17","St. John--Albert","Bell, Thomas","Bell","Thomas",NA,"Man","Merchant","Conservative (1867-1942)","Elected",16395
+"New Brunswick",1930-07-28,"General","17","St. John--Albert","McAvity, Allan Getchell","McAvity","Allan","Getchell","Man","Merchant","Liberal Party of Canada","Defeated",8595
+"New Brunswick",1930-07-28,"General","17","St. John--Albert","Ryan, William Michael","Ryan","William","Michael","Man","Barrister","Liberal Party of Canada","Defeated",8371
+"New Brunswick",1930-07-28,"General","17","Victoria--Carleton","Smith, Benjamin Franklin","Smith","Benjamin","Franklin","Man","Produce merchant","Conservative (1867-1942)","Elected",8628
+"New Brunswick",1930-07-28,"General","17","Victoria--Carleton","Foster, Albion Roudolph","Foster","Albion","Roudolph","Man","Farmer","Liberal Party of Canada","Defeated",5776
+"New Brunswick",1930-07-28,"General","17","Westmorland","Price, Otto Baird","Price","Otto","Baird","Man","Dentist","Conservative (1867-1942)","Elected",13304
+"New Brunswick",1930-07-28,"General","17","Westmorland","Emmerson, Henry Read","Emmerson","Henry","Read","Man","Salesman","Liberal Party of Canada","Defeated",10836
+"New Brunswick",1930-07-28,"General","17","York--Sunbury","Hanson, Richard Burpee","Hanson","Richard","Burpee","Man","Barrister","Conservative (1867-1942)","Elected",10166
+"New Brunswick",1930-07-28,"General","17","York--Sunbury","Winslow, J.J. Fraser","Winslow","J.J.","Fraser","Man","Barrister","Liberal Party of Canada","Defeated",4552
+"Nova Scotia",1930-07-28,"General","17","Antigonish--Guysborough","Duff, William","Duff","William",NA,"Man","Merchant and ship owner","Liberal Party of Canada","Elected",6370
+"Nova Scotia",1930-07-28,"General","17","Antigonish--Guysborough","Rice, Howard A.","Rice","Howard","A.","Man","Merchant","Conservative (1867-1942)","Defeated",5811
+"Nova Scotia",1930-07-28,"General","17","Cape Breton North--Victoria","Johnstone, Lewis Wilkieson","Johnstone","Lewis","Wilkieson","Man","Physician","Conservative (1867-1942)","Elected",7075
+"Nova Scotia",1930-07-28,"General","17","Cape Breton North--Victoria","Dwyer, Michael","Dwyer","Michael",NA,"Man","Mechanical engineer","Liberal Party of Canada","Defeated",5184
+"Nova Scotia",1930-07-28,"General","17","Cape Breton South","MacDonald, Finlay","MacDonald","Finlay",NA,"Man","Barrister","Conservative (1867-1942)","Elected",15886
+"Nova Scotia",1930-07-28,"General","17","Cape Breton South","Cameron, Daniel Alexander","Cameron","Daniel","Alexander","Man","Barrister","Liberal Party of Canada","Defeated",9268
+"Nova Scotia",1930-07-28,"General","17","Colchester","Urquhart, Martin Luther","Urquhart","Martin","Luther","Man","Wholesale grocer","Liberal Party of Canada","Elected",6131
+"Nova Scotia",1930-07-28,"General","17","Colchester","MacNutt, George Taylor","MacNutt","George","Taylor","Man","Lumber merchant","Conservative (1867-1942)","Defeated",5734
+"Nova Scotia",1930-07-28,"General","17","Cumberland","Smith, Robert Knowlton","Smith","Robert","Knowlton","Man","Barrister","Conservative (1867-1942)","Elected",8854
+"Nova Scotia",1930-07-28,"General","17","Cumberland","Smiley, John Stanley","Smiley","John","Stanley","Man","Barrister","Liberal Party of Canada","Defeated",7401
+"Nova Scotia",1930-07-28,"General","17","Digby--Annapolis","Short, Harry Bernard","Short","Harry","Bernard","Man","Manager","Conservative (1867-1942)","Elected",8357
+"Nova Scotia",1930-07-28,"General","17","Digby--Annapolis","Pickup, Samuel Walter Willet","Pickup","Samuel","Walter Willet","Man","Farmer","Liberal Party of Canada","Defeated",8282
+"Nova Scotia",1930-07-28,"General","17","Halifax","Black, William Anderson","Black","William","Anderson","Man","Shipping Agent","Conservative (1867-1942)","Elected",21611
+"Nova Scotia",1930-07-28,"General","17","Halifax","Quinn, Felix Patrick","Quinn","Felix","Patrick","Man","Manufacturer","Conservative (1867-1942)","Elected",21280
+"Nova Scotia",1930-07-28,"General","17","Halifax","Jack, Peter R.","Jack","Peter","R.","Man","Manufacturer and broker","Liberal Party of Canada","Defeated",19439
+"Nova Scotia",1930-07-28,"General","17","Halifax","Cragg, Edward Joseph","Cragg","Edward","Joseph","Man","Merchant","Liberal Party of Canada","Defeated",19185
+"Nova Scotia",1930-07-28,"General","17","Hants--Kings","Ilsley, James Lorimer","Ilsley","James","Lorimer","Man","Barrister","Liberal Party of Canada","Elected",11059
+"Nova Scotia",1930-07-28,"General","17","Hants--Kings","Foster, Arthur de Witt","Foster","Arthur","de Witt","Man","Broker","Conservative (1867-1942)","Defeated",9947
+"Nova Scotia",1930-07-28,"General","17","Inverness","MacDougall, Isaac Duncan","MacDougall","Isaac","Duncan","Man","Barrister","Conservative (1867-1942)","Elected",4887
+"Nova Scotia",1930-07-28,"General","17","Inverness","Macdonald, Angus Lewis","Macdonald","Angus","Lewis","Man","Barrister","Liberal Party of Canada","Defeated",4722
+"Nova Scotia",1930-07-28,"General","17","Pictou","Cantley, Thomas","Cantley","Thomas",NA,"Man","Manufacturer","Conservative (1867-1942)","Elected",9672
+"Nova Scotia",1930-07-28,"General","17","Pictou","Macquarrie, Josiah H.","Macquarrie","Josiah","H.","Man","Barrister","Liberal Party of Canada","Defeated",9174
+"Nova Scotia",1930-07-28,"General","17","Queens--Lunenburg","Ernst, William Gordon","Ernst","William","Gordon","Man","Barrister","Conservative (1867-1942)","Elected",10504
+"Nova Scotia",1930-07-28,"General","17","Queens--Lunenburg","Kinley, John James","Kinley","John","James","Man","Druggist","Liberal Party of Canada","Defeated",9378
+"Nova Scotia",1930-07-28,"General","17","Richmond--West Cape Breton","Macdonald, John Alexander (1883-1945)","Macdonald","John","Alexander (1883-1945)","Man","Physician","Conservative (1867-1942)","Elected",4085
+"Nova Scotia",1930-07-28,"General","17","Richmond--West Cape Breton","Doyle, Edward Charles","Doyle","Edward","Charles","Man","Carpenter","Liberal Party of Canada","Defeated",3413
+"Nova Scotia",1930-07-28,"General","17","Shelburne--Yarmouth","Ralston, James Layton","Ralston","James","Layton","Man","Barrister","Liberal Party of Canada","Elected",8173
+"Nova Scotia",1930-07-28,"General","17","Shelburne--Yarmouth","Walker, James Marvin","Walker","James","Marvin","Man","Merchant","Conservative (1867-1942)","Defeated",6800
+"Ontario",1930-07-28,"General","17","Algoma East","Nicholson, George Brecken","Nicholson","George","Brecken","Man","Lumberman","Conservative (1867-1942)","Elected",7231
+"Ontario",1930-07-28,"General","17","Algoma East","Bowman, Beniah","Bowman","Beniah",NA,"Man","Farmer","Liberal Party of Canada","Defeated",6934
+"Ontario",1930-07-28,"General","17","Algoma West","Simpson, Thomas Edward","Simpson","Thomas","Edward","Man","Merchant","Conservative (1867-1942)","Elected",7531
+"Ontario",1930-07-28,"General","17","Algoma West","Whytall, Albert Ernest","Whytall","Albert","Ernest","Man","Clerk","Liberal Party of Canada","Defeated",6108
+"Ontario",1930-07-28,"General","17","Brant","Smoke, Franklin","Smoke","Franklin",NA,"Man","Barrister","Conservative (1867-1942)","Elected",5094
+"Ontario",1930-07-28,"General","17","Brant","Harold, John","Harold","John",NA,"Man","Manufacturer","Liberal Party of Canada","Defeated",4372
+"Ontario",1930-07-28,"General","17","Brantford City","Ryerson, Robert Edwy","Ryerson","Robert","Edwy","Man","Merchant","Conservative (1867-1942)","Elected",9154
+"Ontario",1930-07-28,"General","17","Brantford City","Macdonald, William Ross","Macdonald","William","Ross","Man","Barrister","Liberal Party of Canada","Defeated",6072
+"Ontario",1930-07-28,"General","17","Bruce North","Malcolm, James","Malcolm","James",NA,"Man","Minister of Trade and Commerce","Liberal Party of Canada","Elected",5620
+"Ontario",1930-07-28,"General","17","Bruce North","Mitchell, William","Mitchell","William",NA,"Man","President of Circle Bar Knitting Co.","Conservative (1867-1942)","Defeated",5543
+"Ontario",1930-07-28,"General","17","Bruce South","Hall, Walter Allan","Hall","Walter","Allan","Man","Physician","Liberal Party of Canada","Elected",5738
+"Ontario",1930-07-28,"General","17","Bruce South","Moffat, Foster Graham","Moffat","Foster","Graham","Man","Farmer","Conservative (1867-1942)","Defeated",4837
+"Ontario",1930-07-28,"General","17","Carleton","Garland, William Foster","Garland","William","Foster","Man","Druggist","Conservative (1867-1942)","Elected",7317
+"Ontario",1930-07-28,"General","17","Carleton","Cummings, Mortimer Newton","Cummings","Mortimer","Newton","Man","Manufacturer","Liberal Party of Canada","Defeated",7027
+"Ontario",1930-07-28,"General","17","Carleton","Morris, Robert Ormond","Morris","Robert","Ormond","Man","Merchant","Independent Conservative","Defeated",2369
+"Ontario",1930-07-28,"General","17","Dufferin--Simcoe","Rowe, William Earl","Rowe","William","Earl","Man","Farmer","Conservative (1867-1942)","Elected",9369
+"Ontario",1930-07-28,"General","17","Dufferin--Simcoe","Case, Wilfrid Garfield","Case","Wilfrid","Garfield","Man","Insurance manager","Liberal Party of Canada","Defeated",4388
+"Ontario",1930-07-28,"General","17","Durham","Bowen, Fred Wellington","Bowen","Fred","Wellington","Man","Farmer","Conservative (1867-1942)","Elected",6827
+"Ontario",1930-07-28,"General","17","Durham","Holman, Montague John","Holman","Montague","John","Man",NA,"Liberal Party of Canada","Defeated",5221
+"Ontario",1930-07-28,"General","17","Elgin West","Hepburn, Mitchell Frederick","Hepburn","Mitchell","Frederick","Man","Farmer","Liberal Party of Canada","Elected",10020
+"Ontario",1930-07-28,"General","17","Elgin West","Dowler, Jonathan","Dowler","Jonathan",NA,"Man","Retired merchant","Conservative (1867-1942)","Defeated",8583
+"Ontario",1930-07-28,"General","17","Essex East","Morand, Raymond Ducharme","Morand","Raymond","Ducharme","Man","Physician","Conservative (1867-1942)","Elected",9243
+"Ontario",1930-07-28,"General","17","Essex East","Odette, Edmond George","Odette","Edmond","George","Man","Manufacturer","Liberal Party of Canada","Defeated",7133
+"Ontario",1930-07-28,"General","17","Essex South","Gott, Eccles James","Gott","Eccles","James","Man","Real estate broker","Conservative (1867-1942)","Elected",8261
+"Ontario",1930-07-28,"General","17","Essex South","Montgomery, John Clarence","Montgomery","John","Clarence","Man","Insurance salesman","Liberal Party of Canada","Defeated",6281
+"Ontario",1930-07-28,"General","17","Essex West","Robinson, Sidney Cecil","Robinson","Sidney","Cecil","Man","Gentleman","Conservative (1867-1942)","Elected",17150
+"Ontario",1930-07-28,"General","17","Essex West","Kennedy, Glencora","Kennedy","Glencora",NA,"Woman",NA,"Liberal Party of Canada","Defeated",10690
+"Ontario",1930-07-28,"General","17","Fort William","Manion, Robert James","Manion","Robert","James","Man","Physician","Conservative (1867-1942)","Elected",6939
+"Ontario",1930-07-28,"General","17","Fort William","Wilson, Charles White","Wilson","Charles","White","Man","Merchant","Liberal Party of Canada","Defeated",3262
+"Ontario",1930-07-28,"General","17","Fort William","Smith, Albert Edward","Smith","Albert","Edward","Man","Secretary","Independent","Defeated",594
+"Ontario",1930-07-28,"General","17","Frontenac--Addington","Spankie, William","Spankie","William",NA,"Man","Physician","Conservative (1867-1942)","Elected",7432
+"Ontario",1930-07-28,"General","17","Frontenac--Addington","Stinchcombe, Samuel Dudley","Stinchcombe","Samuel","Dudley","Man","Farmer","Liberal Party of Canada","Defeated",4061
+"Ontario",1930-07-28,"General","17","Glengarry","McGillis, Angus","McGillis","Angus",NA,"Man","Farmer","Conservative (1867-1942)","Elected",5059
+"Ontario",1930-07-28,"General","17","Glengarry","Huot, Joseph A.C.","Huot","Joseph","A.C.","Man",NA,"Liberal Party of Canada","Defeated",3830
+"Ontario",1930-07-28,"General","17","Grenville--Dundas","Casselman, Arza Clair","Casselman","Arza","Clair","Man","Lawyer","Conservative (1867-1942)","Elected",9498
+"Ontario",1930-07-28,"General","17","Grenville--Dundas","Taugher, William John","Taugher","William","John","Man","Physician","Liberal Party of Canada","Defeated",5078
+"Ontario",1930-07-28,"General","17","Grey North","Porteous, Victor Clarence","Porteous","Victor","Clarence","Man","Farmer","Conservative (1867-1942)","Elected",7617
+"Ontario",1930-07-28,"General","17","Grey North","Telford, William Pattison","Telford","William","Pattison","Man","Barrister","Liberal Party of Canada","Defeated",7430
+"Ontario",1930-07-28,"General","17","Grey Southeast","Macphail, Agnes Campbell","Macphail","Agnes","Campbell","Woman","Schoolteacher and farmer","Progressive","Elected",6619
+"Ontario",1930-07-28,"General","17","Grey Southeast","Campbell, Lewis G.","Campbell","Lewis","G.","Man","Dentist","Liberal Party of Canada","Defeated",6376
+"Ontario",1930-07-28,"General","17","Haldimand","Senn, Mark Cecil","Senn","Mark","Cecil","Man","Merchant","Conservative (1867-1942)","Elected",6171
+"Ontario",1930-07-28,"General","17","Haldimand","Camelford, William Whyte","Camelford","William","Whyte","Man","Manufacturer","Liberal Party of Canada","Defeated",4864
+"Ontario",1930-07-28,"General","17","Halton","Anderson, Robert King","Anderson","Robert","King","Man","Physician","Conservative (1867-1942)","Elected",6976
+"Ontario",1930-07-28,"General","17","Halton","Waldbrook, James","Waldbrook","James",NA,"Man","Farmer","Progressive","Defeated",5806
+"Ontario",1930-07-28,"General","17","Hamilton East","Rennie, George Septimus","Rennie","George","Septimus","Man","Physician","Conservative (1867-1942)","Elected",12893
+"Ontario",1930-07-28,"General","17","Hamilton East","Treleaven, Freeman Ferrier","Treleaven","Freeman","Ferrier","Man","Barrister","Liberal Party of Canada","Defeated",8142
+"Ontario",1930-07-28,"General","17","Hamilton East","Cohen, Saul","Cohen","Saul",NA,"Man","Steelworker","Communist Party of Canada","Defeated",343
+"Ontario",1930-07-28,"General","17","Hamilton West","Bell, Charles William","Bell","Charles","William","Man","Lawyer","Conservative (1867-1942)","Elected",10978
+"Ontario",1930-07-28,"General","17","Hamilton West","Riselay, Cranmer Egerton","Riselay","Cranmer","Egerton","Man","Merchant","Liberal Party of Canada","Defeated",6275
+"Ontario",1930-07-28,"General","17","Hastings South","Tummon, William Ernest","Tummon","William","Ernest","Man","Contractor","Conservative (1867-1942)","Elected",10340
+"Ontario",1930-07-28,"General","17","Hastings South","Hanna, Charles Edward","Hanna","Charles","Edward","Man","Merchant","Liberal Party of Canada","Defeated",8143
+"Ontario",1930-07-28,"General","17","Hastings--Peterborough","Embury, Alexander Thomas","Embury","Alexander","Thomas","Man","Physician","Conservative (1867-1942)","Elected",6993
+"Ontario",1930-07-28,"General","17","Hastings--Peterborough","Aylsworth, Fraser","Aylsworth","Fraser",NA,"Man","Land surveyor","Liberal Party of Canada","Defeated",2999
+"Ontario",1930-07-28,"General","17","Huron North","Spotton, George","Spotton","George",NA,"Man","Businessman","Conservative (1867-1942)","Elected",6160
+"Ontario",1930-07-28,"General","17","Huron North","Robertson, William Henry","Robertson","William","Henry","Man","Publisher","Liberal Party of Canada","Defeated",5927
+"Ontario",1930-07-28,"General","17","Huron South","McMillan, Thomas","McMillan","Thomas",NA,"Man","Farmer","Liberal Party of Canada","Elected",6176
+"Ontario",1930-07-28,"General","17","Huron South","Trewartha, Nelson W.","Trewartha","Nelson","W.","Man","Produce merchant","Conservative (1867-1942)","Defeated",5827
+"Ontario",1930-07-28,"General","17","Kenora--Rainy River","Heenan, Peter","Heenan","Peter",NA,"Man","Locomotive engineer","Liberal Party of Canada","Elected",6313
+"Ontario",1930-07-28,"General","17","Kenora--Rainy River","Mcmanus, Francis James","Mcmanus","Francis","James","Man","Conductor","Unknown","Defeated",5811
+"Ontario",1930-07-28,"General","17","Kent","Rutherford, James Warren","Rutherford","James","Warren","Man","Physician","Liberal Party of Canada","Elected",12179
+"Ontario",1930-07-28,"General","17","Kent","Stonehouse, Calvert Stanley","Stonehouse","Calvert","Stanley","Man","Merchant","Conservative (1867-1942)","Defeated",10765
+"Ontario",1930-07-28,"General","17","Kingston City","Ross, Arthur Edward","Ross","Arthur","Edward","Man","Physician","Conservative (1867-1942)","Elected",6359
+"Ontario",1930-07-28,"General","17","Kingston City","Halliday, James","Halliday","James",NA,"Man","Electrician","Liberal Party of Canada","Defeated",4771
+"Ontario",1930-07-28,"General","17","Lambton East","Sproule, John Thomas","Sproule","John","Thomas","Man","Farmer","Conservative (1867-1942)","Elected",6209
+"Ontario",1930-07-28,"General","17","Lambton East","Fansher, Burt Wendell","Fansher","Burt","Wendell","Man","Farmer","Progressive","Defeated",6196
+"Ontario",1930-07-28,"General","17","Lambton East","Dunlop, Charles Goodspeed","Dunlop","Charles","Goodspeed","Man","Teacher","Liberal Party of Canada","Defeated",153
+"Ontario",1930-07-28,"General","17","Lambton West","Gray, Ross Wilfred","Gray","Ross","Wilfred","Man","Barrister","Liberal Party of Canada","Elected",7868
+"Ontario",1930-07-28,"General","17","Lambton West","Haney, Wilfred Smith","Haney","Wilfred","Smith","Man","Barrister","Conservative (1867-1942)","Defeated",7314
+"Ontario",1930-07-28,"General","17","Lanark","Thompson, Thomas Alfred","Thompson","Thomas","Alfred","Man","Farmer","Conservative (1867-1942)","Elected",7064
+"Ontario",1930-07-28,"General","17","Lanark","Soper, Bert H.","Soper","Bert","H.","Man","Wholesale manager","Liberal Party of Canada","Defeated",5699
+"Ontario",1930-07-28,"General","17","Lanark","Murphy, William Samuel","Murphy","William","Samuel","Man","Physician","Independent Conservative","Defeated",3937
+"Ontario",1930-07-28,"General","17","Lanark","Low, Mildred Amelia","Low","Mildred","Amelia","Woman","Writer","Independent Conservative","Defeated",75
+"Ontario",1930-07-28,"General","17","Leeds","Stewart, Hugh Alexander","Stewart","Hugh","Alexander","Man","Barrister-at-law","Conservative (1867-1942)","Elected",9401
+"Ontario",1930-07-28,"General","17","Leeds","Maclaren, James Roderick","Maclaren","James","Roderick","Man",NA,"Liberal Party of Canada","Defeated",6256
+"Ontario",1930-07-28,"General","17","Lincoln","Chaplin, James Dew","Chaplin","James","Dew","Man","Manufacturer","Conservative (1867-1942)","Elected",13474
+"Ontario",1930-07-28,"General","17","Lincoln","Greenwood, May Louise","Greenwood","May","Louise","Woman","Married woman","Liberal Party of Canada","Defeated",7526
+"Ontario",1930-07-28,"General","17","London","White, John Franklin","White","John","Franklin","Man","Manufacturer","Conservative (1867-1942)","Elected",13981
+"Ontario",1930-07-28,"General","17","London","Vining, Jared","Vining","Jared",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",9698
+"Ontario",1930-07-28,"General","17","Middlesex East","Boyes, Frank","Boyes","Frank",NA,"Man","Cheese manufacturer","Conservative (1867-1942)","Elected",7909
+"Ontario",1930-07-28,"General","17","Middlesex East","Ross, Duncan Graham","Ross","Duncan","Graham","Man","Merchant","Liberal Party of Canada","Defeated",6231
+"Ontario",1930-07-28,"General","17","Middlesex West","Elliott, John Campbell","Elliott","John","Campbell","Man","Lawyer","Liberal Party of Canada","Elected",6329
+"Ontario",1930-07-28,"General","17","Middlesex West","Campbell, Peter Henry","Campbell","Peter","Henry","Man","Farmer","Conservative (1867-1942)","Defeated",4839
+"Ontario",1930-07-28,"General","17","Muskoka--Ontario","McGibbon, Peter","McGibbon","Peter",NA,"Man","Physician","Conservative (1867-1942)","Elected",8828
+"Ontario",1930-07-28,"General","17","Muskoka--Ontario","Macdonald, James Dean","Macdonald","James","Dean","Man","Physician","Liberal Party of Canada","Defeated",5880
+"Ontario",1930-07-28,"General","17","Nipissing","Hurtubise, Joseph Raoul","Hurtubise","Joseph","Raoul","Man","Physician","Liberal Party of Canada","Elected",12588
+"Ontario",1930-07-28,"General","17","Nipissing","Morel, Henry","Morel","Henry",NA,"Man","Lumberman","Conservative (1867-1942)","Defeated",10437
+"Ontario",1930-07-28,"General","17","Nipissing","Hill, Amos Tobias","Hill","Amos","Tobias","Man","Electrician","Communist Party of Canada","Defeated",531
+"Ontario",1930-07-28,"General","17","Norfolk--Elgin","Taylor, William Horace","Taylor","William","Horace","Man","Farmer","Liberal Party of Canada","Elected",9424
+"Ontario",1930-07-28,"General","17","Norfolk--Elgin","Stansell, John Lawrence","Stansell","John","Lawrence","Man","Farmer","Conservative (1867-1942)","Defeated",9419
+"Ontario",1930-07-28,"General","17","Northumberland","Fraser, William Alexander","Fraser","William","Alexander","Man","Manufacturer and farmer","Liberal Party of Canada","Elected",8436
+"Ontario",1930-07-28,"General","17","Northumberland","Maybee, Milton Edgar","Maybee","Milton","Edgar","Man","Farmer","Conservative (1867-1942)","Defeated",7495
+"Ontario",1930-07-28,"General","17","Northumberland","Macdonald, Edith Kerr","Macdonald","Edith","Kerr","Woman","Widow","Independent","Defeated",180
+"Ontario",1930-07-28,"General","17","Ontario","Moore, William Henry","Moore","William","Henry","Man","Farmer","Liberal Party of Canada","Elected",10116
+"Ontario",1930-07-28,"General","17","Ontario","Kaiser, Thomas Erlin","Kaiser","Thomas","Erlin","Man","Physician","Conservative (1867-1942)","Defeated",9646
+"Ontario",1930-07-28,"General","17","Ottawa (City of)","Chevrier, Edgar-Rodolphe-Eugène","Chevrier","Edgar-Rodolphe-Eugène",NA,"Man","Barrister-at-law","Liberal Party of Canada","Elected",25721
+"Ontario",1930-07-28,"General","17","Ottawa (City of)","Ahearn, Thomas Franklin","Ahearn","Thomas","Franklin","Man","Agent","Liberal Party of Canada","Elected",25632
+"Ontario",1930-07-28,"General","17","Ottawa (City of)","Plant, Frank Henry","Plant","Frank","Henry","Man","Manufacturer","Conservative (1867-1942)","Defeated",23166
+"Ontario",1930-07-28,"General","17","Ottawa (City of)","Lafortune, Frank","Lafortune","Frank",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",22579
+"Ontario",1930-07-28,"General","17","Oxford North","Sutherland, Donald Matheson","Sutherland","Donald","Matheson","Man","Physician","Conservative (1867-1942)","Elected",7217
+"Ontario",1930-07-28,"General","17","Oxford North","Allan, Hugh","Allan","Hugh",NA,"Man","Township clerk","Liberal Party of Canada","Defeated",6180
+"Ontario",1930-07-28,"General","17","Oxford South","Cayley, Thomas Merritt","Cayley","Thomas","Merritt","Man","Insurance agent","Liberal Party of Canada","Elected",5711
+"Ontario",1930-07-28,"General","17","Oxford South","Sutherland, Donald","Sutherland","Donald",NA,"Man","Farmer","Conservative (1867-1942)","Defeated",5656
+"Ontario",1930-07-28,"General","17","Parkdale","Spence, David","Spence","David",NA,"Man","Merchant","Conservative (1867-1942)","Elected",11713
+"Ontario",1930-07-28,"General","17","Parkdale","Gillies, Angus","Gillies","Angus",NA,"Man","Contractor","Liberal Party of Canada","Defeated",5823
+"Ontario",1930-07-28,"General","17","Parry Sound","Arthurs, James","Arthurs","James",NA,"Man","Gentleman","Conservative (1867-1942)","Elected",5504
+"Ontario",1930-07-28,"General","17","Parry Sound","Hilliar, Joseph","Hilliar","Joseph",NA,"Man","Merchant","Liberal Party of Canada","Defeated",4365
+"Ontario",1930-07-28,"General","17","Peel","Charters, Samuel","Charters","Samuel",NA,"Man","Publisher","Conservative (1867-1942)","Elected",7112
+"Ontario",1930-07-28,"General","17","Peel","Lowe, William James","Lowe","William","James","Man","Livestock dealer","Liberal Party of Canada","Defeated",6847
+"Ontario",1930-07-28,"General","17","Perth North","Wright, David McKenzie","Wright","David","McKenzie","Man","Manufacturer","Conservative (1867-1942)","Elected",8726
+"Ontario",1930-07-28,"General","17","Perth North","Smith, David","Smith","David",NA,"Man","Physician","Liberal Party of Canada","Defeated",7850
+"Ontario",1930-07-28,"General","17","Perth South","Sanderson, Frederick George","Sanderson","Frederick","George","Man","Flax grower","Liberal Party of Canada","Elected",5063
+"Ontario",1930-07-28,"General","17","Perth South","Monteith, Samuel James","Monteith","Samuel","James","Man","Farmer","Conservative (1867-1942)","Defeated",4346
+"Ontario",1930-07-28,"General","17","Peterborough West","Peck, Edward Armour","Peck","Edward","Armour","Man","Barrister","Conservative (1867-1942)","Elected",9663
+"Ontario",1930-07-28,"General","17","Peterborough West","Duffus, Joseph James","Duffus","Joseph","James","Man","Merchant","Liberal Party of Canada","Defeated",7902
+"Ontario",1930-07-28,"General","17","Port Arthur--Thunder Bay","Cowan, Donald James","Cowan","Donald","James","Man","Barrister","Conservative (1867-1942)","Elected",6371
+"Ontario",1930-07-28,"General","17","Port Arthur--Thunder Bay","Carrick, John James","Carrick","John","James","Man","Financial agent","Liberal Party of Canada","Defeated",4415
+"Ontario",1930-07-28,"General","17","Prescott","Bertrand, Elie-Oscar","Bertrand","Elie-Oscar",NA,"Man","Merchant","Liberal Party of Canada","Elected",6572
+"Ontario",1930-07-28,"General","17","Prescott","Mooney, Edmund Alexander","Mooney","Edmund","Alexander","Man","Dentist","Conservative (1867-1942)","Defeated",2326
+"Ontario",1930-07-28,"General","17","Prince Edward--Lennox","Weese, John Aaron","Weese","John","Aaron","Man","Farmer","Conservative (1867-1942)","Elected",6923
+"Ontario",1930-07-28,"General","17","Prince Edward--Lennox","Benson, William Henry","Benson","William","Henry","Man","Manufacturer","Liberal Party of Canada","Defeated",5447
+"Ontario",1930-07-28,"General","17","Renfrew North","Cotnam, Ira Delbert","Cotnam","Ira","Delbert","Man","Physician","Conservative (1867-1942)","Elected",6125
+"Ontario",1930-07-28,"General","17","Renfrew North","McKay, Matthew","McKay","Matthew",NA,"Man","Dentist","Liberal Party of Canada","Defeated",4897
+"Ontario",1930-07-28,"General","17","Renfrew South","Maloney, Martin James","Maloney","Martin","James","Man","Physician","Conservative (1867-1942)","Elected",6404
+"Ontario",1930-07-28,"General","17","Renfrew South","Low, Thomas Andrew","Low","Thomas","Andrew","Man","Manufacturer","Liberal Party of Canada","Defeated",6144
+"Ontario",1930-07-28,"General","17","Russell","Goulet, Alfred","Goulet","Alfred",NA,"Man","Merchant","Liberal Party of Canada","Elected",9551
+"Ontario",1930-07-28,"General","17","Russell","Marion, Alexandre","Marion","Alexandre",NA,"Man","Manager","Conservative (1867-1942)","Defeated",7964
+"Ontario",1930-07-28,"General","17","Simcoe East","Thompson, Alfred Burke","Thompson","Alfred","Burke","Man","Barrister","Conservative (1867-1942)","Elected",7974
+"Ontario",1930-07-28,"General","17","Simcoe East","McLean, George Alexander","McLean","George","Alexander","Man","Insurance agent","Liberal Party of Canada","Defeated",7629
+"Ontario",1930-07-28,"General","17","Simcoe North","Simpson, John Thomas","Simpson","John","Thomas","Man","County clerk","Conservative (1867-1942)","Elected",7295
+"Ontario",1930-07-28,"General","17","Simcoe North","Gouin, Léon Mercier","Gouin","Léon","Mercier","Man","Farmer","Progressive","Defeated",6459
+"Ontario",1930-07-28,"General","17","Stormont","Shaver, Frank Thomas","Shaver","Frank","Thomas","Man","Merchant","Conservative (1867-1942)","Elected",7901
+"Ontario",1930-07-28,"General","17","Stormont","Smith, Arnold Neilson","Smith","Arnold","Neilson","Man","Steamboat owner","Liberal Party of Canada","Defeated",7326
+"Ontario",1930-07-28,"General","17","Timiskaming North","Bradette, Joseph-Arthur","Bradette","Joseph-Arthur",NA,"Man","Gentleman","Liberal Party of Canada","Elected",9586
+"Ontario",1930-07-28,"General","17","Timiskaming North","Chenier, David Alexandre","Chenier","David","Alexandre","Man","Pulpwood buyer","Conservative (1867-1942)","Defeated",7022
+"Ontario",1930-07-28,"General","17","Timiskaming South","Gordon, Wesley Ashton","Gordon","Wesley","Ashton","Man","Barrister","Conservative (1867-1942)","Elected",8729
+"Ontario",1930-07-28,"General","17","Timiskaming South","Lang, Malcolm","Lang","Malcolm",NA,"Man","Prospector","Liberal Labour Party","Defeated",7195
+"Ontario",1930-07-28,"General","17","Toronto East","Ryckman, Edmond Baird","Ryckman","Edmond","Baird","Man","Barrister","Conservative (1867-1942)","Elected",13423
+"Ontario",1930-07-28,"General","17","Toronto East","Allen, Robert A.","Allen","Robert","A.","Man","Agent","Liberal Party of Canada","Defeated",6348
+"Ontario",1930-07-28,"General","17","Toronto East Centre","Matthews, Robert Charles","Matthews","Robert","Charles","Man","Gentleman","Conservative (1867-1942)","Elected",10949
+"Ontario",1930-07-28,"General","17","Toronto East Centre","Donnelly, Patrick","Donnelly","Patrick",NA,"Man","Financial agent","Liberal Party of Canada","Defeated",5461
+"Ontario",1930-07-28,"General","17","Toronto Northeast","Baker, Richard Langton","Baker","Richard","Langton","Man","Manufacturer","Conservative (1867-1942)","Elected",16979
+"Ontario",1930-07-28,"General","17","Toronto Northeast","Urquhart, George Alexander","Urquhart","George","Alexander","Man","Barrister","Liberal Party of Canada","Defeated",10701
+"Ontario",1930-07-28,"General","17","Toronto Northwest","MacNicol, John Ritchie","MacNicol","John","Ritchie","Man","Gentleman","Conservative (1867-1942)","Elected",14343
+"Ontario",1930-07-28,"General","17","Toronto Northwest","Macrae, Farguhar John","Macrae","Farguhar","John","Man","Barrister","Liberal Party of Canada","Defeated",5513
+"Ontario",1930-07-28,"General","17","Toronto South","Geary, George Reginald","Geary","George","Reginald","Man","Barrister","Conservative (1867-1942)","Elected",4635
+"Ontario",1930-07-28,"General","17","Toronto South","Mcintyre, Adam Gordon","Mcintyre","Adam","Gordon","Man","Manufacturer","Liberal Party of Canada","Defeated",2244
+"Ontario",1930-07-28,"General","17","Toronto South","Romer, Jacob","Romer","Jacob",NA,"Man","Dentist","Labour","Defeated",730
+"Ontario",1930-07-28,"General","17","Toronto West Centre","Factor, Samuel","Factor","Samuel",NA,"Man","Barrister","Liberal Party of Canada","Elected",8367
+"Ontario",1930-07-28,"General","17","Toronto West Centre","Church, Thomas Langton","Church","Thomas","Langton","Man","Barrister","Conservative (1867-1942)","Defeated",7803
+"Ontario",1930-07-28,"General","17","Toronto West Centre","Sims, Charles","Sims","Charles",NA,"Man","Coal miner","Communist Party of Canada","Defeated",621
+"Ontario",1930-07-28,"General","17","Toronto West Centre","Conner, James McArthur","Conner","James","McArthur","Man","Insurance agent","Labour","Defeated",264
+"Ontario",1930-07-28,"General","17","Toronto--High Park","Anderson, Alexander James","Anderson","Alexander","James","Man","Barrister","Conservative (1867-1942)","Elected",11807
+"Ontario",1930-07-28,"General","17","Toronto--High Park","Bond, Aubrey Albert","Bond","Aubrey","Albert","Man","Barrister","Liberal Party of Canada","Defeated",5765
+"Ontario",1930-07-28,"General","17","Toronto--Scarborough","Harris, Joseph Henry","Harris","Joseph","Henry","Man","Manager","Conservative (1867-1942)","Elected",17122
+"Ontario",1930-07-28,"General","17","Toronto--Scarborough","Ford, William Henry","Ford","William","Henry","Man","Barrister","Liberal Party of Canada","Defeated",6156
+"Ontario",1930-07-28,"General","17","Victoria","Stinson, Thomas Hubert","Stinson","Thomas","Hubert","Man","Barrister","Conservative (1867-1942)","Elected",8999
+"Ontario",1930-07-28,"General","17","Victoria","Carley, Thomas John","Carley","Thomas","John","Man","Barrister","Liberal Party of Canada","Defeated",6269
+"Ontario",1930-07-28,"General","17","Waterloo North","Euler, William Daum","Euler","William","Daum","Man","Publisher","Liberal Party of Canada","Elected",12785
+"Ontario",1930-07-28,"General","17","Waterloo North","Homuth, Karl Kenneth","Homuth","Karl","Kenneth","Man","Manufacturer","Conservative (1867-1942)","Defeated",9732
+"Ontario",1930-07-28,"General","17","Waterloo South","Edwards, Alexander McKay","Edwards","Alexander","McKay","Man","Manufacturer","Conservative (1867-1942)","Elected",8999
+"Ontario",1930-07-28,"General","17","Waterloo South","Widdifield, Charles Russell","Widdifield","Charles","Russell","Man","Barrister","Liberal Party of Canada","Defeated",4950
+"Ontario",1930-07-28,"General","17","Welland","Pettit, George Hamilton","Pettit","George","Hamilton","Man","Barrister","Conservative (1867-1942)","Elected",15503
+"Ontario",1930-07-28,"General","17","Welland","Damude, Arthur Byron","Damude","Arthur","Byron","Man","Agent","Liberal Party of Canada","Defeated",13037
+"Ontario",1930-07-28,"General","17","Wellington North","Blair, John Knox","Blair","John","Knox","Man","Physician","Liberal Party of Canada","Elected",4716
+"Ontario",1930-07-28,"General","17","Wellington North","Sinclair, Duncan","Sinclair","Duncan",NA,"Man","Gentleman","Conservative (1867-1942)","Defeated",4626
+"Ontario",1930-07-28,"General","17","Wellington South","Guthrie, Hugh","Guthrie","Hugh",NA,"Man","Barrister","Conservative (1867-1942)","Elected",8887
+"Ontario",1930-07-28,"General","17","Wellington South","Mitchell, John Burr","Mitchell","John","Burr","Man","Manufacturer","Liberal Party of Canada","Defeated",7893
+"Ontario",1930-07-28,"General","17","Wentworth","Wilson, Gordon Crooks","Wilson","Gordon","Crooks","Man","Gentleman","Conservative (1867-1942)","Elected",13436
+"Ontario",1930-07-28,"General","17","Wentworth","Biggs, Frank Campbell","Biggs","Frank","Campbell","Man","Farmer","Liberal Party of Canada","Defeated",9628
+"Ontario",1930-07-28,"General","17","Wentworth","Weaver, Samuel Radcliffe","Weaver","Samuel","Radcliffe","Man","Hairdresser","Unknown","Defeated",1630
+"Ontario",1930-07-28,"General","17","York North","Lennox, Thomas Herbert","Lennox","Thomas","Herbert","Man","Lawyer","Conservative (1867-1942)","Elected",10402
+"Ontario",1930-07-28,"General","17","York North","Mulock, William Pate","Mulock","William","Pate","Man","Lawyer","Liberal Party of Canada","Defeated",10104
+"Ontario",1930-07-28,"General","17","York South","McGregor, Robert Henry","McGregor","Robert","Henry","Man","Gardener","Conservative (1867-1942)","Elected",11852
+"Ontario",1930-07-28,"General","17","York South","Mccarthy, Dennis","Mccarthy","Dennis",NA,"Man","Sheet metal worker","Liberal Party of Canada","Defeated",5394
+"Ontario",1930-07-28,"General","17","York West","Lawson, James Earl","Lawson","James","Earl","Man","Barrister","Conservative (1867-1942)","Elected",20843
+"Ontario",1930-07-28,"General","17","York West","Edwards, William Arthur","Edwards","William","Arthur","Man","Railroad engineer","Liberal Party of Canada","Defeated",11368
+"Prince Edward Island",1930-07-28,"General","17","King's","Macdonald, John Alexander (1874-1948)","Macdonald","John","Alexander (1874-1948)","Man","Merchant","Conservative (1867-1942)","Elected",4719
+"Prince Edward Island",1930-07-28,"General","17","King's","Grant, Thomas Vincent","Grant","Thomas","Vincent","Man",NA,"Liberal Party of Canada","Defeated",4391
+"Prince Edward Island",1930-07-28,"General","17","Prince","MacLean, Alfred Edgar","MacLean","Alfred","Edgar","Man","Farmer","Liberal Party of Canada","Elected",8058
+"Prince Edward Island",1930-07-28,"General","17","Prince","Arnett, J. Frank","Arnett","J.","Frank","Man","Wholesale merchant","Conservative (1867-1942)","Defeated",6485
+"Prince Edward Island",1930-07-28,"General","17","Queen's","McLure, Winfield Chester Scott","McLure","Winfield","Chester Scott","Man","Trader","Conservative (1867-1942)","Elected",9310
+"Prince Edward Island",1930-07-28,"General","17","Queen's","Myers, John Howard","Myers","John","Howard","Man","Farmer","Conservative (1867-1942)","Elected",9178
+"Prince Edward Island",1930-07-28,"General","17","Queen's","Jenkins, Robert Harold","Jenkins","Robert","Harold","Man","Investor","Liberal Party of Canada","Defeated",8767
+"Prince Edward Island",1930-07-28,"General","17","Queen's","Macmillan, Cyrus","Macmillan","Cyrus",NA,"Man","Minister of Fisheries","Liberal Party of Canada","Defeated",8482
+"Quebec",1930-07-28,"General","17","Argenteuil","Perley, George Halsey","Perley","George","Halsey","Man","Lumber merchant","Conservative (1867-1942)","Elected",4709
+"Quebec",1930-07-28,"General","17","Argenteuil","Legault, Joseph-Louis-Lorenzo","Legault","Joseph-Louis-Lorenzo",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",3940
+"Quebec",1930-07-28,"General","17","Bagot","Dumaine, Cyrille","Dumaine","Cyrille",NA,"Man","Notary","Liberal Party of Canada","Elected",3654
+"Quebec",1930-07-28,"General","17","Bagot","Gauthier, Léon","Gauthier","Léon",NA,"Man","Physician","Conservative (1867-1942)","Defeated",3479
+"Quebec",1930-07-28,"General","17","Beauce","Lacroix, Édouard","Lacroix","Édouard",NA,"Man","Lumber merchant","Liberal Party of Canada","Elected",12093
+"Quebec",1930-07-28,"General","17","Beauce","Jacob, J.-Linière","Jacob","J.-Linière",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",6567
+"Quebec",1930-07-28,"General","17","Beauharnois","Raymond, Maxime","Raymond","Maxime",NA,"Man","Lawyer","Liberal Party of Canada","Elected",5714
+"Quebec",1930-07-28,"General","17","Beauharnois","Lebeuf, Joseph-Hormisdas","Lebeuf","Joseph-Hormisdas",NA,"Man","Manager","Conservative (1867-1942)","Defeated",3989
+"Quebec",1930-07-28,"General","17","Bellechasse","Boulanger, Joseph Oscar Lefebre","Boulanger","Joseph","Oscar Lefebre","Man","Lawyer","Liberal Party of Canada","Elected",4786
+"Quebec",1930-07-28,"General","17","Bellechasse","Gaudette, Joseph-Wilfrid","Gaudette","Joseph-Wilfrid",NA,"Man","Pharmacist","Conservative (1867-1942)","Defeated",2793
+"Quebec",1930-07-28,"General","17","Berthier--Maskinongé","Barrette, Joseph Arthur","Barrette","Joseph","Arthur","Man","Notary","Conservative (1867-1942)","Elected",7206
+"Quebec",1930-07-28,"General","17","Berthier--Maskinongé","Gervais, Joseph-Charles-Théodore","Gervais","Joseph-Charles-Théodore",NA,"Man","Physician","Liberal Party of Canada","Defeated",6850
+"Quebec",1930-07-28,"General","17","Bonaventure","Marcil, Charles","Marcil","Charles",NA,"Man","Journalist","Liberal Party of Canada","Elected",5894
+"Quebec",1930-07-28,"General","17","Bonaventure","Morgan, Edward Andrew D.","Morgan","Edward","Andrew D.","Man","Lawyer","Conservative (1867-1942)","Defeated",5848
+"Quebec",1930-07-28,"General","17","Brome--Missisquoi","Pickel, Follin Horace","Pickel","Follin","Horace","Man","Farmer and physician","Conservative (1867-1942)","Elected",8070
+"Quebec",1930-07-28,"General","17","Brome--Missisquoi","Kay, William Frederic","Kay","William","Frederic","Man","Farmer","Liberal Party of Canada","Defeated",6584
+"Quebec",1930-07-28,"General","17","Cartier","Jacobs, Samuel William","Jacobs","Samuel","William","Man","Lawyer","Liberal Party of Canada","Elected",8231
+"Quebec",1930-07-28,"General","17","Cartier","Wolfe, Louis","Wolfe","Louis",NA,"Man","Stevedore","Conservative (1867-1942)","Defeated",1928
+"Quebec",1930-07-28,"General","17","Cartier","Masson, Médéric","Masson","Médéric",NA,"Man","Dentist","Independent Progressive","Defeated",1294
+"Quebec",1930-07-28,"General","17","Cartier","Parent, Paul-E.","Parent","Paul-E.",NA,"Man","Journalist","Independent Liberal","Defeated",540
+"Quebec",1930-07-28,"General","17","Chambly--Verchères","Duranleau, Alfred","Duranleau","Alfred",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",9024
+"Quebec",1930-07-28,"General","17","Chambly--Verchères","Geoffrion, Amédée","Geoffrion","Amédée",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",7827
+"Quebec",1930-07-28,"General","17","Champlain","Baribeau, Jean Louis","Baribeau","Jean","Louis","Man","Businessman","Conservative (1867-1942)","Elected",9024
+"Quebec",1930-07-28,"General","17","Champlain","Desaulniers, Arthur Lesieur","Desaulniers","Arthur","Lesieur","Man","Hardware merchant","Liberal Party of Canada","Defeated",8232
+"Quebec",1930-07-28,"General","17","Champlain","Guibord, Joseph-Edmond","Guibord","Joseph-Edmond",NA,"Man","Physician","Independent Liberal","Defeated",1797
+"Quebec",1930-07-28,"General","17","Charlevoix--Saguenay","Casgrain, Pierre-François","Casgrain","Pierre-François",NA,"Man","Lawyer","Liberal Party of Canada","Elected",10806
+"Quebec",1930-07-28,"General","17","Charlevoix--Saguenay","Maher, Thomas","Maher","Thomas",NA,"Man","Forest engineer","Conservative (1867-1942)","Defeated",8078
+"Quebec",1930-07-28,"General","17","Châteauguay--Huntingdon","Moore, John Clarke","Moore","John","Clarke","Man","Physician","Conservative (1867-1942)","Elected",5934
+"Quebec",1930-07-28,"General","17","Châteauguay--Huntingdon","O'Connor, Dennis James","O'Connor","Dennis","James","Man","Contractor","Liberal Party of Canada","Defeated",5445
+"Quebec",1930-07-28,"General","17","Chicoutimi","Dubuc, Julien-Édouard-Alfred","Dubuc","Julien-Édouard-Alfred",NA,"Man","Manufacturer","Liberal Party of Canada","Elected",10641
+"Quebec",1930-07-28,"General","17","Chicoutimi","Lavergne, Joseph-Adam","Lavergne","Joseph-Adam",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",9744
+"Quebec",1930-07-28,"General","17","Compton","Gobeil, Samuel","Gobeil","Samuel",NA,"Man","Farmer","Conservative (1867-1942)","Elected",6701
+"Quebec",1930-07-28,"General","17","Compton","Letellier de Saint-Just, Joseph-Étienne","Letellier de Saint-Just","Joseph-Étienne",NA,"Man","Jeweller","Liberal Party of Canada","Defeated",6393
+"Quebec",1930-07-28,"General","17","Dorchester","Gagnon, Onésime","Gagnon","Onésime",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",5771
+"Quebec",1930-07-28,"General","17","Dorchester","Cannon, Lucien","Cannon","Lucien",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",5433
+"Quebec",1930-07-28,"General","17","Drummond--Arthabaska","Girouard, Wilfrid","Girouard","Wilfrid",NA,"Man","Lawyer","Liberal Party of Canada","Elected",11241
+"Quebec",1930-07-28,"General","17","Drummond--Arthabaska","Kirouac, Agésilas","Kirouac","Agésilas",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",7784
+"Quebec",1930-07-28,"General","17","Gaspé","Brasset, Maurice","Brasset","Maurice",NA,"Man","Lawyer","Liberal Party of Canada","Elected",9784
+"Quebec",1930-07-28,"General","17","Gaspé","Flynn, William Albert Edward","Flynn","William","Albert Edward","Man","Lawyer","Conservative (1867-1942)","Defeated",6413
+"Quebec",1930-07-28,"General","17","Hochelaga","St-Père, Édouard-Charles","St-Père","Édouard-Charles",NA,"Man","Journalist","Liberal Party of Canada","Elected",19382
+"Quebec",1930-07-28,"General","17","Hochelaga","Simard, Joseph-Thomas-Ulric","Simard","Joseph-Thomas-Ulric",NA,"Man","Broker","Conservative (1867-1942)","Defeated",8949
+"Quebec",1930-07-28,"General","17","Hull","Fournier, Alphonse","Fournier","Alphonse",NA,"Man","Lawyer","Liberal Party of Canada","Elected",12543
+"Quebec",1930-07-28,"General","17","Hull","Beauchamp, Jean-Noël","Beauchamp","Jean-Noël",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",5911
+"Quebec",1930-07-28,"General","17","Jacques Cartier","Laurin, Joseph-Georges-Philippe","Laurin","Joseph-Georges-Philippe",NA,"Man","Notary","Conservative (1867-1942)","Elected",22907
+"Quebec",1930-07-28,"General","17","Jacques Cartier","Rhéaume, Joseph-Théodule","Rhéaume","Joseph-Théodule",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",20438
+"Quebec",1930-07-28,"General","17","Jacques Cartier","Ranger, Wilfrid-Émile","Ranger","Wilfrid-Émile",NA,"Man","Garage owner","Independent Liberal","Defeated",981
+"Quebec",1930-07-28,"General","17","Joliette","Ferland, Charles-Édouard","Ferland","Charles-Édouard",NA,"Man","Lawyer","Liberal Party of Canada","Elected",5904
+"Quebec",1930-07-28,"General","17","Joliette","Perrault, Joseph-Conrad","Perrault","Joseph-Conrad",NA,"Man","Broker","Conservative (1867-1942)","Defeated",4979
+"Quebec",1930-07-28,"General","17","Kamouraska","Bouchard, Joseph Georges","Bouchard","Joseph","Georges","Man","Agronomist","Liberal Party of Canada","Elected",4534
+"Quebec",1930-07-28,"General","17","Kamouraska","Audet, Pierre","Audet","Pierre",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",4109
+"Quebec",1930-07-28,"General","17","L'Assomption--Montcalm","Séguin, Paul-Arthur","Séguin","Paul-Arthur",NA,"Man","Notary","Liberal Party of Canada","Elected",6568
+"Quebec",1930-07-28,"General","17","L'Assomption--Montcalm","Jeannotte, Charles-Édouard","Jeannotte","Charles-Édouard",NA,"Man","Farmer","Conservative (1867-1942)","Defeated",4650
+"Quebec",1930-07-28,"General","17","L'Islet","Fafard, Joseph-Fernand","Fafard","Joseph-Fernand",NA,"Man","Land surveyor","Liberal Party of Canada","Elected",3558
+"Quebec",1930-07-28,"General","17","L'Islet","Gauthier, Louis Joseph","Gauthier","Louis","Joseph","Man","Lawyer","Conservative (1867-1942)","Defeated",3165
+"Quebec",1930-07-28,"General","17","Labelle","Bourassa, Joseph Henri Napoléon","Bourassa","Joseph","Henri Napoléon","Man","Publicist","Independent","Elected (Acclamation)",0
+"Quebec",1930-07-28,"General","17","Lake St. John","Duguay, Joseph Léonard","Duguay","Joseph","Léonard","Man","Dentist","Conservative (1867-1942)","Elected",8387
+"Quebec",1930-07-28,"General","17","Lake St. John","Sylvestre, Armand","Sylvestre","Armand",NA,"Man",NA,"Liberal Party of Canada","Defeated",8211
+"Quebec",1930-07-28,"General","17","Laprairie--Napierville","Dupuis, Vincent","Dupuis","Vincent",NA,"Man","Lawyer","Liberal Party of Canada","Elected",4321
+"Quebec",1930-07-28,"General","17","Laprairie--Napierville","Monette, Gustave","Monette","Gustave",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",3968
+"Quebec",1930-07-28,"General","17","Laurier--Outremont","Mercier, Joseph-Alexandre","Mercier","Joseph-Alexandre",NA,"Man","Lawyer","Liberal Party of Canada","Elected",15259
+"Quebec",1930-07-28,"General","17","Laurier--Outremont","Fortier, Hector-Frédéric","Fortier","Hector-Frédéric",NA,"Man","Manufacturer","Conservative (1867-1942)","Defeated",7590
+"Quebec",1930-07-28,"General","17","Laurier--Outremont","Jacobs, Lyon William","Jacobs","Lyon","William","Man","Lawyer","Liberal Protectionist","Defeated",2723
+"Quebec",1930-07-28,"General","17","Laurier--Outremont","Shinnick, John Alexander","Shinnick","John","Alexander","Man","Manager","Independent Conservative","Defeated",1236
+"Quebec",1930-07-28,"General","17","Laval--Two Mountains","Sauvé, Arthur","Sauvé","Arthur",NA,"Man","Journalist","Conservative (1867-1942)","Elected",6601
+"Quebec",1930-07-28,"General","17","Laval--Two Mountains","Lacombe, Liguori","Lacombe","Liguori",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",5634
+"Quebec",1930-07-28,"General","17","Lévis","Fortin, Émile","Fortin","Émile",NA,"Man","Physician","Conservative (1867-1942)","Elected",7065
+"Quebec",1930-07-28,"General","17","Lévis","Dussault, Joseph-Étienne","Dussault","Joseph-Étienne",NA,"Man","Industrialist","Liberal Party of Canada","Defeated",6880
+"Quebec",1930-07-28,"General","17","Lotbinière","Verville, Joseph-Achille","Verville","Joseph-Achille",NA,"Man","Notary","Liberal Party of Canada","Elected",5068
+"Quebec",1930-07-28,"General","17","Lotbinière","Laliberté, Wilfrid","Laliberté","Wilfrid",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",3863
+"Quebec",1930-07-28,"General","17","Maisonneuve","Robitaille, Clément","Robitaille","Clément",NA,"Man","Lawyer","Liberal Party of Canada","Elected",18894
+"Quebec",1930-07-28,"General","17","Maisonneuve","Desjardins, Hubert","Desjardins","Hubert",NA,"Man","Manufacturer","Conservative (1867-1942)","Defeated",13492
+"Quebec",1930-07-28,"General","17","Maisonneuve","Courchesne, Déus","Courchesne","Déus",NA,"Man","Trader","Independent","Defeated",1053
+"Quebec",1930-07-28,"General","17","Maisonneuve","Simard, Edmond","Simard","Edmond",NA,"Man","Blacksmith","Conservative (1867-1942)","Defeated",313
+"Quebec",1930-07-28,"General","17","Matane","LaRue, Joseph-Ernest-Henri","LaRue","Joseph-Ernest-Henri",NA,"Man","Notary","Conservative (1867-1942)","Elected",7710
+"Quebec",1930-07-28,"General","17","Matane","Dionne, Georges-Léonidas","Dionne","Georges-Léonidas",NA,"Man","Notary","Liberal Party of Canada","Defeated",6975
+"Quebec",1930-07-28,"General","17","Mégantic","Roberge, Eusèbe","Roberge","Eusèbe",NA,"Man","Merchant","Liberal Party of Canada","Elected",7609
+"Quebec",1930-07-28,"General","17","Mégantic","Beaudoin, Joseph-Théophile","Beaudoin","Joseph-Théophile",NA,"Man","Manufacturer and importer","Conservative (1867-1942)","Defeated",5757
+"Quebec",1930-07-28,"General","17","Montmagny","La Vergne, Armand Renaud","La Vergne","Armand","Renaud","Man","Lawyer","Conservative (1867-1942)","Elected",3857
+"Quebec",1930-07-28,"General","17","Montmagny","Laflamme, Leo Kemner","Laflamme","Leo","Kemner","Man","Lawyer","Liberal Party of Canada","Defeated",3653
+"Quebec",1930-07-28,"General","17","Mount Royal","White, Robert Smeaton","White","Robert","Smeaton","Man","Gentleman","Conservative (1867-1942)","Elected",19932
+"Quebec",1930-07-28,"General","17","Mount Royal","England, Grace Ritchie","England","Grace","Ritchie","Woman","Physician","Liberal Party of Canada","Defeated",6483
+"Quebec",1930-07-28,"General","17","Nicolet","Dubois, Lucien","Dubois","Lucien",NA,"Man","Farmer","Liberal Party of Canada","Elected",6303
+"Quebec",1930-07-28,"General","17","Nicolet","Gaudet, Joseph-Alfred","Gaudet","Joseph-Alfred",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",5102
+"Quebec",1930-07-28,"General","17","Pontiac","Bélec, Charles","Bélec","Charles",NA,"Man","Farmer","Conservative (1867-1942)","Elected",8884
+"Quebec",1930-07-28,"General","17","Pontiac","Coté, J.-Philippe","Coté","J.-Philippe",NA,"Man","Contractor","Independent Liberal","Defeated",6988
+"Quebec",1930-07-28,"General","17","Pontiac","Cahill, Frank S.","Cahill","Frank","S.","Man","Broker","Liberal Party of Canada","Defeated",5891
+"Quebec",1930-07-28,"General","17","Portneuf","Desrochers, Jules","Desrochers","Jules",NA,"Man","Physician","Liberal Party of Canada","Elected",7813
+"Quebec",1930-07-28,"General","17","Portneuf","Foley, J.-Alfred","Foley","J.-Alfred",NA,"Man","Farmer","Conservative (1867-1942)","Defeated",7262
+"Quebec",1930-07-28,"General","17","Quebec East","Lapointe, Ernest","Lapointe","Ernest",NA,"Man","Minister of Justice","Liberal Party of Canada","Elected",11822
+"Quebec",1930-07-28,"General","17","Quebec East","Taschereau, Alleyn","Taschereau","Alleyn",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",9642
+"Quebec",1930-07-28,"General","17","Quebec South","Power, Charles Gavan","Power","Charles","Gavan","Man","Lawyer","Liberal Party of Canada","Elected",8086
+"Quebec",1930-07-28,"General","17","Quebec South","Dinan, Francis J.","Dinan","Francis","J.","Man","Notary","Conservative (1867-1942)","Defeated",6633
+"Quebec",1930-07-28,"General","17","Quebec West","Dupré, Maurice","Dupré","Maurice",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",10215
+"Quebec",1930-07-28,"General","17","Quebec West","Lacroix, Gérard","Lacroix","Gérard",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",9769
+"Quebec",1930-07-28,"General","17","Québec--Montmorency","Dorion, Charles Napoléon","Dorion","Charles","Napoléon","Man","Lawyer","Conservative (1867-1942)","Elected",7212
+"Quebec",1930-07-28,"General","17","Québec--Montmorency","Lavigueur, Henri-Edgar","Lavigueur","Henri-Edgar",NA,"Man","Merchant","Liberal Party of Canada","Defeated",7165
+"Quebec",1930-07-28,"General","17","Québec--Montmorency","Galibois, François-Xavier","Galibois","François-Xavier",NA,"Man","Insurance agent","Independent","Defeated",150
+"Quebec",1930-07-28,"General","17","Richelieu","Cardin, Pierre-Joseph-Arthur","Cardin","Pierre-Joseph-Arthur",NA,"Man","Lawyer","Liberal Party of Canada","Elected",5644
+"Quebec",1930-07-28,"General","17","Richelieu","L'HEUREUX, Joseph-Louis-Alphonse","L'HEUREUX","Joseph-Louis-Alphonse",NA,"Man","Notary","Conservative (1867-1942)","Defeated",3236
+"Quebec",1930-07-28,"General","17","Richmond--Wolfe","Laflèche, Joseph-François","Laflèche","Joseph-François",NA,"Man","Physician","Conservative (1867-1942)","Elected",9025
+"Quebec",1930-07-28,"General","17","Richmond--Wolfe","Mitchell, Walter George","Mitchell","Walter","George","Man","Lawyer","Liberal Party of Canada","Defeated",7870
+"Quebec",1930-07-28,"General","17","Rimouski","Fiset, Eugène","Fiset","Eugène",NA,"Man","Physician","Liberal Party of Canada","Elected",6257
+"Quebec",1930-07-28,"General","17","Rimouski","Boulay, Herménégilde","Boulay","Herménégilde",NA,"Man","Farmer and manufacturer","Conservative (1867-1942)","Defeated",4722
+"Quebec",1930-07-28,"General","17","Shefford","Tétreault, J.-Eugène","Tétreault","J.-Eugène",NA,"Man","Merchant","Conservative (1867-1942)","Elected",7064
+"Quebec",1930-07-28,"General","17","Shefford","Boivin, Pierre-Ernest","Boivin","Pierre-Ernest",NA,"Man","Manufacturer","Liberal Party of Canada","Defeated",5478
+"Quebec",1930-07-28,"General","17","Sherbrooke","Howard, Charles Benjamin","Howard","Charles","Benjamin","Man","Manufacturer","Liberal Party of Canada","Elected",8546
+"Quebec",1930-07-28,"General","17","Sherbrooke","Lynch, Walter Harold","Lynch","Walter","Harold","Man","Lawyer","Conservative (1867-1942)","Defeated",8048
+"Quebec",1930-07-28,"General","17","St. Ann","Sullivan, John Alexander","Sullivan","John","Alexander","Man","Lawyer","Conservative (1867-1942)","Elected",11384
+"Quebec",1930-07-28,"General","17","St. Ann","Guérin, James John Edmund","Guérin","James","John Edmund","Man","Physician","Liberal Party of Canada","Defeated",11017
+"Quebec",1930-07-28,"General","17","St. Antoine","Bell, Leslie Gordon","Bell","Leslie","Gordon","Man","Lawyer","Conservative (1867-1942)","Elected",7192
+"Quebec",1930-07-28,"General","17","St. Antoine","Hushion, William James","Hushion","William","James","Man","Merchant","Liberal Party of Canada","Defeated",5185
+"Quebec",1930-07-28,"General","17","St. Denis","Denis, Joseph-Arthur","Denis","Joseph-Arthur",NA,"Man","Physician","Liberal Party of Canada","Elected",28646
+"Quebec",1930-07-28,"General","17","St. Denis","Gauthier, Joseph-Cyriac","Gauthier","Joseph-Cyriac",NA,"Man","Pilot","Conservative (1867-1942)","Defeated",14382
+"Quebec",1930-07-28,"General","17","St. Denis","SAINT-JEAN, Idola","SAINT-JEAN","Idola",NA,"Woman","Teacher and journalist","Independent","Defeated",1732
+"Quebec",1930-07-28,"General","17","St. Henri","Mercier, Paul","Mercier","Paul",NA,"Man","Lawyer","Liberal Party of Canada","Elected",11520
+"Quebec",1930-07-28,"General","17","St. Henri","Boyer, Auguste","Boyer","Auguste",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",5917
+"Quebec",1930-07-28,"General","17","St. Hyacinthe--Rouville","Fontaine, Joseph-Théophile-Adélard","Fontaine","Joseph-Théophile-Adélard",NA,"Man","Lawyer","Liberal Party of Canada","Elected",8616
+"Quebec",1930-07-28,"General","17","St. Hyacinthe--Rouville","Sylvestre, Victor","Sylvestre","Victor",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",7459
+"Quebec",1930-07-28,"General","17","St. James","Rinfret, Louis Édouard Fernand","Rinfret","Louis","Édouard Fernand","Man","Secretary of State","Liberal Party of Canada","Elected",13299
+"Quebec",1930-07-28,"General","17","St. James","Lamarche, Joseph-Paul","Lamarche","Joseph-Paul",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",6208
+"Quebec",1930-07-28,"General","17","St. Johns--Iberville","Rhéaume, Pierre Auguste Martial","Rhéaume","Pierre","Auguste Martial","Man","Butcher","Liberal Party of Canada","Elected",7958
+"Quebec",1930-07-28,"General","17","St. Johns--Iberville","Sabourin, Yvan","Sabourin","Yvan",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",4018
+"Quebec",1930-07-28,"General","17","St. Lawrence--St. George","Cahan, Charles Hazlitt","Cahan","Charles","Hazlitt","Man","Lawyer","Conservative (1867-1942)","Elected",6666
+"Quebec",1930-07-28,"General","17","St. Lawrence--St. George","Pitt, Ernest","Pitt","Ernest",NA,"Man","Real estate broker","Liberal Party of Canada","Defeated",3653
+"Quebec",1930-07-28,"General","17","St. Mary","Deslauriers, Hermas","Deslauriers","Hermas",NA,"Man","Physician","Liberal Party of Canada","Elected",16540
+"Quebec",1930-07-28,"General","17","St. Mary","Lefort, Théodore","Lefort","Théodore",NA,"Man","Dentist","Conservative (1867-1942)","Defeated",6099
+"Quebec",1930-07-28,"General","17","Stanstead","Hackett, John Thomas","Hackett","John","Thomas","Man","Lawyer","Conservative (1867-1942)","Elected",5804
+"Quebec",1930-07-28,"General","17","Stanstead","Brown, Cecil Lorne","Brown","Cecil","Lorne","Man","Physician","Liberal Party of Canada","Defeated",3900
+"Quebec",1930-07-28,"General","17","Stanstead","Samson, Jean-Charles","Samson","Jean-Charles",NA,"Man","Lawyer","Independent Liberal","Defeated",1584
+"Quebec",1930-07-28,"General","17","Témiscouata","Pouliot, Jean-François","Pouliot","Jean-François",NA,"Man","Lawyer","Liberal Party of Canada","Elected",8761
+"Quebec",1930-07-28,"General","17","Témiscouata","Dubé, Charles-Eugène","Dubé","Charles-Eugène",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",8644
+"Quebec",1930-07-28,"General","17","Terrebonne","Parent, Louis-Étienne","Parent","Louis-Étienne",NA,"Man","Manufacturer","Liberal Party of Canada","Elected",8609
+"Quebec",1930-07-28,"General","17","Terrebonne","Fauteux, Guillaume-André","Fauteux","Guillaume-André",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",6727
+"Quebec",1930-07-28,"General","17","Three Rivers--St. Maurice","Bettez, Arthur","Bettez","Arthur",NA,"Man","Accountant","Liberal Party of Canada","Elected",14732
+"Quebec",1930-07-28,"General","17","Three Rivers--St. Maurice","Durand, Louis-D.","Durand","Louis-D.",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",11083
+"Quebec",1930-07-28,"General","17","Vaudreuil--Soulanges","Thauvette, Joseph","Thauvette","Joseph",NA,"Man","Physician","Liberal Party of Canada","Elected",4313
+"Quebec",1930-07-28,"General","17","Vaudreuil--Soulanges","Gagné, Horace-Joseph","Gagné","Horace-Joseph",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",2432
+"Quebec",1930-07-28,"General","17","Vaudreuil--Soulanges","Paton, Saul","Paton","Saul",NA,"Man","Lawyer","Independent Liberal","Defeated",1718
+"Quebec",1930-07-28,"General","17","Wright","Perras, Fizalam-William","Perras","Fizalam-William",NA,"Man","Lumber merchant","Liberal Party of Canada","Elected",6015
+"Quebec",1930-07-28,"General","17","Wright","Cousineau, Louis","Cousineau","Louis",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",4932
+"Quebec",1930-07-28,"General","17","Yamaska","Boucher, Aimé","Boucher","Aimé",NA,"Man","Notary","Liberal Party of Canada","Elected",3505
+"Quebec",1930-07-28,"General","17","Yamaska","Comtois, Paul","Comtois","Paul",NA,"Man","Farmer","Conservative (1867-1942)","Defeated",3504
+"Saskatchewan",1930-07-28,"General","17","Assiniboia","McKenzie, Robert","McKenzie","Robert",NA,"Man","Agent","Liberal Party of Canada","Elected",8226
+"Saskatchewan",1930-07-28,"General","17","Assiniboia","Creighton, James Forbes","Creighton","James","Forbes","Man","Physician","Conservative (1867-1942)","Defeated",7466
+"Saskatchewan",1930-07-28,"General","17","Humboldt","Totzke, Albert Frederick","Totzke","Albert","Frederick","Man","Druggist","Liberal Party of Canada","Elected",7915
+"Saskatchewan",1930-07-28,"General","17","Humboldt","Wilson, Edward Sexton","Wilson","Edward","Sexton","Man","Barrister","Conservative (1867-1942)","Defeated",3984
+"Saskatchewan",1930-07-28,"General","17","Humboldt","Kellerman, Frank Henry","Kellerman","Frank","Henry","Man","Farmer","Progressive","Defeated",2116
+"Saskatchewan",1930-07-28,"General","17","Kindersley","Carmichael, Archibald M.","Carmichael","Archibald","M.","Man","Farmer","Progressive","Elected",7350
+"Saskatchewan",1930-07-28,"General","17","Kindersley","Henderson, Charles Albert","Henderson","Charles","Albert","Man","Farmer","Liberal Party of Canada","Defeated",5170
+"Saskatchewan",1930-07-28,"General","17","Last Mountain","Butcher, Harry","Butcher","Harry",NA,"Man","Barrister","Liberal Party of Canada","Elected",5087
+"Saskatchewan",1930-07-28,"General","17","Last Mountain","Fansher, William Russell","Fansher","William","Russell","Man","Farmer","Progressive","Defeated",4250
+"Saskatchewan",1930-07-28,"General","17","Last Mountain","Minor, Harold J.","Minor","Harold","J.","Man","Farmer","Conservative (1867-1942)","Defeated",3563
+"Saskatchewan",1930-07-28,"General","17","Long Lake","Cowan, Walter Davy","Cowan","Walter","Davy","Man","Dentist","Conservative (1867-1942)","Elected",5577
+"Saskatchewan",1930-07-28,"General","17","Long Lake","Johnston, John Frederick","Johnston","John","Frederick","Man","Farmer","Liberal Party of Canada","Defeated",5383
+"Saskatchewan",1930-07-28,"General","17","Long Lake","Mcneal, Ida Elizabeth","Mcneal","Ida","Elizabeth","Woman","Farmer's wife","Farmer","Defeated",1516
+"Saskatchewan",1930-07-28,"General","17","Mackenzie","Campbell, Milton Neil","Campbell","Milton","Neil","Man","Farmer","Progressive","Elected",6578
+"Saskatchewan",1930-07-28,"General","17","Mackenzie","Mclean, Allan Grant","Mclean","Allan","Grant","Man","Insurance agent","Liberal Party of Canada","Defeated",3502
+"Saskatchewan",1930-07-28,"General","17","Mackenzie","Swystun, Wasyl","Swystun","Wasyl",NA,"Man","Principal of institute","Liberal Party of Canada","Defeated",3432
+"Saskatchewan",1930-07-28,"General","17","Maple Creek","Swanston, James Beck","Swanston","James","Beck","Man","Surgeon","Conservative (1867-1942)","Elected",7772
+"Saskatchewan",1930-07-28,"General","17","Maple Creek","Bock, William George","Bock","William","George","Man","Farmer","Liberal Party of Canada","Defeated",7215
+"Saskatchewan",1930-07-28,"General","17","Maple Creek","Hollis, Annie L.","Hollis","Annie","L.","Woman","Housewife","Farmer","Defeated",2388
+"Saskatchewan",1930-07-28,"General","17","Melfort","Weir, Robert","Weir","Robert",NA,"Man","Farmer","Conservative (1867-1942)","Elected",8689
+"Saskatchewan",1930-07-28,"General","17","Melfort","McLean, Malcolm","McLean","Malcolm",NA,"Man","Farmer","Liberal Party of Canada","Defeated",7367
+"Saskatchewan",1930-07-28,"General","17","Melfort","Doyle, Ferman E.","Doyle","Ferman","E.","Man","Farmer","Farmer","Defeated",1435
+"Saskatchewan",1930-07-28,"General","17","Melville","Motherwell, William Richard","Motherwell","William","Richard","Man","Farmer","Liberal Party of Canada","Elected",6965
+"Saskatchewan",1930-07-28,"General","17","Melville","Hart, George Nelson","Hart","George","Nelson","Man","Merchant","Conservative (1867-1942)","Defeated",4041
+"Saskatchewan",1930-07-28,"General","17","Melville","Thomas, John Morris","Thomas","John","Morris","Man","Teacher","Farmer","Defeated",3221
+"Saskatchewan",1930-07-28,"General","17","Moose Jaw","Beynon, William Addison","Beynon","William","Addison","Man","Barrister","Conservative (1867-1942)","Elected",9290
+"Saskatchewan",1930-07-28,"General","17","Moose Jaw","Ross, John Gordon","Ross","John","Gordon","Man","Farmer","Liberal Party of Canada","Defeated",8351
+"Saskatchewan",1930-07-28,"General","17","North Battleford","McIntosh, Cameron Ross","McIntosh","Cameron","Ross","Man","Publisher","Liberal Party of Canada","Elected",7168
+"Saskatchewan",1930-07-28,"General","17","North Battleford","Mackenzie, William","Mackenzie","William",NA,"Man","Farmer","Independent","Defeated",6073
+"Saskatchewan",1930-07-28,"General","17","North Battleford","Rose, Arthur O.","Rose","Arthur","O.","Man","Physician","Progressive","Defeated",2248
+"Saskatchewan",1930-07-28,"General","17","Prince Albert","King, William Lyon Mackenzie","King","William","Lyon Mackenzie","Man","Gentleman","Liberal Party of Canada","Elected",9283
+"Saskatchewan",1930-07-28,"General","17","Prince Albert","Braden, George","Braden","George",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",8091
+"Saskatchewan",1930-07-28,"General","17","Qu'Appelle","Perley, Ernest Edward","Perley","Ernest","Edward","Man","Farmer","Liberal Party of Canada","Elected",7888
+"Saskatchewan",1930-07-28,"General","17","Qu'Appelle","Millar, John","Millar","John",NA,"Man","School teacher","Liberal Progressive","Defeated",6905
+"Saskatchewan",1930-07-28,"General","17","Regina","Turnbull, Franklin White","Turnbull","Franklin","White","Man","Barrister","Conservative (1867-1942)","Elected",14446
+"Saskatchewan",1930-07-28,"General","17","Regina","Dunning, Charles Avery","Dunning","Charles","Avery","Man","Minister of Finance","Liberal Party of Canada","Defeated",10746
+"Saskatchewan",1930-07-28,"General","17","Regina","Carman, Lt. Col. R.A.","Carman","Lt.","Col. R.A.","Man","Gentleman","Independent","Defeated",82
+"Saskatchewan",1930-07-28,"General","17","Rosetown","Loucks, William John","Loucks","William","John","Man","Farmer","Conservative (1867-1942)","Elected",5310
+"Saskatchewan",1930-07-28,"General","17","Rosetown","Richardson, William","Richardson","William",NA,"Man","Farmer","Liberal Party of Canada","Defeated",4237
+"Saskatchewan",1930-07-28,"General","17","Rosetown","Evans, John","Evans","John",NA,"Man","Farmer","Progressive","Defeated",2879
+"Saskatchewan",1930-07-28,"General","17","Saskatoon","MacMillan, Frank Roland","MacMillan","Frank","Roland","Man","Merchant","Conservative (1867-1942)","Elected",11663
+"Saskatchewan",1930-07-28,"General","17","Saskatoon","Young, Alexander MacGillivray","Young","Alexander","MacGillivray","Man","Physician","Liberal Party of Canada","Defeated",9799
+"Saskatchewan",1930-07-28,"General","17","South Battleford","Vallance, John","Vallance","John",NA,"Man","Farmer","Liberal Party of Canada","Elected",6664
+"Saskatchewan",1930-07-28,"General","17","South Battleford","Routledge, James Anson","Routledge","James","Anson","Man","Physician","Conservative (1867-1942)","Defeated",6049
+"Saskatchewan",1930-07-28,"General","17","South Battleford","Campbell, Alexander Maxwell (Max)","Campbell","Alexander","Maxwell (Max)","Man","Farmer","Farmer","Defeated",3439
+"Saskatchewan",1930-07-28,"General","17","Swift Current","Bothwell, Charles Edward","Bothwell","Charles","Edward","Man","Barrister","Liberal Party of Canada","Elected",6382
+"Saskatchewan",1930-07-28,"General","17","Swift Current","Irwin, Oscar M.","Irwin","Oscar","M.","Man","Physician","Conservative (1867-1942)","Defeated",5456
+"Saskatchewan",1930-07-28,"General","17","Weyburn","Young, Edward James","Young","Edward","James","Man","Farmer","Liberal Party of Canada","Elected",7259
+"Saskatchewan",1930-07-28,"General","17","Weyburn","Morley, John Rennie","Morley","John","Rennie","Man","Lumberman","Conservative (1867-1942)","Defeated",5723
+"Saskatchewan",1930-07-28,"General","17","Weyburn","Mcmanus, James Hamilton","Mcmanus","James","Hamilton","Man","Veterinary surgeon","Progressive","Defeated",1433
+"Saskatchewan",1930-07-28,"General","17","Willow Bunch","Donnelly, Thomas F.","Donnelly","Thomas","F.","Man","Physician","Liberal Party of Canada","Elected",9730
+"Saskatchewan",1930-07-28,"General","17","Willow Bunch","Hoath, Robert Bingham","Hoath","Robert","Bingham","Man","Farmer","Conservative (1867-1942)","Defeated",8992
+"Saskatchewan",1930-07-28,"General","17","Yorkton","McPhee, George Washington","McPhee","George","Washington","Man","Barrister","Liberal Party of Canada","Elected",6887
+"Saskatchewan",1930-07-28,"General","17","Yorkton","Barbour, Robert","Barbour","Robert",NA,"Man","Manager","Independent","Defeated",5406
+"Yukon",1930-07-28,"General","17","Yukon","Black, George","Black","George",NA,"Man","Barrister","Conservative (1867-1942)","Elected",846
+"Yukon",1930-07-28,"General","17","Yukon","Thompson, William Edward","Thompson","William","Edward","Man","Physician","Liberal Party of Canada","Defeated",557

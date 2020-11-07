@@ -1,42 +1,42 @@
-"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Prince Edward Island",1981-04-13,"By-Election","32","Cardigan","Campbell, W. Bennett","Man","Teacher","Liberal Party of Canada","Elected",8166
-"Prince Edward Island",1981-04-13,"By-Election","32","Cardigan","MacDonald, Wilbur","Man","Farmer","Progressive Conservative Party","Defeated",7813
-"Prince Edward Island",1981-04-13,"By-Election","32","Cardigan","CANTELO, Aubrey","Man","Plumber","New Democratic Party","Defeated",674
-"Prince Edward Island",1977-05-24,"By-Election","30","Malpeque","Wood, Donald Paul","Man","Businessman","Liberal Party of Canada","Elected",4657
-"Prince Edward Island",1977-05-24,"By-Election","30","Malpeque","MACQUARRIE, Ian","Man","University professor","Progressive Conservative Party","Defeated",4532
-"Prince Edward Island",1977-05-24,"By-Election","30","Malpeque","SARK, Charles H.","Man","Electrical instructor","New Democratic Party","Defeated",393
-"Prince Edward Island",1977-05-24,"By-Election","30","Malpeque","HARPHAM, A. Neil","Man","Free agent","Independent","Defeated",46
-"Prince Edward Island",1961-05-29,"By-Election","24","King's","Macdonald, Margaret Mary","Woman","Widow","Progressive Conservative Party","Elected",4472
-"Prince Edward Island",1961-05-29,"By-Election","24","King's","Kickham, Thomas Joseph","Man","Farmer","Liberal Party of Canada","Defeated",4309
-"Prince Edward Island",1951-06-25,"By-Election","21","Queen's","MacLean, John Angus","Man","Farmer","Progressive Conservative Party","Elected",9540
-"Prince Edward Island",1951-06-25,"By-Election","21","Queen's","MILLER, Cecil Allen","Man","Farmer","Liberal Party of Canada","Defeated",9087
-"Prince Edward Island",1935-12-30,"By-Election","18","Queen's","Dunning, Charles Avery","Man","Minister of Finance","Liberal Party of Canada","Elected (Acclamation)",0
-"Prince Edward Island",1940-01-02,"By-Election","18","Prince","Ralston, James Layton","Man","Barrister","Liberal Party of Canada","Elected (Acclamation)",0
-"Prince Edward Island",1919-10-20,"By-Election","13","Prince","King, William Lyon Mackenzie","Man","Editor","Liberal Party of Canada","Elected (Acclamation)",0
-"Prince Edward Island",1901-03-20,"By-Election","9","East Queen's","Mackinnon, Donald Alexander","Man","Lawyer","Liberal Party of Canada","Elected",2433
-"Prince Edward Island",1901-03-20,"By-Election","9","East Queen's","Martin, Alexander","Man","Farmer","Conservative (1867-1942)","Defeated",2039
-"Prince Edward Island",1902-01-15,"By-Election","9","West Queen's","Farquharson, Donald","Man","Businessman","Liberal Party of Canada","Elected",2108
-"Prince Edward Island",1902-01-15,"By-Election","9","West Queen's","McLean, Angus Alexander","Man","Lawyer","Conservative (1867-1942)","Defeated",1633
-"Prince Edward Island",1904-02-16,"By-Election","9","West Queen's","Haszard, Horace","Man","Wholesale grocer","Liberal Party of Canada","Elected",2190
-"Prince Edward Island",1904-02-16,"By-Election","9","West Queen's","McLean, Angus Alexander","Man","Lawyer","Conservative (1867-1942)","Defeated",1879
-"Prince Edward Island",1896-07-30,"By-Election","8","West Queen's","Davies, Louis Henry","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Prince Edward Island",1897-04-27,"By-Election","8","West Prince","Perry, Stanislaus Francis","Man","Farmer","Liberal Party of Canada","Elected",1614
-"Prince Edward Island",1897-04-27,"By-Election","8","West Prince","Hackett, Edward","Man","Merchant","Liberal-Conservative","Defeated",1527
-"Prince Edward Island",1898-04-13,"By-Election","8","West Prince","McLellan, Bernard Donald","Man","Teacher","Liberal Party of Canada","Elected",1828
-"Prince Edward Island",1898-04-13,"By-Election","8","West Prince","Hackett, Edward","Man","Merchant","Liberal-Conservative","Defeated",1512
-"Prince Edward Island",1898-12-14,"By-Election","8","East Prince","Bell, John Howatt","Man","Lawyer","Liberal Party of Canada","Elected",1979
-"Prince Edward Island",1898-12-14,"By-Election","8","East Prince","Lefurgey, Alfred Alexander","Man","Lawyer","Conservative (1867-1942)","Defeated",1934
-"Prince Edward Island",1883-02-27,"By-Election","5","Queen's County","Brecken, Frederick de St Croix","Man","Lawyer","Conservative (1867-1942)","Elected",0
-"Prince Edward Island",1883-04-26,"By-Election","5","King's County","Macdonald, Augustine Colin","Man",NA,"Unknown","Elected",0
-"Prince Edward Island",1884-08-19,"By-Election","5","Queen's County","Jenkins, John Theophilus","Man","Physician","Liberal-Conservative","Elected",3428
-"Prince Edward Island",1884-08-19,"By-Election","5","Queen's County","Welsh, William","Man","Shipowner","Unknown","Defeated",3388
-"Prince Edward Island",1878-11-09,"By-Election","4","Queen's County","Pope, James Colledge","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
-"Prince Edward Island",1876-11-22,"By-Election","3","Queen's County","Pope, James Colledge","Man","Merchant","Conservative (1867-1942)","Elected",3199
-"Prince Edward Island",1876-11-22,"By-Election","3","Queen's County","Welsh, William","Man",NA,"Unknown","Defeated",3111
-"Prince Edward Island",1873-09-29,"By-Election","2","King's County","Davies, Daniel","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
-"Prince Edward Island",1873-09-29,"By-Election","2","King's County","Macdonald, Augustine Colin","Man","Merchant","Liberal-Conservative","Elected (Acclamation)",0
-"Prince Edward Island",1873-09-29,"By-Election","2","Prince County","Pope, James Colledge","Man","Shipbuilder","Conservative (1867-1942)","Elected (Acclamation)",0
-"Prince Edward Island",1873-09-29,"By-Election","2","Prince County","Yeo, James","Man","Merchant shipbuilder","Liberal Party of Canada","Elected (Acclamation)",0
-"Prince Edward Island",1873-09-29,"By-Election","2","Queen's County","Laird, David","Man","Journalist","Liberal Party of Canada","Elected (Acclamation)",0
-"Prince Edward Island",1873-09-29,"By-Election","2","Queen's County","Sinclair, Peter","Man","Farmer","Liberal Party of Canada","Elected (Acclamation)",0
-"Prince Edward Island",1873-12-03,"By-Election","2","Queen's County","Laird, David","Man","Journalist","Liberal Party of Canada","Elected (Acclamation)",0
+"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
+"Prince Edward Island",1981-04-13,"By-Election","32","Cardigan","Campbell, W. Bennett","Campbell","W.","Bennett","Man","Teacher","Liberal Party of Canada","Elected",8166
+"Prince Edward Island",1981-04-13,"By-Election","32","Cardigan","MacDonald, Wilbur","MacDonald","Wilbur",NA,"Man","Farmer","Progressive Conservative Party","Defeated",7813
+"Prince Edward Island",1981-04-13,"By-Election","32","Cardigan","Cantelo, Aubrey","Cantelo","Aubrey",NA,"Man","Plumber","New Democratic Party","Defeated",674
+"Prince Edward Island",1977-05-24,"By-Election","30","Malpeque","Wood, Donald Paul","Wood","Donald","Paul","Man","Businessman","Liberal Party of Canada","Elected",4657
+"Prince Edward Island",1977-05-24,"By-Election","30","Malpeque","Macquarrie, Ian","Macquarrie","Ian",NA,"Man","University professor","Progressive Conservative Party","Defeated",4532
+"Prince Edward Island",1977-05-24,"By-Election","30","Malpeque","Sark, Charles H.","Sark","Charles","H.","Man","Electrical instructor","New Democratic Party","Defeated",393
+"Prince Edward Island",1977-05-24,"By-Election","30","Malpeque","Harpham, A. Neil","Harpham","A.","Neil","Man","Free agent","Independent","Defeated",46
+"Prince Edward Island",1961-05-29,"By-Election","24","King's","Macdonald, Margaret Mary","Macdonald","Margaret","Mary","Woman","Widow","Progressive Conservative Party","Elected",4472
+"Prince Edward Island",1961-05-29,"By-Election","24","King's","Kickham, Thomas Joseph","Kickham","Thomas","Joseph","Man","Farmer","Liberal Party of Canada","Defeated",4309
+"Prince Edward Island",1951-06-25,"By-Election","21","Queen's","MacLean, John Angus","MacLean","John","Angus","Man","Farmer","Progressive Conservative Party","Elected",9540
+"Prince Edward Island",1951-06-25,"By-Election","21","Queen's","Miller, Cecil Allen","Miller","Cecil","Allen","Man","Farmer","Liberal Party of Canada","Defeated",9087
+"Prince Edward Island",1935-12-30,"By-Election","18","Queen's","Dunning, Charles Avery","Dunning","Charles","Avery","Man","Minister of Finance","Liberal Party of Canada","Elected (Acclamation)",0
+"Prince Edward Island",1940-01-02,"By-Election","18","Prince","Ralston, James Layton","Ralston","James","Layton","Man","Barrister","Liberal Party of Canada","Elected (Acclamation)",0
+"Prince Edward Island",1919-10-20,"By-Election","13","Prince","King, William Lyon Mackenzie","King","William","Lyon Mackenzie","Man","Editor","Liberal Party of Canada","Elected (Acclamation)",0
+"Prince Edward Island",1901-03-20,"By-Election","9","East Queen's","Mackinnon, Donald Alexander","Mackinnon","Donald","Alexander","Man","Lawyer","Liberal Party of Canada","Elected",2433
+"Prince Edward Island",1901-03-20,"By-Election","9","East Queen's","Martin, Alexander","Martin","Alexander",NA,"Man","Farmer","Conservative (1867-1942)","Defeated",2039
+"Prince Edward Island",1902-01-15,"By-Election","9","West Queen's","Farquharson, Donald","Farquharson","Donald",NA,"Man","Businessman","Liberal Party of Canada","Elected",2108
+"Prince Edward Island",1902-01-15,"By-Election","9","West Queen's","McLean, Angus Alexander","McLean","Angus","Alexander","Man","Lawyer","Conservative (1867-1942)","Defeated",1633
+"Prince Edward Island",1904-02-16,"By-Election","9","West Queen's","Haszard, Horace","Haszard","Horace",NA,"Man","Wholesale grocer","Liberal Party of Canada","Elected",2190
+"Prince Edward Island",1904-02-16,"By-Election","9","West Queen's","McLean, Angus Alexander","McLean","Angus","Alexander","Man","Lawyer","Conservative (1867-1942)","Defeated",1879
+"Prince Edward Island",1896-07-30,"By-Election","8","West Queen's","Davies, Louis Henry","Davies","Louis","Henry","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
+"Prince Edward Island",1897-04-27,"By-Election","8","West Prince","Perry, Stanislaus Francis","Perry","Stanislaus","Francis","Man","Farmer","Liberal Party of Canada","Elected",1614
+"Prince Edward Island",1897-04-27,"By-Election","8","West Prince","Hackett, Edward","Hackett","Edward",NA,"Man","Merchant","Liberal-Conservative","Defeated",1527
+"Prince Edward Island",1898-04-13,"By-Election","8","West Prince","McLellan, Bernard Donald","McLellan","Bernard","Donald","Man","Teacher","Liberal Party of Canada","Elected",1828
+"Prince Edward Island",1898-04-13,"By-Election","8","West Prince","Hackett, Edward","Hackett","Edward",NA,"Man","Merchant","Liberal-Conservative","Defeated",1512
+"Prince Edward Island",1898-12-14,"By-Election","8","East Prince","Bell, John Howatt","Bell","John","Howatt","Man","Lawyer","Liberal Party of Canada","Elected",1979
+"Prince Edward Island",1898-12-14,"By-Election","8","East Prince","Lefurgey, Alfred Alexander","Lefurgey","Alfred","Alexander","Man","Lawyer","Conservative (1867-1942)","Defeated",1934
+"Prince Edward Island",1883-02-27,"By-Election","5","Queen's County","Brecken, Frederick de St Croix","Brecken","Frederick","de St Croix","Man","Lawyer","Conservative (1867-1942)","Elected",0
+"Prince Edward Island",1883-04-26,"By-Election","5","King's County","Macdonald, Augustine Colin","Macdonald","Augustine","Colin","Man",NA,"Unknown","Elected",0
+"Prince Edward Island",1884-08-19,"By-Election","5","Queen's County","Jenkins, John Theophilus","Jenkins","John","Theophilus","Man","Physician","Liberal-Conservative","Elected",3428
+"Prince Edward Island",1884-08-19,"By-Election","5","Queen's County","Welsh, William","Welsh","William",NA,"Man","Shipowner","Unknown","Defeated",3388
+"Prince Edward Island",1878-11-09,"By-Election","4","Queen's County","Pope, James Colledge","Pope","James","Colledge","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
+"Prince Edward Island",1876-11-22,"By-Election","3","Queen's County","Pope, James Colledge","Pope","James","Colledge","Man","Merchant","Conservative (1867-1942)","Elected",3199
+"Prince Edward Island",1876-11-22,"By-Election","3","Queen's County","Welsh, William","Welsh","William",NA,"Man",NA,"Unknown","Defeated",3111
+"Prince Edward Island",1873-09-29,"By-Election","2","King's County","Davies, Daniel","Davies","Daniel",NA,"Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
+"Prince Edward Island",1873-09-29,"By-Election","2","King's County","Macdonald, Augustine Colin","Macdonald","Augustine","Colin","Man","Merchant","Liberal-Conservative","Elected (Acclamation)",0
+"Prince Edward Island",1873-09-29,"By-Election","2","Prince County","Pope, James Colledge","Pope","James","Colledge","Man","Shipbuilder","Conservative (1867-1942)","Elected (Acclamation)",0
+"Prince Edward Island",1873-09-29,"By-Election","2","Prince County","Yeo, James","Yeo","James",NA,"Man","Merchant shipbuilder","Liberal Party of Canada","Elected (Acclamation)",0
+"Prince Edward Island",1873-09-29,"By-Election","2","Queen's County","Laird, David","Laird","David",NA,"Man","Journalist","Liberal Party of Canada","Elected (Acclamation)",0
+"Prince Edward Island",1873-09-29,"By-Election","2","Queen's County","Sinclair, Peter","Sinclair","Peter",NA,"Man","Farmer","Liberal Party of Canada","Elected (Acclamation)",0
+"Prince Edward Island",1873-12-03,"By-Election","2","Queen's County","Laird, David","Laird","David",NA,"Man","Journalist","Liberal Party of Canada","Elected (Acclamation)",0

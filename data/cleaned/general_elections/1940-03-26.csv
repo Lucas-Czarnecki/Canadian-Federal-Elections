@@ -1,667 +1,667 @@
-"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Alberta",1940-03-26,"General","19","Acadia","Quelch, Victor","Man","Farmer","Social Credit Party of Canada","Elected",3767
-"Alberta",1940-03-26,"General","19","Acadia","DAY, Arthur M.","Man","Physician","Liberal Party of Canada","Defeated",3740
-"Alberta",1940-03-26,"General","19","Acadia","SMITH, George B.","Man","Farmer","Co-operative Commonwealth Federation","Defeated",802
-"Alberta",1940-03-26,"General","19","Athabaska","Dechene, Joseph Miville","Man","Agent","Liberal Party of Canada","Elected",5961
-"Alberta",1940-03-26,"General","19","Athabaska","Hayhurst, William","Man","School principal","New Democracy","Defeated",4817
-"Alberta",1940-03-26,"General","19","Athabaska","Rowe, Percy John","Man","Accountant","Co-operative Commonwealth Federation","Defeated",2052
-"Alberta",1940-03-26,"General","19","Battle River","Fair, Robert","Man","Farmer","New Democracy","Elected",5045
-"Alberta",1940-03-26,"General","19","Battle River","PITMAN, Ernest Arthur","Man","Farmer","Liberal Party of Canada","Defeated",3808
-"Alberta",1940-03-26,"General","19","Battle River","Spencer, Henry Elvins","Man","Farmer","Co-operative Commonwealth Federation","Defeated",3401
-"Alberta",1940-03-26,"General","19","Bow River","Johnston, Charles Edward","Man","Teacher","Social Credit Party of Canada","Elected",5410
-"Alberta",1940-03-26,"General","19","Bow River","CLAYPOOL, A.B.","Man","Farmer","Liberal Party of Canada","Defeated",4050
-"Alberta",1940-03-26,"General","19","Bow River","MANNING, M.E.","Man","Barrister","National Government","Defeated",3248
-"Alberta",1940-03-26,"General","19","Bow River","LIESMER, A.J.E.","Man","Teacher","Co-operative Commonwealth Federation","Defeated",2197
-"Alberta",1940-03-26,"General","19","Bow River","ANDERSON, Lawrence","Man","Carpenter","Communist Party of Canada","Defeated",847
-"Alberta",1940-03-26,"General","19","Calgary East","Ross, George Henry","Man","Barrister","Liberal Party of Canada","Elected",5815
-"Alberta",1940-03-26,"General","19","Calgary East","Landeryou, John Charles","Man","Chef","Social Credit Party of Canada","Defeated",5330
-"Alberta",1940-03-26,"General","19","Calgary East","FARTHING, Hugh Cragg","Man","Barrister","National Government","Defeated",4987
-"Alberta",1940-03-26,"General","19","Calgary East","KELLOWAY, Warwick Freeman","Man","Clergyman","Co-operative Commonwealth Federation","Defeated",4986
-"Alberta",1940-03-26,"General","19","Calgary West","Edwards, Manley Justin","Man","Barrister","Liberal Party of Canada","Elected",7299
-"Alberta",1940-03-26,"General","19","Calgary West","Cunnington, Douglas George Leopold","Man","Insurance broker","National Government","Defeated",6896
-"Alberta",1940-03-26,"General","19","Calgary West","WILKINSON, Rose","Woman","Graduate nurse","New Democracy","Defeated",4159
-"Alberta",1940-03-26,"General","19","Calgary West","JOHNSON, J. Albert","Man","Carpenter","Co-operative Commonwealth Federation","Defeated",1444
-"Alberta",1940-03-26,"General","19","Camrose","Marshall, James Alexander","Man","Municipal secretary","Social Credit Party of Canada","Elected",6359
-"Alberta",1940-03-26,"General","19","Camrose","CLAEYS, Charles","Man","Farmer","Liberal Party of Canada","Defeated",4443
-"Alberta",1940-03-26,"General","19","Camrose","LEFSRUD, Sigurd","Man","Barrister","Co-operative Commonwealth Federation","Defeated",2065
-"Alberta",1940-03-26,"General","19","Edmonton East","Casselman, Frederick Clayton","Man","Barrister","Liberal Party of Canada","Elected",8948
-"Alberta",1940-03-26,"General","19","Edmonton East","Kennedy, Orvis A.","Man","Salesman","New Democracy","Defeated",7279
-"Alberta",1940-03-26,"General","19","Edmonton East","GEE, Sidney J.","Man","Contractor","National Government","Defeated",2302
-"Alberta",1940-03-26,"General","19","Edmonton East","LEE, Clifford E.","Man","Druggist","Co-operative Commonwealth Federation","Defeated",1962
-"Alberta",1940-03-26,"General","19","Edmonton West","MacKinnon, James Angus","Man","Manager","Liberal Party of Canada","Elected",12350
-"Alberta",1940-03-26,"General","19","Edmonton West","OGILVIE, James H.","Man","Barrister","National Government","Defeated",4054
-"Alberta",1940-03-26,"General","19","Edmonton West","GILLIES, John B.","Man","Insurance agent","New Democracy","Defeated",3695
-"Alberta",1940-03-26,"General","19","Edmonton West","CRAWFORD, Mary R.","Woman","Teacher","Co-operative Commonwealth Federation","Defeated",1616
-"Alberta",1940-03-26,"General","19","Jasper--Edson","Kuhl, Walter Frederick","Man","Teacher","New Democracy","Elected",6363
-"Alberta",1940-03-26,"General","19","Jasper--Edson","KNIGHT, Arthur Allan","Man","Farmer","Liberal Party of Canada","Defeated",6283
-"Alberta",1940-03-26,"General","19","Jasper--Edson","CRITCHLOW, Hugh","Man","Farmer","Co-operative Commonwealth Federation","Defeated",2102
-"Alberta",1940-03-26,"General","19","Jasper--Edson","BAMBER, Sydney","Man","Farmer","National Government","Defeated",1835
-"Alberta",1940-03-26,"General","19","Lethbridge","Blackmore, John Horne","Man","Teacher","New Democracy","Elected",6362
-"Alberta",1940-03-26,"General","19","Lethbridge","FAIRBAIRN, Lynden Eldon","Man","Barrister","Liberal Party of Canada","Defeated",5538
-"Alberta",1940-03-26,"General","19","Lethbridge","Stewart, John Smith","Man","Dentist","National Government","Defeated",3605
-"Alberta",1940-03-26,"General","19","Macleod","Hansell, Ernest George","Man","Clergyman","Social Credit Party of Canada","Elected",6655
-"Alberta",1940-03-26,"General","19","Macleod","MCKENNA, Francis Olestes","Man","Barrister","Liberal Party of Canada","Defeated",4829
-"Alberta",1940-03-26,"General","19","Macleod","DAVIS, Grier Rider","Man","Barrister","National Government","Defeated",3039
-"Alberta",1940-03-26,"General","19","Macleod","MCBRIDE, Ruth House","Woman","Housewife","Co-operative Commonwealth Federation","Defeated",2180
-"Alberta",1940-03-26,"General","19","Medicine Hat","Gershaw, Frederick William","Man","Physician","Liberal Party of Canada","Elected",9439
-"Alberta",1940-03-26,"General","19","Medicine Hat","Mitchell, Archibald Hugh","Man","Farmer","New Democracy","Defeated",5524
-"Alberta",1940-03-26,"General","19","Peace River","Sissons, John Howard","Man","Barrister","Liberal Party of Canada","Elected",6426
-"Alberta",1940-03-26,"General","19","Peace River","Pelletier, René-Antoine","Man","Telegrapher","New Democracy","Defeated",5347
-"Alberta",1940-03-26,"General","19","Peace River","MACKLIN, Irwin Victor","Man","Farmer","Co-operative Commonwealth Federation","Defeated",3307
-"Alberta",1940-03-26,"General","19","Peace River","BRULOTTE, Louis-Napoléon","Man","Farmer","Independent","Defeated",488
-"Alberta",1940-03-26,"General","19","Red Deer","Shaw, Frederick Davis","Man","Teacher","Social Credit Party of Canada","Elected",5583
-"Alberta",1940-03-26,"General","19","Red Deer","BURY, Absalom Clark","Man","Notary","Liberal Party of Canada","Defeated",4134
-"Alberta",1940-03-26,"General","19","Red Deer","MORRISON, P.N.R.","Man","Teacher","Co-operative Commonwealth Federation","Defeated",2771
-"Alberta",1940-03-26,"General","19","Red Deer","STONHOUSE, Arthur A.","Man","Farmer","National Government","Defeated",2694
-"Alberta",1940-03-26,"General","19","Vegreville","Hlynka, Anthony","Man","Publisher","Social Credit Party of Canada","Elected",5083
-"Alberta",1940-03-26,"General","19","Vegreville","ARCHER, A.E.","Man","Physician","Liberal Party of Canada","Defeated",4605
-"Alberta",1940-03-26,"General","19","Vegreville","HALINA, William","Man","Accountant","United Progressive","Defeated",2727
-"Alberta",1940-03-26,"General","19","Vegreville","BOUTILLIER, Herbert R.","Man","Farmer","Co-operative Commonwealth Federation","Defeated",1658
-"Alberta",1940-03-26,"General","19","Wetaskiwin","Jaques, Norman","Man","Retired farmer","Social Credit Party of Canada","Elected",6245
-"Alberta",1940-03-26,"General","19","Wetaskiwin","CAMPBELL, Walter Stephen","Man","Agent","Liberal Party of Canada","Defeated",4392
-"Alberta",1940-03-26,"General","19","Wetaskiwin","HASKINS, Robert Henry","Man","Farmer","Co-operative Commonwealth Federation","Defeated",2539
-"Alberta",1940-03-26,"General","19","Wetaskiwin","RUSSELL, Charles Homer","Man","Barrister","National Government","Defeated",2456
-"British Columbia",1940-03-26,"General","19","Cariboo","Turgeon, James Gray","Man","Broker","Liberal Party of Canada","Elected",6063
-"British Columbia",1940-03-26,"General","19","Cariboo","Irvine, William","Man","Editor","Co-operative Commonwealth Federation","Defeated",5070
-"British Columbia",1940-03-26,"General","19","Cariboo","STEPHENS, Frederick Herbert","Man","Miner","National Government","Defeated",2354
-"British Columbia",1940-03-26,"General","19","Comox--Alberni","Neill, Alan Webster","Man","Retired","Independent","Elected",10156
-"British Columbia",1940-03-26,"General","19","Comox--Alberni","BROWN, George Harrison","Man","Journalist","Co-operative Commonwealth Federation","Defeated",3835
-"British Columbia",1940-03-26,"General","19","Fraser Valley","Cruickshank, George Alexander","Man","Farmer","Liberal Party of Canada","Elected",6638
-"British Columbia",1940-03-26,"General","19","Fraser Valley","Barber, Harry James","Man","Druggist","National Government","Defeated",6211
-"British Columbia",1940-03-26,"General","19","Fraser Valley","PENBERTHY, James Warren","Man","Farmer","Co-operative Commonwealth Federation","Defeated",2877
-"British Columbia",1940-03-26,"General","19","Kamloops","O'Neill, Thomas James","Man","Locomotive engineer","Liberal Party of Canada","Elected",5621
-"British Columbia",1940-03-26,"General","19","Kamloops","Stevens, Henry Herbert","Man","Business executive","National Government","Defeated",4290
-"British Columbia",1940-03-26,"General","19","Kamloops","MACNAB, Margaret","Woman","Housewife","Co-operative Commonwealth Federation","Defeated",3538
-"British Columbia",1940-03-26,"General","19","Kootenay East","MacKinnon, George Ernest Lawson","Man","Physician","National Government","Elected",4395
-"British Columbia",1940-03-26,"General","19","Kootenay East","Matthews, James Herbert","Man","Clergyman","Co-operative Commonwealth Federation","Defeated",4202
-"British Columbia",1940-03-26,"General","19","Kootenay East","STEWART, Edwin K.","Man","Merchant","Liberal Party of Canada","Defeated",3974
-"British Columbia",1940-03-26,"General","19","Kootenay West","Esling, William Kemble","Man","General agent","National Government","Elected",6771
-"British Columbia",1940-03-26,"General","19","Kootenay West","Herridge, Herbert Wilfred","Man","Farmer","Co-operative Commonwealth Federation","Defeated",6389
-"British Columbia",1940-03-26,"General","19","Kootenay West","MACDONALD, Donald","Man","Barrister","Liberal Party of Canada","Defeated",4137
-"British Columbia",1940-03-26,"General","19","Nanaimo","Chambers, Alan","Man","Exporter","Liberal Party of Canada","Elected",10668
-"British Columbia",1940-03-26,"General","19","Nanaimo","CUNCLIFFE, Frank Stigant","Man","Barrister","National Government","Defeated",7518
-"British Columbia",1940-03-26,"General","19","Nanaimo","GRANTHAM, Ronald","Man","Teacher","Co-operative Commonwealth Federation","Defeated",6252
-"British Columbia",1940-03-26,"General","19","Nanaimo","JUKES, Andrew Henry","Man","Farmer","New Democracy","Defeated",506
-"British Columbia",1940-03-26,"General","19","Nanaimo","POVAH, William Frederick","Man","Farmer","Independent","Defeated",181
-"British Columbia",1940-03-26,"General","19","New Westminster","Reid, Thomas","Man","Farmer","Liberal Party of Canada","Elected",15287
-"British Columbia",1940-03-26,"General","19","New Westminster","ALSBURY, Albert Thomas","Man","Teacher","Co-operative Commonwealth Federation","Defeated",9837
-"British Columbia",1940-03-26,"General","19","New Westminster","SELKIRK, Thomas Robert","Man","Barrister","National Government","Defeated",9372
-"British Columbia",1940-03-26,"General","19","Skeena","Hanson, Olof","Man","Timberman","Liberal Party of Canada","Elected",4980
-"British Columbia",1940-03-26,"General","19","Skeena","WEAVER, George W.","Man","Musician","Co-operative Commonwealth Federation","Defeated",2845
-"British Columbia",1940-03-26,"General","19","Skeena","CAMERON, George F.","Man","Barrister","National Government","Defeated",1472
-"British Columbia",1940-03-26,"General","19","Skeena","MORRIS, Frank","Man","Farmer","Independent Liberal","Defeated",145
-"British Columbia",1940-03-26,"General","19","Vancouver Centre","Mackenzie, Ian Alistair","Man","Barrister","Liberal Party of Canada","Elected",12100
-"British Columbia",1940-03-26,"General","19","Vancouver Centre","SHERWOOD, Ernest Garfield","Man","Dairyman","National Government","Defeated",9338
-"British Columbia",1940-03-26,"General","19","Vancouver Centre","LEFEAUX, Wallis Walter","Man","Barrister","Co-operative Commonwealth Federation","Defeated",8427
-"British Columbia",1940-03-26,"General","19","Vancouver Centre","KERR, Paul McDowell","Man","Barrister","Independent","Defeated",630
-"British Columbia",1940-03-26,"General","19","Vancouver Centre","GLOZIER, Norman Lee","Man","Manager","Independent Nationalist","Defeated",408
-"British Columbia",1940-03-26,"General","19","Vancouver East","MacInnis, Angus","Man","Motorman","Co-operative Commonwealth Federation","Elected",12490
-"British Columbia",1940-03-26,"General","19","Vancouver East","HENDERSON, John","Man","Steam engineer","Liberal Party of Canada","Defeated",9196
-"British Columbia",1940-03-26,"General","19","Vancouver East","DERPAK, William Wilfred","Man","Millwright","New Democracy","Defeated",5975
-"British Columbia",1940-03-26,"General","19","Vancouver East","MCKEAN, Fergus","Man","Millwright","Communist Party of Canada","Defeated",1398
-"British Columbia",1940-03-26,"General","19","Vancouver North","Sinclair, James","Man","Engineer","Liberal Party of Canada","Elected",10496
-"British Columbia",1940-03-26,"General","19","Vancouver North","MACNEIL, Charles Grant","Man","Sales manager","Co-operative Commonwealth Federation","Defeated",9832
-"British Columbia",1940-03-26,"General","19","Vancouver North","TUPPER, Reginald Hibbert","Man","Barrister","National Government","Defeated",7186
-"British Columbia",1940-03-26,"General","19","Vancouver South","Green, Howard Charles","Man","Barrister","National Government","Elected",18470
-"British Columbia",1940-03-26,"General","19","Vancouver South","SMITH, Sidney Alexander","Man","Barrister","Liberal Party of Canada","Defeated",13451
-"British Columbia",1940-03-26,"General","19","Vancouver South","TURNER, Arthur James","Man","Garage proprietor","Co-operative Commonwealth Federation","Defeated",6062
-"British Columbia",1940-03-26,"General","19","Vancouver--Burrard","McGeer, Gerald Grattan","Man","Barrister","Liberal Party of Canada","Elected",12617
-"British Columbia",1940-03-26,"General","19","Vancouver--Burrard","Webster, Arnold Alexander","Man","School teacher","Co-operative Commonwealth Federation","Defeated",10745
-"British Columbia",1940-03-26,"General","19","Vancouver--Burrard","MCDONELL, Allan J.","Man","Manufacturer","National Government","Defeated",9475
-"British Columbia",1940-03-26,"General","19","Victoria","Mayhew, Robert Wellington","Man","Manufacturer","Liberal Party of Canada","Elected",13887
-"British Columbia",1940-03-26,"General","19","Victoria","BROWN, James Sutherland","Man","Retired","National Government","Defeated",9193
-"British Columbia",1940-03-26,"General","19","Victoria","MCALLISTER, Kenneth","Man","Photographer","Co-operative Commonwealth Federation","Defeated",3352
-"British Columbia",1940-03-26,"General","19","Yale","Stirling, Grote","Man","Civil engineer","National Government","Elected",8599
-"British Columbia",1940-03-26,"General","19","Yale","Jones, Owen Lewis","Man","Merchant","Co-operative Commonwealth Federation","Defeated",7428
-"British Columbia",1940-03-26,"General","19","Yale","MORROW, Charles William","Man","Barrister","Liberal Party of Canada","Defeated",6805
-"Manitoba",1940-03-26,"General","19","Brandon","Matthews, James Ewen","Man","Life underwriter","Liberal Party of Canada","Elected",8908
-"Manitoba",1940-03-26,"General","19","Brandon","THOMPSON, John William McLeod","Man","Barrister","National Government","Defeated",6168
-"Manitoba",1940-03-26,"General","19","Brandon","WOOD, James Henry","Man","Farmer","Co-operative Commonwealth Federation","Defeated",2609
-"Manitoba",1940-03-26,"General","19","Churchill","Crerar, Thomas Alexander","Man","Minister of Mines and Resources","Liberal Party of Canada","Elected",8276
-"Manitoba",1940-03-26,"General","19","Churchill","Scarth, William Bain","Man","Barrister","National Government","Defeated",4963
-"Manitoba",1940-03-26,"General","19","Dauphin","Ward, William John","Man","Farmer","Liberal Party of Canada","Elected",5953
-"Manitoba",1940-03-26,"General","19","Dauphin","Bowman, James Langstaff","Man","Barrister","National Government","Defeated",5900
-"Manitoba",1940-03-26,"General","19","Dauphin","Moore, Ronald Stewart","Man","Railway employee","Co-operative Commonwealth Federation","Defeated",5142
-"Manitoba",1940-03-26,"General","19","Lisgar","Winkler, Howard Waldemar","Man","Farmer","Liberal Party of Canada","Elected",5221
-"Manitoba",1940-03-26,"General","19","Lisgar","FOLLETT, Reginald Arthur Sprake","Man","Creamery operator","National Government","Defeated",2433
-"Manitoba",1940-03-26,"General","19","Lisgar","MCBRIEN, David Leslie","Man","Farmer","Co-operative Commonwealth Federation","Defeated",1160
-"Manitoba",1940-03-26,"General","19","Lisgar","MCINTYRE, Thomas Eldon","Man","Farmer","New Democracy","Defeated",685
-"Manitoba",1940-03-26,"General","19","Macdonald","Weir, William Gilbert","Man","Farmer","Liberal Progressive","Elected",7728
-"Manitoba",1940-03-26,"General","19","Macdonald","CUDDY, James Anthony","Man","Farmer","National Government","Defeated",4510
-"Manitoba",1940-03-26,"General","19","Macdonald","LANGTRY, Ivan Andrew","Man","Farmer","Co-operative Commonwealth Federation","Defeated",2639
-"Manitoba",1940-03-26,"General","19","Marquette","Glen, James Allison","Man","Barrister","Liberal Progressive","Elected",7027
-"Manitoba",1940-03-26,"General","19","Marquette","EWBANK, James Wilson","Man","Farmer","Independent","Defeated",5259
-"Manitoba",1940-03-26,"General","19","Marquette","PEDEN, Robert","Man","Farmer","National Government","Defeated",4545
-"Manitoba",1940-03-26,"General","19","Neepawa","MacKenzie, Frederick Donald","Man","School principal","Liberal Party of Canada","Elected",6724
-"Manitoba",1940-03-26,"General","19","Neepawa","Murphy, Thomas Gerow","Man","Druggist","National Government","Defeated",4865
-"Manitoba",1940-03-26,"General","19","Neepawa","DUFFY, John Hazelett","Man","Teacher","New Democracy","Defeated",2208
-"Manitoba",1940-03-26,"General","19","Portage la Prairie","Leader, Harry","Man","Farmer","Liberal Party of Canada","Elected",7442
-"Manitoba",1940-03-26,"General","19","Portage la Prairie","JONES, George Herbert","Man","Farmer","National Government","Defeated",4835
-"Manitoba",1940-03-26,"General","19","Provencher","Jutras, René","Man","Teacher","Liberal Party of Canada","Elected",3768
-"Manitoba",1940-03-26,"General","19","Provencher","SLATER, Leo A.","Man","Barrister","Independent","Defeated",3329
-"Manitoba",1940-03-26,"General","19","Provencher","PODOLSKY, Harry Matthew","Man","Merchant","Independent","Defeated",1765
-"Manitoba",1940-03-26,"General","19","Provencher","JOHNSTON, William Richard","Man","Farmer","National Government","Defeated",1441
-"Manitoba",1940-03-26,"General","19","Provencher","BANVILLE, Albert","Man","Labourer","New Democracy","Defeated",1099
-"Manitoba",1940-03-26,"General","19","Provencher","GAGNON, Évariste Rupert","Man","Fireman","Co-operative Commonwealth Federation","Defeated",841
-"Manitoba",1940-03-26,"General","19","Selkirk","Thorson, Joseph Thorarinn","Man","Barrister","Liberal Party of Canada","Elected",11023
-"Manitoba",1940-03-26,"General","19","Selkirk","WISE, Richard Ambrose","Man","Clerk","Co-operative Commonwealth Federation","Defeated",6869
-"Manitoba",1940-03-26,"General","19","Selkirk","PARTRIDGE, Edmund","Man","Gardener","National Government","Defeated",3890
-"Manitoba",1940-03-26,"General","19","Souris","Ross, James Arthur","Man","Farmer","National Government","Elected",4991
-"Manitoba",1940-03-26,"General","19","Souris","McDonald, George William","Man","Implement agent","Liberal Party of Canada","Defeated",4861
-"Manitoba",1940-03-26,"General","19","Souris","PARKES, Alex H.","Man","Farmer","Co-operative Commonwealth Federation","Defeated",1370
-"Manitoba",1940-03-26,"General","19","Springfield","Turner, John Mouat","Man","Manager","Liberal Party of Canada","Elected",7462
-"Manitoba",1940-03-26,"General","19","Springfield","Knowles, Stanley Howard","Man","Clergyman","Co-operative Commonwealth Federation","Defeated",7018
-"Manitoba",1940-03-26,"General","19","Springfield","FINLAYSON, Roderick Kenneth","Man","Barrister","National Government","Defeated",3311
-"Manitoba",1940-03-26,"General","19","St. Boniface","Howden, John Power","Man","Physician","Liberal Party of Canada","Elected",7926
-"Manitoba",1940-03-26,"General","19","St. Boniface","MACLEAN, George Campbell","Man","Broker","National Government","Defeated",3578
-"Manitoba",1940-03-26,"General","19","St. Boniface","Guay, Pierre Malcom","Man","Foreman","Social Credit Party of Canada","Defeated",1839
-"Manitoba",1940-03-26,"General","19","St. Boniface","BAREFOOT, George Henry","Man","Machinist","Co-operative Commonwealth Federation","Defeated",1739
-"Manitoba",1940-03-26,"General","19","St. Boniface","JACOB, Morris","Man","Handwriting expert","Independent","Defeated",216
-"Manitoba",1940-03-26,"General","19","Winnipeg North","Booth, Charles Stephen","Man","Barrister","Liberal Party of Canada","Elected",13015
-"Manitoba",1940-03-26,"General","19","Winnipeg North","Heaps, Abraham Albert","Man","Upholsterer","Co-operative Commonwealth Federation","Defeated",11249
-"Manitoba",1940-03-26,"General","19","Winnipeg North","MORRIS, Leslie Tom","Man","Journalist","Communist Party of Canada","Defeated",5315
-"Manitoba",1940-03-26,"General","19","Winnipeg North","ELLOR, Percy","Man","Barrister","National Government","Defeated",2255
-"Manitoba",1940-03-26,"General","19","Winnipeg North Centre","Woodsworth, James Shaver","Man","Lecturer","Co-operative Commonwealth Federation","Elected",11324
-"Manitoba",1940-03-26,"General","19","Winnipeg North Centre","MCDONNELL, Ambrose Roy","Man","Barrister","Liberal Party of Canada","Defeated",11199
-"Manitoba",1940-03-26,"General","19","Winnipeg North Centre","STEFANSSON, Bjorn","Man","Barrister","National Government","Defeated",5412
-"Manitoba",1940-03-26,"General","19","Winnipeg South","Mutch, Leslie Alexander","Man","Advertising executive","Liberal Party of Canada","Elected",15461
-"Manitoba",1940-03-26,"General","19","Winnipeg South","BAKER, Phipps","Man","Barrister","National Government","Defeated",8445
-"Manitoba",1940-03-26,"General","19","Winnipeg South","MULLIGAN, Dave","Man","Stationary engineer","Co-operative Commonwealth Federation","Defeated",3912
-"Manitoba",1940-03-26,"General","19","Winnipeg South Centre","Maybank, Ralph","Man","Barrister","Liberal Party of Canada","Elected",19486
-"Manitoba",1940-03-26,"General","19","Winnipeg South Centre","Kennedy, William Walker","Man","Barrister","National Government","Defeated",10698
-"Manitoba",1940-03-26,"General","19","Winnipeg South Centre","SWANSON, John Julius","Man","Real estate agent","Co-operative Commonwealth Federation","Defeated",5576
-"New Brunswick",1940-03-26,"General","19","Charlotte","Hill, Burton Maxwell","Man","Civil engineer","Liberal Party of Canada","Elected",6099
-"New Brunswick",1940-03-26,"General","19","Charlotte","DEWOLFE, Walter G.","Man","Merchant","National Government","Defeated",4391
-"New Brunswick",1940-03-26,"General","19","Gloucester","Veniot, Clarence Joseph","Man","Physician","Liberal Party of Canada","Elected",10451
-"New Brunswick",1940-03-26,"General","19","Gloucester","Robichaud, Albany M.","Man","Lawyer","National Government","Defeated",5447
-"New Brunswick",1940-03-26,"General","19","Kent","Léger, Aurel D.","Man","Farmer","Liberal Party of Canada","Elected",5582
-"New Brunswick",1940-03-26,"General","19","Kent","Arsenault, Telesphore","Man","Farmer","National Government","Defeated",3032
-"New Brunswick",1940-03-26,"General","19","Northumberland","O'Brien, Joseph Leonard","Man","Lumberman","National Government","Elected",5149
-"New Brunswick",1940-03-26,"General","19","Northumberland","Maloney, John William","Man","Lumber merchant","Liberal Party of Canada","Defeated",5072
-"New Brunswick",1940-03-26,"General","19","Northumberland","Barry, John Patrick","Man","Lawyer","Independent Liberal","Defeated",2679
-"New Brunswick",1940-03-26,"General","19","Restigouche--Madawaska","Michaud, Joseph Enoil","Man","Barrister","Liberal Party of Canada","Elected",12164
-"New Brunswick",1940-03-26,"General","19","Restigouche--Madawaska","LEVASSEUR, Oscar","Man","Merchant","National Government","Defeated",5239
-"New Brunswick",1940-03-26,"General","19","Royal","Brooks, Alfred Johnson","Man","Barrister","National Government","Elected",8017
-"New Brunswick",1940-03-26,"General","19","Royal","WHITE, Donald V.","Man","Barrister","Liberal Party of Canada","Defeated",7196
-"New Brunswick",1940-03-26,"General","19","St. John--Albert","Hazen, Douglas King","Man","Barrister","National Government","Elected",15110
-"New Brunswick",1940-03-26,"General","19","St. John--Albert","McAvity, Allan Getchell","Man","Merchant","Liberal Party of Canada","Defeated",14197
-"New Brunswick",1940-03-26,"General","19","St. John--Albert","FRITCH, James Edward","Man","Salesman","Co-operative Commonwealth Federation","Defeated",761
-"New Brunswick",1940-03-26,"General","19","Victoria--Carleton","Hatfield, Heber Harold","Man","Produce merchant","National Government","Elected",7974
-"New Brunswick",1940-03-26,"General","19","Victoria--Carleton","MCCLUSKEY, Michael Francis","Man","Accountant","Liberal Party of Canada","Defeated",7283
-"New Brunswick",1940-03-26,"General","19","Westmorland","Emmerson, Henry Read","Man","Traveller","Liberal Party of Canada","Elected",16431
-"New Brunswick",1940-03-26,"General","19","Westmorland","MCMONAGLE, William Emmet","Man","Barrister","National Government","Defeated",10259
-"New Brunswick",1940-03-26,"General","19","York--Sunbury","Hanson, Richard Burpee","Man","Barrister","National Government","Elected",10352
-"New Brunswick",1940-03-26,"General","19","York--Sunbury","HUGHES, Peter J.","Man","Barrister","Liberal Party of Canada","Defeated",9908
-"Nova Scotia",1940-03-26,"General","19","Antigonish--Guysborough","Kirk, James Ralph","Man","Merchant","Liberal Party of Canada","Elected",7281
-"Nova Scotia",1940-03-26,"General","19","Antigonish--Guysborough","LANDRY, William Edward","Man","Contractor","National Government","Defeated",4610
-"Nova Scotia",1940-03-26,"General","19","Cape Breton North and Victoria","MacLean, Matthew","Man","Insurance agent","Liberal Party of Canada","Elected",6326
-"Nova Scotia",1940-03-26,"General","19","Cape Breton North and Victoria","Macdonald, John Michael","Man","Barrister","National Government","Defeated",5156
-"Nova Scotia",1940-03-26,"General","19","Cape Breton North and Victoria","WAY, Robert","Man","Clerk","Co-operative Commonwealth Federation","Defeated",2097
-"Nova Scotia",1940-03-26,"General","19","Cape Breton South","Gillis, Clarence","Man","Miner","Co-operative Commonwealth Federation","Elected",11582
-"Nova Scotia",1940-03-26,"General","19","Cape Breton South","Hartigan, David James","Man","Physician","Liberal Party of Canada","Defeated",11364
-"Nova Scotia",1940-03-26,"General","19","Cape Breton South","NUNN, Joseph Clyde","Man","Radio announcer","National Government","Defeated",9719
-"Nova Scotia",1940-03-26,"General","19","Colchester--Hants","Purdy, Gordon Timlin","Man","Lumberman","Liberal Party of Canada","Elected",12328
-"Nova Scotia",1940-03-26,"General","19","Colchester--Hants","Tremain, Hadley Brown","Man","Barrister","National Government","Defeated",10044
-"Nova Scotia",1940-03-26,"General","19","Cumberland","Black, Percy Chapman","Man","Businessman","National Government","Elected",8073
-"Nova Scotia",1940-03-26,"General","19","Cumberland","Cochrane, Kenneth Judson","Man","Shipbuilder","Liberal Party of Canada","Defeated",8061
-"Nova Scotia",1940-03-26,"General","19","Cumberland","DEMINGS, Guy Alton","Man","Miner","Co-operative Commonwealth Federation","Defeated",1403
-"Nova Scotia",1940-03-26,"General","19","Digby--Annapolis--Kings","Ilsley, James Lorimer","Man","Barrister","Liberal Party of Canada","Elected",15094
-"Nova Scotia",1940-03-26,"General","19","Digby--Annapolis--Kings","THOMAS, Hiram","Man","Farmer","National Government","Defeated",9518
-"Nova Scotia",1940-03-26,"General","19","Halifax","Macdonald, William Chisholm","Man","Barrister","Liberal Party of Canada","Elected",22089
-"Nova Scotia",1940-03-26,"General","19","Halifax","Isnor, Gordon Benjamin","Man","Merchant","Liberal Party of Canada","Elected",19398
-"Nova Scotia",1940-03-26,"General","19","Halifax","Donahoe, Richard Alphonsus","Man","Barrister","National Government","Defeated",18197
-"Nova Scotia",1940-03-26,"General","19","Halifax","SMITH, Charles B.","Man","Barrister","National Government","Defeated",18114
-"Nova Scotia",1940-03-26,"General","19","Halifax","Finn, Robert Emmett","Man","Barrister","Independent Liberal","Defeated",9217
-"Nova Scotia",1940-03-26,"General","19","Halifax","BORGFORD, Helgi I.S.","Man","Clergyman","Co-operative Commonwealth Federation","Defeated",1561
-"Nova Scotia",1940-03-26,"General","19","Inverness--Richmond","McGarry, Moses Elijah","Man","Physician","Liberal Party of Canada","Elected",9123
-"Nova Scotia",1940-03-26,"General","19","Inverness--Richmond","MacDougall, Isaac Duncan","Man","Journalist","National Government","Defeated",7069
-"Nova Scotia",1940-03-26,"General","19","Pictou","McCulloch, Henry Byron","Man","Merchant","Liberal Party of Canada","Elected",9983
-"Nova Scotia",1940-03-26,"General","19","Pictou","CAMERON, James M.","Man","Soldier","National Government","Defeated",8292
-"Nova Scotia",1940-03-26,"General","19","Pictou","MACMILLAN, Chad","Man","Clayworker","Independent","Defeated",615
-"Nova Scotia",1940-03-26,"General","19","Queens--Lunenburg","Kinley, John James","Man","Druggist","Liberal Party of Canada","Elected",10616
-"Nova Scotia",1940-03-26,"General","19","Queens--Lunenburg","LEVY, Robert Clifford","Man","Barrister","National Government","Defeated",7845
-"Nova Scotia",1940-03-26,"General","19","Queens--Lunenburg","VAN BUSKIRK, Claude","Man","Electrician","Co-operative Commonwealth Federation","Defeated",457
-"Nova Scotia",1940-03-26,"General","19","Shelburne--Yarmouth--Clare","Pottier, Vincent-Joseph","Man","Barrister","Liberal Party of Canada","Elected",10851
-"Nova Scotia",1940-03-26,"General","19","Shelburne--Yarmouth--Clare","WALKER, James Marven","Man","Merchant","National Government","Defeated",6569
-"Ontario",1940-03-26,"General","19","Algoma East","Farquhar, Thomas","Man","Farmer","Liberal Party of Canada","Elected",5565
-"Ontario",1940-03-26,"General","19","Algoma East","CAMPBELL, John Lorne","Man","Prospector","National Government","Defeated",3126
-"Ontario",1940-03-26,"General","19","Algoma East","MCVEY, J.W.","Man","Dispatcher","Co-operative Commonwealth Federation","Defeated",1635
-"Ontario",1940-03-26,"General","19","Algoma West","Nixon, George Ewart","Man","Merchant","Liberal Party of Canada","Elected",8632
-"Ontario",1940-03-26,"General","19","Algoma West","LANG, John L.","Man","Construction engineer","National Government","Defeated",5612
-"Ontario",1940-03-26,"General","19","Algoma West","WAITE, Harry P.","Man","Steelworker","Co-operative Commonwealth Federation","Defeated",2196
-"Ontario",1940-03-26,"General","19","Brant","Wood, George Ernest","Man","Farmer","Liberal Party of Canada","Elected",4657
-"Ontario",1940-03-26,"General","19","Brant","APPS, Charles Joseph Sylva","Man","Hockey player","National Government","Defeated",4519
-"Ontario",1940-03-26,"General","19","Brantford City","Macdonald, William Ross","Man","Barrister","Liberal Party of Canada","Elected",8013
-"Ontario",1940-03-26,"General","19","Brantford City","WILMOT, Charles Eardley","Man","Flying officer","National Government","Defeated",6312
-"Ontario",1940-03-26,"General","19","Brantford City","MATTHEWS, John Henry","Man","Stereotypist","Co-operative Commonwealth Federation","Defeated",1315
-"Ontario",1940-03-26,"General","19","Broadview","Church, Thomas Langton","Man","Barrister","National Government","Elected",14474
-"Ontario",1940-03-26,"General","19","Broadview","GRESSEWELL, George","Man","Manager","Liberal Party of Canada","Defeated",7866
-"Ontario",1940-03-26,"General","19","Broadview","GRUBE, George","Man","University professor","Co-operative Commonwealth Federation","Defeated",2613
-"Ontario",1940-03-26,"General","19","Bruce","Tomlinson, William Rae","Man","Barrister","Liberal Party of Canada","Elected",7420
-"Ontario",1940-03-26,"General","19","Bruce","SNIDER, Leigh H.","Man","Barrister","National Government","Defeated",5275
-"Ontario",1940-03-26,"General","19","Carleton","Hyndman, Alonzo Bowen","Man","Physician","National Government","Elected",7736
-"Ontario",1940-03-26,"General","19","Carleton","ARKELL, Herbert Samuel","Man","Farmer","Liberal Party of Canada","Defeated",6617
-"Ontario",1940-03-26,"General","19","Cochrane","Bradette, Joseph-Arthur","Man","Merchant","Liberal Party of Canada","Elected",16785
-"Ontario",1940-03-26,"General","19","Cochrane","CRUMB, Robert Whitney","Man","Electrician","National Government","Defeated",5652
-"Ontario",1940-03-26,"General","19","Danforth","Harris, Joseph Henry","Man","Manufacturer","Conservative (1867-1942)","Elected",11847
-"Ontario",1940-03-26,"General","19","Danforth","DUNCAN, Lewis","Man","Barrister","Liberal Party of Canada","Defeated",8946
-"Ontario",1940-03-26,"General","19","Davenport","MacNicol, John Ritchie","Man","Retired","National Government","Elected",14890
-"Ontario",1940-03-26,"General","19","Davenport","CAMERON, Neil","Man","General manager","Liberal Party of Canada","Defeated",11140
-"Ontario",1940-03-26,"General","19","Dufferin--Simcoe","Rowe, William Earl","Man","Farmer","National Government","Elected",6527
-"Ontario",1940-03-26,"General","19","Dufferin--Simcoe","GILMORE, Andrew Parr","Man","Farmer","Liberal Progressive","Defeated",4226
-"Ontario",1940-03-26,"General","19","Durham","Rickard, Wilbert Franklin (Frank)","Man","Farmer","Liberal Party of Canada","Elected",6743
-"Ontario",1940-03-26,"General","19","Durham","STRIKE, William Ross","Man","Barrister","National Government","Defeated",5435
-"Ontario",1940-03-26,"General","19","Eglinton","Hoblitzell, Frederick George","Man","Managing director","Liberal Party of Canada","Elected",17166
-"Ontario",1940-03-26,"General","19","Eglinton","Baker, Richard Langton","Man","Manufacturer","National Government","Defeated",16926
-"Ontario",1940-03-26,"General","19","Elgin","Mills, Wilson Henry","Man","Farmer and apple grower","Liberal Party of Canada","Elected",11867
-"Ontario",1940-03-26,"General","19","Elgin","MARTIN, Norman Roy","Man","Farmer","National Government","Defeated",8905
-"Ontario",1940-03-26,"General","19","Essex East","Martin, Paul Joseph James","Man","Barrister","Liberal Party of Canada","Elected",9811
-"Ontario",1940-03-26,"General","19","Essex East","Morand, Raymond Ducharme","Man","Physician","National Government","Defeated",8060
-"Ontario",1940-03-26,"General","19","Essex East","LEVERT, Joseph Ben","Man","Nurseryman","Co-operative Commonwealth Federation","Defeated",2879
-"Ontario",1940-03-26,"General","19","Essex East","HICKS, Roy Robert","Man","Manufacturer","Canadian Labour","Defeated",398
-"Ontario",1940-03-26,"General","19","Essex South","Clark, Stuart Murray","Man","General manager","Liberal Party of Canada","Elected",7624
-"Ontario",1940-03-26,"General","19","Essex South","BRUNER, Albert Leonard","Man","Farmer","National Government","Defeated",5457
-"Ontario",1940-03-26,"General","19","Essex West","McLarty, Norman Alexander","Man","Barrister","Liberal Party of Canada","Elected",14133
-"Ontario",1940-03-26,"General","19","Essex West","REAUME, Arthur John","Man","Insurance agent","National Government","Defeated",12940
-"Ontario",1940-03-26,"General","19","Essex West","JOYCE, Frederick Joseph","Man","Auto worker","Co-operative Commonwealth Federation","Defeated",2035
-"Ontario",1940-03-26,"General","19","Fort William","McIvor, Daniel (Dan)","Man","Clergyman","Liberal Party of Canada","Elected",8504
-"Ontario",1940-03-26,"General","19","Fort William","Manion, Robert James","Man","Physician","National Government","Defeated",6768
-"Ontario",1940-03-26,"General","19","Fort William","ANDERSON, Garfield","Man","Barber","Co-operative Commonwealth Federation","Defeated",1778
-"Ontario",1940-03-26,"General","19","Frontenac--Addington","Aylesworth, Wilbert Ross","Man","Farmer","National Government","Elected",6154
-"Ontario",1940-03-26,"General","19","Frontenac--Addington","McCallum, Angus Neil","Man","Farmer","Liberal Party of Canada","Defeated",6028
-"Ontario",1940-03-26,"General","19","Glengarry","MacDiarmid, William Burton","Man","Physician","Liberal Party of Canada","Elected",4578
-"Ontario",1940-03-26,"General","19","Glengarry","MacRae, John David","Man","Merchant","National Government","Defeated",2813
-"Ontario",1940-03-26,"General","19","Greenwood","Massey, Denton","Man","Anglican minister","National Government","Elected",14710
-"Ontario",1940-03-26,"General","19","Greenwood","REILLY, Thomas","Man","Investment broker","Liberal Party of Canada","Defeated",7397
-"Ontario",1940-03-26,"General","19","Greenwood","LEAVENS, Bertram E.","Man",NA,"Co-operative Commonwealth Federation","Defeated",3430
-"Ontario",1940-03-26,"General","19","Grenville--Dundas","Casselman, Arza Clair","Man","Lawyer","National Government","Elected",7225
-"Ontario",1940-03-26,"General","19","Grenville--Dundas","TAUGHER, William John","Man","Physician","Liberal Party of Canada","Defeated",5642
-"Ontario",1940-03-26,"General","19","Grey North","Telford, William Pattison","Man","Lawyer","Liberal Party of Canada","Elected",7538
-"Ontario",1940-03-26,"General","19","Grey North","Porteous, Victor Clarence","Man","Farmer","National Government","Defeated",5771
-"Ontario",1940-03-26,"General","19","Grey North","Case, Wilfrid Garfield","Man","Insurance manager","National Liberal Progressive","Defeated",2434
-"Ontario",1940-03-26,"General","19","Grey--Bruce","Harris, Walter Edward","Man","Lawyer","Liberal Party of Canada","Elected",6389
-"Ontario",1940-03-26,"General","19","Grey--Bruce","KNECHTEL, Karl Daniel","Man","Manufacturer","National Government","Defeated",4944
-"Ontario",1940-03-26,"General","19","Grey--Bruce","Macphail, Agnes Campbell","Woman","Schoolteacher","United Farmers of Ontario-Labour","Defeated",4761
-"Ontario",1940-03-26,"General","19","Haldimand","Senn, Mark Cecil","Man","Merchant","Conservative (1867-1942)","Elected",5515
-"Ontario",1940-03-26,"General","19","Haldimand","MACAULAY, Basil North","Man","Physician","Liberal Party of Canada","Defeated",4712
-"Ontario",1940-03-26,"General","19","Halton","Cleaver, Hughes","Man","Lawyer","Liberal Party of Canada","Elected",7788
-"Ontario",1940-03-26,"General","19","Halton","ATKINS, George C.","Man",NA,"National Government","Defeated",6184
-"Ontario",1940-03-26,"General","19","Hamilton East","Ross, Thomas Hambly","Man","Insurance broker","Liberal Party of Canada","Elected",14053
-"Ontario",1940-03-26,"General","19","Hamilton East","Brown, Albert A.","Man","Barrister","National Government","Defeated",11716
-"Ontario",1940-03-26,"General","19","Hamilton East","AINDOW, Roy","Man","Steelworker","Co-operative Commonwealth Federation","Defeated",3190
-"Ontario",1940-03-26,"General","19","Hamilton East","MACLEOD, John D.","Man","Secretary","Communist Party of Canada","Defeated",695
-"Ontario",1940-03-26,"General","19","Hamilton West","Gibson, Colin William George","Man","Lawyer","Liberal Party of Canada","Elected",13965
-"Ontario",1940-03-26,"General","19","Hamilton West","Marsh, John Allmond","Man","Business executive","National Government","Defeated",11032
-"Ontario",1940-03-26,"General","19","Hastings South","Stokes, George Henry","Man","Valuator","National Government","Elected",9001
-"Ontario",1940-03-26,"General","19","Hastings South","HAIG, McLean","Man","Insurance broker","Liberal Party of Canada","Defeated",6330
-"Ontario",1940-03-26,"General","19","Hastings South","CORY, Harry Raymond","Man","Broker","Independent Liberal","Defeated",3348
-"Ontario",1940-03-26,"General","19","Hastings--Peterborough","White, George Stanley","Man","Lawyer","National Government","Elected",5471
-"Ontario",1940-03-26,"General","19","Hastings--Peterborough","Ferguson, Rork Scott","Man","Farmer","Liberal Party of Canada","Defeated",5207
-"Ontario",1940-03-26,"General","19","High Park","Anderson, Alexander James","Man","Lawyer","National Government","Elected",12266
-"Ontario",1940-03-26,"General","19","High Park","Cameron, Alan John Patrick","Man","Barrister","Liberal Party of Canada","Defeated",12061
-"Ontario",1940-03-26,"General","19","High Park","COBURN, Carroll Langford","Man","Journalist","Co-operative Commonwealth Federation","Defeated",1777
-"Ontario",1940-03-26,"General","19","Huron North","Cardiff, Lewis Elston","Man","Farmer","National Government","Elected",5937
-"Ontario",1940-03-26,"General","19","Huron North","Deachman, Robert John","Man","Journalist","Liberal Party of Canada","Defeated",5897
-"Ontario",1940-03-26,"General","19","Huron--Perth","Golding, William Henry","Man","Machinist","Liberal Party of Canada","Elected",5622
-"Ontario",1940-03-26,"General","19","Huron--Perth","MORLEY, James Wilson","Man","Barrister","National Government","Defeated",3472
-"Ontario",1940-03-26,"General","19","Kenora--Rainy River","McKinnon, Hugh Bathgate","Man","Locomotive engineer","Liberal Party of Canada","Elected",10595
-"Ontario",1940-03-26,"General","19","Kenora--Rainy River","DEAN, John Albert","Man","Dental surgeon","National Government","Defeated",5286
-"Ontario",1940-03-26,"General","19","Kenora--Rainy River","IVENS, William","Man","Chiropractor","Co-operative Commonwealth Federation","Defeated",3173
-"Ontario",1940-03-26,"General","19","Kent","Desmond, Clayton Earl","Man","Farmer","National Government","Elected",11629
-"Ontario",1940-03-26,"General","19","Kent","Thompson, Arthur Lisle","Man","Implement agent","Liberal Party of Canada","Defeated",10945
-"Ontario",1940-03-26,"General","19","Kingston City","Rogers, Norman McLeod","Man","Teacher","Liberal Party of Canada","Elected",9609
-"Ontario",1940-03-26,"General","19","Kingston City","Kidd, Thomas Ashmore","Man","Manufacturer","National Government","Defeated",7475
-"Ontario",1940-03-26,"General","19","Lambton West","Gray, Ross Wilfred","Man","Barrister","Liberal Party of Canada","Elected",8671
-"Ontario",1940-03-26,"General","19","Lambton West","KENNY, William Howard","Man","Manager","National Government","Defeated",7864
-"Ontario",1940-03-26,"General","19","Lambton--Kent","MacKenzie, Hugh Alexander","Man","Farmer","Liberal Progressive","Elected",8834
-"Ontario",1940-03-26,"General","19","Lambton--Kent","STONEHOUSE, Calvert Stanley","Man","Merchant","National Government","Defeated",6089
-"Ontario",1940-03-26,"General","19","Lanark","Soper, Bert H.","Man","Merchant","Liberal Party of Canada","Elected",8821
-"Ontario",1940-03-26,"General","19","Lanark","Thompson, Thomas Alfred","Man","Retired farmer","National Government","Defeated",7180
-"Ontario",1940-03-26,"General","19","Leeds","Fulford, George Taylor","Man","Manufacturer","Liberal Party of Canada","Elected",10322
-"Ontario",1940-03-26,"General","19","Leeds","Stewart, Hugh Alexander","Man","Barrister","National Government","Defeated",8227
-"Ontario",1940-03-26,"General","19","Lincoln","Lockhart, Norman James Macdonald","Man","Merchant","National Government","Elected",13331
-"Ontario",1940-03-26,"General","19","Lincoln","Bench, John Joseph","Man","Barrister","Liberal Party of Canada","Defeated",12921
-"Ontario",1940-03-26,"General","19","Lincoln","SCOTT, John","Man","Millwright","Co-operative Commonwealth Federation","Defeated",2443
-"Ontario",1940-03-26,"General","19","London","Johnston, Joseph Allan","Man","Merchant","Liberal Party of Canada","Elected",15824
-"Ontario",1940-03-26,"General","19","London","KINGSMILL, Thomas Ford","Man","Merchant","National Government","Defeated",12534
-"Ontario",1940-03-26,"General","19","London","HALL, Everett Orlan","Man","Teacher","Co-operative Commonwealth Federation","Defeated",3762
-"Ontario",1940-03-26,"General","19","Middlesex East","Ross, Duncan Graham","Man","Merchant","Liberal Party of Canada","Elected",8444
-"Ontario",1940-03-26,"General","19","Middlesex East","FULLER, Frederick George","Man",NA,"National Government","Defeated",6256
-"Ontario",1940-03-26,"General","19","Middlesex East","DICKIE, Kenneth Elson","Man","Farmer","Co-operative Commonwealth Federation","Defeated",1577
-"Ontario",1940-03-26,"General","19","Middlesex West","McCubbin, Robert","Man","Farmer","Liberal Party of Canada","Elected",6024
-"Ontario",1940-03-26,"General","19","Middlesex West","FREELE, Lloyd Wm. M.","Man","Physician","National Government","Defeated",3886
-"Ontario",1940-03-26,"General","19","Muskoka--Ontario","Furniss, Stephen Joseph","Man","Farmer","Liberal Party of Canada","Elected",8098
-"Ontario",1940-03-26,"General","19","Muskoka--Ontario","PROWSE, Norman Everrit","Man","Township clerk","National Government","Defeated",7016
-"Ontario",1940-03-26,"General","19","Nipissing","Hurtubise, Joseph Raoul","Man","Physician","Liberal Party of Canada","Elected",26916
-"Ontario",1940-03-26,"General","19","Nipissing","LAROCQUE, Onésime","Man","Farmer","National Government","Defeated",11229
-"Ontario",1940-03-26,"General","19","Norfolk","Taylor, William Horace","Man","Farmer","Liberal Party of Canada","Elected",9230
-"Ontario",1940-03-26,"General","19","Norfolk","PRATT, Arthur Clarence","Man","Fruit grower","National Government","Defeated",5894
-"Ontario",1940-03-26,"General","19","Northumberland","Fraser, William Alexander","Man","Manufacturer and farmer","Liberal Party of Canada","Elected",8194
-"Ontario",1940-03-26,"General","19","Northumberland","BONE, Jamieson","Man","Manufacturer","National Government","Defeated",7241
-"Ontario",1940-03-26,"General","19","Ontario","Moore, William Henry","Man","Farmer","Liberal Party of Canada","Elected",12176
-"Ontario",1940-03-26,"General","19","Ontario","NEWMAN, Harry Allen","Man","Farmer","National Government","Defeated",7914
-"Ontario",1940-03-26,"General","19","Ottawa East","Pinard, Joseph Albert","Man","Manufacturer's agent","Liberal Party of Canada","Elected",12373
-"Ontario",1940-03-26,"General","19","Ottawa East","CHARTRAND, Aurèle","Man","Barrister","Independent Liberal","Defeated",10526
-"Ontario",1940-03-26,"General","19","Ottawa East","SEGUIN, Charles-Avila","Man","Barrister","National Government","Defeated",6149
-"Ontario",1940-03-26,"General","19","Ottawa West","McIlraith, George James","Man","Barrister","Liberal Party of Canada","Elected",27460
-"Ontario",1940-03-26,"General","19","Ottawa West","LEGGETT, Theodore Howell","Man","Physician","National Government","Defeated",19780
-"Ontario",1940-03-26,"General","19","Oxford","Rennie, Almon Secord","Man","Gentleman","Liberal Party of Canada","Elected",10975
-"Ontario",1940-03-26,"General","19","Oxford","MILTON, Charles Thomas","Man","Farmer","National Government","Defeated",8325
-"Ontario",1940-03-26,"General","19","Parkdale","Bruce, Herbert Alexander","Man","Surgeon","National Government","Elected",13605
-"Ontario",1940-03-26,"General","19","Parkdale","TRAVERS, Jack","Man","Printer","Liberal Party of Canada","Defeated",12487
-"Ontario",1940-03-26,"General","19","Parry Sound","Slaght, Arthur Graeme","Man","Barrister","Liberal Party of Canada","Elected",5850
-"Ontario",1940-03-26,"General","19","Parry Sound","MCLEAN, A.Coulter","Man","Mining developer","National Government","Defeated",4159
-"Ontario",1940-03-26,"General","19","Parry Sound","CULBERT, Clarence E.","Man","Service station proprietor","New Democratic Party","Defeated",786
-"Ontario",1940-03-26,"General","19","Peel","Graydon, Gordon","Man","Barrister","National Government","Elected",8486
-"Ontario",1940-03-26,"General","19","Peel","FARR, George R.","Man","Automobile dealer","Liberal Party of Canada","Defeated",7638
-"Ontario",1940-03-26,"General","19","Perth","Sanderson, Frederick George","Man","Agent","Liberal Party of Canada","Elected",12926
-"Ontario",1940-03-26,"General","19","Perth","MURRAY, John","Man","Barrister","National Government","Defeated",8451
-"Ontario",1940-03-26,"General","19","Peterborough West","Fraser, Gordon Knapman","Man","Gentleman","National Government","Elected",9683
-"Ontario",1940-03-26,"General","19","Peterborough West","GLOVER, Roland Maxwell","Man","Alderman","Liberal Party of Canada","Defeated",9505
-"Ontario",1940-03-26,"General","19","Port Arthur","Howe, Clarence Decatur","Man","Civil engineer","Liberal Party of Canada","Elected",10327
-"Ontario",1940-03-26,"General","19","Port Arthur","BARTON, Alan A.","Man","Mine manager","National Government","Defeated",5213
-"Ontario",1940-03-26,"General","19","Port Arthur","GIBSON, Alexander","Man","Paper maker","Co-operative Commonwealth Federation","Defeated",3128
-"Ontario",1940-03-26,"General","19","Prescott","Bertrand, Elie-Oscar","Man","Merchant","Liberal Party of Canada","Elected",6431
-"Ontario",1940-03-26,"General","19","Prescott","MAISONNEUVE, Léandre","Man","Merchant","Independent Liberal","Defeated",2028
-"Ontario",1940-03-26,"General","19","Prescott","TIERNEY, Parnell","Man","Clerk","National Government","Defeated",1819
-"Ontario",1940-03-26,"General","19","Prince Edward--Lennox","Tustin, George James","Man","Merchant","National Government","Elected",6574
-"Ontario",1940-03-26,"General","19","Prince Edward--Lennox","WEESE, Howard","Man","Farmer","Liberal Party of Canada","Defeated",5906
-"Ontario",1940-03-26,"General","19","Renfrew North","Warren, Ralph Melville","Man","Farmer","Liberal Party of Canada","Elected",6199
-"Ontario",1940-03-26,"General","19","Renfrew North","WOOD, Edgar Troy","Man","Physician","National Government","Defeated",4536
-"Ontario",1940-03-26,"General","19","Renfrew North","VONDETTE, Delmar","Man","Labourer","Co-operative Commonwealth Federation","Defeated",709
-"Ontario",1940-03-26,"General","19","Renfrew South","McCann, James Joseph","Man","Physician","Liberal Party of Canada","Elected",6228
-"Ontario",1940-03-26,"General","19","Renfrew South","Maloney, Martin James","Man","Physician","Conservative (1867-1942)","Defeated",5236
-"Ontario",1940-03-26,"General","19","Rosedale","Jackman, Harry Rutherford","Man","Manager","National Government","Elected",12519
-"Ontario",1940-03-26,"General","19","Rosedale","SHANNON, J. Louis","Man","Barrister","Liberal Party of Canada","Defeated",10399
-"Ontario",1940-03-26,"General","19","Rosedale","DYMOND, Norah","Woman","Housewife","Co-operative Commonwealth Federation","Defeated",991
-"Ontario",1940-03-26,"General","19","Russell","Goulet, Alfred","Man","Merchant","Liberal Party of Canada","Elected",6045
-"Ontario",1940-03-26,"General","19","Russell","CAILLIER, Frederick A.","Man","Station agent","National Government","Defeated",2961
-"Ontario",1940-03-26,"General","19","Simcoe East","McLean, George Alexander","Man","Insurance agent","Liberal Party of Canada","Elected",8470
-"Ontario",1940-03-26,"General","19","Simcoe East","SMITH, Oliver Hereford","Man","Barrister","National Government","Defeated",7024
-"Ontario",1940-03-26,"General","19","Simcoe North","McCuaig, Duncan Fletcher","Man","Barrister","Liberal Party of Canada","Elected",7096
-"Ontario",1940-03-26,"General","19","Simcoe North","BROCK, Frederick Aylsworth","Man","Contractor","National Government","Defeated",6030
-"Ontario",1940-03-26,"General","19","Spadina","Factor, Samuel","Man","Barrister","Liberal Party of Canada","Elected",20506
-"Ontario",1940-03-26,"General","19","Spadina","BLACKSTOCK, George Gooderham","Man","Mining executive","National Government","Defeated",14148
-"Ontario",1940-03-26,"General","19","Spadina","SMITH, Stewart","Man","Editor","Communist Party of Canada","Defeated",2922
-"Ontario",1940-03-26,"General","19","St. Paul's","Ross, Douglas Gooderham","Man","Insurance broker","National Government","Elected",15591
-"Ontario",1940-03-26,"General","19","St. Paul's","Rooney, James Hendrick","Man","Accountant","Liberal Party of Canada","Defeated",14816
-"Ontario",1940-03-26,"General","19","Stormont","Chevrier, Lionel","Man","Barrister","Liberal Party of Canada","Elected",10197
-"Ontario",1940-03-26,"General","19","Stormont","EMARD, Elzéar","Man","Physician","National Government","Defeated",6202
-"Ontario",1940-03-26,"General","19","Timiskaming","Little, Walter","Man","Dealer","Liberal Party of Canada","Elected",10455
-"Ontario",1940-03-26,"General","19","Timiskaming","O'MEARA, Gerald Daniel","Man","Barrister","Liberal Party of Canada","Defeated",4906
-"Ontario",1940-03-26,"General","19","Timiskaming","HILL, Walter John","Man","Car inspector","Co-operative Commonwealth Federation","Defeated",2481
-"Ontario",1940-03-26,"General","19","Timiskaming","SWIFT, Albert Edward","Man","Miner","Unknown","Defeated",110
-"Ontario",1940-03-26,"General","19","Trinity","Roebuck, Arthur Wentworth","Man","Barrister","Liberal Party of Canada","Elected",14901
-"Ontario",1940-03-26,"General","19","Trinity","Geary, George Reginald","Man","Barrister","National Government","Defeated",11617
-"Ontario",1940-03-26,"General","19","Trinity","STEWART, Douglas","Man","Business manager","Independent","Defeated",1071
-"Ontario",1940-03-26,"General","19","Victoria","McNevin, Thomas Bruce","Man","Farmer","Liberal Party of Canada","Elected",8499
-"Ontario",1940-03-26,"General","19","Victoria","MACALPINE, C.D.H.","Man","Manager","National Government","Defeated",7422
-"Ontario",1940-03-26,"General","19","Waterloo North","Euler, William Daum","Man","Publisher","Liberal Party of Canada","Elected",14172
-"Ontario",1940-03-26,"General","19","Waterloo North","LEAVINE, Stanley Francis","Man","Physician","National Government","Defeated",6694
-"Ontario",1940-03-26,"General","19","Waterloo North","HONSBERGER, Enoch","Man","Lumber merchant","Co-operative Commonwealth Federation","Defeated",1597
-"Ontario",1940-03-26,"General","19","Waterloo South","Homuth, Karl Kenneth","Man","Manufacturer","National Government","Elected",7432
-"Ontario",1940-03-26,"General","19","Waterloo South","Towle, Kerry","Man","Barrister","Liberal Party of Canada","Defeated",6975
-"Ontario",1940-03-26,"General","19","Waterloo South","LATSCH, Vardon Stanley","Man","Salesman","Co-operative Commonwealth Federation","Defeated",1549
-"Ontario",1940-03-26,"General","19","Welland","Damude, Arthur Byron","Man","Insurance agent","Liberal Party of Canada","Elected",19132
-"Ontario",1940-03-26,"General","19","Welland","BROOKS, Allan","Man","Barrister","National Government","Defeated",14491
-"Ontario",1940-03-26,"General","19","Welland","WOODWORTH, Ernest","Man","Printer","Co-operative Commonwealth Federation","Defeated",2818
-"Ontario",1940-03-26,"General","19","Wellington North","Blair, John Knox","Man","Physician","Liberal Party of Canada","Elected",5748
-"Ontario",1940-03-26,"General","19","Wellington North","Menary, Lewis","Man","Merchant","National Government","Defeated",4266
-"Ontario",1940-03-26,"General","19","Wellington South","Gladstone, Robert William","Man","Gentleman","Liberal Party of Canada","Elected",8115
-"Ontario",1940-03-26,"General","19","Wellington South","AUSTEN, Charles Leroy","Man","Manufacturer","Independent","Defeated",5073
-"Ontario",1940-03-26,"General","19","Wellington South","Oliver, John E.","Man","Railway employee","National Government","Defeated",4121
-"Ontario",1940-03-26,"General","19","Wentworth","Corman, Ellis Hopkins","Man","Fruit grower","Liberal Party of Canada","Elected",15714
-"Ontario",1940-03-26,"General","19","Wentworth","Lennard, Frank Exton","Man","Textile dyer","National Government","Defeated",14949
-"Ontario",1940-03-26,"General","19","York East","McGregor, Robert Henry","Man","Contractor","National Government","Elected",16741
-"Ontario",1940-03-26,"General","19","York East","IRWIN, Robert Allan","Man","Accountant","Liberal Party of Canada","Defeated",12429
-"Ontario",1940-03-26,"General","19","York East","JOLLIFFE, Edward Bigelow","Man","Barrister","Co-operative Commonwealth Federation","Defeated",4931
-"Ontario",1940-03-26,"General","19","York North","Mulock, William Pate","Man","Lawyer","Liberal Party of Canada","Elected",10653
-"Ontario",1940-03-26,"General","19","York North","DIX, George M.","Man","Clergyman","National Government","Defeated",8829
-"Ontario",1940-03-26,"General","19","York South","Cockeram, Alan","Man","Secretary","National Government","Elected",15346
-"Ontario",1940-03-26,"General","19","York South","MACRAE, F.J.","Man","Barrister","Liberal Party of Canada","Defeated",12864
-"Ontario",1940-03-26,"General","19","York South","Noseworthy, Joseph William","Man","Teacher","Co-operative Commonwealth Federation","Defeated",5372
-"Ontario",1940-03-26,"General","19","York West","Adamson, Agar Rodney","Man","Mining engineer","Conservative (1867-1942)","Elected",12788
-"Ontario",1940-03-26,"General","19","York West","BENNETT, Chris. J.","Man","Contractor","Liberal Party of Canada","Defeated",12117
-"Ontario",1940-03-26,"General","19","York West","Lewis, David","Man","Barrister","Co-operative Commonwealth Federation","Defeated",3787
-"Prince Edward Island",1940-03-26,"General","19","King's","Grant, Thomas Vincent","Man","Physician","Liberal Party of Canada","Elected",4997
-"Prince Edward Island",1940-03-26,"General","19","King's","MCDONALD, Augustine Adolphus","Man","Physician","National Government","Defeated",4081
-"Prince Edward Island",1940-03-26,"General","19","Prince","Ralston, James Layton","Man","Barrister","Liberal Party of Canada","Elected",8745
-"Prince Edward Island",1940-03-26,"General","19","Prince","MACPHEE, John Adolphus","Man","Physician","National Government","Defeated",5767
-"Prince Edward Island",1940-03-26,"General","19","Queen's","Macmillan, Cyrus","Man","Educationalist","Liberal Party of Canada","Elected",10511
-"Prince Edward Island",1940-03-26,"General","19","Queen's","Douglas, James Lester","Man","Produce exporter","Liberal Party of Canada","Elected",10411
-"Prince Edward Island",1940-03-26,"General","19","Queen's","HYNDMAN, John Orlebar","Man","Insurance broker","National Government","Defeated",9206
-"Prince Edward Island",1940-03-26,"General","19","Queen's","McLure, Winfield Chester Scott","Man","Broker","National Government","Defeated",8974
-"Quebec",1940-03-26,"General","19","Argenteuil","McGibbon, James Wright","Man","Lumber merchant","Liberal Party of Canada","Elected",5629
-"Quebec",1940-03-26,"General","19","Argenteuil","Héon, Georges-Henri","Man","Lawyer","National Government","Defeated",3763
-"Quebec",1940-03-26,"General","19","Beauce","Lacroix, Édouard","Man","Lumber merchant","Liberal Party of Canada","Elected",12482
-"Quebec",1940-03-26,"General","19","Beauce","POULIN, Josaphat","Man","Insurance agent","National Government","Defeated",3142
-"Quebec",1940-03-26,"General","19","Beauharnois--Laprairie","Raymond, Maxime","Man","Lawyer","Liberal Party of Canada","Elected",11244
-"Quebec",1940-03-26,"General","19","Beauharnois--Laprairie","ROY, Hormisdas","Man","Merchant","National Government","Defeated",3471
-"Quebec",1940-03-26,"General","19","Bellechasse","Picard, Louis-Philippe","Man","Lawyer","Liberal Party of Canada","Elected",6585
-"Quebec",1940-03-26,"General","19","Bellechasse","MORRISSETTE, Edouard","Man","Accountant","Unknown","Defeated",2366
-"Quebec",1940-03-26,"General","19","Berthier--Maskinongé","Ferron, J. Émile","Man","Lawyer","Liberal Party of Canada","Elected",10119
-"Quebec",1940-03-26,"General","19","Berthier--Maskinongé","Barrette, Joseph Arthur","Man","Notary","National Government","Defeated",3323
-"Quebec",1940-03-26,"General","19","Bonaventure","Poirier, Joseph Alphée","Man","Poultry farmer","Liberal Party of Canada","Elected",9446
-"Quebec",1940-03-26,"General","19","Bonaventure","Arsenault, Bona","Man","Journalist","National Government","Defeated",5741
-"Quebec",1940-03-26,"General","19","Brome--Missisquoi","Hallé, Maurice","Man","Farmer","Liberal Party of Canada","Elected",8302
-"Quebec",1940-03-26,"General","19","Brome--Missisquoi","MURPHY, Daniel James","Man","Farmer","National Government","Defeated",2647
-"Quebec",1940-03-26,"General","19","Cartier","Bercovitch, Peter","Man","Lawyer","Liberal Party of Canada","Elected",18191
-"Quebec",1940-03-26,"General","19","Cartier","AINEY, Arthur","Man","Painter","National Labour","Defeated",2354
-"Quebec",1940-03-26,"General","19","Chambly--Rouville","Dupuis, Vincent","Man","Lawyer","Liberal Party of Canada","Elected",11964
-"Quebec",1940-03-26,"General","19","Chambly--Rouville","PENVERNE, Jean-Joseph","Man","Lawyer","National Government","Defeated",5761
-"Quebec",1940-03-26,"General","19","Chambly--Rouville","MENARD, Joseph","Man","Insurance agent","Independent Conservative","Defeated",567
-"Quebec",1940-03-26,"General","19","Champlain","Brunelle, Hervé-Edgar","Man","Lawyer","Liberal Party of Canada","Elected",9546
-"Quebec",1940-03-26,"General","19","Champlain","BAILLY, Rodrigue","Man","Merchant","National Government","Defeated",5090
-"Quebec",1940-03-26,"General","19","Chapleau","Authier, Hector","Man","Lawyer","Liberal Party of Canada","Elected",9402
-"Quebec",1940-03-26,"General","19","Chapleau","TURGEON, J.-Alphonse","Man","Accountant","National Government","Defeated",3073
-"Quebec",1940-03-26,"General","19","Charlevoix--Saguenay","Casgrain, Pierre-François","Man","Lawyer","Liberal Party of Canada","Elected",14336
-"Quebec",1940-03-26,"General","19","Charlevoix--Saguenay","CIMON, Antoine","Man","Lawyer","National Government","Defeated",5928
-"Quebec",1940-03-26,"General","19","Châteauguay--Huntingdon","Black, Donald Elmer","Man","Farmer","Liberal Party of Canada","Elected",5773
-"Quebec",1940-03-26,"General","19","Châteauguay--Huntingdon","ROBINSON, James Albert","Man","Farmer","National Government","Defeated",2047
-"Quebec",1940-03-26,"General","19","Chicoutimi","Dubuc, Julien-Édouard-Alfred","Man","Manufacturer","Liberal Party of Canada","Elected",8693
-"Quebec",1940-03-26,"General","19","Chicoutimi","DUMAS, François-Albert","Man","Physician","National Government","Defeated",8330
-"Quebec",1940-03-26,"General","19","Chicoutimi","BOIVIN, Eudore","Man","Lawyer","Independent Liberal","Defeated",5390
-"Quebec",1940-03-26,"General","19","Compton","Blanchette, Joseph-Adéodat","Man","Merchant","Liberal Party of Canada","Elected",8012
-"Quebec",1940-03-26,"General","19","Compton","LAFOREST, Joseph-Alfred","Man","Lawyer","National Government","Defeated",1623
-"Quebec",1940-03-26,"General","19","Dorchester","Tremblay, Léonard-David Sweezey","Man","Journalist","Liberal Party of Canada","Elected",5573
-"Quebec",1940-03-26,"General","19","Dorchester","O'FARREL, Emmett","Man","Lawyer","Independent","Defeated",4721
-"Quebec",1940-03-26,"General","19","Drummond--Arthabaska","Cloutier, Armand","Man","Paymaster","Liberal Party of Canada","Elected",12145
-"Quebec",1940-03-26,"General","19","Drummond--Arthabaska","GARON, Joseph","Man","Physician","Independent Liberal","Defeated",10853
-"Quebec",1940-03-26,"General","19","Gaspé","Roy, Joseph Sasseville","Man","Agent","Independent Conservative","Elected",8371
-"Quebec",1940-03-26,"General","19","Gaspé","Brasset, Maurice","Man","Lawyer","Liberal Party of Canada","Defeated",8162
-"Quebec",1940-03-26,"General","19","Gaspé","Langlois, J. G. Léopold","Man","Lawyer","Independent Liberal","Defeated",4437
-"Quebec",1940-03-26,"General","19","Hochelaga","Eudes, Raymond Pierre","Man","Lawyer","Liberal Party of Canada","Elected",16849
-"Quebec",1940-03-26,"General","19","Hochelaga","CHAUVIN, Jean-Paul","Man","Contractor","Independent Liberal","Defeated",9172
-"Quebec",1940-03-26,"General","19","Hochelaga","DUBEAU, Achille","Man","Contractor","National Government","Defeated",4049
-"Quebec",1940-03-26,"General","19","Hochelaga","THIBAULT, Richard","Man","Insurance agent","Independent Liberal","Defeated",1230
-"Quebec",1940-03-26,"General","19","Hull","Fournier, Alphonse","Man","Lawyer","Liberal Party of Canada","Elected",11253
-"Quebec",1940-03-26,"General","19","Hull","TURPIN, Armand","Man","Superintendent","New Democracy","Defeated",7083
-"Quebec",1940-03-26,"General","19","Hull","LAMBERT, Théodore","Man","Contractor","Labour","Defeated",3916
-"Quebec",1940-03-26,"General","19","Jacques Cartier","Marier, Elphège","Man","Lawyer","Liberal Party of Canada","Elected",11755
-"Quebec",1940-03-26,"General","19","Jacques Cartier","BARRE, Charles-Stanislas-Victorien","Man","Lawyer","National Government","Defeated",4028
-"Quebec",1940-03-26,"General","19","Joliette--l'Assomption--Montcalm","Ferland, Charles-Édouard","Man","Lawyer","Liberal Party of Canada","Elected",14112
-"Quebec",1940-03-26,"General","19","Joliette--l'Assomption--Montcalm","LAVALLÉE, Julien","Man","Merchant","National Government","Defeated",3430
-"Quebec",1940-03-26,"General","19","Kamouraska","Lizotte, Louis Philippe","Man","Lawyer","Liberal Party of Canada","Elected",6965
-"Quebec",1940-03-26,"General","19","Kamouraska","MICHAUD, Thomas-W.","Man","Physician","National Government","Defeated",2099
-"Quebec",1940-03-26,"General","19","Labelle","Lalonde, Maurice","Man","Lawyer","Liberal Party of Canada","Elected",8797
-"Quebec",1940-03-26,"General","19","Labelle","LORRAIN, Lévis","Man","Journalist","Independent","Defeated",5909
-"Quebec",1940-03-26,"General","19","Lake St-John--Roberval","Sylvestre, Armand","Man","Lawyer","Liberal Party of Canada","Elected",10057
-"Quebec",1940-03-26,"General","19","Lake St-John--Roberval","Duguay, Joseph Léonard","Man","Dentist","National Government","Defeated",6895
-"Quebec",1940-03-26,"General","19","Lake St-John--Roberval","EVEN, Louis","Man","Publicist","New Democracy","Defeated",3698
-"Quebec",1940-03-26,"General","19","Lake St-John--Roberval","DUMOULIN, Joseph-O.","Man","Manager","Independent Liberal","Defeated",717
-"Quebec",1940-03-26,"General","19","Laurier","Bertrand, Ernest","Man","Lawyer","Liberal Party of Canada","Elected",21069
-"Quebec",1940-03-26,"General","19","Laurier","Larivée, Donat","Man","Carpenter","National Government","Defeated",4072
-"Quebec",1940-03-26,"General","19","Laval--Two Mountains","Lacombe, Liguori","Man","Lawyer","Independent Liberal","Elected",6378
-"Quebec",1940-03-26,"General","19","Laval--Two Mountains","ROCHON, Jean-Baptiste-Léo","Man","Optometrist","Liberal Party of Canada","Defeated",4552
-"Quebec",1940-03-26,"General","19","Lévis","Bourget, Maurice","Man","Civil engineer","Liberal Party of Canada","Elected",8885
-"Quebec",1940-03-26,"General","19","Lévis","DUMONTIER, Albert","Man","Lawyer","National Government","Defeated",4187
-"Quebec",1940-03-26,"General","19","Lotbinière","Lapointe, Hugues","Man","Lawyer","Liberal Party of Canada","Elected",8983
-"Quebec",1940-03-26,"General","19","Lotbinière","LALIBERTÉ, Gérard","Man","Navigator","Independent","Defeated",4627
-"Quebec",1940-03-26,"General","19","Maisonneuve--Rosemont","Fournier, Sarto","Man","Lawyer","Liberal Party of Canada","Elected",17442
-"Quebec",1940-03-26,"General","19","Maisonneuve--Rosemont","DESROSIERS, Pierre","Man","Lecturer","National Government","Defeated",6387
-"Quebec",1940-03-26,"General","19","Matapédia--Matane","Lapointe, Arthur-Joseph","Man","Station master","Liberal Party of Canada","Elected",9956
-"Quebec",1940-03-26,"General","19","Matapédia--Matane","LaRue, Joseph-Ernest-Henri","Man","Notary","National Government","Defeated",5804
-"Quebec",1940-03-26,"General","19","Mégantic--Frontenac","Lafontaine, Joseph","Man","Merchant","Liberal Party of Canada","Elected",10477
-"Quebec",1940-03-26,"General","19","Mégantic--Frontenac","FORTIN, J.-Émile","Man","Physician","National Government","Defeated",6281
-"Quebec",1940-03-26,"General","19","Mercier","Jean, Joseph","Man","Lawyer","Liberal Party of Canada","Elected",19134
-"Quebec",1940-03-26,"General","19","Mercier","THERRIEN, François-Eugène","Man","Lawyer","National Government","Defeated",4596
-"Quebec",1940-03-26,"General","19","Montmagny--l'Islet","Laflamme, Leo Kemner","Man","Lawyer","Liberal Party of Canada","Elected",6890
-"Quebec",1940-03-26,"General","19","Montmagny--l'Islet","RINGUET, Wilfrid-A.","Man","Municipal clerk","National Government","Defeated",3288
-"Quebec",1940-03-26,"General","19","Mount Royal","Whitman, Frederick Primrose","Man","Salesman","Liberal Party of Canada","Elected",19858
-"Quebec",1940-03-26,"General","19","Mount Royal","Walsh, William Allen","Man","School superintendent","National Government","Defeated",13319
-"Quebec",1940-03-26,"General","19","Mount Royal","ALLEN, John Stanley","Man","Educationist","Co-operative Commonwealth Federation","Defeated",1983
-"Quebec",1940-03-26,"General","19","Nicolet--Yamaska","Dubois, Lucien","Man","Farmer","Liberal Party of Canada","Elected",7445
-"Quebec",1940-03-26,"General","19","Nicolet--Yamaska","MANSEAU, François-Moras","Man","Dental surgeon","Liberal Party of Canada","Defeated",6865
-"Quebec",1940-03-26,"General","19","Nicolet--Yamaska","BELCOURT, Joseph-Henri","Man","Accountant","National Government","Defeated",410
-"Quebec",1940-03-26,"General","19","Nicolet--Yamaska","COTÉ, Léo","Man","Insurance agent","Independent Conservative","Defeated",232
-"Quebec",1940-03-26,"General","19","Outremont","Vien, Thomas","Man","Lawyer","Liberal Party of Canada","Elected",14511
-"Quebec",1940-03-26,"General","19","Outremont","BENDER, Joseph-Hector","Man","Financier","National Government","Defeated",4556
-"Quebec",1940-03-26,"General","19","Outremont","POULIN, Ernest","Man","Physician","Independent Liberal","Defeated",2787
-"Quebec",1940-03-26,"General","19","Pontiac","McDonald, Wallace Reginald","Man","Merchant","Liberal Party of Canada","Elected",13206
-"Quebec",1940-03-26,"General","19","Pontiac","PICHÉ, Joseph-Édouard","Man","Manager","Independent Liberal","Defeated",11941
-"Quebec",1940-03-26,"General","19","Pontiac","CARRIER, Ernest","Man","Accountant","Unknown","Defeated",5128
-"Quebec",1940-03-26,"General","19","Portneuf","Gauthier, Pierre","Man","Physician","Liberal Party of Canada","Elected",10033
-"Quebec",1940-03-26,"General","19","Portneuf","GIROUX, Laurent","Man","General contractor","Independent Liberal","Defeated",2676
-"Quebec",1940-03-26,"General","19","Portneuf","PRONOVOST, J.-O.","Man","Station master","National Government","Defeated",2141
-"Quebec",1940-03-26,"General","19","Quebec East","Lapointe, Ernest","Man","Minister of Justice","Liberal Party of Canada","Elected",17914
-"Quebec",1940-03-26,"General","19","Quebec East","BOUCHARD, Paul","Man","Journalist","Independent Nationalist","Defeated",12302
-"Quebec",1940-03-26,"General","19","Quebec South","Power, Charles Gavan","Man","Lawyer","Liberal Party of Canada","Elected",15196
-"Quebec",1940-03-26,"General","19","Quebec South","DINAN, Francis James","Man","Stevedore","National Government","Defeated",4284
-"Quebec",1940-03-26,"General","19","Quebec West and South","Parent, Charles Eugène","Man","Lawyer","Liberal Party of Canada","Elected",12010
-"Quebec",1940-03-26,"General","19","Quebec West and South","Dupré, Maurice","Man","Lawyer","National Government","Defeated",8003
-"Quebec",1940-03-26,"General","19","Québec--Montmorency","Lacroix, Wilfrid","Man","Architect","Liberal Party of Canada","Elected",12850
-"Quebec",1940-03-26,"General","19","Québec--Montmorency","AUDET, Pierre","Man","Lawyer","National Government","Defeated",5175
-"Quebec",1940-03-26,"General","19","Richelieu--Verchères","Cardin, Pierre-Joseph-Arthur","Man","Lawyer","Liberal Party of Canada","Elected",11330
-"Quebec",1940-03-26,"General","19","Richelieu--Verchères","BEAUREGARD, Liboire","Man","Physician","National Government","Defeated",2412
-"Quebec",1940-03-26,"General","19","Richelieu--Verchères","LARIVIÈRE, René","Man","Farmer","Independent Conservative","Defeated",447
-"Quebec",1940-03-26,"General","19","Richmond--Wolfe","Mullins, James Patrick","Man","Insurance agent","Liberal Party of Canada","Elected",8554
-"Quebec",1940-03-26,"General","19","Richmond--Wolfe","GOULET, Joseph-Alexandre","Man","Insurance agent","National Government","Defeated",4295
-"Quebec",1940-03-26,"General","19","Rimouski","D'Anjou, Joseph-Émile-Stanislas-Émmanuel","Man","Insurance broker","Liberal Party of Canada","Elected",9766
-"Quebec",1940-03-26,"General","19","Rimouski","BLANCHET, Jean","Man","Agronomist","Conservative (1867-1942)","Defeated",5928
-"Quebec",1940-03-26,"General","19","Shefford","Leclerc, Joseph-Hermas","Man","Manufacturer","Liberal Party of Canada","Elected",7831
-"Quebec",1940-03-26,"General","19","Shefford","CHOQUETTE, Hector","Man","Farmer","National Government","Defeated",3644
-"Quebec",1940-03-26,"General","19","Sherbrooke","Gingues, Maurice","Man","Garment worker","Liberal Party of Canada","Elected",11602
-"Quebec",1940-03-26,"General","19","Sherbrooke","WALSH, Terence Gerard","Man","Broker","National Government","Defeated",5465
-"Quebec",1940-03-26,"General","19","Sherbrooke","COTÉ, Joseph-Ernest","Man","Traveller","Independent","Defeated",1697
-"Quebec",1940-03-26,"General","19","St-Maurice--Laflèche","Crête, Joseph-Alphida","Man","Optician","Liberal Party of Canada","Elected",9440
-"Quebec",1940-03-26,"General","19","St-Maurice--Laflèche","FRIGON, Joseph-A.","Man","Pensioner","Independent Liberal","Defeated",7465
-"Quebec",1940-03-26,"General","19","St-Maurice--Laflèche","BÉLAND, Joseph-Albert","Man","Veterinarian","National Government","Defeated",1957
-"Quebec",1940-03-26,"General","19","St-Maurice--Laflèche","DALLAIRE, Elzéar","Man","Journalist","Independent Liberal","Defeated",457
-"Quebec",1940-03-26,"General","19","St. Ann","Healy, Thomas Patrick","Man","Contractor","Liberal Party of Canada","Elected",12687
-"Quebec",1940-03-26,"General","19","St. Ann","LYNCH, Patrick T.","Man","Manufacturer","National Government","Defeated",2806
-"Quebec",1940-03-26,"General","19","St. Ann","GAWRONSKI, Gabriel Edward","Man","Tobacco wholesaler","Independent Liberal","Defeated",450
-"Quebec",1940-03-26,"General","19","St. Ann","LAWRENCE, Frederick S.","Man","Civil engineer","Independent Liberal","Defeated",257
-"Quebec",1940-03-26,"General","19","St. Antoine--Westmount","Abbott, Douglas Charles","Man","Barrister","Liberal Party of Canada","Elected",14879
-"Quebec",1940-03-26,"General","19","St. Antoine--Westmount","White, Robert Smeaton","Man","Gentleman","National Government","Defeated",8972
-"Quebec",1940-03-26,"General","19","St. Denis","Denis, Azellus","Man","Lawyer","Liberal Party of Canada","Elected",18948
-"Quebec",1940-03-26,"General","19","St. Denis","GRENON, Hector","Man","Lawyer","National Government","Defeated",4979
-"Quebec",1940-03-26,"General","19","St. Denis","LUSSIER, Antonio","Man","Insurance agent","Independent Liberal","Defeated",4274
-"Quebec",1940-03-26,"General","19","St. Denis","CHAMPAGNE, J.-Antoine","Man","Pharmacist","Independent Liberal","Defeated",967
-"Quebec",1940-03-26,"General","19","St. Henry","Bonnier, Joseph-Arsène","Man","Funeral director","Liberal Party of Canada","Elected",17531
-"Quebec",1940-03-26,"General","19","St. Henry","LAURIAULT, Wilfrid-Eldège","Man","Civil engineer","Independent Liberal","Defeated",10371
-"Quebec",1940-03-26,"General","19","St. Henry","LAMONTAGNE, Édouard","Man","Teacher","National Government","Defeated",2081
-"Quebec",1940-03-26,"General","19","St. Henry","GOSSELIN, Louis-Gérard","Man","Lawyer","Anti-Conscriptionist","Defeated",642
-"Quebec",1940-03-26,"General","19","St. Hyacinthe--Bagot","Fontaine, Joseph-Théophile-Adélard","Man","Lawyer","Liberal Party of Canada","Elected",13220
-"Quebec",1940-03-26,"General","19","St. Hyacinthe--Bagot","GAUDETTE, J.-Wilfrid","Man","Pharmacist","Independent","Defeated",2599
-"Quebec",1940-03-26,"General","19","St. James","Durocher, Eugène","Man","Insurance broker","Liberal Party of Canada","Elected",27219
-"Quebec",1940-03-26,"General","19","St. James","JEANNOTTE, Joseph-Édouard","Man","Notary","National Government","Defeated",5777
-"Quebec",1940-03-26,"General","19","St. James","ROCHON, Hector","Man","Traveller","Co-operative Commonwealth Federation","Defeated",1091
-"Quebec",1940-03-26,"General","19","St. James","MATHIEU, Achille","Man","Insurance adjuster","Independent Liberal","Defeated",864
-"Quebec",1940-03-26,"General","19","St. Johns--Iberville--Napierville","Rhéaume, Pierre Auguste Martial","Man","Butcher","Liberal Party of Canada","Elected",7439
-"Quebec",1940-03-26,"General","19","St. Johns--Iberville--Napierville","ST-GERMAIN, Charles-Georges","Man","Merchant","Independent Liberal","Defeated",6307
-"Quebec",1940-03-26,"General","19","St. Johns--Iberville--Napierville","GRÉGOIRE, Alexandre-E.","Man","Merchant","National Government","Defeated",2331
-"Quebec",1940-03-26,"General","19","St. Lawrence--St. George","Claxton, Brooke","Man","Lawyer","Liberal Party of Canada","Elected",11553
-"Quebec",1940-03-26,"General","19","St. Lawrence--St. George","Cahan, Charles Hazlitt","Man","Lawyer","Conservative (1867-1942)","Defeated",6568
-"Quebec",1940-03-26,"General","19","St. Mary","Deslauriers, Hermas","Man","Physician","Liberal Party of Canada","Elected",23185
-"Quebec",1940-03-26,"General","19","St. Mary","Fauteux, Gabriel","Man","Pharmacist","National Government","Defeated",4785
-"Quebec",1940-03-26,"General","19","St. Mary","Dubé, Évariste","Man","Electrician","Communist Party of Canada","Defeated",728
-"Quebec",1940-03-26,"General","19","St. Mary","Prézeau, Théodore","Man","Engineer","Co-operative Commonwealth Federation","Defeated",719
-"Quebec",1940-03-26,"General","19","Stanstead","Davidson, Robert Greig","Man","Farmer","Liberal Party of Canada","Elected",5112
-"Quebec",1940-03-26,"General","19","Stanstead","GIRARD, Alphonse","Man","Secretary treasurer","Independent Liberal","Defeated",4804
-"Quebec",1940-03-26,"General","19","Témiscouata","Pouliot, Jean-François","Man","Lawyer","Liberal Party of Canada","Elected",9615
-"Quebec",1940-03-26,"General","19","Témiscouata","CIMON, Horace","Man","Lawyer","National Government","Defeated",2063
-"Quebec",1940-03-26,"General","19","Témiscouata","LEBEL, Luc","Man","Physician","Independent","Defeated",1518
-"Quebec",1940-03-26,"General","19","Terrebonne","Bertrand, Lionel","Man","Journalist","Independent Liberal","Elected",7839
-"Quebec",1940-03-26,"General","19","Terrebonne","Parent, Louis-Étienne","Man","Manufacturer","Liberal Party of Canada","Defeated",6938
-"Quebec",1940-03-26,"General","19","Terrebonne","LACHAPELLE, Léopold","Man","Accountant","National Government","Defeated",2668
-"Quebec",1940-03-26,"General","19","Three Rivers","Ryan, Robert","Man","Accountant","Liberal Party of Canada","Elected",9860
-"Quebec",1940-03-26,"General","19","Three Rivers","Gariépy, Wilfrid","Man","Lawyer","Independent Liberal","Defeated",8734
-"Quebec",1940-03-26,"General","19","Vaudreuil--Soulanges","Thauvette, Joseph","Man","Physician","Liberal Party of Canada","Elected",4381
-"Quebec",1940-03-26,"General","19","Vaudreuil--Soulanges","DEGUIRE, J.-E.-Philippe","Man","Pensioner","National Government","Defeated",2210
-"Quebec",1940-03-26,"General","19","Vaudreuil--Soulanges","CHARLEBOIS, Édouard","Man","Merchant","Independent Liberal","Defeated",1441
-"Quebec",1940-03-26,"General","19","Vaudreuil--Soulanges","CHEVRIER, J.-Ernest","Man","Restaurant owner","Independent Liberal","Defeated",1059
-"Quebec",1940-03-26,"General","19","Verdun","Côté, Paul-Émile","Man","Lawyer","Liberal Party of Canada","Elected",8372
-"Quebec",1940-03-26,"General","19","Verdun","FERLAND, Hervé","Man","Manager","Independent Liberal","Defeated",7231
-"Quebec",1940-03-26,"General","19","Verdun","CALDER, Robert Louis","Man","Lawyer","Co-operative Commonwealth Federation","Defeated",3817
-"Quebec",1940-03-26,"General","19","Verdun","Wermenlinger, Edgard Jules","Man","Merchant","National Government","Defeated",3693
-"Quebec",1940-03-26,"General","19","Verdun","ADAMS, Ruby Beryl Joan","Woman","School principal","Independent","Defeated",1838
-"Quebec",1940-03-26,"General","19","Verdun","HALPIN, Charles S.P.","Man","Funeral director","Independent","Defeated",1181
-"Quebec",1940-03-26,"General","19","Verdun","CURRIE, Samuel","Man","Merchant","Independent Conservative","Defeated",814
-"Quebec",1940-03-26,"General","19","Verdun","SCURRAH, Robert William","Man","Manager","Independent","Defeated",599
-"Quebec",1940-03-26,"General","19","Wright","Leduc, Rodolphe","Man","Dental surgeon","Liberal Party of Canada","Elected",7260
-"Quebec",1940-03-26,"General","19","Wright","BELL, Halliday","Man","Gentleman","National Government","Defeated",2310
-"Quebec",1940-03-26,"General","19","Wright","HUBERT, Augustin","Man","Merchant","Independent Liberal","Defeated",1172
-"Saskatchewan",1940-03-26,"General","19","Assiniboia","Tripp, Jesse Pickard","Man","Druggist","Liberal Party of Canada","Elected",6846
-"Saskatchewan",1940-03-26,"General","19","Assiniboia","HORNER, Samuel Norval","Man","Farmer","Co-operative Commonwealth Federation","Defeated",4812
-"Saskatchewan",1940-03-26,"General","19","Assiniboia","HART, James Lawrence","Man","Barrister","National Government","Defeated",3516
-"Saskatchewan",1940-03-26,"General","19","Humboldt","Fleming, Harry Raymond","Man","Physician","Liberal Party of Canada","Elected",8808
-"Saskatchewan",1940-03-26,"General","19","Humboldt","BOLSTER, Frank John","Man","Farmer","Co-operative Commonwealth Federation","Defeated",7536
-"Saskatchewan",1940-03-26,"General","19","Kindersley","Henderson, Charles Albert","Man","Farmer","Liberal Party of Canada","Elected",5068
-"Saskatchewan",1940-03-26,"General","19","Kindersley","MITCHELL, Arthur Hill Gilmour","Man","School principal","Co-operative Commonwealth Federation","Defeated",3966
-"Saskatchewan",1940-03-26,"General","19","Kindersley","HERRIDGE, Wm. Duncan","Man","Barrister","New Democracy","Defeated",3922
-"Saskatchewan",1940-03-26,"General","19","Lake Centre","Diefenbaker, John George","Man","Barrister","National Government","Elected",5974
-"Saskatchewan",1940-03-26,"General","19","Lake Centre","Johnston, John Frederick","Man","Farmer","Liberal Party of Canada","Defeated",5694
-"Saskatchewan",1940-03-26,"General","19","Lake Centre","Fansher, William Russell","Man","Farmer","Co-operative Commonwealth Federation","Defeated",4793
-"Saskatchewan",1940-03-26,"General","19","Mackenzie","Nicholson, Alexander Malcolm","Man","Clergyman","Co-operative Commonwealth Federation","Elected",10207
-"Saskatchewan",1940-03-26,"General","19","Mackenzie","BARRIE, James Ross","Man","Merchant","Liberal Party of Canada","Defeated",9211
-"Saskatchewan",1940-03-26,"General","19","Mackenzie","WIGGINS, Walter Ernest","Man","Farmer","Communist Party of Canada","Defeated",819
-"Saskatchewan",1940-03-26,"General","19","Maple Creek","Evans, Charles Robert","Man","Farmer","Liberal Party of Canada","Elected",5157
-"Saskatchewan",1940-03-26,"General","19","Maple Creek","KEMPER, Herman Henry","Man","Farmer","Co-operative Commonwealth Federation","Defeated",5102
-"Saskatchewan",1940-03-26,"General","19","Maple Creek","WRIGHT, Frederick Edwin","Man","Merchant","National Government","Defeated",3182
-"Saskatchewan",1940-03-26,"General","19","Melfort","Wright, Percy Ellis","Man","Farmer","Co-operative Commonwealth Federation","Elected",11358
-"Saskatchewan",1940-03-26,"General","19","Melfort","McLean, Malcolm","Man","Farmer","Liberal Party of Canada","Defeated",8019
-"Saskatchewan",1940-03-26,"General","19","Melfort","HAVER, Malcolm James","Man","Teacher","New Democracy","Defeated",1732
-"Saskatchewan",1940-03-26,"General","19","Melville","Gardiner, James Garfield","Man","Farmer","Liberal Party of Canada","Elected",10158
-"Saskatchewan",1940-03-26,"General","19","Melville","LUCAS, Louise","Woman","Housewife","Co-operative Commonwealth Federation","Defeated",9042
-"Saskatchewan",1940-03-26,"General","19","Melville","BARTLETT, Gilbert Henry","Man","Farmer","Unity","Defeated",1837
-"Saskatchewan",1940-03-26,"General","19","Moose Jaw","Ross, John Gordon","Man","Farmer","Liberal Party of Canada","Elected",9373
-"Saskatchewan",1940-03-26,"General","19","Moose Jaw","PATTERSON, Joseph Victor","Man","Farmer","National Government","Defeated",7807
-"Saskatchewan",1940-03-26,"General","19","North Battleford","Nielsen, Dorise Winifred","Woman","Housewife","Unity","Elected",10500
-"Saskatchewan",1940-03-26,"General","19","North Battleford","McIntosh, Cameron Ross","Man","Publisher","Liberal Party of Canada","Defeated",7868
-"Saskatchewan",1940-03-26,"General","19","Prince Albert","King, William Lyon Mackenzie","Man","Gentleman","Liberal Party of Canada","Elected",8310
-"Saskatchewan",1940-03-26,"General","19","Prince Albert","MANVILLE, Robert Rae","Man","Merchant","National Unity","Defeated",7534
-"Saskatchewan",1940-03-26,"General","19","Prince Albert","STRELIVE, Peter William","Man","Farmer","Co-operative Commonwealth Federation","Defeated",1993
-"Saskatchewan",1940-03-26,"General","19","Prince Albert","CAMPBELL, Alfred Cowie","Man","Journalist","Communist Party of Canada","Defeated",243
-"Saskatchewan",1940-03-26,"General","19","Qu'Appelle","Perley, Ernest Edward","Man","Farmer","National Government","Elected",8236
-"Saskatchewan",1940-03-26,"General","19","Qu'Appelle","MCCOWAN, James Alexander","Man","Farmer","Liberal Party of Canada","Defeated",6775
-"Saskatchewan",1940-03-26,"General","19","Regina City","McNiven, Donald Alexander","Man","Barrister","Liberal Party of Canada","Elected",14434
-"Saskatchewan",1940-03-26,"General","19","Regina City","MACPHERSON, Murdock Alexander","Man","Barrister-at-law","National Government","Defeated",12475
-"Saskatchewan",1940-03-26,"General","19","Regina City","Probe, John Oliver","Man","Teacher","Co-operative Commonwealth Federation","Defeated",2855
-"Saskatchewan",1940-03-26,"General","19","Regina City","GUEST, John Ivor","Man","Clerk","Conservative (1867-1942)","Defeated",602
-"Saskatchewan",1940-03-26,"General","19","Rosetown--Biggar","Coldwell, Major James William","Man","Teacher","Co-operative Commonwealth Federation","Elected",7714
-"Saskatchewan",1940-03-26,"General","19","Rosetown--Biggar","Hassard, Robert P.","Man","Auto dealer","Liberal Party of Canada","Defeated",4912
-"Saskatchewan",1940-03-26,"General","19","Rosetown--Biggar","ANDERSON, James Thomas Milton","Man","Manager","National Government","Defeated",2381
-"Saskatchewan",1940-03-26,"General","19","Rosthern","Tucker, Walter Adam","Man","Barrister","Liberal Party of Canada","Elected",6612
-"Saskatchewan",1940-03-26,"General","19","Rosthern","MAKAROFF, Peter George","Man","Barrister","Co-operative Commonwealth Federation","Defeated",5456
-"Saskatchewan",1940-03-26,"General","19","Rosthern","LEPP, Peter Paul","Man","Teacher","New Democracy","Defeated",999
-"Saskatchewan",1940-03-26,"General","19","Saskatoon City","Brown, Walter George","Man","Clergyman","United Reform Movement","Elected",13868
-"Saskatchewan",1940-03-26,"General","19","Saskatoon City","NIDEROST, Carl","Man","Barrister","Liberal Party of Canada","Defeated",8346
-"Saskatchewan",1940-03-26,"General","19","Saskatoon City","ARNOLD, Harry Watson","Man","Broker","Social Credit-National Unity","Defeated",241
-"Saskatchewan",1940-03-26,"General","19","Swift Current","Graham, Roy Theodore","Man","Barrister","Liberal Party of Canada","Elected",6042
-"Saskatchewan",1940-03-26,"General","19","Swift Current","THIESSEN, Henry Peter","Man","School teacher","Co-operative Commonwealth Federation","Defeated",5507
-"Saskatchewan",1940-03-26,"General","19","Swift Current","WHYTE, James P.","Man","Dental surgeon","National Government","Defeated",3965
-"Saskatchewan",1940-03-26,"General","19","The Battlefords","Gregory, John Albert","Man","Agent","Liberal Party of Canada","Elected",7195
-"Saskatchewan",1940-03-26,"General","19","The Battlefords","Needham, Joseph","Man","Agent","New Democracy","Defeated",5453
-"Saskatchewan",1940-03-26,"General","19","The Battlefords","NOLLET, I.C.","Man","Rancher","Unknown","Defeated",4512
-"Saskatchewan",1940-03-26,"General","19","Weyburn","Douglas, Thomas Clement (Tommy)","Man","Clergyman","Co-operative Commonwealth Federation","Elected",8509
-"Saskatchewan",1940-03-26,"General","19","Weyburn","METHERAL, Thomas Niddrie","Man","Farmer","Liberal Party of Canada","Defeated",7554
-"Saskatchewan",1940-03-26,"General","19","Weyburn","HILTON, John Harrison","Man","Company manager","United Reform","Defeated",269
-"Saskatchewan",1940-03-26,"General","19","Wood Mountain","Donnelly, Thomas F.","Man","Physician","Liberal Party of Canada","Elected",6375
-"Saskatchewan",1940-03-26,"General","19","Wood Mountain","BUCHANAN, Niles Leonard","Man","School teacher","Co-operative Commonwealth Federation","Defeated",5247
-"Saskatchewan",1940-03-26,"General","19","Wood Mountain","ELLISON, Alban Cedric","Man","Barrister","Independent","Defeated",3775
-"Saskatchewan",1940-03-26,"General","19","Yorkton","Castleden, George Hugh","Man","Teacher","Co-operative Commonwealth Federation","Elected",7658
-"Saskatchewan",1940-03-26,"General","19","Yorkton","MCLEAN, Allan Grant","Man","Commercial traveller","Liberal Party of Canada","Defeated",6773
-"Saskatchewan",1940-03-26,"General","19","Yorkton","Hnatyshyn, John","Man","Barrister","National Government","Defeated",4690
-"Saskatchewan",1940-03-26,"General","19","Yorkton","MCMANUS, Thomas Gerald","Man","Engineer","Communist Party of Canada","Defeated",1047
-"Yukon",1940-03-26,"General","19","Yukon","Black, George","Man","Barrister","National Government","Elected",915
-"Yukon",1940-03-26,"General","19","Yukon","REID, Charles","Man","Miner","Liberal Party of Canada","Defeated",793
+"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
+"Alberta",1940-03-26,"General","19","Acadia","Quelch, Victor","Quelch","Victor",NA,"Man","Farmer","Social Credit Party of Canada","Elected",3767
+"Alberta",1940-03-26,"General","19","Acadia","Day, Arthur M.","Day","Arthur","M.","Man","Physician","Liberal Party of Canada","Defeated",3740
+"Alberta",1940-03-26,"General","19","Acadia","Smith, George B.","Smith","George","B.","Man","Farmer","Co-operative Commonwealth Federation","Defeated",802
+"Alberta",1940-03-26,"General","19","Athabaska","Dechene, Joseph Miville","Dechene","Joseph","Miville","Man","Agent","Liberal Party of Canada","Elected",5961
+"Alberta",1940-03-26,"General","19","Athabaska","Hayhurst, William","Hayhurst","William",NA,"Man","School principal","New Democracy","Defeated",4817
+"Alberta",1940-03-26,"General","19","Athabaska","Rowe, Percy John","Rowe","Percy","John","Man","Accountant","Co-operative Commonwealth Federation","Defeated",2052
+"Alberta",1940-03-26,"General","19","Battle River","Fair, Robert","Fair","Robert",NA,"Man","Farmer","New Democracy","Elected",5045
+"Alberta",1940-03-26,"General","19","Battle River","Pitman, Ernest Arthur","Pitman","Ernest","Arthur","Man","Farmer","Liberal Party of Canada","Defeated",3808
+"Alberta",1940-03-26,"General","19","Battle River","Spencer, Henry Elvins","Spencer","Henry","Elvins","Man","Farmer","Co-operative Commonwealth Federation","Defeated",3401
+"Alberta",1940-03-26,"General","19","Bow River","Johnston, Charles Edward","Johnston","Charles","Edward","Man","Teacher","Social Credit Party of Canada","Elected",5410
+"Alberta",1940-03-26,"General","19","Bow River","Claypool, A.B.","Claypool","A.B.",NA,"Man","Farmer","Liberal Party of Canada","Defeated",4050
+"Alberta",1940-03-26,"General","19","Bow River","Manning, M.E.","Manning","M.E.",NA,"Man","Barrister","National Government","Defeated",3248
+"Alberta",1940-03-26,"General","19","Bow River","Liesmer, A.J.E.","Liesmer","A.J.E.",NA,"Man","Teacher","Co-operative Commonwealth Federation","Defeated",2197
+"Alberta",1940-03-26,"General","19","Bow River","Anderson, Lawrence","Anderson","Lawrence",NA,"Man","Carpenter","Communist Party of Canada","Defeated",847
+"Alberta",1940-03-26,"General","19","Calgary East","Ross, George Henry","Ross","George","Henry","Man","Barrister","Liberal Party of Canada","Elected",5815
+"Alberta",1940-03-26,"General","19","Calgary East","Landeryou, John Charles","Landeryou","John","Charles","Man","Chef","Social Credit Party of Canada","Defeated",5330
+"Alberta",1940-03-26,"General","19","Calgary East","Farthing, Hugh Cragg","Farthing","Hugh","Cragg","Man","Barrister","National Government","Defeated",4987
+"Alberta",1940-03-26,"General","19","Calgary East","Kelloway, Warwick Freeman","Kelloway","Warwick","Freeman","Man","Clergyman","Co-operative Commonwealth Federation","Defeated",4986
+"Alberta",1940-03-26,"General","19","Calgary West","Edwards, Manley Justin","Edwards","Manley","Justin","Man","Barrister","Liberal Party of Canada","Elected",7299
+"Alberta",1940-03-26,"General","19","Calgary West","Cunnington, Douglas George Leopold","Cunnington","Douglas","George Leopold","Man","Insurance broker","National Government","Defeated",6896
+"Alberta",1940-03-26,"General","19","Calgary West","Wilkinson, Rose","Wilkinson","Rose",NA,"Woman","Graduate nurse","New Democracy","Defeated",4159
+"Alberta",1940-03-26,"General","19","Calgary West","Johnson, J. Albert","Johnson","J.","Albert","Man","Carpenter","Co-operative Commonwealth Federation","Defeated",1444
+"Alberta",1940-03-26,"General","19","Camrose","Marshall, James Alexander","Marshall","James","Alexander","Man","Municipal secretary","Social Credit Party of Canada","Elected",6359
+"Alberta",1940-03-26,"General","19","Camrose","Claeys, Charles","Claeys","Charles",NA,"Man","Farmer","Liberal Party of Canada","Defeated",4443
+"Alberta",1940-03-26,"General","19","Camrose","Lefsrud, Sigurd","Lefsrud","Sigurd",NA,"Man","Barrister","Co-operative Commonwealth Federation","Defeated",2065
+"Alberta",1940-03-26,"General","19","Edmonton East","Casselman, Frederick Clayton","Casselman","Frederick","Clayton","Man","Barrister","Liberal Party of Canada","Elected",8948
+"Alberta",1940-03-26,"General","19","Edmonton East","Kennedy, Orvis A.","Kennedy","Orvis","A.","Man","Salesman","New Democracy","Defeated",7279
+"Alberta",1940-03-26,"General","19","Edmonton East","Gee, Sidney J.","Gee","Sidney","J.","Man","Contractor","National Government","Defeated",2302
+"Alberta",1940-03-26,"General","19","Edmonton East","Lee, Clifford E.","Lee","Clifford","E.","Man","Druggist","Co-operative Commonwealth Federation","Defeated",1962
+"Alberta",1940-03-26,"General","19","Edmonton West","MacKinnon, James Angus","MacKinnon","James","Angus","Man","Manager","Liberal Party of Canada","Elected",12350
+"Alberta",1940-03-26,"General","19","Edmonton West","Ogilvie, James H.","Ogilvie","James","H.","Man","Barrister","National Government","Defeated",4054
+"Alberta",1940-03-26,"General","19","Edmonton West","Gillies, John B.","Gillies","John","B.","Man","Insurance agent","New Democracy","Defeated",3695
+"Alberta",1940-03-26,"General","19","Edmonton West","Crawford, Mary R.","Crawford","Mary","R.","Woman","Teacher","Co-operative Commonwealth Federation","Defeated",1616
+"Alberta",1940-03-26,"General","19","Jasper--Edson","Kuhl, Walter Frederick","Kuhl","Walter","Frederick","Man","Teacher","New Democracy","Elected",6363
+"Alberta",1940-03-26,"General","19","Jasper--Edson","Knight, Arthur Allan","Knight","Arthur","Allan","Man","Farmer","Liberal Party of Canada","Defeated",6283
+"Alberta",1940-03-26,"General","19","Jasper--Edson","Critchlow, Hugh","Critchlow","Hugh",NA,"Man","Farmer","Co-operative Commonwealth Federation","Defeated",2102
+"Alberta",1940-03-26,"General","19","Jasper--Edson","Bamber, Sydney","Bamber","Sydney",NA,"Man","Farmer","National Government","Defeated",1835
+"Alberta",1940-03-26,"General","19","Lethbridge","Blackmore, John Horne","Blackmore","John","Horne","Man","Teacher","New Democracy","Elected",6362
+"Alberta",1940-03-26,"General","19","Lethbridge","Fairbairn, Lynden Eldon","Fairbairn","Lynden","Eldon","Man","Barrister","Liberal Party of Canada","Defeated",5538
+"Alberta",1940-03-26,"General","19","Lethbridge","Stewart, John Smith","Stewart","John","Smith","Man","Dentist","National Government","Defeated",3605
+"Alberta",1940-03-26,"General","19","Macleod","Hansell, Ernest George","Hansell","Ernest","George","Man","Clergyman","Social Credit Party of Canada","Elected",6655
+"Alberta",1940-03-26,"General","19","Macleod","Mckenna, Francis Olestes","Mckenna","Francis","Olestes","Man","Barrister","Liberal Party of Canada","Defeated",4829
+"Alberta",1940-03-26,"General","19","Macleod","Davis, Grier Rider","Davis","Grier","Rider","Man","Barrister","National Government","Defeated",3039
+"Alberta",1940-03-26,"General","19","Macleod","Mcbride, Ruth House","Mcbride","Ruth","House","Woman","Housewife","Co-operative Commonwealth Federation","Defeated",2180
+"Alberta",1940-03-26,"General","19","Medicine Hat","Gershaw, Frederick William","Gershaw","Frederick","William","Man","Physician","Liberal Party of Canada","Elected",9439
+"Alberta",1940-03-26,"General","19","Medicine Hat","Mitchell, Archibald Hugh","Mitchell","Archibald","Hugh","Man","Farmer","New Democracy","Defeated",5524
+"Alberta",1940-03-26,"General","19","Peace River","Sissons, John Howard","Sissons","John","Howard","Man","Barrister","Liberal Party of Canada","Elected",6426
+"Alberta",1940-03-26,"General","19","Peace River","Pelletier, René-Antoine","Pelletier","René-Antoine",NA,"Man","Telegrapher","New Democracy","Defeated",5347
+"Alberta",1940-03-26,"General","19","Peace River","Macklin, Irwin Victor","Macklin","Irwin","Victor","Man","Farmer","Co-operative Commonwealth Federation","Defeated",3307
+"Alberta",1940-03-26,"General","19","Peace River","Brulotte, Louis-Napoléon","Brulotte","Louis-Napoléon",NA,"Man","Farmer","Independent","Defeated",488
+"Alberta",1940-03-26,"General","19","Red Deer","Shaw, Frederick Davis","Shaw","Frederick","Davis","Man","Teacher","Social Credit Party of Canada","Elected",5583
+"Alberta",1940-03-26,"General","19","Red Deer","Bury, Absalom Clark","Bury","Absalom","Clark","Man","Notary","Liberal Party of Canada","Defeated",4134
+"Alberta",1940-03-26,"General","19","Red Deer","Morrison, P.N.R.","Morrison","P.N.R.",NA,"Man","Teacher","Co-operative Commonwealth Federation","Defeated",2771
+"Alberta",1940-03-26,"General","19","Red Deer","Stonhouse, Arthur A.","Stonhouse","Arthur","A.","Man","Farmer","National Government","Defeated",2694
+"Alberta",1940-03-26,"General","19","Vegreville","Hlynka, Anthony","Hlynka","Anthony",NA,"Man","Publisher","Social Credit Party of Canada","Elected",5083
+"Alberta",1940-03-26,"General","19","Vegreville","Archer, A.E.","Archer","A.E.",NA,"Man","Physician","Liberal Party of Canada","Defeated",4605
+"Alberta",1940-03-26,"General","19","Vegreville","Halina, William","Halina","William",NA,"Man","Accountant","United Progressive","Defeated",2727
+"Alberta",1940-03-26,"General","19","Vegreville","Boutillier, Herbert R.","Boutillier","Herbert","R.","Man","Farmer","Co-operative Commonwealth Federation","Defeated",1658
+"Alberta",1940-03-26,"General","19","Wetaskiwin","Jaques, Norman","Jaques","Norman",NA,"Man","Retired farmer","Social Credit Party of Canada","Elected",6245
+"Alberta",1940-03-26,"General","19","Wetaskiwin","Campbell, Walter Stephen","Campbell","Walter","Stephen","Man","Agent","Liberal Party of Canada","Defeated",4392
+"Alberta",1940-03-26,"General","19","Wetaskiwin","Haskins, Robert Henry","Haskins","Robert","Henry","Man","Farmer","Co-operative Commonwealth Federation","Defeated",2539
+"Alberta",1940-03-26,"General","19","Wetaskiwin","Russell, Charles Homer","Russell","Charles","Homer","Man","Barrister","National Government","Defeated",2456
+"British Columbia",1940-03-26,"General","19","Cariboo","Turgeon, James Gray","Turgeon","James","Gray","Man","Broker","Liberal Party of Canada","Elected",6063
+"British Columbia",1940-03-26,"General","19","Cariboo","Irvine, William","Irvine","William",NA,"Man","Editor","Co-operative Commonwealth Federation","Defeated",5070
+"British Columbia",1940-03-26,"General","19","Cariboo","Stephens, Frederick Herbert","Stephens","Frederick","Herbert","Man","Miner","National Government","Defeated",2354
+"British Columbia",1940-03-26,"General","19","Comox--Alberni","Neill, Alan Webster","Neill","Alan","Webster","Man","Retired","Independent","Elected",10156
+"British Columbia",1940-03-26,"General","19","Comox--Alberni","Brown, George Harrison","Brown","George","Harrison","Man","Journalist","Co-operative Commonwealth Federation","Defeated",3835
+"British Columbia",1940-03-26,"General","19","Fraser Valley","Cruickshank, George Alexander","Cruickshank","George","Alexander","Man","Farmer","Liberal Party of Canada","Elected",6638
+"British Columbia",1940-03-26,"General","19","Fraser Valley","Barber, Harry James","Barber","Harry","James","Man","Druggist","National Government","Defeated",6211
+"British Columbia",1940-03-26,"General","19","Fraser Valley","Penberthy, James Warren","Penberthy","James","Warren","Man","Farmer","Co-operative Commonwealth Federation","Defeated",2877
+"British Columbia",1940-03-26,"General","19","Kamloops","O'Neill, Thomas James","O'Neill","Thomas","James","Man","Locomotive engineer","Liberal Party of Canada","Elected",5621
+"British Columbia",1940-03-26,"General","19","Kamloops","Stevens, Henry Herbert","Stevens","Henry","Herbert","Man","Business executive","National Government","Defeated",4290
+"British Columbia",1940-03-26,"General","19","Kamloops","Macnab, Margaret","Macnab","Margaret",NA,"Woman","Housewife","Co-operative Commonwealth Federation","Defeated",3538
+"British Columbia",1940-03-26,"General","19","Kootenay East","MacKinnon, George Ernest Lawson","MacKinnon","George","Ernest Lawson","Man","Physician","National Government","Elected",4395
+"British Columbia",1940-03-26,"General","19","Kootenay East","Matthews, James Herbert","Matthews","James","Herbert","Man","Clergyman","Co-operative Commonwealth Federation","Defeated",4202
+"British Columbia",1940-03-26,"General","19","Kootenay East","Stewart, Edwin K.","Stewart","Edwin","K.","Man","Merchant","Liberal Party of Canada","Defeated",3974
+"British Columbia",1940-03-26,"General","19","Kootenay West","Esling, William Kemble","Esling","William","Kemble","Man","General agent","National Government","Elected",6771
+"British Columbia",1940-03-26,"General","19","Kootenay West","Herridge, Herbert Wilfred","Herridge","Herbert","Wilfred","Man","Farmer","Co-operative Commonwealth Federation","Defeated",6389
+"British Columbia",1940-03-26,"General","19","Kootenay West","Macdonald, Donald","Macdonald","Donald",NA,"Man","Barrister","Liberal Party of Canada","Defeated",4137
+"British Columbia",1940-03-26,"General","19","Nanaimo","Chambers, Alan","Chambers","Alan",NA,"Man","Exporter","Liberal Party of Canada","Elected",10668
+"British Columbia",1940-03-26,"General","19","Nanaimo","Cuncliffe, Frank Stigant","Cuncliffe","Frank","Stigant","Man","Barrister","National Government","Defeated",7518
+"British Columbia",1940-03-26,"General","19","Nanaimo","Grantham, Ronald","Grantham","Ronald",NA,"Man","Teacher","Co-operative Commonwealth Federation","Defeated",6252
+"British Columbia",1940-03-26,"General","19","Nanaimo","Jukes, Andrew Henry","Jukes","Andrew","Henry","Man","Farmer","New Democracy","Defeated",506
+"British Columbia",1940-03-26,"General","19","Nanaimo","Povah, William Frederick","Povah","William","Frederick","Man","Farmer","Independent","Defeated",181
+"British Columbia",1940-03-26,"General","19","New Westminster","Reid, Thomas","Reid","Thomas",NA,"Man","Farmer","Liberal Party of Canada","Elected",15287
+"British Columbia",1940-03-26,"General","19","New Westminster","Alsbury, Albert Thomas","Alsbury","Albert","Thomas","Man","Teacher","Co-operative Commonwealth Federation","Defeated",9837
+"British Columbia",1940-03-26,"General","19","New Westminster","Selkirk, Thomas Robert","Selkirk","Thomas","Robert","Man","Barrister","National Government","Defeated",9372
+"British Columbia",1940-03-26,"General","19","Skeena","Hanson, Olof","Hanson","Olof",NA,"Man","Timberman","Liberal Party of Canada","Elected",4980
+"British Columbia",1940-03-26,"General","19","Skeena","Weaver, George W.","Weaver","George","W.","Man","Musician","Co-operative Commonwealth Federation","Defeated",2845
+"British Columbia",1940-03-26,"General","19","Skeena","Cameron, George F.","Cameron","George","F.","Man","Barrister","National Government","Defeated",1472
+"British Columbia",1940-03-26,"General","19","Skeena","Morris, Frank","Morris","Frank",NA,"Man","Farmer","Independent Liberal","Defeated",145
+"British Columbia",1940-03-26,"General","19","Vancouver Centre","Mackenzie, Ian Alistair","Mackenzie","Ian","Alistair","Man","Barrister","Liberal Party of Canada","Elected",12100
+"British Columbia",1940-03-26,"General","19","Vancouver Centre","Sherwood, Ernest Garfield","Sherwood","Ernest","Garfield","Man","Dairyman","National Government","Defeated",9338
+"British Columbia",1940-03-26,"General","19","Vancouver Centre","Lefeaux, Wallis Walter","Lefeaux","Wallis","Walter","Man","Barrister","Co-operative Commonwealth Federation","Defeated",8427
+"British Columbia",1940-03-26,"General","19","Vancouver Centre","Kerr, Paul McDowell","Kerr","Paul","McDowell","Man","Barrister","Independent","Defeated",630
+"British Columbia",1940-03-26,"General","19","Vancouver Centre","Glozier, Norman Lee","Glozier","Norman","Lee","Man","Manager","Independent Nationalist","Defeated",408
+"British Columbia",1940-03-26,"General","19","Vancouver East","MacInnis, Angus","MacInnis","Angus",NA,"Man","Motorman","Co-operative Commonwealth Federation","Elected",12490
+"British Columbia",1940-03-26,"General","19","Vancouver East","Henderson, John","Henderson","John",NA,"Man","Steam engineer","Liberal Party of Canada","Defeated",9196
+"British Columbia",1940-03-26,"General","19","Vancouver East","Derpak, William Wilfred","Derpak","William","Wilfred","Man","Millwright","New Democracy","Defeated",5975
+"British Columbia",1940-03-26,"General","19","Vancouver East","Mckean, Fergus","Mckean","Fergus",NA,"Man","Millwright","Communist Party of Canada","Defeated",1398
+"British Columbia",1940-03-26,"General","19","Vancouver North","Sinclair, James","Sinclair","James",NA,"Man","Engineer","Liberal Party of Canada","Elected",10496
+"British Columbia",1940-03-26,"General","19","Vancouver North","Macneil, Charles Grant","Macneil","Charles","Grant","Man","Sales manager","Co-operative Commonwealth Federation","Defeated",9832
+"British Columbia",1940-03-26,"General","19","Vancouver North","Tupper, Reginald Hibbert","Tupper","Reginald","Hibbert","Man","Barrister","National Government","Defeated",7186
+"British Columbia",1940-03-26,"General","19","Vancouver South","Green, Howard Charles","Green","Howard","Charles","Man","Barrister","National Government","Elected",18470
+"British Columbia",1940-03-26,"General","19","Vancouver South","Smith, Sidney Alexander","Smith","Sidney","Alexander","Man","Barrister","Liberal Party of Canada","Defeated",13451
+"British Columbia",1940-03-26,"General","19","Vancouver South","Turner, Arthur James","Turner","Arthur","James","Man","Garage proprietor","Co-operative Commonwealth Federation","Defeated",6062
+"British Columbia",1940-03-26,"General","19","Vancouver--Burrard","McGeer, Gerald Grattan","McGeer","Gerald","Grattan","Man","Barrister","Liberal Party of Canada","Elected",12617
+"British Columbia",1940-03-26,"General","19","Vancouver--Burrard","Webster, Arnold Alexander","Webster","Arnold","Alexander","Man","School teacher","Co-operative Commonwealth Federation","Defeated",10745
+"British Columbia",1940-03-26,"General","19","Vancouver--Burrard","Mcdonell, Allan J.","Mcdonell","Allan","J.","Man","Manufacturer","National Government","Defeated",9475
+"British Columbia",1940-03-26,"General","19","Victoria","Mayhew, Robert Wellington","Mayhew","Robert","Wellington","Man","Manufacturer","Liberal Party of Canada","Elected",13887
+"British Columbia",1940-03-26,"General","19","Victoria","Brown, James Sutherland","Brown","James","Sutherland","Man","Retired","National Government","Defeated",9193
+"British Columbia",1940-03-26,"General","19","Victoria","Mcallister, Kenneth","Mcallister","Kenneth",NA,"Man","Photographer","Co-operative Commonwealth Federation","Defeated",3352
+"British Columbia",1940-03-26,"General","19","Yale","Stirling, Grote","Stirling","Grote",NA,"Man","Civil engineer","National Government","Elected",8599
+"British Columbia",1940-03-26,"General","19","Yale","Jones, Owen Lewis","Jones","Owen","Lewis","Man","Merchant","Co-operative Commonwealth Federation","Defeated",7428
+"British Columbia",1940-03-26,"General","19","Yale","Morrow, Charles William","Morrow","Charles","William","Man","Barrister","Liberal Party of Canada","Defeated",6805
+"Manitoba",1940-03-26,"General","19","Brandon","Matthews, James Ewen","Matthews","James","Ewen","Man","Life underwriter","Liberal Party of Canada","Elected",8908
+"Manitoba",1940-03-26,"General","19","Brandon","Thompson, John William McLeod","Thompson","John","William McLeod","Man","Barrister","National Government","Defeated",6168
+"Manitoba",1940-03-26,"General","19","Brandon","Wood, James Henry","Wood","James","Henry","Man","Farmer","Co-operative Commonwealth Federation","Defeated",2609
+"Manitoba",1940-03-26,"General","19","Churchill","Crerar, Thomas Alexander","Crerar","Thomas","Alexander","Man","Minister of Mines and Resources","Liberal Party of Canada","Elected",8276
+"Manitoba",1940-03-26,"General","19","Churchill","Scarth, William Bain","Scarth","William","Bain","Man","Barrister","National Government","Defeated",4963
+"Manitoba",1940-03-26,"General","19","Dauphin","Ward, William John","Ward","William","John","Man","Farmer","Liberal Party of Canada","Elected",5953
+"Manitoba",1940-03-26,"General","19","Dauphin","Bowman, James Langstaff","Bowman","James","Langstaff","Man","Barrister","National Government","Defeated",5900
+"Manitoba",1940-03-26,"General","19","Dauphin","Moore, Ronald Stewart","Moore","Ronald","Stewart","Man","Railway employee","Co-operative Commonwealth Federation","Defeated",5142
+"Manitoba",1940-03-26,"General","19","Lisgar","Winkler, Howard Waldemar","Winkler","Howard","Waldemar","Man","Farmer","Liberal Party of Canada","Elected",5221
+"Manitoba",1940-03-26,"General","19","Lisgar","Follett, Reginald Arthur Sprake","Follett","Reginald","Arthur Sprake","Man","Creamery operator","National Government","Defeated",2433
+"Manitoba",1940-03-26,"General","19","Lisgar","Mcbrien, David Leslie","Mcbrien","David","Leslie","Man","Farmer","Co-operative Commonwealth Federation","Defeated",1160
+"Manitoba",1940-03-26,"General","19","Lisgar","Mcintyre, Thomas Eldon","Mcintyre","Thomas","Eldon","Man","Farmer","New Democracy","Defeated",685
+"Manitoba",1940-03-26,"General","19","Macdonald","Weir, William Gilbert","Weir","William","Gilbert","Man","Farmer","Liberal Progressive","Elected",7728
+"Manitoba",1940-03-26,"General","19","Macdonald","Cuddy, James Anthony","Cuddy","James","Anthony","Man","Farmer","National Government","Defeated",4510
+"Manitoba",1940-03-26,"General","19","Macdonald","Langtry, Ivan Andrew","Langtry","Ivan","Andrew","Man","Farmer","Co-operative Commonwealth Federation","Defeated",2639
+"Manitoba",1940-03-26,"General","19","Marquette","Glen, James Allison","Glen","James","Allison","Man","Barrister","Liberal Progressive","Elected",7027
+"Manitoba",1940-03-26,"General","19","Marquette","Ewbank, James Wilson","Ewbank","James","Wilson","Man","Farmer","Independent","Defeated",5259
+"Manitoba",1940-03-26,"General","19","Marquette","Peden, Robert","Peden","Robert",NA,"Man","Farmer","National Government","Defeated",4545
+"Manitoba",1940-03-26,"General","19","Neepawa","MacKenzie, Frederick Donald","MacKenzie","Frederick","Donald","Man","School principal","Liberal Party of Canada","Elected",6724
+"Manitoba",1940-03-26,"General","19","Neepawa","Murphy, Thomas Gerow","Murphy","Thomas","Gerow","Man","Druggist","National Government","Defeated",4865
+"Manitoba",1940-03-26,"General","19","Neepawa","Duffy, John Hazelett","Duffy","John","Hazelett","Man","Teacher","New Democracy","Defeated",2208
+"Manitoba",1940-03-26,"General","19","Portage la Prairie","Leader, Harry","Leader","Harry",NA,"Man","Farmer","Liberal Party of Canada","Elected",7442
+"Manitoba",1940-03-26,"General","19","Portage la Prairie","Jones, George Herbert","Jones","George","Herbert","Man","Farmer","National Government","Defeated",4835
+"Manitoba",1940-03-26,"General","19","Provencher","Jutras, René","Jutras","René",NA,"Man","Teacher","Liberal Party of Canada","Elected",3768
+"Manitoba",1940-03-26,"General","19","Provencher","Slater, Leo A.","Slater","Leo","A.","Man","Barrister","Independent","Defeated",3329
+"Manitoba",1940-03-26,"General","19","Provencher","Podolsky, Harry Matthew","Podolsky","Harry","Matthew","Man","Merchant","Independent","Defeated",1765
+"Manitoba",1940-03-26,"General","19","Provencher","Johnston, William Richard","Johnston","William","Richard","Man","Farmer","National Government","Defeated",1441
+"Manitoba",1940-03-26,"General","19","Provencher","Banville, Albert","Banville","Albert",NA,"Man","Labourer","New Democracy","Defeated",1099
+"Manitoba",1940-03-26,"General","19","Provencher","Gagnon, Évariste Rupert","Gagnon","Évariste","Rupert","Man","Fireman","Co-operative Commonwealth Federation","Defeated",841
+"Manitoba",1940-03-26,"General","19","Selkirk","Thorson, Joseph Thorarinn","Thorson","Joseph","Thorarinn","Man","Barrister","Liberal Party of Canada","Elected",11023
+"Manitoba",1940-03-26,"General","19","Selkirk","Wise, Richard Ambrose","Wise","Richard","Ambrose","Man","Clerk","Co-operative Commonwealth Federation","Defeated",6869
+"Manitoba",1940-03-26,"General","19","Selkirk","Partridge, Edmund","Partridge","Edmund",NA,"Man","Gardener","National Government","Defeated",3890
+"Manitoba",1940-03-26,"General","19","Souris","Ross, James Arthur","Ross","James","Arthur","Man","Farmer","National Government","Elected",4991
+"Manitoba",1940-03-26,"General","19","Souris","McDonald, George William","McDonald","George","William","Man","Implement agent","Liberal Party of Canada","Defeated",4861
+"Manitoba",1940-03-26,"General","19","Souris","Parkes, Alex H.","Parkes","Alex","H.","Man","Farmer","Co-operative Commonwealth Federation","Defeated",1370
+"Manitoba",1940-03-26,"General","19","Springfield","Turner, John Mouat","Turner","John","Mouat","Man","Manager","Liberal Party of Canada","Elected",7462
+"Manitoba",1940-03-26,"General","19","Springfield","Knowles, Stanley Howard","Knowles","Stanley","Howard","Man","Clergyman","Co-operative Commonwealth Federation","Defeated",7018
+"Manitoba",1940-03-26,"General","19","Springfield","Finlayson, Roderick Kenneth","Finlayson","Roderick","Kenneth","Man","Barrister","National Government","Defeated",3311
+"Manitoba",1940-03-26,"General","19","St. Boniface","Howden, John Power","Howden","John","Power","Man","Physician","Liberal Party of Canada","Elected",7926
+"Manitoba",1940-03-26,"General","19","St. Boniface","Maclean, George Campbell","Maclean","George","Campbell","Man","Broker","National Government","Defeated",3578
+"Manitoba",1940-03-26,"General","19","St. Boniface","Guay, Pierre Malcom","Guay","Pierre","Malcom","Man","Foreman","Social Credit Party of Canada","Defeated",1839
+"Manitoba",1940-03-26,"General","19","St. Boniface","Barefoot, George Henry","Barefoot","George","Henry","Man","Machinist","Co-operative Commonwealth Federation","Defeated",1739
+"Manitoba",1940-03-26,"General","19","St. Boniface","Jacob, Morris","Jacob","Morris",NA,"Man","Handwriting expert","Independent","Defeated",216
+"Manitoba",1940-03-26,"General","19","Winnipeg North","Booth, Charles Stephen","Booth","Charles","Stephen","Man","Barrister","Liberal Party of Canada","Elected",13015
+"Manitoba",1940-03-26,"General","19","Winnipeg North","Heaps, Abraham Albert","Heaps","Abraham","Albert","Man","Upholsterer","Co-operative Commonwealth Federation","Defeated",11249
+"Manitoba",1940-03-26,"General","19","Winnipeg North","Morris, Leslie Tom","Morris","Leslie","Tom","Man","Journalist","Communist Party of Canada","Defeated",5315
+"Manitoba",1940-03-26,"General","19","Winnipeg North","Ellor, Percy","Ellor","Percy",NA,"Man","Barrister","National Government","Defeated",2255
+"Manitoba",1940-03-26,"General","19","Winnipeg North Centre","Woodsworth, James Shaver","Woodsworth","James","Shaver","Man","Lecturer","Co-operative Commonwealth Federation","Elected",11324
+"Manitoba",1940-03-26,"General","19","Winnipeg North Centre","Mcdonnell, Ambrose Roy","Mcdonnell","Ambrose","Roy","Man","Barrister","Liberal Party of Canada","Defeated",11199
+"Manitoba",1940-03-26,"General","19","Winnipeg North Centre","Stefansson, Bjorn","Stefansson","Bjorn",NA,"Man","Barrister","National Government","Defeated",5412
+"Manitoba",1940-03-26,"General","19","Winnipeg South","Mutch, Leslie Alexander","Mutch","Leslie","Alexander","Man","Advertising executive","Liberal Party of Canada","Elected",15461
+"Manitoba",1940-03-26,"General","19","Winnipeg South","Baker, Phipps","Baker","Phipps",NA,"Man","Barrister","National Government","Defeated",8445
+"Manitoba",1940-03-26,"General","19","Winnipeg South","Mulligan, Dave","Mulligan","Dave",NA,"Man","Stationary engineer","Co-operative Commonwealth Federation","Defeated",3912
+"Manitoba",1940-03-26,"General","19","Winnipeg South Centre","Maybank, Ralph","Maybank","Ralph",NA,"Man","Barrister","Liberal Party of Canada","Elected",19486
+"Manitoba",1940-03-26,"General","19","Winnipeg South Centre","Kennedy, William Walker","Kennedy","William","Walker","Man","Barrister","National Government","Defeated",10698
+"Manitoba",1940-03-26,"General","19","Winnipeg South Centre","Swanson, John Julius","Swanson","John","Julius","Man","Real estate agent","Co-operative Commonwealth Federation","Defeated",5576
+"New Brunswick",1940-03-26,"General","19","Charlotte","Hill, Burton Maxwell","Hill","Burton","Maxwell","Man","Civil engineer","Liberal Party of Canada","Elected",6099
+"New Brunswick",1940-03-26,"General","19","Charlotte","Dewolfe, Walter G.","Dewolfe","Walter","G.","Man","Merchant","National Government","Defeated",4391
+"New Brunswick",1940-03-26,"General","19","Gloucester","Veniot, Clarence Joseph","Veniot","Clarence","Joseph","Man","Physician","Liberal Party of Canada","Elected",10451
+"New Brunswick",1940-03-26,"General","19","Gloucester","Robichaud, Albany M.","Robichaud","Albany","M.","Man","Lawyer","National Government","Defeated",5447
+"New Brunswick",1940-03-26,"General","19","Kent","Léger, Aurel D.","Léger","Aurel","D.","Man","Farmer","Liberal Party of Canada","Elected",5582
+"New Brunswick",1940-03-26,"General","19","Kent","Arsenault, Telesphore","Arsenault","Telesphore",NA,"Man","Farmer","National Government","Defeated",3032
+"New Brunswick",1940-03-26,"General","19","Northumberland","O'Brien, Joseph Leonard","O'Brien","Joseph","Leonard","Man","Lumberman","National Government","Elected",5149
+"New Brunswick",1940-03-26,"General","19","Northumberland","Maloney, John William","Maloney","John","William","Man","Lumber merchant","Liberal Party of Canada","Defeated",5072
+"New Brunswick",1940-03-26,"General","19","Northumberland","Barry, John Patrick","Barry","John","Patrick","Man","Lawyer","Independent Liberal","Defeated",2679
+"New Brunswick",1940-03-26,"General","19","Restigouche--Madawaska","Michaud, Joseph Enoil","Michaud","Joseph","Enoil","Man","Barrister","Liberal Party of Canada","Elected",12164
+"New Brunswick",1940-03-26,"General","19","Restigouche--Madawaska","Levasseur, Oscar","Levasseur","Oscar",NA,"Man","Merchant","National Government","Defeated",5239
+"New Brunswick",1940-03-26,"General","19","Royal","Brooks, Alfred Johnson","Brooks","Alfred","Johnson","Man","Barrister","National Government","Elected",8017
+"New Brunswick",1940-03-26,"General","19","Royal","White, Donald V.","White","Donald","V.","Man","Barrister","Liberal Party of Canada","Defeated",7196
+"New Brunswick",1940-03-26,"General","19","St. John--Albert","Hazen, Douglas King","Hazen","Douglas","King","Man","Barrister","National Government","Elected",15110
+"New Brunswick",1940-03-26,"General","19","St. John--Albert","McAvity, Allan Getchell","McAvity","Allan","Getchell","Man","Merchant","Liberal Party of Canada","Defeated",14197
+"New Brunswick",1940-03-26,"General","19","St. John--Albert","Fritch, James Edward","Fritch","James","Edward","Man","Salesman","Co-operative Commonwealth Federation","Defeated",761
+"New Brunswick",1940-03-26,"General","19","Victoria--Carleton","Hatfield, Heber Harold","Hatfield","Heber","Harold","Man","Produce merchant","National Government","Elected",7974
+"New Brunswick",1940-03-26,"General","19","Victoria--Carleton","Mccluskey, Michael Francis","Mccluskey","Michael","Francis","Man","Accountant","Liberal Party of Canada","Defeated",7283
+"New Brunswick",1940-03-26,"General","19","Westmorland","Emmerson, Henry Read","Emmerson","Henry","Read","Man","Traveller","Liberal Party of Canada","Elected",16431
+"New Brunswick",1940-03-26,"General","19","Westmorland","Mcmonagle, William Emmet","Mcmonagle","William","Emmet","Man","Barrister","National Government","Defeated",10259
+"New Brunswick",1940-03-26,"General","19","York--Sunbury","Hanson, Richard Burpee","Hanson","Richard","Burpee","Man","Barrister","National Government","Elected",10352
+"New Brunswick",1940-03-26,"General","19","York--Sunbury","Hughes, Peter J.","Hughes","Peter","J.","Man","Barrister","Liberal Party of Canada","Defeated",9908
+"Nova Scotia",1940-03-26,"General","19","Antigonish--Guysborough","Kirk, James Ralph","Kirk","James","Ralph","Man","Merchant","Liberal Party of Canada","Elected",7281
+"Nova Scotia",1940-03-26,"General","19","Antigonish--Guysborough","Landry, William Edward","Landry","William","Edward","Man","Contractor","National Government","Defeated",4610
+"Nova Scotia",1940-03-26,"General","19","Cape Breton North and Victoria","MacLean, Matthew","MacLean","Matthew",NA,"Man","Insurance agent","Liberal Party of Canada","Elected",6326
+"Nova Scotia",1940-03-26,"General","19","Cape Breton North and Victoria","Macdonald, John Michael","Macdonald","John","Michael","Man","Barrister","National Government","Defeated",5156
+"Nova Scotia",1940-03-26,"General","19","Cape Breton North and Victoria","Way, Robert","Way","Robert",NA,"Man","Clerk","Co-operative Commonwealth Federation","Defeated",2097
+"Nova Scotia",1940-03-26,"General","19","Cape Breton South","Gillis, Clarence","Gillis","Clarence",NA,"Man","Miner","Co-operative Commonwealth Federation","Elected",11582
+"Nova Scotia",1940-03-26,"General","19","Cape Breton South","Hartigan, David James","Hartigan","David","James","Man","Physician","Liberal Party of Canada","Defeated",11364
+"Nova Scotia",1940-03-26,"General","19","Cape Breton South","Nunn, Joseph Clyde","Nunn","Joseph","Clyde","Man","Radio announcer","National Government","Defeated",9719
+"Nova Scotia",1940-03-26,"General","19","Colchester--Hants","Purdy, Gordon Timlin","Purdy","Gordon","Timlin","Man","Lumberman","Liberal Party of Canada","Elected",12328
+"Nova Scotia",1940-03-26,"General","19","Colchester--Hants","Tremain, Hadley Brown","Tremain","Hadley","Brown","Man","Barrister","National Government","Defeated",10044
+"Nova Scotia",1940-03-26,"General","19","Cumberland","Black, Percy Chapman","Black","Percy","Chapman","Man","Businessman","National Government","Elected",8073
+"Nova Scotia",1940-03-26,"General","19","Cumberland","Cochrane, Kenneth Judson","Cochrane","Kenneth","Judson","Man","Shipbuilder","Liberal Party of Canada","Defeated",8061
+"Nova Scotia",1940-03-26,"General","19","Cumberland","Demings, Guy Alton","Demings","Guy","Alton","Man","Miner","Co-operative Commonwealth Federation","Defeated",1403
+"Nova Scotia",1940-03-26,"General","19","Digby--Annapolis--Kings","Ilsley, James Lorimer","Ilsley","James","Lorimer","Man","Barrister","Liberal Party of Canada","Elected",15094
+"Nova Scotia",1940-03-26,"General","19","Digby--Annapolis--Kings","Thomas, Hiram","Thomas","Hiram",NA,"Man","Farmer","National Government","Defeated",9518
+"Nova Scotia",1940-03-26,"General","19","Halifax","Macdonald, William Chisholm","Macdonald","William","Chisholm","Man","Barrister","Liberal Party of Canada","Elected",22089
+"Nova Scotia",1940-03-26,"General","19","Halifax","Isnor, Gordon Benjamin","Isnor","Gordon","Benjamin","Man","Merchant","Liberal Party of Canada","Elected",19398
+"Nova Scotia",1940-03-26,"General","19","Halifax","Donahoe, Richard Alphonsus","Donahoe","Richard","Alphonsus","Man","Barrister","National Government","Defeated",18197
+"Nova Scotia",1940-03-26,"General","19","Halifax","Smith, Charles B.","Smith","Charles","B.","Man","Barrister","National Government","Defeated",18114
+"Nova Scotia",1940-03-26,"General","19","Halifax","Finn, Robert Emmett","Finn","Robert","Emmett","Man","Barrister","Independent Liberal","Defeated",9217
+"Nova Scotia",1940-03-26,"General","19","Halifax","Borgford, Helgi I.S.","Borgford","Helgi","I.S.","Man","Clergyman","Co-operative Commonwealth Federation","Defeated",1561
+"Nova Scotia",1940-03-26,"General","19","Inverness--Richmond","McGarry, Moses Elijah","McGarry","Moses","Elijah","Man","Physician","Liberal Party of Canada","Elected",9123
+"Nova Scotia",1940-03-26,"General","19","Inverness--Richmond","MacDougall, Isaac Duncan","MacDougall","Isaac","Duncan","Man","Journalist","National Government","Defeated",7069
+"Nova Scotia",1940-03-26,"General","19","Pictou","McCulloch, Henry Byron","McCulloch","Henry","Byron","Man","Merchant","Liberal Party of Canada","Elected",9983
+"Nova Scotia",1940-03-26,"General","19","Pictou","Cameron, James M.","Cameron","James","M.","Man","Soldier","National Government","Defeated",8292
+"Nova Scotia",1940-03-26,"General","19","Pictou","Macmillan, Chad","Macmillan","Chad",NA,"Man","Clayworker","Independent","Defeated",615
+"Nova Scotia",1940-03-26,"General","19","Queens--Lunenburg","Kinley, John James","Kinley","John","James","Man","Druggist","Liberal Party of Canada","Elected",10616
+"Nova Scotia",1940-03-26,"General","19","Queens--Lunenburg","Levy, Robert Clifford","Levy","Robert","Clifford","Man","Barrister","National Government","Defeated",7845
+"Nova Scotia",1940-03-26,"General","19","Queens--Lunenburg","VAN BUSKIRK, Claude","VAN BUSKIRK","Claude",NA,"Man","Electrician","Co-operative Commonwealth Federation","Defeated",457
+"Nova Scotia",1940-03-26,"General","19","Shelburne--Yarmouth--Clare","Pottier, Vincent-Joseph","Pottier","Vincent-Joseph",NA,"Man","Barrister","Liberal Party of Canada","Elected",10851
+"Nova Scotia",1940-03-26,"General","19","Shelburne--Yarmouth--Clare","Walker, James Marven","Walker","James","Marven","Man","Merchant","National Government","Defeated",6569
+"Ontario",1940-03-26,"General","19","Algoma East","Farquhar, Thomas","Farquhar","Thomas",NA,"Man","Farmer","Liberal Party of Canada","Elected",5565
+"Ontario",1940-03-26,"General","19","Algoma East","Campbell, John Lorne","Campbell","John","Lorne","Man","Prospector","National Government","Defeated",3126
+"Ontario",1940-03-26,"General","19","Algoma East","Mcvey, J.W.","Mcvey","J.W.",NA,"Man","Dispatcher","Co-operative Commonwealth Federation","Defeated",1635
+"Ontario",1940-03-26,"General","19","Algoma West","Nixon, George Ewart","Nixon","George","Ewart","Man","Merchant","Liberal Party of Canada","Elected",8632
+"Ontario",1940-03-26,"General","19","Algoma West","Lang, John L.","Lang","John","L.","Man","Construction engineer","National Government","Defeated",5612
+"Ontario",1940-03-26,"General","19","Algoma West","Waite, Harry P.","Waite","Harry","P.","Man","Steelworker","Co-operative Commonwealth Federation","Defeated",2196
+"Ontario",1940-03-26,"General","19","Brant","Wood, George Ernest","Wood","George","Ernest","Man","Farmer","Liberal Party of Canada","Elected",4657
+"Ontario",1940-03-26,"General","19","Brant","Apps, Charles Joseph Sylva","Apps","Charles","Joseph Sylva","Man","Hockey player","National Government","Defeated",4519
+"Ontario",1940-03-26,"General","19","Brantford City","Macdonald, William Ross","Macdonald","William","Ross","Man","Barrister","Liberal Party of Canada","Elected",8013
+"Ontario",1940-03-26,"General","19","Brantford City","Wilmot, Charles Eardley","Wilmot","Charles","Eardley","Man","Flying officer","National Government","Defeated",6312
+"Ontario",1940-03-26,"General","19","Brantford City","Matthews, John Henry","Matthews","John","Henry","Man","Stereotypist","Co-operative Commonwealth Federation","Defeated",1315
+"Ontario",1940-03-26,"General","19","Broadview","Church, Thomas Langton","Church","Thomas","Langton","Man","Barrister","National Government","Elected",14474
+"Ontario",1940-03-26,"General","19","Broadview","Gressewell, George","Gressewell","George",NA,"Man","Manager","Liberal Party of Canada","Defeated",7866
+"Ontario",1940-03-26,"General","19","Broadview","Grube, George","Grube","George",NA,"Man","University professor","Co-operative Commonwealth Federation","Defeated",2613
+"Ontario",1940-03-26,"General","19","Bruce","Tomlinson, William Rae","Tomlinson","William","Rae","Man","Barrister","Liberal Party of Canada","Elected",7420
+"Ontario",1940-03-26,"General","19","Bruce","Snider, Leigh H.","Snider","Leigh","H.","Man","Barrister","National Government","Defeated",5275
+"Ontario",1940-03-26,"General","19","Carleton","Hyndman, Alonzo Bowen","Hyndman","Alonzo","Bowen","Man","Physician","National Government","Elected",7736
+"Ontario",1940-03-26,"General","19","Carleton","Arkell, Herbert Samuel","Arkell","Herbert","Samuel","Man","Farmer","Liberal Party of Canada","Defeated",6617
+"Ontario",1940-03-26,"General","19","Cochrane","Bradette, Joseph-Arthur","Bradette","Joseph-Arthur",NA,"Man","Merchant","Liberal Party of Canada","Elected",16785
+"Ontario",1940-03-26,"General","19","Cochrane","Crumb, Robert Whitney","Crumb","Robert","Whitney","Man","Electrician","National Government","Defeated",5652
+"Ontario",1940-03-26,"General","19","Danforth","Harris, Joseph Henry","Harris","Joseph","Henry","Man","Manufacturer","Conservative (1867-1942)","Elected",11847
+"Ontario",1940-03-26,"General","19","Danforth","Duncan, Lewis","Duncan","Lewis",NA,"Man","Barrister","Liberal Party of Canada","Defeated",8946
+"Ontario",1940-03-26,"General","19","Davenport","MacNicol, John Ritchie","MacNicol","John","Ritchie","Man","Retired","National Government","Elected",14890
+"Ontario",1940-03-26,"General","19","Davenport","Cameron, Neil","Cameron","Neil",NA,"Man","General manager","Liberal Party of Canada","Defeated",11140
+"Ontario",1940-03-26,"General","19","Dufferin--Simcoe","Rowe, William Earl","Rowe","William","Earl","Man","Farmer","National Government","Elected",6527
+"Ontario",1940-03-26,"General","19","Dufferin--Simcoe","Gilmore, Andrew Parr","Gilmore","Andrew","Parr","Man","Farmer","Liberal Progressive","Defeated",4226
+"Ontario",1940-03-26,"General","19","Durham","Rickard, Wilbert Franklin (Frank)","Rickard","Wilbert","Franklin (Frank)","Man","Farmer","Liberal Party of Canada","Elected",6743
+"Ontario",1940-03-26,"General","19","Durham","Strike, William Ross","Strike","William","Ross","Man","Barrister","National Government","Defeated",5435
+"Ontario",1940-03-26,"General","19","Eglinton","Hoblitzell, Frederick George","Hoblitzell","Frederick","George","Man","Managing director","Liberal Party of Canada","Elected",17166
+"Ontario",1940-03-26,"General","19","Eglinton","Baker, Richard Langton","Baker","Richard","Langton","Man","Manufacturer","National Government","Defeated",16926
+"Ontario",1940-03-26,"General","19","Elgin","Mills, Wilson Henry","Mills","Wilson","Henry","Man","Farmer and apple grower","Liberal Party of Canada","Elected",11867
+"Ontario",1940-03-26,"General","19","Elgin","Martin, Norman Roy","Martin","Norman","Roy","Man","Farmer","National Government","Defeated",8905
+"Ontario",1940-03-26,"General","19","Essex East","Martin, Paul Joseph James","Martin","Paul","Joseph James","Man","Barrister","Liberal Party of Canada","Elected",9811
+"Ontario",1940-03-26,"General","19","Essex East","Morand, Raymond Ducharme","Morand","Raymond","Ducharme","Man","Physician","National Government","Defeated",8060
+"Ontario",1940-03-26,"General","19","Essex East","Levert, Joseph Ben","Levert","Joseph","Ben","Man","Nurseryman","Co-operative Commonwealth Federation","Defeated",2879
+"Ontario",1940-03-26,"General","19","Essex East","Hicks, Roy Robert","Hicks","Roy","Robert","Man","Manufacturer","Canadian Labour","Defeated",398
+"Ontario",1940-03-26,"General","19","Essex South","Clark, Stuart Murray","Clark","Stuart","Murray","Man","General manager","Liberal Party of Canada","Elected",7624
+"Ontario",1940-03-26,"General","19","Essex South","Bruner, Albert Leonard","Bruner","Albert","Leonard","Man","Farmer","National Government","Defeated",5457
+"Ontario",1940-03-26,"General","19","Essex West","McLarty, Norman Alexander","McLarty","Norman","Alexander","Man","Barrister","Liberal Party of Canada","Elected",14133
+"Ontario",1940-03-26,"General","19","Essex West","Reaume, Arthur John","Reaume","Arthur","John","Man","Insurance agent","National Government","Defeated",12940
+"Ontario",1940-03-26,"General","19","Essex West","Joyce, Frederick Joseph","Joyce","Frederick","Joseph","Man","Auto worker","Co-operative Commonwealth Federation","Defeated",2035
+"Ontario",1940-03-26,"General","19","Fort William","McIvor, Daniel (Dan)","McIvor","Daniel","(Dan)","Man","Clergyman","Liberal Party of Canada","Elected",8504
+"Ontario",1940-03-26,"General","19","Fort William","Manion, Robert James","Manion","Robert","James","Man","Physician","National Government","Defeated",6768
+"Ontario",1940-03-26,"General","19","Fort William","Anderson, Garfield","Anderson","Garfield",NA,"Man","Barber","Co-operative Commonwealth Federation","Defeated",1778
+"Ontario",1940-03-26,"General","19","Frontenac--Addington","Aylesworth, Wilbert Ross","Aylesworth","Wilbert","Ross","Man","Farmer","National Government","Elected",6154
+"Ontario",1940-03-26,"General","19","Frontenac--Addington","McCallum, Angus Neil","McCallum","Angus","Neil","Man","Farmer","Liberal Party of Canada","Defeated",6028
+"Ontario",1940-03-26,"General","19","Glengarry","MacDiarmid, William Burton","MacDiarmid","William","Burton","Man","Physician","Liberal Party of Canada","Elected",4578
+"Ontario",1940-03-26,"General","19","Glengarry","MacRae, John David","MacRae","John","David","Man","Merchant","National Government","Defeated",2813
+"Ontario",1940-03-26,"General","19","Greenwood","Massey, Denton","Massey","Denton",NA,"Man","Anglican minister","National Government","Elected",14710
+"Ontario",1940-03-26,"General","19","Greenwood","Reilly, Thomas","Reilly","Thomas",NA,"Man","Investment broker","Liberal Party of Canada","Defeated",7397
+"Ontario",1940-03-26,"General","19","Greenwood","Leavens, Bertram E.","Leavens","Bertram","E.","Man",NA,"Co-operative Commonwealth Federation","Defeated",3430
+"Ontario",1940-03-26,"General","19","Grenville--Dundas","Casselman, Arza Clair","Casselman","Arza","Clair","Man","Lawyer","National Government","Elected",7225
+"Ontario",1940-03-26,"General","19","Grenville--Dundas","Taugher, William John","Taugher","William","John","Man","Physician","Liberal Party of Canada","Defeated",5642
+"Ontario",1940-03-26,"General","19","Grey North","Telford, William Pattison","Telford","William","Pattison","Man","Lawyer","Liberal Party of Canada","Elected",7538
+"Ontario",1940-03-26,"General","19","Grey North","Porteous, Victor Clarence","Porteous","Victor","Clarence","Man","Farmer","National Government","Defeated",5771
+"Ontario",1940-03-26,"General","19","Grey North","Case, Wilfrid Garfield","Case","Wilfrid","Garfield","Man","Insurance manager","National Liberal Progressive","Defeated",2434
+"Ontario",1940-03-26,"General","19","Grey--Bruce","Harris, Walter Edward","Harris","Walter","Edward","Man","Lawyer","Liberal Party of Canada","Elected",6389
+"Ontario",1940-03-26,"General","19","Grey--Bruce","Knechtel, Karl Daniel","Knechtel","Karl","Daniel","Man","Manufacturer","National Government","Defeated",4944
+"Ontario",1940-03-26,"General","19","Grey--Bruce","Macphail, Agnes Campbell","Macphail","Agnes","Campbell","Woman","Schoolteacher","United Farmers of Ontario-Labour","Defeated",4761
+"Ontario",1940-03-26,"General","19","Haldimand","Senn, Mark Cecil","Senn","Mark","Cecil","Man","Merchant","Conservative (1867-1942)","Elected",5515
+"Ontario",1940-03-26,"General","19","Haldimand","Macaulay, Basil North","Macaulay","Basil","North","Man","Physician","Liberal Party of Canada","Defeated",4712
+"Ontario",1940-03-26,"General","19","Halton","Cleaver, Hughes","Cleaver","Hughes",NA,"Man","Lawyer","Liberal Party of Canada","Elected",7788
+"Ontario",1940-03-26,"General","19","Halton","Atkins, George C.","Atkins","George","C.","Man",NA,"National Government","Defeated",6184
+"Ontario",1940-03-26,"General","19","Hamilton East","Ross, Thomas Hambly","Ross","Thomas","Hambly","Man","Insurance broker","Liberal Party of Canada","Elected",14053
+"Ontario",1940-03-26,"General","19","Hamilton East","Brown, Albert A.","Brown","Albert","A.","Man","Barrister","National Government","Defeated",11716
+"Ontario",1940-03-26,"General","19","Hamilton East","Aindow, Roy","Aindow","Roy",NA,"Man","Steelworker","Co-operative Commonwealth Federation","Defeated",3190
+"Ontario",1940-03-26,"General","19","Hamilton East","Macleod, John D.","Macleod","John","D.","Man","Secretary","Communist Party of Canada","Defeated",695
+"Ontario",1940-03-26,"General","19","Hamilton West","Gibson, Colin William George","Gibson","Colin","William George","Man","Lawyer","Liberal Party of Canada","Elected",13965
+"Ontario",1940-03-26,"General","19","Hamilton West","Marsh, John Allmond","Marsh","John","Allmond","Man","Business executive","National Government","Defeated",11032
+"Ontario",1940-03-26,"General","19","Hastings South","Stokes, George Henry","Stokes","George","Henry","Man","Valuator","National Government","Elected",9001
+"Ontario",1940-03-26,"General","19","Hastings South","Haig, McLean","Haig","McLean",NA,"Man","Insurance broker","Liberal Party of Canada","Defeated",6330
+"Ontario",1940-03-26,"General","19","Hastings South","Cory, Harry Raymond","Cory","Harry","Raymond","Man","Broker","Independent Liberal","Defeated",3348
+"Ontario",1940-03-26,"General","19","Hastings--Peterborough","White, George Stanley","White","George","Stanley","Man","Lawyer","National Government","Elected",5471
+"Ontario",1940-03-26,"General","19","Hastings--Peterborough","Ferguson, Rork Scott","Ferguson","Rork","Scott","Man","Farmer","Liberal Party of Canada","Defeated",5207
+"Ontario",1940-03-26,"General","19","High Park","Anderson, Alexander James","Anderson","Alexander","James","Man","Lawyer","National Government","Elected",12266
+"Ontario",1940-03-26,"General","19","High Park","Cameron, Alan John Patrick","Cameron","Alan","John Patrick","Man","Barrister","Liberal Party of Canada","Defeated",12061
+"Ontario",1940-03-26,"General","19","High Park","Coburn, Carroll Langford","Coburn","Carroll","Langford","Man","Journalist","Co-operative Commonwealth Federation","Defeated",1777
+"Ontario",1940-03-26,"General","19","Huron North","Cardiff, Lewis Elston","Cardiff","Lewis","Elston","Man","Farmer","National Government","Elected",5937
+"Ontario",1940-03-26,"General","19","Huron North","Deachman, Robert John","Deachman","Robert","John","Man","Journalist","Liberal Party of Canada","Defeated",5897
+"Ontario",1940-03-26,"General","19","Huron--Perth","Golding, William Henry","Golding","William","Henry","Man","Machinist","Liberal Party of Canada","Elected",5622
+"Ontario",1940-03-26,"General","19","Huron--Perth","Morley, James Wilson","Morley","James","Wilson","Man","Barrister","National Government","Defeated",3472
+"Ontario",1940-03-26,"General","19","Kenora--Rainy River","McKinnon, Hugh Bathgate","McKinnon","Hugh","Bathgate","Man","Locomotive engineer","Liberal Party of Canada","Elected",10595
+"Ontario",1940-03-26,"General","19","Kenora--Rainy River","Dean, John Albert","Dean","John","Albert","Man","Dental surgeon","National Government","Defeated",5286
+"Ontario",1940-03-26,"General","19","Kenora--Rainy River","Ivens, William","Ivens","William",NA,"Man","Chiropractor","Co-operative Commonwealth Federation","Defeated",3173
+"Ontario",1940-03-26,"General","19","Kent","Desmond, Clayton Earl","Desmond","Clayton","Earl","Man","Farmer","National Government","Elected",11629
+"Ontario",1940-03-26,"General","19","Kent","Thompson, Arthur Lisle","Thompson","Arthur","Lisle","Man","Implement agent","Liberal Party of Canada","Defeated",10945
+"Ontario",1940-03-26,"General","19","Kingston City","Rogers, Norman McLeod","Rogers","Norman","McLeod","Man","Teacher","Liberal Party of Canada","Elected",9609
+"Ontario",1940-03-26,"General","19","Kingston City","Kidd, Thomas Ashmore","Kidd","Thomas","Ashmore","Man","Manufacturer","National Government","Defeated",7475
+"Ontario",1940-03-26,"General","19","Lambton West","Gray, Ross Wilfred","Gray","Ross","Wilfred","Man","Barrister","Liberal Party of Canada","Elected",8671
+"Ontario",1940-03-26,"General","19","Lambton West","Kenny, William Howard","Kenny","William","Howard","Man","Manager","National Government","Defeated",7864
+"Ontario",1940-03-26,"General","19","Lambton--Kent","MacKenzie, Hugh Alexander","MacKenzie","Hugh","Alexander","Man","Farmer","Liberal Progressive","Elected",8834
+"Ontario",1940-03-26,"General","19","Lambton--Kent","Stonehouse, Calvert Stanley","Stonehouse","Calvert","Stanley","Man","Merchant","National Government","Defeated",6089
+"Ontario",1940-03-26,"General","19","Lanark","Soper, Bert H.","Soper","Bert","H.","Man","Merchant","Liberal Party of Canada","Elected",8821
+"Ontario",1940-03-26,"General","19","Lanark","Thompson, Thomas Alfred","Thompson","Thomas","Alfred","Man","Retired farmer","National Government","Defeated",7180
+"Ontario",1940-03-26,"General","19","Leeds","Fulford, George Taylor","Fulford","George","Taylor","Man","Manufacturer","Liberal Party of Canada","Elected",10322
+"Ontario",1940-03-26,"General","19","Leeds","Stewart, Hugh Alexander","Stewart","Hugh","Alexander","Man","Barrister","National Government","Defeated",8227
+"Ontario",1940-03-26,"General","19","Lincoln","Lockhart, Norman James Macdonald","Lockhart","Norman","James Macdonald","Man","Merchant","National Government","Elected",13331
+"Ontario",1940-03-26,"General","19","Lincoln","Bench, John Joseph","Bench","John","Joseph","Man","Barrister","Liberal Party of Canada","Defeated",12921
+"Ontario",1940-03-26,"General","19","Lincoln","Scott, John","Scott","John",NA,"Man","Millwright","Co-operative Commonwealth Federation","Defeated",2443
+"Ontario",1940-03-26,"General","19","London","Johnston, Joseph Allan","Johnston","Joseph","Allan","Man","Merchant","Liberal Party of Canada","Elected",15824
+"Ontario",1940-03-26,"General","19","London","Kingsmill, Thomas Ford","Kingsmill","Thomas","Ford","Man","Merchant","National Government","Defeated",12534
+"Ontario",1940-03-26,"General","19","London","Hall, Everett Orlan","Hall","Everett","Orlan","Man","Teacher","Co-operative Commonwealth Federation","Defeated",3762
+"Ontario",1940-03-26,"General","19","Middlesex East","Ross, Duncan Graham","Ross","Duncan","Graham","Man","Merchant","Liberal Party of Canada","Elected",8444
+"Ontario",1940-03-26,"General","19","Middlesex East","Fuller, Frederick George","Fuller","Frederick","George","Man",NA,"National Government","Defeated",6256
+"Ontario",1940-03-26,"General","19","Middlesex East","Dickie, Kenneth Elson","Dickie","Kenneth","Elson","Man","Farmer","Co-operative Commonwealth Federation","Defeated",1577
+"Ontario",1940-03-26,"General","19","Middlesex West","McCubbin, Robert","McCubbin","Robert",NA,"Man","Farmer","Liberal Party of Canada","Elected",6024
+"Ontario",1940-03-26,"General","19","Middlesex West","Freele, Lloyd Wm. M.","Freele","Lloyd","Wm. M.","Man","Physician","National Government","Defeated",3886
+"Ontario",1940-03-26,"General","19","Muskoka--Ontario","Furniss, Stephen Joseph","Furniss","Stephen","Joseph","Man","Farmer","Liberal Party of Canada","Elected",8098
+"Ontario",1940-03-26,"General","19","Muskoka--Ontario","Prowse, Norman Everrit","Prowse","Norman","Everrit","Man","Township clerk","National Government","Defeated",7016
+"Ontario",1940-03-26,"General","19","Nipissing","Hurtubise, Joseph Raoul","Hurtubise","Joseph","Raoul","Man","Physician","Liberal Party of Canada","Elected",26916
+"Ontario",1940-03-26,"General","19","Nipissing","Larocque, Onésime","Larocque","Onésime",NA,"Man","Farmer","National Government","Defeated",11229
+"Ontario",1940-03-26,"General","19","Norfolk","Taylor, William Horace","Taylor","William","Horace","Man","Farmer","Liberal Party of Canada","Elected",9230
+"Ontario",1940-03-26,"General","19","Norfolk","Pratt, Arthur Clarence","Pratt","Arthur","Clarence","Man","Fruit grower","National Government","Defeated",5894
+"Ontario",1940-03-26,"General","19","Northumberland","Fraser, William Alexander","Fraser","William","Alexander","Man","Manufacturer and farmer","Liberal Party of Canada","Elected",8194
+"Ontario",1940-03-26,"General","19","Northumberland","Bone, Jamieson","Bone","Jamieson",NA,"Man","Manufacturer","National Government","Defeated",7241
+"Ontario",1940-03-26,"General","19","Ontario","Moore, William Henry","Moore","William","Henry","Man","Farmer","Liberal Party of Canada","Elected",12176
+"Ontario",1940-03-26,"General","19","Ontario","Newman, Harry Allen","Newman","Harry","Allen","Man","Farmer","National Government","Defeated",7914
+"Ontario",1940-03-26,"General","19","Ottawa East","Pinard, Joseph Albert","Pinard","Joseph","Albert","Man","Manufacturer's agent","Liberal Party of Canada","Elected",12373
+"Ontario",1940-03-26,"General","19","Ottawa East","Chartrand, Aurèle","Chartrand","Aurèle",NA,"Man","Barrister","Independent Liberal","Defeated",10526
+"Ontario",1940-03-26,"General","19","Ottawa East","Seguin, Charles-Avila","Seguin","Charles-Avila",NA,"Man","Barrister","National Government","Defeated",6149
+"Ontario",1940-03-26,"General","19","Ottawa West","McIlraith, George James","McIlraith","George","James","Man","Barrister","Liberal Party of Canada","Elected",27460
+"Ontario",1940-03-26,"General","19","Ottawa West","Leggett, Theodore Howell","Leggett","Theodore","Howell","Man","Physician","National Government","Defeated",19780
+"Ontario",1940-03-26,"General","19","Oxford","Rennie, Almon Secord","Rennie","Almon","Secord","Man","Gentleman","Liberal Party of Canada","Elected",10975
+"Ontario",1940-03-26,"General","19","Oxford","Milton, Charles Thomas","Milton","Charles","Thomas","Man","Farmer","National Government","Defeated",8325
+"Ontario",1940-03-26,"General","19","Parkdale","Bruce, Herbert Alexander","Bruce","Herbert","Alexander","Man","Surgeon","National Government","Elected",13605
+"Ontario",1940-03-26,"General","19","Parkdale","Travers, Jack","Travers","Jack",NA,"Man","Printer","Liberal Party of Canada","Defeated",12487
+"Ontario",1940-03-26,"General","19","Parry Sound","Slaght, Arthur Graeme","Slaght","Arthur","Graeme","Man","Barrister","Liberal Party of Canada","Elected",5850
+"Ontario",1940-03-26,"General","19","Parry Sound","Mclean, A.Coulter","Mclean","A.Coulter",NA,"Man","Mining developer","National Government","Defeated",4159
+"Ontario",1940-03-26,"General","19","Parry Sound","Culbert, Clarence E.","Culbert","Clarence","E.","Man","Service station proprietor","New Democratic Party","Defeated",786
+"Ontario",1940-03-26,"General","19","Peel","Graydon, Gordon","Graydon","Gordon",NA,"Man","Barrister","National Government","Elected",8486
+"Ontario",1940-03-26,"General","19","Peel","Farr, George R.","Farr","George","R.","Man","Automobile dealer","Liberal Party of Canada","Defeated",7638
+"Ontario",1940-03-26,"General","19","Perth","Sanderson, Frederick George","Sanderson","Frederick","George","Man","Agent","Liberal Party of Canada","Elected",12926
+"Ontario",1940-03-26,"General","19","Perth","Murray, John","Murray","John",NA,"Man","Barrister","National Government","Defeated",8451
+"Ontario",1940-03-26,"General","19","Peterborough West","Fraser, Gordon Knapman","Fraser","Gordon","Knapman","Man","Gentleman","National Government","Elected",9683
+"Ontario",1940-03-26,"General","19","Peterborough West","Glover, Roland Maxwell","Glover","Roland","Maxwell","Man","Alderman","Liberal Party of Canada","Defeated",9505
+"Ontario",1940-03-26,"General","19","Port Arthur","Howe, Clarence Decatur","Howe","Clarence","Decatur","Man","Civil engineer","Liberal Party of Canada","Elected",10327
+"Ontario",1940-03-26,"General","19","Port Arthur","Barton, Alan A.","Barton","Alan","A.","Man","Mine manager","National Government","Defeated",5213
+"Ontario",1940-03-26,"General","19","Port Arthur","Gibson, Alexander","Gibson","Alexander",NA,"Man","Paper maker","Co-operative Commonwealth Federation","Defeated",3128
+"Ontario",1940-03-26,"General","19","Prescott","Bertrand, Elie-Oscar","Bertrand","Elie-Oscar",NA,"Man","Merchant","Liberal Party of Canada","Elected",6431
+"Ontario",1940-03-26,"General","19","Prescott","Maisonneuve, Léandre","Maisonneuve","Léandre",NA,"Man","Merchant","Independent Liberal","Defeated",2028
+"Ontario",1940-03-26,"General","19","Prescott","Tierney, Parnell","Tierney","Parnell",NA,"Man","Clerk","National Government","Defeated",1819
+"Ontario",1940-03-26,"General","19","Prince Edward--Lennox","Tustin, George James","Tustin","George","James","Man","Merchant","National Government","Elected",6574
+"Ontario",1940-03-26,"General","19","Prince Edward--Lennox","Weese, Howard","Weese","Howard",NA,"Man","Farmer","Liberal Party of Canada","Defeated",5906
+"Ontario",1940-03-26,"General","19","Renfrew North","Warren, Ralph Melville","Warren","Ralph","Melville","Man","Farmer","Liberal Party of Canada","Elected",6199
+"Ontario",1940-03-26,"General","19","Renfrew North","Wood, Edgar Troy","Wood","Edgar","Troy","Man","Physician","National Government","Defeated",4536
+"Ontario",1940-03-26,"General","19","Renfrew North","Vondette, Delmar","Vondette","Delmar",NA,"Man","Labourer","Co-operative Commonwealth Federation","Defeated",709
+"Ontario",1940-03-26,"General","19","Renfrew South","McCann, James Joseph","McCann","James","Joseph","Man","Physician","Liberal Party of Canada","Elected",6228
+"Ontario",1940-03-26,"General","19","Renfrew South","Maloney, Martin James","Maloney","Martin","James","Man","Physician","Conservative (1867-1942)","Defeated",5236
+"Ontario",1940-03-26,"General","19","Rosedale","Jackman, Harry Rutherford","Jackman","Harry","Rutherford","Man","Manager","National Government","Elected",12519
+"Ontario",1940-03-26,"General","19","Rosedale","Shannon, J. Louis","Shannon","J.","Louis","Man","Barrister","Liberal Party of Canada","Defeated",10399
+"Ontario",1940-03-26,"General","19","Rosedale","Dymond, Norah","Dymond","Norah",NA,"Woman","Housewife","Co-operative Commonwealth Federation","Defeated",991
+"Ontario",1940-03-26,"General","19","Russell","Goulet, Alfred","Goulet","Alfred",NA,"Man","Merchant","Liberal Party of Canada","Elected",6045
+"Ontario",1940-03-26,"General","19","Russell","Caillier, Frederick A.","Caillier","Frederick","A.","Man","Station agent","National Government","Defeated",2961
+"Ontario",1940-03-26,"General","19","Simcoe East","McLean, George Alexander","McLean","George","Alexander","Man","Insurance agent","Liberal Party of Canada","Elected",8470
+"Ontario",1940-03-26,"General","19","Simcoe East","Smith, Oliver Hereford","Smith","Oliver","Hereford","Man","Barrister","National Government","Defeated",7024
+"Ontario",1940-03-26,"General","19","Simcoe North","McCuaig, Duncan Fletcher","McCuaig","Duncan","Fletcher","Man","Barrister","Liberal Party of Canada","Elected",7096
+"Ontario",1940-03-26,"General","19","Simcoe North","Brock, Frederick Aylsworth","Brock","Frederick","Aylsworth","Man","Contractor","National Government","Defeated",6030
+"Ontario",1940-03-26,"General","19","Spadina","Factor, Samuel","Factor","Samuel",NA,"Man","Barrister","Liberal Party of Canada","Elected",20506
+"Ontario",1940-03-26,"General","19","Spadina","Blackstock, George Gooderham","Blackstock","George","Gooderham","Man","Mining executive","National Government","Defeated",14148
+"Ontario",1940-03-26,"General","19","Spadina","Smith, Stewart","Smith","Stewart",NA,"Man","Editor","Communist Party of Canada","Defeated",2922
+"Ontario",1940-03-26,"General","19","St. Paul's","Ross, Douglas Gooderham","Ross","Douglas","Gooderham","Man","Insurance broker","National Government","Elected",15591
+"Ontario",1940-03-26,"General","19","St. Paul's","Rooney, James Hendrick","Rooney","James","Hendrick","Man","Accountant","Liberal Party of Canada","Defeated",14816
+"Ontario",1940-03-26,"General","19","Stormont","Chevrier, Lionel","Chevrier","Lionel",NA,"Man","Barrister","Liberal Party of Canada","Elected",10197
+"Ontario",1940-03-26,"General","19","Stormont","Emard, Elzéar","Emard","Elzéar",NA,"Man","Physician","National Government","Defeated",6202
+"Ontario",1940-03-26,"General","19","Timiskaming","Little, Walter","Little","Walter",NA,"Man","Dealer","Liberal Party of Canada","Elected",10455
+"Ontario",1940-03-26,"General","19","Timiskaming","O'MEARA, Gerald Daniel","O'MEARA","Gerald","Daniel","Man","Barrister","Liberal Party of Canada","Defeated",4906
+"Ontario",1940-03-26,"General","19","Timiskaming","Hill, Walter John","Hill","Walter","John","Man","Car inspector","Co-operative Commonwealth Federation","Defeated",2481
+"Ontario",1940-03-26,"General","19","Timiskaming","Swift, Albert Edward","Swift","Albert","Edward","Man","Miner","Unknown","Defeated",110
+"Ontario",1940-03-26,"General","19","Trinity","Roebuck, Arthur Wentworth","Roebuck","Arthur","Wentworth","Man","Barrister","Liberal Party of Canada","Elected",14901
+"Ontario",1940-03-26,"General","19","Trinity","Geary, George Reginald","Geary","George","Reginald","Man","Barrister","National Government","Defeated",11617
+"Ontario",1940-03-26,"General","19","Trinity","Stewart, Douglas","Stewart","Douglas",NA,"Man","Business manager","Independent","Defeated",1071
+"Ontario",1940-03-26,"General","19","Victoria","McNevin, Thomas Bruce","McNevin","Thomas","Bruce","Man","Farmer","Liberal Party of Canada","Elected",8499
+"Ontario",1940-03-26,"General","19","Victoria","Macalpine, C.D.H.","Macalpine","C.D.H.",NA,"Man","Manager","National Government","Defeated",7422
+"Ontario",1940-03-26,"General","19","Waterloo North","Euler, William Daum","Euler","William","Daum","Man","Publisher","Liberal Party of Canada","Elected",14172
+"Ontario",1940-03-26,"General","19","Waterloo North","Leavine, Stanley Francis","Leavine","Stanley","Francis","Man","Physician","National Government","Defeated",6694
+"Ontario",1940-03-26,"General","19","Waterloo North","Honsberger, Enoch","Honsberger","Enoch",NA,"Man","Lumber merchant","Co-operative Commonwealth Federation","Defeated",1597
+"Ontario",1940-03-26,"General","19","Waterloo South","Homuth, Karl Kenneth","Homuth","Karl","Kenneth","Man","Manufacturer","National Government","Elected",7432
+"Ontario",1940-03-26,"General","19","Waterloo South","Towle, Kerry","Towle","Kerry",NA,"Man","Barrister","Liberal Party of Canada","Defeated",6975
+"Ontario",1940-03-26,"General","19","Waterloo South","Latsch, Vardon Stanley","Latsch","Vardon","Stanley","Man","Salesman","Co-operative Commonwealth Federation","Defeated",1549
+"Ontario",1940-03-26,"General","19","Welland","Damude, Arthur Byron","Damude","Arthur","Byron","Man","Insurance agent","Liberal Party of Canada","Elected",19132
+"Ontario",1940-03-26,"General","19","Welland","Brooks, Allan","Brooks","Allan",NA,"Man","Barrister","National Government","Defeated",14491
+"Ontario",1940-03-26,"General","19","Welland","Woodworth, Ernest","Woodworth","Ernest",NA,"Man","Printer","Co-operative Commonwealth Federation","Defeated",2818
+"Ontario",1940-03-26,"General","19","Wellington North","Blair, John Knox","Blair","John","Knox","Man","Physician","Liberal Party of Canada","Elected",5748
+"Ontario",1940-03-26,"General","19","Wellington North","Menary, Lewis","Menary","Lewis",NA,"Man","Merchant","National Government","Defeated",4266
+"Ontario",1940-03-26,"General","19","Wellington South","Gladstone, Robert William","Gladstone","Robert","William","Man","Gentleman","Liberal Party of Canada","Elected",8115
+"Ontario",1940-03-26,"General","19","Wellington South","Austen, Charles Leroy","Austen","Charles","Leroy","Man","Manufacturer","Independent","Defeated",5073
+"Ontario",1940-03-26,"General","19","Wellington South","Oliver, John E.","Oliver","John","E.","Man","Railway employee","National Government","Defeated",4121
+"Ontario",1940-03-26,"General","19","Wentworth","Corman, Ellis Hopkins","Corman","Ellis","Hopkins","Man","Fruit grower","Liberal Party of Canada","Elected",15714
+"Ontario",1940-03-26,"General","19","Wentworth","Lennard, Frank Exton","Lennard","Frank","Exton","Man","Textile dyer","National Government","Defeated",14949
+"Ontario",1940-03-26,"General","19","York East","McGregor, Robert Henry","McGregor","Robert","Henry","Man","Contractor","National Government","Elected",16741
+"Ontario",1940-03-26,"General","19","York East","Irwin, Robert Allan","Irwin","Robert","Allan","Man","Accountant","Liberal Party of Canada","Defeated",12429
+"Ontario",1940-03-26,"General","19","York East","Jolliffe, Edward Bigelow","Jolliffe","Edward","Bigelow","Man","Barrister","Co-operative Commonwealth Federation","Defeated",4931
+"Ontario",1940-03-26,"General","19","York North","Mulock, William Pate","Mulock","William","Pate","Man","Lawyer","Liberal Party of Canada","Elected",10653
+"Ontario",1940-03-26,"General","19","York North","Dix, George M.","Dix","George","M.","Man","Clergyman","National Government","Defeated",8829
+"Ontario",1940-03-26,"General","19","York South","Cockeram, Alan","Cockeram","Alan",NA,"Man","Secretary","National Government","Elected",15346
+"Ontario",1940-03-26,"General","19","York South","Macrae, F.J.","Macrae","F.J.",NA,"Man","Barrister","Liberal Party of Canada","Defeated",12864
+"Ontario",1940-03-26,"General","19","York South","Noseworthy, Joseph William","Noseworthy","Joseph","William","Man","Teacher","Co-operative Commonwealth Federation","Defeated",5372
+"Ontario",1940-03-26,"General","19","York West","Adamson, Agar Rodney","Adamson","Agar","Rodney","Man","Mining engineer","Conservative (1867-1942)","Elected",12788
+"Ontario",1940-03-26,"General","19","York West","Bennett, Chris. J.","Bennett","Chris.","J.","Man","Contractor","Liberal Party of Canada","Defeated",12117
+"Ontario",1940-03-26,"General","19","York West","Lewis, David","Lewis","David",NA,"Man","Barrister","Co-operative Commonwealth Federation","Defeated",3787
+"Prince Edward Island",1940-03-26,"General","19","King's","Grant, Thomas Vincent","Grant","Thomas","Vincent","Man","Physician","Liberal Party of Canada","Elected",4997
+"Prince Edward Island",1940-03-26,"General","19","King's","Mcdonald, Augustine Adolphus","Mcdonald","Augustine","Adolphus","Man","Physician","National Government","Defeated",4081
+"Prince Edward Island",1940-03-26,"General","19","Prince","Ralston, James Layton","Ralston","James","Layton","Man","Barrister","Liberal Party of Canada","Elected",8745
+"Prince Edward Island",1940-03-26,"General","19","Prince","Macphee, John Adolphus","Macphee","John","Adolphus","Man","Physician","National Government","Defeated",5767
+"Prince Edward Island",1940-03-26,"General","19","Queen's","Macmillan, Cyrus","Macmillan","Cyrus",NA,"Man","Educationalist","Liberal Party of Canada","Elected",10511
+"Prince Edward Island",1940-03-26,"General","19","Queen's","Douglas, James Lester","Douglas","James","Lester","Man","Produce exporter","Liberal Party of Canada","Elected",10411
+"Prince Edward Island",1940-03-26,"General","19","Queen's","Hyndman, John Orlebar","Hyndman","John","Orlebar","Man","Insurance broker","National Government","Defeated",9206
+"Prince Edward Island",1940-03-26,"General","19","Queen's","McLure, Winfield Chester Scott","McLure","Winfield","Chester Scott","Man","Broker","National Government","Defeated",8974
+"Quebec",1940-03-26,"General","19","Argenteuil","McGibbon, James Wright","McGibbon","James","Wright","Man","Lumber merchant","Liberal Party of Canada","Elected",5629
+"Quebec",1940-03-26,"General","19","Argenteuil","Héon, Georges-Henri","Héon","Georges-Henri",NA,"Man","Lawyer","National Government","Defeated",3763
+"Quebec",1940-03-26,"General","19","Beauce","Lacroix, Édouard","Lacroix","Édouard",NA,"Man","Lumber merchant","Liberal Party of Canada","Elected",12482
+"Quebec",1940-03-26,"General","19","Beauce","Poulin, Josaphat","Poulin","Josaphat",NA,"Man","Insurance agent","National Government","Defeated",3142
+"Quebec",1940-03-26,"General","19","Beauharnois--Laprairie","Raymond, Maxime","Raymond","Maxime",NA,"Man","Lawyer","Liberal Party of Canada","Elected",11244
+"Quebec",1940-03-26,"General","19","Beauharnois--Laprairie","Roy, Hormisdas","Roy","Hormisdas",NA,"Man","Merchant","National Government","Defeated",3471
+"Quebec",1940-03-26,"General","19","Bellechasse","Picard, Louis-Philippe","Picard","Louis-Philippe",NA,"Man","Lawyer","Liberal Party of Canada","Elected",6585
+"Quebec",1940-03-26,"General","19","Bellechasse","Morrissette, Edouard","Morrissette","Edouard",NA,"Man","Accountant","Unknown","Defeated",2366
+"Quebec",1940-03-26,"General","19","Berthier--Maskinongé","Ferron, J. Émile","Ferron","J.","Émile","Man","Lawyer","Liberal Party of Canada","Elected",10119
+"Quebec",1940-03-26,"General","19","Berthier--Maskinongé","Barrette, Joseph Arthur","Barrette","Joseph","Arthur","Man","Notary","National Government","Defeated",3323
+"Quebec",1940-03-26,"General","19","Bonaventure","Poirier, Joseph Alphée","Poirier","Joseph","Alphée","Man","Poultry farmer","Liberal Party of Canada","Elected",9446
+"Quebec",1940-03-26,"General","19","Bonaventure","Arsenault, Bona","Arsenault","Bona",NA,"Man","Journalist","National Government","Defeated",5741
+"Quebec",1940-03-26,"General","19","Brome--Missisquoi","Hallé, Maurice","Hallé","Maurice",NA,"Man","Farmer","Liberal Party of Canada","Elected",8302
+"Quebec",1940-03-26,"General","19","Brome--Missisquoi","Murphy, Daniel James","Murphy","Daniel","James","Man","Farmer","National Government","Defeated",2647
+"Quebec",1940-03-26,"General","19","Cartier","Bercovitch, Peter","Bercovitch","Peter",NA,"Man","Lawyer","Liberal Party of Canada","Elected",18191
+"Quebec",1940-03-26,"General","19","Cartier","Ainey, Arthur","Ainey","Arthur",NA,"Man","Painter","National Labour","Defeated",2354
+"Quebec",1940-03-26,"General","19","Chambly--Rouville","Dupuis, Vincent","Dupuis","Vincent",NA,"Man","Lawyer","Liberal Party of Canada","Elected",11964
+"Quebec",1940-03-26,"General","19","Chambly--Rouville","Penverne, Jean-Joseph","Penverne","Jean-Joseph",NA,"Man","Lawyer","National Government","Defeated",5761
+"Quebec",1940-03-26,"General","19","Chambly--Rouville","Menard, Joseph","Menard","Joseph",NA,"Man","Insurance agent","Independent Conservative","Defeated",567
+"Quebec",1940-03-26,"General","19","Champlain","Brunelle, Hervé-Edgar","Brunelle","Hervé-Edgar",NA,"Man","Lawyer","Liberal Party of Canada","Elected",9546
+"Quebec",1940-03-26,"General","19","Champlain","Bailly, Rodrigue","Bailly","Rodrigue",NA,"Man","Merchant","National Government","Defeated",5090
+"Quebec",1940-03-26,"General","19","Chapleau","Authier, Hector","Authier","Hector",NA,"Man","Lawyer","Liberal Party of Canada","Elected",9402
+"Quebec",1940-03-26,"General","19","Chapleau","Turgeon, J.-Alphonse","Turgeon","J.-Alphonse",NA,"Man","Accountant","National Government","Defeated",3073
+"Quebec",1940-03-26,"General","19","Charlevoix--Saguenay","Casgrain, Pierre-François","Casgrain","Pierre-François",NA,"Man","Lawyer","Liberal Party of Canada","Elected",14336
+"Quebec",1940-03-26,"General","19","Charlevoix--Saguenay","Cimon, Antoine","Cimon","Antoine",NA,"Man","Lawyer","National Government","Defeated",5928
+"Quebec",1940-03-26,"General","19","Châteauguay--Huntingdon","Black, Donald Elmer","Black","Donald","Elmer","Man","Farmer","Liberal Party of Canada","Elected",5773
+"Quebec",1940-03-26,"General","19","Châteauguay--Huntingdon","Robinson, James Albert","Robinson","James","Albert","Man","Farmer","National Government","Defeated",2047
+"Quebec",1940-03-26,"General","19","Chicoutimi","Dubuc, Julien-Édouard-Alfred","Dubuc","Julien-Édouard-Alfred",NA,"Man","Manufacturer","Liberal Party of Canada","Elected",8693
+"Quebec",1940-03-26,"General","19","Chicoutimi","Dumas, François-Albert","Dumas","François-Albert",NA,"Man","Physician","National Government","Defeated",8330
+"Quebec",1940-03-26,"General","19","Chicoutimi","Boivin, Eudore","Boivin","Eudore",NA,"Man","Lawyer","Independent Liberal","Defeated",5390
+"Quebec",1940-03-26,"General","19","Compton","Blanchette, Joseph-Adéodat","Blanchette","Joseph-Adéodat",NA,"Man","Merchant","Liberal Party of Canada","Elected",8012
+"Quebec",1940-03-26,"General","19","Compton","Laforest, Joseph-Alfred","Laforest","Joseph-Alfred",NA,"Man","Lawyer","National Government","Defeated",1623
+"Quebec",1940-03-26,"General","19","Dorchester","Tremblay, Léonard-David Sweezey","Tremblay","Léonard-David","Sweezey","Man","Journalist","Liberal Party of Canada","Elected",5573
+"Quebec",1940-03-26,"General","19","Dorchester","O'FARREL, Emmett","O'FARREL","Emmett",NA,"Man","Lawyer","Independent","Defeated",4721
+"Quebec",1940-03-26,"General","19","Drummond--Arthabaska","Cloutier, Armand","Cloutier","Armand",NA,"Man","Paymaster","Liberal Party of Canada","Elected",12145
+"Quebec",1940-03-26,"General","19","Drummond--Arthabaska","Garon, Joseph","Garon","Joseph",NA,"Man","Physician","Independent Liberal","Defeated",10853
+"Quebec",1940-03-26,"General","19","Gaspé","Roy, Joseph Sasseville","Roy","Joseph","Sasseville","Man","Agent","Independent Conservative","Elected",8371
+"Quebec",1940-03-26,"General","19","Gaspé","Brasset, Maurice","Brasset","Maurice",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",8162
+"Quebec",1940-03-26,"General","19","Gaspé","Langlois, J. G. Léopold","Langlois","J.","G. Léopold","Man","Lawyer","Independent Liberal","Defeated",4437
+"Quebec",1940-03-26,"General","19","Hochelaga","Eudes, Raymond Pierre","Eudes","Raymond","Pierre","Man","Lawyer","Liberal Party of Canada","Elected",16849
+"Quebec",1940-03-26,"General","19","Hochelaga","Chauvin, Jean-Paul","Chauvin","Jean-Paul",NA,"Man","Contractor","Independent Liberal","Defeated",9172
+"Quebec",1940-03-26,"General","19","Hochelaga","Dubeau, Achille","Dubeau","Achille",NA,"Man","Contractor","National Government","Defeated",4049
+"Quebec",1940-03-26,"General","19","Hochelaga","Thibault, Richard","Thibault","Richard",NA,"Man","Insurance agent","Independent Liberal","Defeated",1230
+"Quebec",1940-03-26,"General","19","Hull","Fournier, Alphonse","Fournier","Alphonse",NA,"Man","Lawyer","Liberal Party of Canada","Elected",11253
+"Quebec",1940-03-26,"General","19","Hull","Turpin, Armand","Turpin","Armand",NA,"Man","Superintendent","New Democracy","Defeated",7083
+"Quebec",1940-03-26,"General","19","Hull","Lambert, Théodore","Lambert","Théodore",NA,"Man","Contractor","Labour","Defeated",3916
+"Quebec",1940-03-26,"General","19","Jacques Cartier","Marier, Elphège","Marier","Elphège",NA,"Man","Lawyer","Liberal Party of Canada","Elected",11755
+"Quebec",1940-03-26,"General","19","Jacques Cartier","Barre, Charles-Stanislas-Victorien","Barre","Charles-Stanislas-Victorien",NA,"Man","Lawyer","National Government","Defeated",4028
+"Quebec",1940-03-26,"General","19","Joliette--l'Assomption--Montcalm","Ferland, Charles-Édouard","Ferland","Charles-Édouard",NA,"Man","Lawyer","Liberal Party of Canada","Elected",14112
+"Quebec",1940-03-26,"General","19","Joliette--l'Assomption--Montcalm","Lavallée, Julien","Lavallée","Julien",NA,"Man","Merchant","National Government","Defeated",3430
+"Quebec",1940-03-26,"General","19","Kamouraska","Lizotte, Louis Philippe","Lizotte","Louis","Philippe","Man","Lawyer","Liberal Party of Canada","Elected",6965
+"Quebec",1940-03-26,"General","19","Kamouraska","Michaud, Thomas-W.","Michaud","Thomas-W.",NA,"Man","Physician","National Government","Defeated",2099
+"Quebec",1940-03-26,"General","19","Labelle","Lalonde, Maurice","Lalonde","Maurice",NA,"Man","Lawyer","Liberal Party of Canada","Elected",8797
+"Quebec",1940-03-26,"General","19","Labelle","Lorrain, Lévis","Lorrain","Lévis",NA,"Man","Journalist","Independent","Defeated",5909
+"Quebec",1940-03-26,"General","19","Lake St-John--Roberval","Sylvestre, Armand","Sylvestre","Armand",NA,"Man","Lawyer","Liberal Party of Canada","Elected",10057
+"Quebec",1940-03-26,"General","19","Lake St-John--Roberval","Duguay, Joseph Léonard","Duguay","Joseph","Léonard","Man","Dentist","National Government","Defeated",6895
+"Quebec",1940-03-26,"General","19","Lake St-John--Roberval","Even, Louis","Even","Louis",NA,"Man","Publicist","New Democracy","Defeated",3698
+"Quebec",1940-03-26,"General","19","Lake St-John--Roberval","Dumoulin, Joseph-O.","Dumoulin","Joseph-O.",NA,"Man","Manager","Independent Liberal","Defeated",717
+"Quebec",1940-03-26,"General","19","Laurier","Bertrand, Ernest","Bertrand","Ernest",NA,"Man","Lawyer","Liberal Party of Canada","Elected",21069
+"Quebec",1940-03-26,"General","19","Laurier","Larivée, Donat","Larivée","Donat",NA,"Man","Carpenter","National Government","Defeated",4072
+"Quebec",1940-03-26,"General","19","Laval--Two Mountains","Lacombe, Liguori","Lacombe","Liguori",NA,"Man","Lawyer","Independent Liberal","Elected",6378
+"Quebec",1940-03-26,"General","19","Laval--Two Mountains","Rochon, Jean-Baptiste-Léo","Rochon","Jean-Baptiste-Léo",NA,"Man","Optometrist","Liberal Party of Canada","Defeated",4552
+"Quebec",1940-03-26,"General","19","Lévis","Bourget, Maurice","Bourget","Maurice",NA,"Man","Civil engineer","Liberal Party of Canada","Elected",8885
+"Quebec",1940-03-26,"General","19","Lévis","Dumontier, Albert","Dumontier","Albert",NA,"Man","Lawyer","National Government","Defeated",4187
+"Quebec",1940-03-26,"General","19","Lotbinière","Lapointe, Hugues","Lapointe","Hugues",NA,"Man","Lawyer","Liberal Party of Canada","Elected",8983
+"Quebec",1940-03-26,"General","19","Lotbinière","Laliberté, Gérard","Laliberté","Gérard",NA,"Man","Navigator","Independent","Defeated",4627
+"Quebec",1940-03-26,"General","19","Maisonneuve--Rosemont","Fournier, Sarto","Fournier","Sarto",NA,"Man","Lawyer","Liberal Party of Canada","Elected",17442
+"Quebec",1940-03-26,"General","19","Maisonneuve--Rosemont","Desrosiers, Pierre","Desrosiers","Pierre",NA,"Man","Lecturer","National Government","Defeated",6387
+"Quebec",1940-03-26,"General","19","Matapédia--Matane","Lapointe, Arthur-Joseph","Lapointe","Arthur-Joseph",NA,"Man","Station master","Liberal Party of Canada","Elected",9956
+"Quebec",1940-03-26,"General","19","Matapédia--Matane","LaRue, Joseph-Ernest-Henri","LaRue","Joseph-Ernest-Henri",NA,"Man","Notary","National Government","Defeated",5804
+"Quebec",1940-03-26,"General","19","Mégantic--Frontenac","Lafontaine, Joseph","Lafontaine","Joseph",NA,"Man","Merchant","Liberal Party of Canada","Elected",10477
+"Quebec",1940-03-26,"General","19","Mégantic--Frontenac","Fortin, J.-Émile","Fortin","J.-Émile",NA,"Man","Physician","National Government","Defeated",6281
+"Quebec",1940-03-26,"General","19","Mercier","Jean, Joseph","Jean","Joseph",NA,"Man","Lawyer","Liberal Party of Canada","Elected",19134
+"Quebec",1940-03-26,"General","19","Mercier","Therrien, François-Eugène","Therrien","François-Eugène",NA,"Man","Lawyer","National Government","Defeated",4596
+"Quebec",1940-03-26,"General","19","Montmagny--l'Islet","Laflamme, Leo Kemner","Laflamme","Leo","Kemner","Man","Lawyer","Liberal Party of Canada","Elected",6890
+"Quebec",1940-03-26,"General","19","Montmagny--l'Islet","Ringuet, Wilfrid-A.","Ringuet","Wilfrid-A.",NA,"Man","Municipal clerk","National Government","Defeated",3288
+"Quebec",1940-03-26,"General","19","Mount Royal","Whitman, Frederick Primrose","Whitman","Frederick","Primrose","Man","Salesman","Liberal Party of Canada","Elected",19858
+"Quebec",1940-03-26,"General","19","Mount Royal","Walsh, William Allen","Walsh","William","Allen","Man","School superintendent","National Government","Defeated",13319
+"Quebec",1940-03-26,"General","19","Mount Royal","Allen, John Stanley","Allen","John","Stanley","Man","Educationist","Co-operative Commonwealth Federation","Defeated",1983
+"Quebec",1940-03-26,"General","19","Nicolet--Yamaska","Dubois, Lucien","Dubois","Lucien",NA,"Man","Farmer","Liberal Party of Canada","Elected",7445
+"Quebec",1940-03-26,"General","19","Nicolet--Yamaska","Manseau, François-Moras","Manseau","François-Moras",NA,"Man","Dental surgeon","Liberal Party of Canada","Defeated",6865
+"Quebec",1940-03-26,"General","19","Nicolet--Yamaska","Belcourt, Joseph-Henri","Belcourt","Joseph-Henri",NA,"Man","Accountant","National Government","Defeated",410
+"Quebec",1940-03-26,"General","19","Nicolet--Yamaska","Coté, Léo","Coté","Léo",NA,"Man","Insurance agent","Independent Conservative","Defeated",232
+"Quebec",1940-03-26,"General","19","Outremont","Vien, Thomas","Vien","Thomas",NA,"Man","Lawyer","Liberal Party of Canada","Elected",14511
+"Quebec",1940-03-26,"General","19","Outremont","Bender, Joseph-Hector","Bender","Joseph-Hector",NA,"Man","Financier","National Government","Defeated",4556
+"Quebec",1940-03-26,"General","19","Outremont","Poulin, Ernest","Poulin","Ernest",NA,"Man","Physician","Independent Liberal","Defeated",2787
+"Quebec",1940-03-26,"General","19","Pontiac","McDonald, Wallace Reginald","McDonald","Wallace","Reginald","Man","Merchant","Liberal Party of Canada","Elected",13206
+"Quebec",1940-03-26,"General","19","Pontiac","Piché, Joseph-Édouard","Piché","Joseph-Édouard",NA,"Man","Manager","Independent Liberal","Defeated",11941
+"Quebec",1940-03-26,"General","19","Pontiac","Carrier, Ernest","Carrier","Ernest",NA,"Man","Accountant","Unknown","Defeated",5128
+"Quebec",1940-03-26,"General","19","Portneuf","Gauthier, Pierre","Gauthier","Pierre",NA,"Man","Physician","Liberal Party of Canada","Elected",10033
+"Quebec",1940-03-26,"General","19","Portneuf","Giroux, Laurent","Giroux","Laurent",NA,"Man","General contractor","Independent Liberal","Defeated",2676
+"Quebec",1940-03-26,"General","19","Portneuf","Pronovost, J.-O.","Pronovost","J.-O.",NA,"Man","Station master","National Government","Defeated",2141
+"Quebec",1940-03-26,"General","19","Quebec East","Lapointe, Ernest","Lapointe","Ernest",NA,"Man","Minister of Justice","Liberal Party of Canada","Elected",17914
+"Quebec",1940-03-26,"General","19","Quebec East","Bouchard, Paul","Bouchard","Paul",NA,"Man","Journalist","Independent Nationalist","Defeated",12302
+"Quebec",1940-03-26,"General","19","Quebec South","Power, Charles Gavan","Power","Charles","Gavan","Man","Lawyer","Liberal Party of Canada","Elected",15196
+"Quebec",1940-03-26,"General","19","Quebec South","Dinan, Francis James","Dinan","Francis","James","Man","Stevedore","National Government","Defeated",4284
+"Quebec",1940-03-26,"General","19","Quebec West and South","Parent, Charles Eugène","Parent","Charles","Eugène","Man","Lawyer","Liberal Party of Canada","Elected",12010
+"Quebec",1940-03-26,"General","19","Quebec West and South","Dupré, Maurice","Dupré","Maurice",NA,"Man","Lawyer","National Government","Defeated",8003
+"Quebec",1940-03-26,"General","19","Québec--Montmorency","Lacroix, Wilfrid","Lacroix","Wilfrid",NA,"Man","Architect","Liberal Party of Canada","Elected",12850
+"Quebec",1940-03-26,"General","19","Québec--Montmorency","Audet, Pierre","Audet","Pierre",NA,"Man","Lawyer","National Government","Defeated",5175
+"Quebec",1940-03-26,"General","19","Richelieu--Verchères","Cardin, Pierre-Joseph-Arthur","Cardin","Pierre-Joseph-Arthur",NA,"Man","Lawyer","Liberal Party of Canada","Elected",11330
+"Quebec",1940-03-26,"General","19","Richelieu--Verchères","Beauregard, Liboire","Beauregard","Liboire",NA,"Man","Physician","National Government","Defeated",2412
+"Quebec",1940-03-26,"General","19","Richelieu--Verchères","Larivière, René","Larivière","René",NA,"Man","Farmer","Independent Conservative","Defeated",447
+"Quebec",1940-03-26,"General","19","Richmond--Wolfe","Mullins, James Patrick","Mullins","James","Patrick","Man","Insurance agent","Liberal Party of Canada","Elected",8554
+"Quebec",1940-03-26,"General","19","Richmond--Wolfe","Goulet, Joseph-Alexandre","Goulet","Joseph-Alexandre",NA,"Man","Insurance agent","National Government","Defeated",4295
+"Quebec",1940-03-26,"General","19","Rimouski","D'Anjou, Joseph-Émile-Stanislas-Émmanuel","D'Anjou","Joseph-Émile-Stanislas-Émmanuel",NA,"Man","Insurance broker","Liberal Party of Canada","Elected",9766
+"Quebec",1940-03-26,"General","19","Rimouski","Blanchet, Jean","Blanchet","Jean",NA,"Man","Agronomist","Conservative (1867-1942)","Defeated",5928
+"Quebec",1940-03-26,"General","19","Shefford","Leclerc, Joseph-Hermas","Leclerc","Joseph-Hermas",NA,"Man","Manufacturer","Liberal Party of Canada","Elected",7831
+"Quebec",1940-03-26,"General","19","Shefford","Choquette, Hector","Choquette","Hector",NA,"Man","Farmer","National Government","Defeated",3644
+"Quebec",1940-03-26,"General","19","Sherbrooke","Gingues, Maurice","Gingues","Maurice",NA,"Man","Garment worker","Liberal Party of Canada","Elected",11602
+"Quebec",1940-03-26,"General","19","Sherbrooke","Walsh, Terence Gerard","Walsh","Terence","Gerard","Man","Broker","National Government","Defeated",5465
+"Quebec",1940-03-26,"General","19","Sherbrooke","Coté, Joseph-Ernest","Coté","Joseph-Ernest",NA,"Man","Traveller","Independent","Defeated",1697
+"Quebec",1940-03-26,"General","19","St-Maurice--Laflèche","Crête, Joseph-Alphida","Crête","Joseph-Alphida",NA,"Man","Optician","Liberal Party of Canada","Elected",9440
+"Quebec",1940-03-26,"General","19","St-Maurice--Laflèche","Frigon, Joseph-A.","Frigon","Joseph-A.",NA,"Man","Pensioner","Independent Liberal","Defeated",7465
+"Quebec",1940-03-26,"General","19","St-Maurice--Laflèche","Béland, Joseph-Albert","Béland","Joseph-Albert",NA,"Man","Veterinarian","National Government","Defeated",1957
+"Quebec",1940-03-26,"General","19","St-Maurice--Laflèche","Dallaire, Elzéar","Dallaire","Elzéar",NA,"Man","Journalist","Independent Liberal","Defeated",457
+"Quebec",1940-03-26,"General","19","St. Ann","Healy, Thomas Patrick","Healy","Thomas","Patrick","Man","Contractor","Liberal Party of Canada","Elected",12687
+"Quebec",1940-03-26,"General","19","St. Ann","Lynch, Patrick T.","Lynch","Patrick","T.","Man","Manufacturer","National Government","Defeated",2806
+"Quebec",1940-03-26,"General","19","St. Ann","Gawronski, Gabriel Edward","Gawronski","Gabriel","Edward","Man","Tobacco wholesaler","Independent Liberal","Defeated",450
+"Quebec",1940-03-26,"General","19","St. Ann","Lawrence, Frederick S.","Lawrence","Frederick","S.","Man","Civil engineer","Independent Liberal","Defeated",257
+"Quebec",1940-03-26,"General","19","St. Antoine--Westmount","Abbott, Douglas Charles","Abbott","Douglas","Charles","Man","Barrister","Liberal Party of Canada","Elected",14879
+"Quebec",1940-03-26,"General","19","St. Antoine--Westmount","White, Robert Smeaton","White","Robert","Smeaton","Man","Gentleman","National Government","Defeated",8972
+"Quebec",1940-03-26,"General","19","St. Denis","Denis, Azellus","Denis","Azellus",NA,"Man","Lawyer","Liberal Party of Canada","Elected",18948
+"Quebec",1940-03-26,"General","19","St. Denis","Grenon, Hector","Grenon","Hector",NA,"Man","Lawyer","National Government","Defeated",4979
+"Quebec",1940-03-26,"General","19","St. Denis","Lussier, Antonio","Lussier","Antonio",NA,"Man","Insurance agent","Independent Liberal","Defeated",4274
+"Quebec",1940-03-26,"General","19","St. Denis","Champagne, J.-Antoine","Champagne","J.-Antoine",NA,"Man","Pharmacist","Independent Liberal","Defeated",967
+"Quebec",1940-03-26,"General","19","St. Henry","Bonnier, Joseph-Arsène","Bonnier","Joseph-Arsène",NA,"Man","Funeral director","Liberal Party of Canada","Elected",17531
+"Quebec",1940-03-26,"General","19","St. Henry","Lauriault, Wilfrid-Eldège","Lauriault","Wilfrid-Eldège",NA,"Man","Civil engineer","Independent Liberal","Defeated",10371
+"Quebec",1940-03-26,"General","19","St. Henry","Lamontagne, Édouard","Lamontagne","Édouard",NA,"Man","Teacher","National Government","Defeated",2081
+"Quebec",1940-03-26,"General","19","St. Henry","Gosselin, Louis-Gérard","Gosselin","Louis-Gérard",NA,"Man","Lawyer","Anti-Conscriptionist","Defeated",642
+"Quebec",1940-03-26,"General","19","St. Hyacinthe--Bagot","Fontaine, Joseph-Théophile-Adélard","Fontaine","Joseph-Théophile-Adélard",NA,"Man","Lawyer","Liberal Party of Canada","Elected",13220
+"Quebec",1940-03-26,"General","19","St. Hyacinthe--Bagot","Gaudette, J.-Wilfrid","Gaudette","J.-Wilfrid",NA,"Man","Pharmacist","Independent","Defeated",2599
+"Quebec",1940-03-26,"General","19","St. James","Durocher, Eugène","Durocher","Eugène",NA,"Man","Insurance broker","Liberal Party of Canada","Elected",27219
+"Quebec",1940-03-26,"General","19","St. James","Jeannotte, Joseph-Édouard","Jeannotte","Joseph-Édouard",NA,"Man","Notary","National Government","Defeated",5777
+"Quebec",1940-03-26,"General","19","St. James","Rochon, Hector","Rochon","Hector",NA,"Man","Traveller","Co-operative Commonwealth Federation","Defeated",1091
+"Quebec",1940-03-26,"General","19","St. James","Mathieu, Achille","Mathieu","Achille",NA,"Man","Insurance adjuster","Independent Liberal","Defeated",864
+"Quebec",1940-03-26,"General","19","St. Johns--Iberville--Napierville","Rhéaume, Pierre Auguste Martial","Rhéaume","Pierre","Auguste Martial","Man","Butcher","Liberal Party of Canada","Elected",7439
+"Quebec",1940-03-26,"General","19","St. Johns--Iberville--Napierville","ST-GERMAIN, Charles-Georges","ST-GERMAIN","Charles-Georges",NA,"Man","Merchant","Independent Liberal","Defeated",6307
+"Quebec",1940-03-26,"General","19","St. Johns--Iberville--Napierville","Grégoire, Alexandre-E.","Grégoire","Alexandre-E.",NA,"Man","Merchant","National Government","Defeated",2331
+"Quebec",1940-03-26,"General","19","St. Lawrence--St. George","Claxton, Brooke","Claxton","Brooke",NA,"Man","Lawyer","Liberal Party of Canada","Elected",11553
+"Quebec",1940-03-26,"General","19","St. Lawrence--St. George","Cahan, Charles Hazlitt","Cahan","Charles","Hazlitt","Man","Lawyer","Conservative (1867-1942)","Defeated",6568
+"Quebec",1940-03-26,"General","19","St. Mary","Deslauriers, Hermas","Deslauriers","Hermas",NA,"Man","Physician","Liberal Party of Canada","Elected",23185
+"Quebec",1940-03-26,"General","19","St. Mary","Fauteux, Gabriel","Fauteux","Gabriel",NA,"Man","Pharmacist","National Government","Defeated",4785
+"Quebec",1940-03-26,"General","19","St. Mary","Dubé, Évariste","Dubé","Évariste",NA,"Man","Electrician","Communist Party of Canada","Defeated",728
+"Quebec",1940-03-26,"General","19","St. Mary","Prézeau, Théodore","Prézeau","Théodore",NA,"Man","Engineer","Co-operative Commonwealth Federation","Defeated",719
+"Quebec",1940-03-26,"General","19","Stanstead","Davidson, Robert Greig","Davidson","Robert","Greig","Man","Farmer","Liberal Party of Canada","Elected",5112
+"Quebec",1940-03-26,"General","19","Stanstead","Girard, Alphonse","Girard","Alphonse",NA,"Man","Secretary treasurer","Independent Liberal","Defeated",4804
+"Quebec",1940-03-26,"General","19","Témiscouata","Pouliot, Jean-François","Pouliot","Jean-François",NA,"Man","Lawyer","Liberal Party of Canada","Elected",9615
+"Quebec",1940-03-26,"General","19","Témiscouata","Cimon, Horace","Cimon","Horace",NA,"Man","Lawyer","National Government","Defeated",2063
+"Quebec",1940-03-26,"General","19","Témiscouata","Lebel, Luc","Lebel","Luc",NA,"Man","Physician","Independent","Defeated",1518
+"Quebec",1940-03-26,"General","19","Terrebonne","Bertrand, Lionel","Bertrand","Lionel",NA,"Man","Journalist","Independent Liberal","Elected",7839
+"Quebec",1940-03-26,"General","19","Terrebonne","Parent, Louis-Étienne","Parent","Louis-Étienne",NA,"Man","Manufacturer","Liberal Party of Canada","Defeated",6938
+"Quebec",1940-03-26,"General","19","Terrebonne","Lachapelle, Léopold","Lachapelle","Léopold",NA,"Man","Accountant","National Government","Defeated",2668
+"Quebec",1940-03-26,"General","19","Three Rivers","Ryan, Robert","Ryan","Robert",NA,"Man","Accountant","Liberal Party of Canada","Elected",9860
+"Quebec",1940-03-26,"General","19","Three Rivers","Gariépy, Wilfrid","Gariépy","Wilfrid",NA,"Man","Lawyer","Independent Liberal","Defeated",8734
+"Quebec",1940-03-26,"General","19","Vaudreuil--Soulanges","Thauvette, Joseph","Thauvette","Joseph",NA,"Man","Physician","Liberal Party of Canada","Elected",4381
+"Quebec",1940-03-26,"General","19","Vaudreuil--Soulanges","Deguire, J.-E.-Philippe","Deguire","J.-E.-Philippe",NA,"Man","Pensioner","National Government","Defeated",2210
+"Quebec",1940-03-26,"General","19","Vaudreuil--Soulanges","Charlebois, Édouard","Charlebois","Édouard",NA,"Man","Merchant","Independent Liberal","Defeated",1441
+"Quebec",1940-03-26,"General","19","Vaudreuil--Soulanges","Chevrier, J.-Ernest","Chevrier","J.-Ernest",NA,"Man","Restaurant owner","Independent Liberal","Defeated",1059
+"Quebec",1940-03-26,"General","19","Verdun","Côté, Paul-Émile","Côté","Paul-Émile",NA,"Man","Lawyer","Liberal Party of Canada","Elected",8372
+"Quebec",1940-03-26,"General","19","Verdun","Ferland, Hervé","Ferland","Hervé",NA,"Man","Manager","Independent Liberal","Defeated",7231
+"Quebec",1940-03-26,"General","19","Verdun","Calder, Robert Louis","Calder","Robert","Louis","Man","Lawyer","Co-operative Commonwealth Federation","Defeated",3817
+"Quebec",1940-03-26,"General","19","Verdun","Wermenlinger, Edgard Jules","Wermenlinger","Edgard","Jules","Man","Merchant","National Government","Defeated",3693
+"Quebec",1940-03-26,"General","19","Verdun","Adams, Ruby Beryl Joan","Adams","Ruby","Beryl Joan","Woman","School principal","Independent","Defeated",1838
+"Quebec",1940-03-26,"General","19","Verdun","Halpin, Charles S.P.","Halpin","Charles","S.P.","Man","Funeral director","Independent","Defeated",1181
+"Quebec",1940-03-26,"General","19","Verdun","Currie, Samuel","Currie","Samuel",NA,"Man","Merchant","Independent Conservative","Defeated",814
+"Quebec",1940-03-26,"General","19","Verdun","Scurrah, Robert William","Scurrah","Robert","William","Man","Manager","Independent","Defeated",599
+"Quebec",1940-03-26,"General","19","Wright","Leduc, Rodolphe","Leduc","Rodolphe",NA,"Man","Dental surgeon","Liberal Party of Canada","Elected",7260
+"Quebec",1940-03-26,"General","19","Wright","Bell, Halliday","Bell","Halliday",NA,"Man","Gentleman","National Government","Defeated",2310
+"Quebec",1940-03-26,"General","19","Wright","Hubert, Augustin","Hubert","Augustin",NA,"Man","Merchant","Independent Liberal","Defeated",1172
+"Saskatchewan",1940-03-26,"General","19","Assiniboia","Tripp, Jesse Pickard","Tripp","Jesse","Pickard","Man","Druggist","Liberal Party of Canada","Elected",6846
+"Saskatchewan",1940-03-26,"General","19","Assiniboia","Horner, Samuel Norval","Horner","Samuel","Norval","Man","Farmer","Co-operative Commonwealth Federation","Defeated",4812
+"Saskatchewan",1940-03-26,"General","19","Assiniboia","Hart, James Lawrence","Hart","James","Lawrence","Man","Barrister","National Government","Defeated",3516
+"Saskatchewan",1940-03-26,"General","19","Humboldt","Fleming, Harry Raymond","Fleming","Harry","Raymond","Man","Physician","Liberal Party of Canada","Elected",8808
+"Saskatchewan",1940-03-26,"General","19","Humboldt","Bolster, Frank John","Bolster","Frank","John","Man","Farmer","Co-operative Commonwealth Federation","Defeated",7536
+"Saskatchewan",1940-03-26,"General","19","Kindersley","Henderson, Charles Albert","Henderson","Charles","Albert","Man","Farmer","Liberal Party of Canada","Elected",5068
+"Saskatchewan",1940-03-26,"General","19","Kindersley","Mitchell, Arthur Hill Gilmour","Mitchell","Arthur","Hill Gilmour","Man","School principal","Co-operative Commonwealth Federation","Defeated",3966
+"Saskatchewan",1940-03-26,"General","19","Kindersley","Herridge, Wm. Duncan","Herridge","Wm.","Duncan","Man","Barrister","New Democracy","Defeated",3922
+"Saskatchewan",1940-03-26,"General","19","Lake Centre","Diefenbaker, John George","Diefenbaker","John","George","Man","Barrister","National Government","Elected",5974
+"Saskatchewan",1940-03-26,"General","19","Lake Centre","Johnston, John Frederick","Johnston","John","Frederick","Man","Farmer","Liberal Party of Canada","Defeated",5694
+"Saskatchewan",1940-03-26,"General","19","Lake Centre","Fansher, William Russell","Fansher","William","Russell","Man","Farmer","Co-operative Commonwealth Federation","Defeated",4793
+"Saskatchewan",1940-03-26,"General","19","Mackenzie","Nicholson, Alexander Malcolm","Nicholson","Alexander","Malcolm","Man","Clergyman","Co-operative Commonwealth Federation","Elected",10207
+"Saskatchewan",1940-03-26,"General","19","Mackenzie","Barrie, James Ross","Barrie","James","Ross","Man","Merchant","Liberal Party of Canada","Defeated",9211
+"Saskatchewan",1940-03-26,"General","19","Mackenzie","Wiggins, Walter Ernest","Wiggins","Walter","Ernest","Man","Farmer","Communist Party of Canada","Defeated",819
+"Saskatchewan",1940-03-26,"General","19","Maple Creek","Evans, Charles Robert","Evans","Charles","Robert","Man","Farmer","Liberal Party of Canada","Elected",5157
+"Saskatchewan",1940-03-26,"General","19","Maple Creek","Kemper, Herman Henry","Kemper","Herman","Henry","Man","Farmer","Co-operative Commonwealth Federation","Defeated",5102
+"Saskatchewan",1940-03-26,"General","19","Maple Creek","Wright, Frederick Edwin","Wright","Frederick","Edwin","Man","Merchant","National Government","Defeated",3182
+"Saskatchewan",1940-03-26,"General","19","Melfort","Wright, Percy Ellis","Wright","Percy","Ellis","Man","Farmer","Co-operative Commonwealth Federation","Elected",11358
+"Saskatchewan",1940-03-26,"General","19","Melfort","McLean, Malcolm","McLean","Malcolm",NA,"Man","Farmer","Liberal Party of Canada","Defeated",8019
+"Saskatchewan",1940-03-26,"General","19","Melfort","Haver, Malcolm James","Haver","Malcolm","James","Man","Teacher","New Democracy","Defeated",1732
+"Saskatchewan",1940-03-26,"General","19","Melville","Gardiner, James Garfield","Gardiner","James","Garfield","Man","Farmer","Liberal Party of Canada","Elected",10158
+"Saskatchewan",1940-03-26,"General","19","Melville","Lucas, Louise","Lucas","Louise",NA,"Woman","Housewife","Co-operative Commonwealth Federation","Defeated",9042
+"Saskatchewan",1940-03-26,"General","19","Melville","Bartlett, Gilbert Henry","Bartlett","Gilbert","Henry","Man","Farmer","Unity","Defeated",1837
+"Saskatchewan",1940-03-26,"General","19","Moose Jaw","Ross, John Gordon","Ross","John","Gordon","Man","Farmer","Liberal Party of Canada","Elected",9373
+"Saskatchewan",1940-03-26,"General","19","Moose Jaw","Patterson, Joseph Victor","Patterson","Joseph","Victor","Man","Farmer","National Government","Defeated",7807
+"Saskatchewan",1940-03-26,"General","19","North Battleford","Nielsen, Dorise Winifred","Nielsen","Dorise","Winifred","Woman","Housewife","Unity","Elected",10500
+"Saskatchewan",1940-03-26,"General","19","North Battleford","McIntosh, Cameron Ross","McIntosh","Cameron","Ross","Man","Publisher","Liberal Party of Canada","Defeated",7868
+"Saskatchewan",1940-03-26,"General","19","Prince Albert","King, William Lyon Mackenzie","King","William","Lyon Mackenzie","Man","Gentleman","Liberal Party of Canada","Elected",8310
+"Saskatchewan",1940-03-26,"General","19","Prince Albert","Manville, Robert Rae","Manville","Robert","Rae","Man","Merchant","National Unity","Defeated",7534
+"Saskatchewan",1940-03-26,"General","19","Prince Albert","Strelive, Peter William","Strelive","Peter","William","Man","Farmer","Co-operative Commonwealth Federation","Defeated",1993
+"Saskatchewan",1940-03-26,"General","19","Prince Albert","Campbell, Alfred Cowie","Campbell","Alfred","Cowie","Man","Journalist","Communist Party of Canada","Defeated",243
+"Saskatchewan",1940-03-26,"General","19","Qu'Appelle","Perley, Ernest Edward","Perley","Ernest","Edward","Man","Farmer","National Government","Elected",8236
+"Saskatchewan",1940-03-26,"General","19","Qu'Appelle","Mccowan, James Alexander","Mccowan","James","Alexander","Man","Farmer","Liberal Party of Canada","Defeated",6775
+"Saskatchewan",1940-03-26,"General","19","Regina City","McNiven, Donald Alexander","McNiven","Donald","Alexander","Man","Barrister","Liberal Party of Canada","Elected",14434
+"Saskatchewan",1940-03-26,"General","19","Regina City","Macpherson, Murdock Alexander","Macpherson","Murdock","Alexander","Man","Barrister-at-law","National Government","Defeated",12475
+"Saskatchewan",1940-03-26,"General","19","Regina City","Probe, John Oliver","Probe","John","Oliver","Man","Teacher","Co-operative Commonwealth Federation","Defeated",2855
+"Saskatchewan",1940-03-26,"General","19","Regina City","Guest, John Ivor","Guest","John","Ivor","Man","Clerk","Conservative (1867-1942)","Defeated",602
+"Saskatchewan",1940-03-26,"General","19","Rosetown--Biggar","Coldwell, Major James William","Coldwell","Major","James William","Man","Teacher","Co-operative Commonwealth Federation","Elected",7714
+"Saskatchewan",1940-03-26,"General","19","Rosetown--Biggar","Hassard, Robert P.","Hassard","Robert","P.","Man","Auto dealer","Liberal Party of Canada","Defeated",4912
+"Saskatchewan",1940-03-26,"General","19","Rosetown--Biggar","Anderson, James Thomas Milton","Anderson","James","Thomas Milton","Man","Manager","National Government","Defeated",2381
+"Saskatchewan",1940-03-26,"General","19","Rosthern","Tucker, Walter Adam","Tucker","Walter","Adam","Man","Barrister","Liberal Party of Canada","Elected",6612
+"Saskatchewan",1940-03-26,"General","19","Rosthern","Makaroff, Peter George","Makaroff","Peter","George","Man","Barrister","Co-operative Commonwealth Federation","Defeated",5456
+"Saskatchewan",1940-03-26,"General","19","Rosthern","Lepp, Peter Paul","Lepp","Peter","Paul","Man","Teacher","New Democracy","Defeated",999
+"Saskatchewan",1940-03-26,"General","19","Saskatoon City","Brown, Walter George","Brown","Walter","George","Man","Clergyman","United Reform Movement","Elected",13868
+"Saskatchewan",1940-03-26,"General","19","Saskatoon City","Niderost, Carl","Niderost","Carl",NA,"Man","Barrister","Liberal Party of Canada","Defeated",8346
+"Saskatchewan",1940-03-26,"General","19","Saskatoon City","Arnold, Harry Watson","Arnold","Harry","Watson","Man","Broker","Social Credit-National Unity","Defeated",241
+"Saskatchewan",1940-03-26,"General","19","Swift Current","Graham, Roy Theodore","Graham","Roy","Theodore","Man","Barrister","Liberal Party of Canada","Elected",6042
+"Saskatchewan",1940-03-26,"General","19","Swift Current","Thiessen, Henry Peter","Thiessen","Henry","Peter","Man","School teacher","Co-operative Commonwealth Federation","Defeated",5507
+"Saskatchewan",1940-03-26,"General","19","Swift Current","Whyte, James P.","Whyte","James","P.","Man","Dental surgeon","National Government","Defeated",3965
+"Saskatchewan",1940-03-26,"General","19","The Battlefords","Gregory, John Albert","Gregory","John","Albert","Man","Agent","Liberal Party of Canada","Elected",7195
+"Saskatchewan",1940-03-26,"General","19","The Battlefords","Needham, Joseph","Needham","Joseph",NA,"Man","Agent","New Democracy","Defeated",5453
+"Saskatchewan",1940-03-26,"General","19","The Battlefords","Nollet, I.C.","Nollet","I.C.",NA,"Man","Rancher","Unknown","Defeated",4512
+"Saskatchewan",1940-03-26,"General","19","Weyburn","Douglas, Thomas Clement (Tommy)","Douglas","Thomas","Clement (Tommy)","Man","Clergyman","Co-operative Commonwealth Federation","Elected",8509
+"Saskatchewan",1940-03-26,"General","19","Weyburn","Metheral, Thomas Niddrie","Metheral","Thomas","Niddrie","Man","Farmer","Liberal Party of Canada","Defeated",7554
+"Saskatchewan",1940-03-26,"General","19","Weyburn","Hilton, John Harrison","Hilton","John","Harrison","Man","Company manager","United Reform","Defeated",269
+"Saskatchewan",1940-03-26,"General","19","Wood Mountain","Donnelly, Thomas F.","Donnelly","Thomas","F.","Man","Physician","Liberal Party of Canada","Elected",6375
+"Saskatchewan",1940-03-26,"General","19","Wood Mountain","Buchanan, Niles Leonard","Buchanan","Niles","Leonard","Man","School teacher","Co-operative Commonwealth Federation","Defeated",5247
+"Saskatchewan",1940-03-26,"General","19","Wood Mountain","Ellison, Alban Cedric","Ellison","Alban","Cedric","Man","Barrister","Independent","Defeated",3775
+"Saskatchewan",1940-03-26,"General","19","Yorkton","Castleden, George Hugh","Castleden","George","Hugh","Man","Teacher","Co-operative Commonwealth Federation","Elected",7658
+"Saskatchewan",1940-03-26,"General","19","Yorkton","Mclean, Allan Grant","Mclean","Allan","Grant","Man","Commercial traveller","Liberal Party of Canada","Defeated",6773
+"Saskatchewan",1940-03-26,"General","19","Yorkton","Hnatyshyn, John","Hnatyshyn","John",NA,"Man","Barrister","National Government","Defeated",4690
+"Saskatchewan",1940-03-26,"General","19","Yorkton","Mcmanus, Thomas Gerald","Mcmanus","Thomas","Gerald","Man","Engineer","Communist Party of Canada","Defeated",1047
+"Yukon",1940-03-26,"General","19","Yukon","Black, George","Black","George",NA,"Man","Barrister","National Government","Elected",915
+"Yukon",1940-03-26,"General","19","Yukon","Reid, Charles","Reid","Charles",NA,"Man","Miner","Liberal Party of Canada","Defeated",793

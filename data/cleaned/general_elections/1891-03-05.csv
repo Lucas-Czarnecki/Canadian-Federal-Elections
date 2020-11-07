@@ -1,438 +1,438 @@
-"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Gender","Occupation","Political_Affiliation","Result","Votes"
-"British Columbia",1891-03-05,"General","7","Cariboo","Barnard, Frank Stillman","Man","Businessman","Conservative (1867-1942)","Elected",223
-"British Columbia",1891-03-05,"General","7","Cariboo","WATT, Hugh","Man","Physician","Liberal Party of Canada","Defeated",194
-"British Columbia",1891-03-05,"General","7","New Westminster","Corbould, Gordon Edward","Man","Lawyer","Conservative (1867-1942)","Elected",1694
-"British Columbia",1891-03-05,"General","7","New Westminster","SCOULLOR, E.S.","Man",NA,"Liberal Party of Canada","Defeated",532
-"British Columbia",1891-03-05,"General","7","Vancouver","Gordon, David William","Man","Contractor","Liberal-Conservative","Elected (Acclamation)",0
-"British Columbia",1891-03-05,"General","7","Victoria","Earle, Thomas","Man","Businessman","Conservative (1867-1942)","Elected",1061
-"British Columbia",1891-03-05,"General","7","Victoria","Prior, Edward Gawler","Man","Mining engineer","Conservative (1867-1942)","Elected",1031
-"British Columbia",1891-03-05,"General","7","Victoria","Templeman, William","Man",NA,"Liberal Party of Canada","Defeated",449
-"British Columbia",1891-03-05,"General","7","Victoria","MARCHANT, William","Man",NA,"Liberal Party of Canada","Defeated",417
-"British Columbia",1891-03-05,"General","7","Yale","Mara, John Andrew","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
-"Manitoba",1891-03-05,"General","7","Lisgar","Ross, Arthur Wellington","Man","Teacher","Liberal-Conservative","Elected",1359
-"Manitoba",1891-03-05,"General","7","Lisgar","TAYLOR, John","Man",NA,"Liberal Party of Canada","Defeated",1169
-"Manitoba",1891-03-05,"General","7","Marquette","Watson, Robert","Man","Businessman","Liberal Party of Canada","Elected",2265
-"Manitoba",1891-03-05,"General","7","Marquette","Boyd, Nathaniel","Man","Telegraph operator","Conservative (1867-1942)","Defeated",2219
-"Manitoba",1891-03-05,"General","7","Provencher","LaRivière, Alphonse Alfred Clément","Man","Editor","Conservative (1867-1942)","Elected (Acclamation)",0
-"Manitoba",1891-03-05,"General","7","Selkirk","Daly, Thomas Mayne","Man","Lawyer","Liberal-Conservative","Elected",3660
-"Manitoba",1891-03-05,"General","7","Selkirk","Martin, Joseph","Man","Miller","Liberal Party of Canada","Defeated",3225
-"Manitoba",1891-03-05,"General","7","Winnipeg","Macdonald, Hugh John","Man","Lawyer","Liberal-Conservative","Elected",2131
-"Manitoba",1891-03-05,"General","7","Winnipeg","CAMPBELL, Isaac","Man",NA,"Liberal Party of Canada","Defeated",1622
-"New Brunswick",1891-03-05,"General","7","Albert","Weldon, Richard Chapman","Man","Lawyer","Conservative (1867-1942)","Elected",1096
-"New Brunswick",1891-03-05,"General","7","Albert","Emmerson, Henry Robert","Man",NA,"Liberal Party of Canada","Defeated",1020
-"New Brunswick",1891-03-05,"General","7","Carleton","Colter, Newton Ramsay","Man","Physician","Liberal Party of Canada","Elected",2016
-"New Brunswick",1891-03-05,"General","7","Carleton","VINCE, D. McL.","Man",NA,"Conservative (1867-1942)","Defeated",1908
-"New Brunswick",1891-03-05,"General","7","Charlotte","Gillmor, Arthur Hill","Man","Lumberman","Liberal Party of Canada","Elected",1934
-"New Brunswick",1891-03-05,"General","7","Charlotte","Lawson, Edward M.","Man",NA,"Conservative (1867-1942)","Defeated",1686
-"New Brunswick",1891-03-05,"General","7","Gloucester","Burns, Kennedy Francis","Man","Merchant","Conservative (1867-1942)","Elected",1943
-"New Brunswick",1891-03-05,"General","7","Gloucester","LANDRY, W.A.","Man",NA,"Liberal Party of Canada","Defeated",1571
-"New Brunswick",1891-03-05,"General","7","Kent","Léger, Édouard H.","Man","Physician","Conservative (1867-1942)","Elected",1722
-"New Brunswick",1891-03-05,"General","7","Kent","LeBlanc, Olivier J.","Man",NA,"Liberal Party of Canada","Defeated",1011
-"New Brunswick",1891-03-05,"General","7","King's","Foster, George Eulas","Man","University teacher","Conservative (1867-1942)","Elected",1931
-"New Brunswick",1891-03-05,"General","7","King's","Domville, James","Man","Merchant","Independent","Defeated",1858
-"New Brunswick",1891-03-05,"General","7","Northumberland","Adams, Michael","Man","Lawyer","Conservative (1867-1942)","Elected",2192
-"New Brunswick",1891-03-05,"General","7","Northumberland","Mitchell, Peter","Man","Lawyer","Independent Liberal","Defeated",1719
-"New Brunswick",1891-03-05,"General","7","Queen's","King, George Gerald","Man","Businessman","Liberal Party of Canada","Elected",1233
-"New Brunswick",1891-03-05,"General","7","Queen's","Baird, George Frederick","Man","Lawyer","Conservative (1867-1942)","Defeated",1204
-"New Brunswick",1891-03-05,"General","7","Restigouche","McAlister, John","Man","Lawyer","Liberal-Conservative","Elected",735
-"New Brunswick",1891-03-05,"General","7","Restigouche","MOFFATT, George","Man","Merchant","Conservative (1867-1942)","Defeated",519
-"New Brunswick",1891-03-05,"General","7","St. John (City and County of)","Hazen, John Douglas","Man","Lawyer","Conservative (1867-1942)","Elected",4824
-"New Brunswick",1891-03-05,"General","7","St. John (City and County of)","Skinner, Charles Nelson","Man","Lawyer","Liberal Party of Canada","Elected",4448
-"New Brunswick",1891-03-05,"General","7","St. John (City and County of)","Weldon, Charles Wesley","Man","Lawyer","Liberal Party of Canada","Defeated",3832
-"New Brunswick",1891-03-05,"General","7","St. John (City and County of)","RANKINE, T.A.","Man",NA,"Unknown","Defeated",3503
-"New Brunswick",1891-03-05,"General","7","St. John (City of )","McLeod, Ezekiel","Man","Lawyer","Conservative (1867-1942)","Elected",2649
-"New Brunswick",1891-03-05,"General","7","St. John (City of )","Ellis, John Valentine","Man","Journalist","Liberal Party of Canada","Defeated",2063
-"New Brunswick",1891-03-05,"General","7","Sunbury","Wilmot, Robert Duncan","Man","Businessman","Conservative (1867-1942)","Elected",712
-"New Brunswick",1891-03-05,"General","7","Sunbury","DAY, Geo. E.","Man","Physician","Liberal Party of Canada","Defeated",427
-"New Brunswick",1891-03-05,"General","7","Victoria","Costigan, John","Man","Judge","Liberal-Conservative","Elected",1427
-"New Brunswick",1891-03-05,"General","7","Victoria","LAWSON, Thomas","Man",NA,"Liberal Party of Canada","Defeated",732
-"New Brunswick",1891-03-05,"General","7","Westmorland","Wood, Josiah","Man","Lawyer","Conservative (1867-1942)","Elected",4205
-"New Brunswick",1891-03-05,"General","7","Westmorland","GEORGE, Wm. F.","Man",NA,"Liberal Party of Canada","Defeated",2057
-"New Brunswick",1891-03-05,"General","7","York","Temple, Thomas","Man","Farmer","Conservative (1867-1942)","Elected",2048
-"New Brunswick",1891-03-05,"General","7","York","Thompson, Frederick Pemberton","Man",NA,"Liberal Party of Canada","Defeated",1821
-"Northwest Territories",1891-03-05,"General","7","Alberta (Provisional District)","Davis, Donald Watson","Man","Merchant","Conservative (1867-1942)","Elected",2742
-"Northwest Territories",1891-03-05,"General","7","Alberta (Provisional District)","REILLY, James","Man",NA,"Conservative (1867-1942)","Defeated",935
-"Northwest Territories",1891-03-05,"General","7","Assiniboia East","Dewdney, Edgar","Man",NA,"Conservative (1867-1942)","Elected",2049
-"Northwest Territories",1891-03-05,"General","7","Assiniboia East","Turriff, John Gillanders","Man",NA,"Liberal Party of Canada","Defeated",1293
-"Northwest Territories",1891-03-05,"General","7","Assiniboia West","Davin, Nicholas Flood","Man","Barrister","Conservative (1867-1942)","Elected",1011
-"Northwest Territories",1891-03-05,"General","7","Assiniboia West","TWEED, Thomas","Man",NA,"Conservative (1867-1942)","Defeated",684
-"Northwest Territories",1891-03-05,"General","7","Saskatchewan (Provisional District)","Macdowall, Day Hort","Man","Lumber merchant","Conservative (1867-1942)","Elected",950
-"Northwest Territories",1891-03-05,"General","7","Saskatchewan (Provisional District)","MONTGOMERY, H.J.","Man",NA,"Liberal Party of Canada","Defeated",667
-"Nova Scotia",1891-03-05,"General","7","Annapolis","Mills, John Burpee","Man","Lawyer","Conservative (1867-1942)","Elected",1835
-"Nova Scotia",1891-03-05,"General","7","Annapolis","CHIPMAN, Wm. A.","Man",NA,"Unknown","Defeated",1662
-"Nova Scotia",1891-03-05,"General","7","Antigonish","Thompson, John Sparrow David","Man","Lawyer","Liberal-Conservative","Elected",1346
-"Nova Scotia",1891-03-05,"General","7","Antigonish","MCGILLIVRAY, Angus","Man",NA,"Unknown","Defeated",1119
-"Nova Scotia",1891-03-05,"General","7","Cape Breton","MacKeen, David","Man","Merchant","Conservative (1867-1942)","Elected",2889
-"Nova Scotia",1891-03-05,"General","7","Cape Breton","McDougall, Hector Francis","Man","General merchant","Liberal-Conservative","Elected",2681
-"Nova Scotia",1891-03-05,"General","7","Cape Breton","MURRAY, Geo. H.","Man",NA,"Liberal Party of Canada","Defeated",2161
-"Nova Scotia",1891-03-05,"General","7","Cape Breton","MCPHERSON, Joseph","Man",NA,"Liberal Party of Canada","Defeated",2078
-"Nova Scotia",1891-03-05,"General","7","Colchester","Patterson, William Albert","Man","Lumber merchant","Conservative (1867-1942)","Elected",2588
-"Nova Scotia",1891-03-05,"General","7","Colchester","ARCHIBALD, P. McG.","Man",NA,"Liberal Party of Canada","Defeated",1785
-"Nova Scotia",1891-03-05,"General","7","Colchester","FLETCHER, A.B.","Man",NA,"Progressive","Defeated",165
-"Nova Scotia",1891-03-05,"General","7","Cumberland","Dickey, Arthur Rupert","Man","Lawyer","Conservative (1867-1942)","Elected",2935
-"Nova Scotia",1891-03-05,"General","7","Cumberland","HOWARD, D.S.","Man",NA,"Liberal Party of Canada","Defeated",2095
-"Nova Scotia",1891-03-05,"General","7","Cumberland","CASEY, C.R.","Man",NA,"Progressive","Defeated",303
-"Nova Scotia",1891-03-05,"General","7","Digby","Bowers, Edward Charles","Man","General trader","Liberal Party of Canada","Elected",1503
-"Nova Scotia",1891-03-05,"General","7","Digby","Jones, Herbert Ladd","Man",NA,"Conservative (1867-1942)","Defeated",1430
-"Nova Scotia",1891-03-05,"General","7","Guysborough","Fraser, Duncan Cameron","Man","Lawyer","Liberal Party of Canada","Elected",1145
-"Nova Scotia",1891-03-05,"General","7","Guysborough","Ogden, Alfred","Man",NA,"Conservative (1867-1942)","Defeated",1059
-"Nova Scotia",1891-03-05,"General","7","Halifax","Kenny, Thomas Edward","Man","Merchant","Conservative (1867-1942)","Elected",5274
-"Nova Scotia",1891-03-05,"General","7","Halifax","Stairs, John Fitz William","Man","Merchant","Conservative (1867-1942)","Elected",5262
-"Nova Scotia",1891-03-05,"General","7","Halifax","Jones, Alfred Gilpin","Man","Merchant","Liberal Party of Canada","Defeated",4335
-"Nova Scotia",1891-03-05,"General","7","Halifax","FARRELL, Edward","Man","Physician","Liberal Party of Canada","Defeated",4174
-"Nova Scotia",1891-03-05,"General","7","Hants","Putnam, Alfred","Man","Shipbuilder","Conservative (1867-1942)","Elected",1705
-"Nova Scotia",1891-03-05,"General","7","Hants","Haley, Allen","Man",NA,"Liberal Party of Canada","Defeated",1604
-"Nova Scotia",1891-03-05,"General","7","Inverness","Cameron, Hugh","Man","Physician","Conservative (1867-1942)","Elected",1877
-"Nova Scotia",1891-03-05,"General","7","Inverness","McDonnell, Samuel","Man","Lawyer","Liberal Party of Canada","Defeated",1567
-"Nova Scotia",1891-03-05,"General","7","Kings","Borden, Frederick William","Man","Physician","Liberal Party of Canada","Elected",1815
-"Nova Scotia",1891-03-05,"General","7","Kings","BILL, C.R.","Man",NA,"Conservative (1867-1942)","Defeated",1654
-"Nova Scotia",1891-03-05,"General","7","Lunenburg","Kaulbach, Charles Edwin","Man","Businessman","Conservative (1867-1942)","Elected",2592
-"Nova Scotia",1891-03-05,"General","7","Lunenburg","Eisenhauer, James Daniel","Man","Merchant","Liberal Party of Canada","Defeated",2402
-"Nova Scotia",1891-03-05,"General","7","Pictou","Tupper, Charles Hibbert","Man","Lawyer","Conservative (1867-1942)","Elected",3433
-"Nova Scotia",1891-03-05,"General","7","Pictou","McDougald, John","Man","Merchant","Liberal-Conservative","Elected",3384
-"Nova Scotia",1891-03-05,"General","7","Pictou","FRASER, Jas. A.","Man",NA,"Liberal Party of Canada","Defeated",2708
-"Nova Scotia",1891-03-05,"General","7","Pictou","YORSTON, John","Man",NA,"Liberal Party of Canada","Defeated",2594
-"Nova Scotia",1891-03-05,"General","7","Queens","Forbes, Francis Gordon","Man","Lawyer","Liberal Party of Canada","Elected",867
-"Nova Scotia",1891-03-05,"General","7","Queens","Freeman, Joshua Newton","Man","Merchant","Liberal-Conservative","Defeated",766
-"Nova Scotia",1891-03-05,"General","7","Richmond","Gillies, Joseph Alexander","Man","Lawyer","Conservative (1867-1942)","Elected",857
-"Nova Scotia",1891-03-05,"General","7","Richmond","Paint, Henry Nicholas","Man","Commission and insurance agent","Conservative (1867-1942)","Defeated",755
-"Nova Scotia",1891-03-05,"General","7","Richmond","Flynn, Edmund Power","Man","Merchant","Liberal Party of Canada","Defeated",670
-"Nova Scotia",1891-03-05,"General","7","Shelburne","White, Nathaniel Whitworth","Man","Lawyer","Liberal-Conservative","Elected",1388
-"Nova Scotia",1891-03-05,"General","7","Shelburne","Robertson, Thomas","Man","Civil servant","Liberal Party of Canada","Defeated",1369
-"Nova Scotia",1891-03-05,"General","7","Victoria","McDonald, John Archibald","Man","Lawyer","Conservative (1867-1942)","Elected",822
-"Nova Scotia",1891-03-05,"General","7","Victoria","Ross, William","Man","Commission merchant","Liberal Party of Canada","Defeated",770
-"Nova Scotia",1891-03-05,"General","7","Yarmouth","Flint, Thomas Barnard","Man","Lawyer","Liberal Party of Canada","Elected",1732
-"Nova Scotia",1891-03-05,"General","7","Yarmouth","Kinney, Joseph Robbins","Man","Merchant","Liberal Party of Canada","Defeated",1157
-"Ontario",1891-03-05,"General","7","Addington","Dawson, George Walker Wesley","Man","Postmaster","Liberal Party of Canada","Elected",2307
-"Ontario",1891-03-05,"General","7","Addington","Bell, John William","Man","School teacher and farmer","Conservative (1867-1942)","Defeated",2246
-"Ontario",1891-03-05,"General","7","Algoma","Macdonell, George Hugh","Man","Contractor","Conservative (1867-1942)","Elected",2251
-"Ontario",1891-03-05,"General","7","Algoma","BURK, Daniel F.","Man",NA,"Unknown","Defeated",1813
-"Ontario",1891-03-05,"General","7","Bothwell","Mills, David","Man","Lawyer","Liberal Party of Canada","Elected",2006
-"Ontario",1891-03-05,"General","7","Bothwell","LANGFORD, G.R.","Man",NA,"Conservative (1867-1942)","Defeated",1456
-"Ontario",1891-03-05,"General","7","Bothwell","MCLARTEY, A.","Man",NA,"Unknown","Defeated",1088
-"Ontario",1891-03-05,"General","7","Brant North","Somerville, James","Man","Newspaperman","Liberal Party of Canada","Elected",1729
-"Ontario",1891-03-05,"General","7","Brant North","HAMILTON, R.L.","Man",NA,"Conservative (1867-1942)","Defeated",613
-"Ontario",1891-03-05,"General","7","Brant South","Paterson, William","Man","Biscuit manufacturer","Liberal Party of Canada","Elected",1963
-"Ontario",1891-03-05,"General","7","Brant South","COX, Peter H.","Man",NA,"Unknown","Defeated",1421
-"Ontario",1891-03-05,"General","7","Brockville","Wood, John Fisher","Man","Lawyer","Liberal-Conservative","Elected",1815
-"Ontario",1891-03-05,"General","7","Brockville","Derbyshire, Daniel","Man","Merchant","Liberal Party of Canada","Defeated",1637
-"Ontario",1891-03-05,"General","7","Bruce East","Truax, Reuben Eldridge","Man","Sawmill owner and operator","Liberal Party of Canada","Elected",2045
-"Ontario",1891-03-05,"General","7","Bruce East","Cargill, Henry","Man","Lumber manufacturer","Conservative (1867-1942)","Defeated",1931
-"Ontario",1891-03-05,"General","7","Bruce North","McNeill, Alexander","Man","Lawyer","Liberal-Conservative","Elected",1865
-"Ontario",1891-03-05,"General","7","Bruce North","BONNAR, Hector Alex","Man","Physician","Liberal Party of Canada","Defeated",1826
-"Ontario",1891-03-05,"General","7","Bruce West","Rowand, James","Man","Farmer","Liberal Party of Canada","Elected",2015
-"Ontario",1891-03-05,"General","7","Bruce West","MORRISON, Hugh","Man",NA,"Conservative (1867-1942)","Defeated",1085
-"Ontario",1891-03-05,"General","7","Cardwell","White, Robert Smeaton","Man","Journalist","Conservative (1867-1942)","Elected",1628
-"Ontario",1891-03-05,"General","7","Cardwell","MYERS, Elgin","Man",NA,"Liberal Party of Canada","Defeated",1380
-"Ontario",1891-03-05,"General","7","Carleton","Hodgins, William Thomas","Man","Farmer","Conservative (1867-1942)","Elected",1494
-"Ontario",1891-03-05,"General","7","Carleton","Dickinson, George Lemuel","Man","Mill owner","Conservative (1867-1942)","Defeated",1451
-"Ontario",1891-03-05,"General","7","Cornwall and Stormont","Bergin, Darby","Man","Physician","Liberal-Conservative","Elected",2152
-"Ontario",1891-03-05,"General","7","Cornwall and Stormont","Snetsinger, John Goodall","Man","Merchant","Liberal Party of Canada","Defeated",1934
-"Ontario",1891-03-05,"General","7","Dundas","Ross, Hugo Homer","Man","Merchant","Conservative (1867-1942)","Elected",2086
-"Ontario",1891-03-05,"General","7","Dundas","JOHNSTON, Adam","Man",NA,"Liberal Party of Canada","Defeated",2026
-"Ontario",1891-03-05,"General","7","Durham East","Craig, Thomas Dixon","Man","Leather manufacturer","Conservative (1867-1942)","Elected",1746
-"Ontario",1891-03-05,"General","7","Durham East","GRANDY, Samuel","Man",NA,"Equal Rights","Defeated",1685
-"Ontario",1891-03-05,"General","7","Durham West","Beith, Robert","Man","Farmer","Liberal Party of Canada","Elected",1962
-"Ontario",1891-03-05,"General","7","Durham West","BLACKSTOCK, Geo. T.","Man",NA,"Conservative (1867-1942)","Defeated",1764
-"Ontario",1891-03-05,"General","7","Elgin East","Ingram, Andrew B.","Man","Real estate agent","Liberal-Conservative","Elected",2740
-"Ontario",1891-03-05,"General","7","Elgin East","Wilson, John Henry","Man","Physician","Liberal Party of Canada","Defeated",2694
-"Ontario",1891-03-05,"General","7","Elgin West","Casey, George Elliott","Man","Journalist","Liberal Party of Canada","Elected",2335
-"Ontario",1891-03-05,"General","7","Elgin West","MCLEAN, Duncan","Man",NA,"Conservative (1867-1942)","Defeated",1653
-"Ontario",1891-03-05,"General","7","Essex North","McGregor, William","Man","Banker","Liberal Party of Canada","Elected",2892
-"Ontario",1891-03-05,"General","7","Essex North","Patterson, James Colebrooke","Man","Lawyer","Conservative (1867-1942)","Defeated",2043
-"Ontario",1891-03-05,"General","7","Essex South","Allan, Henry William","Man","Merchant","Liberal Party of Canada","Elected",2390
-"Ontario",1891-03-05,"General","7","Essex South","Wigle, Lewis","Man","Farmer","Conservative (1867-1942)","Defeated",2333
-"Ontario",1891-03-05,"General","7","Frontenac","Kirkpatrick, George Airey","Man","Lawyer","Conservative (1867-1942)","Elected",1427
-"Ontario",1891-03-05,"General","7","Frontenac","CLYDE, Thomas","Man",NA,"Liberal Party of Canada","Defeated",1222
-"Ontario",1891-03-05,"General","7","Glengarry","McLennan, Roderick R.","Man","Railway contractor","Conservative (1867-1942)","Elected",1953
-"Ontario",1891-03-05,"General","7","Glengarry","Schell, Jacob Thomas","Man","Lumber manufacturer","Liberal Party of Canada","Defeated",1632
-"Ontario",1891-03-05,"General","7","Grenville South","Reid, John Dowsley","Man","Physician","Conservative (1867-1942)","Elected",1414
-"Ontario",1891-03-05,"General","7","Grenville South","Rowe, Russell D.","Man",NA,"Liberal Party of Canada","Defeated",1303
-"Ontario",1891-03-05,"General","7","Grey East","Sproule, Thomas Simpson","Man","Physician","Conservative (1867-1942)","Elected",1977
-"Ontario",1891-03-05,"General","7","Grey East","Clark, John","Man",NA,"Liberal Party of Canada","Defeated",1958
-"Ontario",1891-03-05,"General","7","Grey North","Masson, James","Man","Lawyer","Conservative (1867-1942)","Elected",2511
-"Ontario",1891-03-05,"General","7","Grey North","Horsey, Edward Henry","Man","Physician","Liberal Party of Canada","Defeated",2264
-"Ontario",1891-03-05,"General","7","Grey South","Landerkin, George","Man","Physician","Liberal Party of Canada","Elected",2301
-"Ontario",1891-03-05,"General","7","Grey South","BLYTH, John","Man",NA,"Conservative (1867-1942)","Defeated",2255
-"Ontario",1891-03-05,"General","7","Haldimand","Montague, Walter Humphries","Man","Physician","Conservative (1867-1942)","Elected",1896
-"Ontario",1891-03-05,"General","7","Haldimand","COULTER, C.W.","Man","Lawyer","Liberal Party of Canada","Defeated",1818
-"Ontario",1891-03-05,"General","7","Halton","Henderson, David","Man","Merchant","Conservative (1867-1942)","Elected",2441
-"Ontario",1891-03-05,"General","7","Halton","Waldie, John","Man","Lumber merchant","Liberal Party of Canada","Defeated",2337
-"Ontario",1891-03-05,"General","7","Hamilton","McKay, Alexander","Man","Grain merchant","Conservative (1867-1942)","Elected",4186
-"Ontario",1891-03-05,"General","7","Hamilton","Ryckman, Samuel Shobal","Man","Real estate agent","Conservative (1867-1942)","Elected",4156
-"Ontario",1891-03-05,"General","7","Hamilton","DORAN, Wm.","Man",NA,"Liberal Party of Canada","Defeated",3532
-"Ontario",1891-03-05,"General","7","Hamilton","LAIDLAW, Adam","Man",NA,"Liberal Party of Canada","Defeated",3474
-"Ontario",1891-03-05,"General","7","Hastings East","Burdett, Samuel Barton","Man","Lawyer","Liberal Party of Canada","Elected",1951
-"Ontario",1891-03-05,"General","7","Hastings East","Northrup, William Barton","Man","Lawyer","Conservative (1867-1942)","Defeated",1897
-"Ontario",1891-03-05,"General","7","Hastings North","Bowell, Mackenzie","Man","Editor","Conservative (1867-1942)","Elected",1686
-"Ontario",1891-03-05,"General","7","Hastings North","VANKLEEK, Peter","Man",NA,"Liberal Party of Canada","Defeated",1480
-"Ontario",1891-03-05,"General","7","Hastings West","Corby, Henry","Man","Distiller","Conservative (1867-1942)","Elected",1955
-"Ontario",1891-03-05,"General","7","Hastings West","CLUTE, R.C.","Man",NA,"Liberal Party of Canada","Defeated",1595
-"Ontario",1891-03-05,"General","7","Huron East","Macdonald, Peter","Man","Physician","Liberal Party of Canada","Elected",2037
-"Ontario",1891-03-05,"General","7","Huron East","HOLMES, Wm. J.R.","Man",NA,"Conservative (1867-1942)","Defeated",1729
-"Ontario",1891-03-05,"General","7","Huron South","McMillan, John","Man","Farmer","Liberal Party of Canada","Elected",1845
-"Ontario",1891-03-05,"General","7","Huron South","WEISMILLER, David","Man",NA,"Liberal Party of Canada","Defeated",990
-"Ontario",1891-03-05,"General","7","Huron South","REITH, John","Man",NA,"Unknown","Defeated",54
-"Ontario",1891-03-05,"General","7","Huron West","Cameron, Malcolm Colin","Man","Lawyer","Liberal Party of Canada","Elected",2199
-"Ontario",1891-03-05,"General","7","Huron West","Porter, Robert","Man","Farmer","Liberal-Conservative","Defeated",1820
-"Ontario",1891-03-05,"General","7","Kent","Campbell, Archibald","Man","Miller","Liberal Party of Canada","Elected",3138
-"Ontario",1891-03-05,"General","7","Kent","KILLACKEY, William P.","Man",NA,"Conservative (1867-1942)","Defeated",2662
-"Ontario",1891-03-05,"General","7","Kingston","Macdonald, John Alexander","Man","Lawyer","Conservative (1867-1942)","Elected",1784
-"Ontario",1891-03-05,"General","7","Kingston","Gunn, Alexander","Man",NA,"Liberal Party of Canada","Defeated",1301
-"Ontario",1891-03-05,"General","7","Kingston","EDWARDS, Major","Man",NA,"Conservative (1867-1942)","Defeated",29
-"Ontario",1891-03-05,"General","7","Lambton East","Moncrieff, George","Man","Lawyer","Conservative (1867-1942)","Elected",2636
-"Ontario",1891-03-05,"General","7","Lambton East","STUTT, Richard","Man",NA,"Liberal Party of Canada","Defeated",2070
-"Ontario",1891-03-05,"General","7","Lambton West","Lister, James Frederick","Man","Lawyer","Liberal Party of Canada","Elected",2364
-"Ontario",1891-03-05,"General","7","Lambton West","SMITH, Frank","Man",NA,"Conservative (1867-1942)","Defeated",1766
-"Ontario",1891-03-05,"General","7","Lanark North","Jamieson, Joseph","Man","Lawyer","Conservative (1867-1942)","Elected",1723
-"Ontario",1891-03-05,"General","7","Lanark North","FRASER, Donald M.","Man",NA,"Liberal Party of Canada","Defeated",1422
-"Ontario",1891-03-05,"General","7","Lanark South","Haggart, John Graham","Man","Mill owner","Conservative (1867-1942)","Elected",1804
-"Ontario",1891-03-05,"General","7","Lanark South","MCGARRY, William","Man",NA,"Liberal Party of Canada","Defeated",1174
-"Ontario",1891-03-05,"General","7","Leeds North and Grenville North","Ferguson, Charles Frederick","Man","Physician","Liberal-Conservative","Elected",1311
-"Ontario",1891-03-05,"General","7","Leeds North and Grenville North","Frost, Francis Theodore","Man",NA,"Liberal Party of Canada","Defeated",1165
-"Ontario",1891-03-05,"General","7","Leeds South","Taylor, George","Man","Manufacturer","Conservative (1867-1942)","Elected",2294
-"Ontario",1891-03-05,"General","7","Leeds South","TURNER, J.B.","Man",NA,"Liberal Party of Canada","Defeated",2188
-"Ontario",1891-03-05,"General","7","Lennox","Allison, David Wright","Man","Farmer","Liberal Party of Canada","Elected",1637
-"Ontario",1891-03-05,"General","7","Lennox","Wilson, Uriah","Man","Merchant","Conservative (1867-1942)","Defeated",1580
-"Ontario",1891-03-05,"General","7","Lincoln and Niagara","Gibson, William","Man","Engineer","Liberal Party of Canada","Elected",2212
-"Ontario",1891-03-05,"General","7","Lincoln and Niagara","NEELON, Sylvester","Man",NA,"Unknown","Defeated",2164
-"Ontario",1891-03-05,"General","7","London","Hyman, Charles Smith","Man","Manufacturer","Liberal Party of Canada","Elected",2037
-"Ontario",1891-03-05,"General","7","London","Carling, John","Man","Brewer","Liberal-Conservative","Defeated",1854
-"Ontario",1891-03-05,"General","7","Middlesex East","Marshall, Joseph Henry","Man","Farmer","Conservative (1867-1942)","Elected",2369
-"Ontario",1891-03-05,"General","7","Middlesex East","Taylor, George","Man",NA,"Liberal Party of Canada","Defeated",2214
-"Ontario",1891-03-05,"General","7","Middlesex North","Hutchins, William Henry","Man","Merchant","Conservative (1867-1942)","Elected",1965
-"Ontario",1891-03-05,"General","7","Middlesex North","TAYLOR, W.H.","Man",NA,"Liberal Party of Canada","Defeated",1959
-"Ontario",1891-03-05,"General","7","Middlesex South","Armstrong, James","Man","Farmer","Liberal Party of Canada","Elected",1906
-"Ontario",1891-03-05,"General","7","Middlesex South","CHISHOLM, Andrew G.","Man",NA,"Conservative (1867-1942)","Defeated",1282
-"Ontario",1891-03-05,"General","7","Middlesex West","Roome, William Frederick","Man","Physician","Conservative (1867-1942)","Elected",1529
-"Ontario",1891-03-05,"General","7","Middlesex West","MCFARLANE, Hector","Man",NA,"Liberal Party of Canada","Defeated",1119
-"Ontario",1891-03-05,"General","7","Middlesex West","BROCK, William","Man",NA,"Conservative (1867-1942)","Defeated",1110
-"Ontario",1891-03-05,"General","7","Monck","Brown, John","Man","Mining prospector","Liberal Party of Canada","Elected",1874
-"Ontario",1891-03-05,"General","7","Monck","Boyle, Arthur","Man","Businessman","Conservative (1867-1942)","Defeated",1614
-"Ontario",1891-03-05,"General","7","Muskoka and Parry Sound","O'Brien, William Edward","Man","Editor","Conservative (1867-1942)","Elected",1916
-"Ontario",1891-03-05,"General","7","Muskoka and Parry Sound","FITZGERALD, J.W.","Man",NA,"Liberal Party of Canada","Defeated",1768
-"Ontario",1891-03-05,"General","7","Norfolk North","Charlton, John","Man","Businessman","Liberal Party of Canada","Elected",2370
-"Ontario",1891-03-05,"General","7","Norfolk North","SINCLAIR, Lachlin","Man","Physician","Conservative (1867-1942)","Defeated",1902
-"Ontario",1891-03-05,"General","7","Norfolk South","Tisdale, David","Man","Lawyer","Conservative (1867-1942)","Elected",2051
-"Ontario",1891-03-05,"General","7","Norfolk South","ELLIS, Jonathan","Man",NA,"Liberal Party of Canada","Defeated",1639
-"Ontario",1891-03-05,"General","7","Northumberland East","Cochrane, Edward","Man","Farmer","Conservative (1867-1942)","Elected",2495
-"Ontario",1891-03-05,"General","7","Northumberland East","KETCHUM, M.P.","Man",NA,"Liberal Party of Canada","Defeated",2259
-"Ontario",1891-03-05,"General","7","Northumberland West","Hargraft, John","Man","Merchant","Liberal Party of Canada","Elected",1590
-"Ontario",1891-03-05,"General","7","Northumberland West","Guillet, George","Man","General merchant","Conservative (1867-1942)","Defeated",1554
-"Ontario",1891-03-05,"General","7","Ontario North","Madill, Frank","Man","Lawyer","Conservative (1867-1942)","Elected",2206
-"Ontario",1891-03-05,"General","7","Ontario North","COCKBURN, P.","Man","Merchant","Liberal Party of Canada","Defeated",1952
-"Ontario",1891-03-05,"General","7","Ontario South","Davidson, James Ironside","Man","Farmer","Liberal Party of Canada","Elected",2042
-"Ontario",1891-03-05,"General","7","Ontario South","Smith, William","Man","Farmer","Conservative (1867-1942)","Defeated",2009
-"Ontario",1891-03-05,"General","7","Ontario West","Edgar, James David","Man","Lawyer","Liberal Party of Canada","Elected",1867
-"Ontario",1891-03-05,"General","7","Ontario West","WHITE, F.P.","Man",NA,"Conservative (1867-1942)","Defeated",868
-"Ontario",1891-03-05,"General","7","Ottawa (City of)","Mackintosh, Charles Herbert","Man","Journalist","Conservative (1867-1942)","Elected",3029
-"Ontario",1891-03-05,"General","7","Ottawa (City of)","Robillard, Honoré","Man","Contractor","Liberal-Conservative","Elected",2363
-"Ontario",1891-03-05,"General","7","Ottawa (City of)","Belcourt, Napoléon Antoine","Man","Lawyer","Liberal Party of Canada","Defeated",1946
-"Ontario",1891-03-05,"General","7","Ottawa (City of)","PATTERSON, J.W.","Man",NA,"Liberal Party of Canada","Defeated",1287
-"Ontario",1891-03-05,"General","7","Ottawa (City of)","LEWIS, W.H.","Man",NA,"Equal Rights","Defeated",770
-"Ontario",1891-03-05,"General","7","Ottawa (City of)","NAGLE, R.","Man",NA,"Liberal Party of Canada","Defeated",55
-"Ontario",1891-03-05,"General","7","Oxford North","Sutherland, James","Man","Merchant","Liberal Party of Canada","Elected",2544
-"Ontario",1891-03-05,"General","7","Oxford North","KARN, D.W.","Man",NA,"Conservative (1867-1942)","Defeated",1010
-"Ontario",1891-03-05,"General","7","Oxford South","Cartwright, Richard John","Man","Businessman","Liberal Party of Canada","Elected",2021
-"Ontario",1891-03-05,"General","7","Oxford South","WALSH, Michael","Man",NA,"Conservative (1867-1942)","Defeated",1287
-"Ontario",1891-03-05,"General","7","Peel","Featherston, Joseph","Man","Breeder","Liberal Party of Canada","Elected",1667
-"Ontario",1891-03-05,"General","7","Peel","McCulla, William Armstrong","Man",NA,"Conservative (1867-1942)","Defeated",1613
-"Ontario",1891-03-05,"General","7","Perth North","Grieve, James Nicol","Man","Farmer","Liberal Party of Canada","Elected",2520
-"Ontario",1891-03-05,"General","7","Perth North","Hesson, Samuel Rollin","Man","Merchant","Conservative (1867-1942)","Defeated",2449
-"Ontario",1891-03-05,"General","7","Perth South","Trow, James","Man","Banker","Liberal Party of Canada","Elected",2363
-"Ontario",1891-03-05,"General","7","Perth South","SHARP, H.F.","Man",NA,"Conservative (1867-1942)","Defeated",2186
-"Ontario",1891-03-05,"General","7","Peterborough East","Burnham, John","Man","Lawyer","Conservative (1867-1942)","Elected",1832
-"Ontario",1891-03-05,"General","7","Peterborough East","RORK, Thomas","Man",NA,"Liberal Party of Canada","Defeated",1803
-"Ontario",1891-03-05,"General","7","Peterborough West","Stevenson, James","Man","Merchant","Conservative (1867-1942)","Elected",1447
-"Ontario",1891-03-05,"General","7","Peterborough West","HALL, Richard","Man",NA,"Liberal Party of Canada","Defeated",1215
-"Ontario",1891-03-05,"General","7","Prescott","Proulx, Isidore","Man","General merchant","Liberal Party of Canada","Elected",1269
-"Ontario",1891-03-05,"General","7","Prescott","Routhier, Félix","Man","Manufacturer","Conservative (1867-1942)","Defeated",608
-"Ontario",1891-03-05,"General","7","Prescott","JOHNSON, E.A.","Man",NA,"Unknown","Defeated",532
-"Ontario",1891-03-05,"General","7","Prescott","BERTRAND, David","Man","Farmer","Unknown","Defeated",335
-"Ontario",1891-03-05,"General","7","Prince Edward","Miller, Archibald Campbell","Man","Farmer","Conservative (1867-1942)","Elected",2264
-"Ontario",1891-03-05,"General","7","Prince Edward","Platt, John Milton","Man","Physician","Liberal Party of Canada","Defeated",2225
-"Ontario",1891-03-05,"General","7","Renfrew North","White, Peter","Man","Merchant","Conservative (1867-1942)","Elected",1497
-"Ontario",1891-03-05,"General","7","Renfrew North","BARR, Henry","Man",NA,"Liberal Party of Canada","Defeated",1418
-"Ontario",1891-03-05,"General","7","Renfrew South","Ferguson, John","Man","Farmer","Independent Conservative","Elected",1642
-"Ontario",1891-03-05,"General","7","Renfrew South","BARR, David","Man",NA,"Liberal Party of Canada","Defeated",1198
-"Ontario",1891-03-05,"General","7","Russell","Edwards, William Cameron","Man","Businessman","Liberal Party of Canada","Elected",2308
-"Ontario",1891-03-05,"General","7","Russell","Dickinson, Moss Kent","Man",NA,"Conservative (1867-1942)","Defeated",1895
-"Ontario",1891-03-05,"General","7","Simcoe East","Spohn, Philip Howard","Man","Physician","Liberal Party of Canada","Elected",2850
-"Ontario",1891-03-05,"General","7","Simcoe East","Bennett, William Humphrey","Man","Lawyer","Conservative (1867-1942)","Defeated",2643
-"Ontario",1891-03-05,"General","7","Simcoe North","McCarthy, D'Alton","Man","Lawyer","Independent","Elected",2417
-"Ontario",1891-03-05,"General","7","Simcoe North","Cook, Herman Henry","Man","Businessman","Liberal Party of Canada","Defeated",2121
-"Ontario",1891-03-05,"General","7","Simcoe South","Tyrwhitt, Richard","Man","Farmer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Ontario",1891-03-05,"General","7","Toronto Centre","Cockburn, George Ralph Richardson","Man","College principal","Conservative (1867-1942)","Elected",2414
-"Ontario",1891-03-05,"General","7","Toronto Centre","Kerr, James Kirkpatrick","Man",NA,"Liberal Party of Canada","Defeated",1912
-"Ontario",1891-03-05,"General","7","Toronto East","Coatsworth, Emerson","Man","Lawyer","Conservative (1867-1942)","Elected",3520
-"Ontario",1891-03-05,"General","7","Toronto East","WHEELER, Alex E.","Man",NA,"Liberal Party of Canada","Defeated",2056
-"Ontario",1891-03-05,"General","7","Toronto West","Denison, Frederick Charles","Man","Lawyer","Conservative (1867-1942)","Elected",5048
-"Ontario",1891-03-05,"General","7","Toronto West","MOWAT, Arthur","Man",NA,"Liberal Party of Canada","Defeated",3291
-"Ontario",1891-03-05,"General","7","Victoria North","Barron, John Augustus","Man","Lawyer","Liberal Party of Canada","Elected",1614
-"Ontario",1891-03-05,"General","7","Victoria North","Hughes, Samuel","Man","Editor","Liberal-Conservative","Defeated",1412
-"Ontario",1891-03-05,"General","7","Victoria South","Fairbairn, Charles","Man","Farmer","Liberal-Conservative","Elected",2055
-"Ontario",1891-03-05,"General","7","Victoria South","WALTERS, Thomas","Man",NA,"Liberal Party of Canada","Defeated",2030
-"Ontario",1891-03-05,"General","7","Waterloo North","Bowman, Isaac Erb","Man","Businessman","Liberal Party of Canada","Elected",2289
-"Ontario",1891-03-05,"General","7","Waterloo North","Kranz, Hugo","Man",NA,"Conservative (1867-1942)","Defeated",2204
-"Ontario",1891-03-05,"General","7","Waterloo South","Livingston, James","Man","Merchant","Liberal Party of Canada","Elected",2228
-"Ontario",1891-03-05,"General","7","Waterloo South","Clare, George Adam","Man","Businessman","Conservative (1867-1942)","Defeated",1916
-"Ontario",1891-03-05,"General","7","Welland","German, William Manley","Man","Lawyer","Liberal Party of Canada","Elected",2726
-"Ontario",1891-03-05,"General","7","Welland","Ferguson, John","Man","Physician","Conservative (1867-1942)","Defeated",2279
-"Ontario",1891-03-05,"General","7","Wellington Centre","Semple, Andrew","Man","Miller","Liberal Party of Canada","Elected",2455
-"Ontario",1891-03-05,"General","7","Wellington Centre","HUNTER, Wm. H.","Man",NA,"Conservative (1867-1942)","Defeated",2299
-"Ontario",1891-03-05,"General","7","Wellington North","McMullen, James","Man","Merchant","Liberal Party of Canada","Elected",2486
-"Ontario",1891-03-05,"General","7","Wellington North","CLARKE, L.H.","Man",NA,"Conservative (1867-1942)","Defeated",2300
-"Ontario",1891-03-05,"General","7","Wellington South","Innes, James","Man","School teacher","Liberal Party of Canada","Elected",2510
-"Ontario",1891-03-05,"General","7","Wellington South","GOLDIE, James","Man",NA,"Conservative (1867-1942)","Defeated",2134
-"Ontario",1891-03-05,"General","7","Wentworth North","Bain, Thomas","Man","Farmer","Liberal Party of Canada","Elected",1517
-"Ontario",1891-03-05,"General","7","Wentworth North","WARDELL, Alex R.","Man",NA,"Conservative (1867-1942)","Defeated",1317
-"Ontario",1891-03-05,"General","7","Wentworth South","Carpenter, Franklin Metcalfe","Man","Farmer","Conservative (1867-1942)","Elected",1773
-"Ontario",1891-03-05,"General","7","Wentworth South","MIDDLETON, Jas. T.","Man",NA,"Liberal Party of Canada","Defeated",1772
-"Ontario",1891-03-05,"General","7","York East","Mackenzie, Alexander","Man","Editor","Liberal Party of Canada","Elected",3003
-"Ontario",1891-03-05,"General","7","York East","Maclean, William Findlay","Man","Journalist","Independent Conservative","Defeated",2977
-"Ontario",1891-03-05,"General","7","York North","Mulock, William","Man","Lawyer","Liberal Party of Canada","Elected",2331
-"Ontario",1891-03-05,"General","7","York North","PEGG, W.W.","Man",NA,"Conservative (1867-1942)","Defeated",1968
-"Ontario",1891-03-05,"General","7","York West","Wallace, Nathaniel Clarke","Man","Miller","Conservative (1867-1942)","Elected",3434
-"Ontario",1891-03-05,"General","7","York West","CLEMENT, W.H.P.","Man",NA,"Liberal Party of Canada","Defeated",2628
-"Prince Edward Island",1891-03-05,"General","7","King's County","McLean, John","Man","Clerk","Conservative (1867-1942)","Elected",2624
-"Prince Edward Island",1891-03-05,"General","7","King's County","Macdonald, Augustine Colin","Man","Merchant","Conservative (1867-1942)","Elected",2514
-"Prince Edward Island",1891-03-05,"General","7","King's County","McIntyre, Peter Adolphus","Man","Physician","Liberal Party of Canada","Defeated",2369
-"Prince Edward Island",1891-03-05,"General","7","King's County","Robertson, James Edwin","Man","Physician","Liberal Party of Canada","Defeated",2276
-"Prince Edward Island",1891-03-05,"General","7","Prince County","Yeo, John","Man","Shipowner","Liberal Party of Canada","Elected",3279
-"Prince Edward Island",1891-03-05,"General","7","Prince County","Perry, Stanislaus Francis","Man","Farmer","Liberal Party of Canada","Elected",3182
-"Prince Edward Island",1891-03-05,"General","7","Prince County","Howlan, George William","Man",NA,"Conservative (1867-1942)","Defeated",2903
-"Prince Edward Island",1891-03-05,"General","7","Prince County","HUNT, Richard","Man",NA,"Conservative (1867-1942)","Defeated",2661
-"Prince Edward Island",1891-03-05,"General","7","Queen's County","Davies, Louis Henry","Man","Lawyer","Liberal Party of Canada","Elected",4006
-"Prince Edward Island",1891-03-05,"General","7","Queen's County","Welsh, William","Man","Shipowner","Independent Liberal","Elected",3854
-"Prince Edward Island",1891-03-05,"General","7","Queen's County","BLAKE, Patrick","Man",NA,"Conservative (1867-1942)","Defeated",3669
-"Prince Edward Island",1891-03-05,"General","7","Queen's County","Ferguson, Donald","Man",NA,"Conservative (1867-1942)","Defeated",3521
-"Quebec",1891-03-05,"General","7","Argenteuil","Christie, Thomas","Man","Physician","Liberal Party of Canada","Elected",1050
-"Quebec",1891-03-05,"General","7","Argenteuil","Owens, William","Man",NA,"Conservative (1867-1942)","Defeated",848
-"Quebec",1891-03-05,"General","7","Bagot","Dupont, Flavien","Man","Notary","Conservative (1867-1942)","Elected",1582
-"Quebec",1891-03-05,"General","7","Bagot","PILON, J.","Man",NA,"Liberal Party of Canada","Defeated",1529
-"Quebec",1891-03-05,"General","7","Beauce","Godbout, Joseph","Man","Physician","Liberal Party of Canada","Elected",2313
-"Quebec",1891-03-05,"General","7","Beauce","MORENCY, J.A.","Man",NA,"Conservative (1867-1942)","Defeated",1832
-"Quebec",1891-03-05,"General","7","Beauharnois","Bergeron, Joseph Gédéon Horace","Man","Lawyer","Conservative (1867-1942)","Elected",1458
-"Quebec",1891-03-05,"General","7","Beauharnois","SEERS, L.A.","Man",NA,"Liberal Party of Canada","Defeated",1155
-"Quebec",1891-03-05,"General","7","Bellechasse","Amyot, Guillaume","Man","Lawyer","Nationalist Conservative","Elected",1271
-"Quebec",1891-03-05,"General","7","Bellechasse","DE ST. MAURICE, Faucher","Man","Writer","Conservative (1867-1942)","Defeated",1165
-"Quebec",1891-03-05,"General","7","Berthier","Beausoleil, Cléophas","Man","Lawyer","Liberal Party of Canada","Elected",1522
-"Quebec",1891-03-05,"General","7","Berthier","ALLARD, Victor","Man",NA,"Conservative (1867-1942)","Defeated",1365
-"Quebec",1891-03-05,"General","7","Bonaventure","Fauvel, William LeBoutillier","Man","Merchant","Liberal Party of Canada","Elected",1707
-"Quebec",1891-03-05,"General","7","Bonaventure","LAFERRIERE, A.A.","Man",NA,"Conservative (1867-1942)","Defeated",1003
-"Quebec",1891-03-05,"General","7","Brome","Dyer, Eugène Alphonse","Man","Merchant","Conservative (1867-1942)","Elected",1452
-"Quebec",1891-03-05,"General","7","Brome","Fisher, Sydney Arthur","Man","Farmer","Liberal Party of Canada","Defeated",1452
-"Quebec",1891-03-05,"General","7","Chambly","Préfontaine, Joseph Raymond Fournier","Man","Lawyer","Liberal Party of Canada","Elected",1202
-"Quebec",1891-03-05,"General","7","Chambly","LAMARRE, P.B.","Man",NA,"Conservative (1867-1942)","Defeated",1115
-"Quebec",1891-03-05,"General","7","Champlain","Carignan, Onésime","Man","Grocer","Conservative (1867-1942)","Elected",1976
-"Quebec",1891-03-05,"General","7","Champlain","TRUDEL, Ferdinand","Man",NA,"Unknown","Defeated",1899
-"Quebec",1891-03-05,"General","7","Charlevoix","Simard, Henry","Man","Merchant","Liberal Party of Canada","Elected",1542
-"Quebec",1891-03-05,"General","7","Charlevoix","Cimon, Simon","Man","Civil engineer","Conservative (1867-1942)","Defeated",1235
-"Quebec",1891-03-05,"General","7","Châteauguay","Brown, James Pollock","Man","Farmer","Liberal Party of Canada","Elected",1246
-"Quebec",1891-03-05,"General","7","Châteauguay","WALSH, R.N.","Man",NA,"Independent","Defeated",1148
-"Quebec",1891-03-05,"General","7","Chicoutimi--Saguenay","Savard, Paul Vilmond","Man","Lawyer","Liberal Party of Canada","Elected",1927
-"Quebec",1891-03-05,"General","7","Chicoutimi--Saguenay","Caron, Adolphe-Philippe","Man","Lawyer","Conservative (1867-1942)","Defeated",1804
-"Quebec",1891-03-05,"General","7","Compton","Pope, Rufus Henry","Man","Farmer and breeder","Conservative (1867-1942)","Elected",2004
-"Quebec",1891-03-05,"General","7","Compton","LEET, S.P.","Man",NA,"Liberal Party of Canada","Defeated",938
-"Quebec",1891-03-05,"General","7","Dorchester","Vaillancourt, Cyrille Émile","Man","Physician","Nationalist","Elected (Acclamation)",0
-"Quebec",1891-03-05,"General","7","Drummond--Arthabaska","Lavergne, Joseph","Man","Lawyer","Liberal Party of Canada","Elected",3159
-"Quebec",1891-03-05,"General","7","Drummond--Arthabaska","CRÉPEAU, L.P.E.","Man",NA,"Conservative (1867-1942)","Defeated",2197
-"Quebec",1891-03-05,"General","7","Gaspé","Joncas, Louis Zéphirin","Man","Accountant","Conservative (1867-1942)","Elected (Acclamation)",0
-"Quebec",1891-03-05,"General","7","Hochelaga","Desjardins, Alphonse","Man","Lawyer","Conservative (1867-1942)","Elected",5266
-"Quebec",1891-03-05,"General","7","Hochelaga","LANCTOT, Joseph","Man","Physician","Liberal Party of Canada","Defeated",3805
-"Quebec",1891-03-05,"General","7","Huntingdon","Scriver, Julius","Man","Mill and tannery owner","Liberal Party of Canada","Elected",1408
-"Quebec",1891-03-05,"General","7","Huntingdon","MCCORMICK, Duncan","Man",NA,"Conservative (1867-1942)","Defeated",1125
-"Quebec",1891-03-05,"General","7","Iberville","Béchard, François","Man","Farmer","Liberal Party of Canada","Elected",1029
-"Quebec",1891-03-05,"General","7","Iberville","NADEAU, Joseph A.","Man",NA,"Conservative (1867-1942)","Defeated",545
-"Quebec",1891-03-05,"General","7","Jacques Cartier","Girouard, Désiré","Man","Lawyer","Conservative (1867-1942)","Elected",1379
-"Quebec",1891-03-05,"General","7","Jacques Cartier","Madore, Joseph Alexandre Camille","Man",NA,"Liberal Party of Canada","Defeated",1103
-"Quebec",1891-03-05,"General","7","Joliette","Lippé, Urbain","Man","Notary","Conservative (1867-1942)","Elected",1581
-"Quebec",1891-03-05,"General","7","Joliette","Neveu, Hilaire","Man","Farmer","Liberal Party of Canada","Defeated",1521
-"Quebec",1891-03-05,"General","7","Kamouraska","Carroll, Henry George","Man","Lawyer","Liberal Party of Canada","Elected",1506
-"Quebec",1891-03-05,"General","7","Kamouraska","Chapais, Joseph Amable Thomas","Man",NA,"Conservative (1867-1942)","Defeated",1411
-"Quebec",1891-03-05,"General","7","L'Assomption","Gauthier, Joseph","Man","Farmer","Liberal Party of Canada","Elected",1239
-"Quebec",1891-03-05,"General","7","L'Assomption","Jeannotte, Hormidas","Man",NA,"Conservative (1867-1942)","Defeated",1161
-"Quebec",1891-03-05,"General","7","L'Islet","Desjardins, Louis-Georges","Man","Journalist","Conservative (1867-1942)","Elected",981
-"Quebec",1891-03-05,"General","7","L'Islet","Casgrain, Philippe Baby","Man","Lawyer","Liberal Party of Canada","Defeated",975
-"Quebec",1891-03-05,"General","7","Laprairie","Pelletier, Louis Conrad","Man","Lawyer","Conservative (1867-1942)","Elected",970
-"Quebec",1891-03-05,"General","7","Laprairie","Doyon, Cyrille","Man","Farmer","Liberal Party of Canada","Defeated",916
-"Quebec",1891-03-05,"General","7","Laval","Ouimet, Joseph-Aldéric","Man","Lawyer","Liberal-Conservative","Elected",1082
-"Quebec",1891-03-05,"General","7","Laval","LADOUCEUR, N.H.","Man",NA,"Liberal Party of Canada","Defeated",548
-"Quebec",1891-03-05,"General","7","Lévis","Guay, Pierre Malcom","Man","Physician","Liberal Party of Canada","Elected",2075
-"Quebec",1891-03-05,"General","7","Lévis","PAQUET, E.T.","Man",NA,"Conservative (1867-1942)","Defeated",1794
-"Quebec",1891-03-05,"General","7","Lotbinière","Rinfret, Côme Isaïe","Man","Physician","Liberal Party of Canada","Elected (Acclamation)",0
-"Quebec",1891-03-05,"General","7","Maskinongé","Legris, Joseph Hormisdas","Man","Farmer","Liberal Party of Canada","Elected",1153
-"Quebec",1891-03-05,"General","7","Maskinongé","Coulombe, Charles Jérémie","Man","Physician","Conservative (1867-1942)","Defeated",1045
-"Quebec",1891-03-05,"General","7","Mégantic","Fréchette, Louis-Israël Côté Alias","Man","Merchant","Conservative (1867-1942)","Elected",1658
-"Quebec",1891-03-05,"General","7","Mégantic","Turcot, Georges","Man","Merchant","Liberal Party of Canada","Defeated",1547
-"Quebec",1891-03-05,"General","7","Missisquoi","Baker, George Barnard","Man","Lawyer","Liberal-Conservative","Elected",1776
-"Quebec",1891-03-05,"General","7","Missisquoi","Meigs, Daniel Bishop","Man",NA,"Liberal Party of Canada","Defeated",1617
-"Quebec",1891-03-05,"General","7","Montcalm","Dugas, Joseph Louis Euclide","Man","Farmer","Conservative (1867-1942)","Elected",673
-"Quebec",1891-03-05,"General","7","Montcalm","Thérien, Olaüs","Man","Lawyer","Conservative (1867-1942)","Defeated",632
-"Quebec",1891-03-05,"General","7","Montcalm","MAGNAN, Octave","Man",NA,"Conservative (1867-1942)","Defeated",516
-"Quebec",1891-03-05,"General","7","Montmagny","Choquette, Philippe Auguste","Man","Lawyer","Liberal Party of Canada","Elected",1172
-"Quebec",1891-03-05,"General","7","Montmagny","BENDER, E.P.","Man",NA,"Conservative (1867-1942)","Defeated",739
-"Quebec",1891-03-05,"General","7","Montmorency","Tarte, Joseph Israël","Man","Journalist","Conservative (1867-1942)","Elected",975
-"Quebec",1891-03-05,"General","7","Montmorency","Turcotte, Arthur Joseph","Man",NA,"Conservative (1867-1942)","Defeated",868
-"Quebec",1891-03-05,"General","7","Montmorency","Valin, Pierre Vincent","Man","Businessman","Conservative (1867-1942)","Defeated",92
-"Quebec",1891-03-05,"General","7","Montreal Centre","Curran, John Joseph","Man","Lawyer","Conservative (1867-1942)","Elected",3450
-"Quebec",1891-03-05,"General","7","Montreal Centre","GUÉRIN, E.W.P.","Man",NA,"Unknown","Defeated",2236
-"Quebec",1891-03-05,"General","7","Montreal East","Lépine, Alphonse Télesphore","Man","Journalist","Independent Conservative","Elected",5840
-"Quebec",1891-03-05,"General","7","Montreal East","David, Laurent-Olivier","Man","Journalist","Liberal Party of Canada","Defeated",5015
-"Quebec",1891-03-05,"General","7","Montreal West","Smith, Donald Alexander","Man","Governor of the Hudson's Bay Company","Independent Conservative","Elected",4586
-"Quebec",1891-03-05,"General","7","Montreal West","LAW, Marion Albert","Man",NA,"Liberal Party of Canada","Defeated",880
-"Quebec",1891-03-05,"General","7","Napierville","Monet, Dominique","Man","Lawyer","Liberal Party of Canada","Elected",817
-"Quebec",1891-03-05,"General","7","Napierville","Paradis, François-Xavier","Man",NA,"Conservative (1867-1942)","Defeated",799
-"Quebec",1891-03-05,"General","7","Nicolet","Leduc, Joseph Hector","Man","Merchant","Liberal Party of Canada","Elected",1538
-"Quebec",1891-03-05,"General","7","Nicolet","PRINCE, E.C.","Man",NA,"Conservative (1867-1942)","Defeated",1533
-"Quebec",1891-03-05,"General","7","Nicolet","HOUDE, C.E.","Man",NA,"Liberal Party of Canada","Defeated",327
-"Quebec",1891-03-05,"General","7","Ottawa (County of)","Devlin, Charles Ramsay","Man","Merchant","Liberal Party of Canada","Elected",2993
-"Quebec",1891-03-05,"General","7","Ottawa (County of)","MCDOUGALL, J.M.","Man",NA,"Conservative (1867-1942)","Defeated",2579
-"Quebec",1891-03-05,"General","7","Pontiac","Murray, Thomas","Man","Merchant","Liberal Party of Canada","Elected",1100
-"Quebec",1891-03-05,"General","7","Pontiac","MCLEAN, H.M.","Man",NA,"Unknown","Defeated",795
-"Quebec",1891-03-05,"General","7","Pontiac","Bryson, John","Man","Businessman","Conservative (1867-1942)","Defeated",787
-"Quebec",1891-03-05,"General","7","Portneuf","Delisle, Arthur","Man","Lawyer","Liberal Party of Canada","Elected",1906
-"Quebec",1891-03-05,"General","7","Portneuf","Vallée, Roch Pamphile","Man","Journalist","Conservative (1867-1942)","Defeated",1756
-"Quebec",1891-03-05,"General","7","Quebec County","Frémont, Jules Joseph Taschereau","Man","Lawyer","Liberal Party of Canada","Elected",1692
-"Quebec",1891-03-05,"General","7","Quebec County","FLYNN, Edmund James","Man","Lawyer","Conservative (1867-1942)","Defeated",1352
-"Quebec",1891-03-05,"General","7","Quebec East","Laurier, Wilfrid","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Quebec",1891-03-05,"General","7","Quebec West","McGreevy, Thomas","Man","Contractor","Liberal-Conservative","Elected",885
-"Quebec",1891-03-05,"General","7","Quebec West","HEARN, M.A.","Man",NA,"Unknown","Defeated",832
-"Quebec",1891-03-05,"General","7","Quebec-Centre","Langelier, François Charles Stanislas","Man","Lawyer","Liberal Party of Canada","Elected",1080
-"Quebec",1891-03-05,"General","7","Quebec-Centre","CHATEAUVERT, Victor","Man",NA,"Conservative (1867-1942)","Defeated",1002
-"Quebec",1891-03-05,"General","7","Richelieu","Langevin, Hector-Louis","Man","Lawyer","Conservative (1867-1942)","Elected",1701
-"Quebec",1891-03-05,"General","7","Richelieu","Gouin, Lomer","Man",NA,"Liberal Party of Canada","Defeated",1393
-"Quebec",1891-03-05,"General","7","Richmond--Wolfe","Cleveland, Clarence Chester","Man","Farmer","Conservative (1867-1942)","Elected",2416
-"Quebec",1891-03-05,"General","7","Richmond--Wolfe","Laurier, Wilfrid","Man","Lawyer","Liberal Party of Canada","Defeated",2135
-"Quebec",1891-03-05,"General","7","Rimouski","Caron, Adolphe-Philippe","Man","Lawyer","Conservative (1867-1942)","Elected",2061
-"Quebec",1891-03-05,"General","7","Rimouski","Fiset, Jean-Baptiste Romuald","Man","Physician","Liberal Party of Canada","Defeated",1799
-"Quebec",1891-03-05,"General","7","Rouville","Brodeur, Louis-Philippe","Man","Lawyer","Liberal Party of Canada","Elected",1289
-"Quebec",1891-03-05,"General","7","Rouville","Gigault, Georges Auguste","Man","Notary","Conservative (1867-1942)","Defeated",1220
-"Quebec",1891-03-05,"General","7","Saint Maurice","Desaulniers, François Sévère Lesieur","Man","Lawyer","Conservative (1867-1942)","Elected",894
-"Quebec",1891-03-05,"General","7","Saint Maurice","Desaulniers, Louis-Léon Lesieur","Man","Physician","Independent Conservative","Defeated",749
-"Quebec",1891-03-05,"General","7","Shefford","Sanborn, John Robbins","Man","Farmer","Liberal Party of Canada","Elected",1792
-"Quebec",1891-03-05,"General","7","Shefford","SAVAGE, A.C.","Man",NA,"Conservative (1867-1942)","Defeated",1615
-"Quebec",1891-03-05,"General","7","Sherbrooke (Town of)","Ives, William Bullock","Man","Businessman","Conservative (1867-1942)","Elected",1118
-"Quebec",1891-03-05,"General","7","Sherbrooke (Town of)","MILLIER, Clement","Man",NA,"Liberal Party of Canada","Defeated",803
-"Quebec",1891-03-05,"General","7","Soulanges","Mousseau, Joseph Octave","Man","Physician","Independent","Elected",934
-"Quebec",1891-03-05,"General","7","Soulanges","Bain, James William","Man",NA,"Conservative (1867-1942)","Defeated",895
-"Quebec",1891-03-05,"General","7","St. Hyacinthe","Bernier, Michel Esdras","Man","Businessman","Liberal Party of Canada","Elected",1671
-"Quebec",1891-03-05,"General","7","St. Hyacinthe","BRODEUR, Eusèbe","Man",NA,"Conservative (1867-1942)","Defeated",1175
-"Quebec",1891-03-05,"General","7","St. John's","Bourassa, François","Man","Militia captain","Liberal Party of Canada","Elected",997
-"Quebec",1891-03-05,"General","7","St. John's","BLACK, J.","Man",NA,"Conservative (1867-1942)","Defeated",769
-"Quebec",1891-03-05,"General","7","Stanstead","Rider, Timothy Byron","Man","Merchant","Liberal Party of Canada","Elected",1655
-"Quebec",1891-03-05,"General","7","Stanstead","Colby, Charles Carroll","Man","Lawyer","Liberal-Conservative","Defeated",1553
-"Quebec",1891-03-05,"General","7","Témiscouata","Grandbois, Paul Étienne","Man","Physician","Conservative (1867-1942)","Elected",1813
-"Quebec",1891-03-05,"General","7","Témiscouata","DESCHÊNES, G.H.","Man",NA,"Liberal Party of Canada","Defeated",1615
-"Quebec",1891-03-05,"General","7","Terrebonne","Chapleau, Joseph Adolphe","Man","Lawyer","Conservative (1867-1942)","Elected",1830
-"Quebec",1891-03-05,"General","7","Terrebonne","LIMOGES, M.D.","Man",NA,"Liberal Party of Canada","Defeated",1126
-"Quebec",1891-03-05,"General","7","Three Rivers","Langevin, Hector-Louis","Man","Lawyer","Conservative (1867-1942)","Elected",682
-"Quebec",1891-03-05,"General","7","Three Rivers","Polette, L.T.","Man",NA,"Liberal Party of Canada","Defeated",482
-"Quebec",1891-03-05,"General","7","Two Mountains","Daoust, Jean-Baptiste","Man","Farmer","Conservative (1867-1942)","Elected",1158
-"Quebec",1891-03-05,"General","7","Two Mountains","FORTIER, L.A.","Man","Physician","Liberal Party of Canada","Defeated",871
-"Quebec",1891-03-05,"General","7","Vaudreuil","Harwood, Henry Stanislas","Man","Farmer","Liberal Party of Canada","Elected",1087
-"Quebec",1891-03-05,"General","7","Vaudreuil","McMillan, Hugh","Man","Merchant","Conservative (1867-1942)","Defeated",989
-"Quebec",1891-03-05,"General","7","Verchères","Geoffrion, Félix","Man","Notary","Liberal Party of Canada","Elected",1108
-"Quebec",1891-03-05,"General","7","Verchères","ARCHAMBAULT, A.M.","Man",NA,"Unknown","Defeated",940
-"Quebec",1891-03-05,"General","7","Yamaska","Mignault, Roch Moïse Samuel","Man","Physician","Liberal Party of Canada","Elected",1399
-"Quebec",1891-03-05,"General","7","Yamaska","VERTEFEUILLE, F.V.","Man","Lawyer","Conservative (1867-1942)","Defeated",1229
+"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
+"British Columbia",1891-03-05,"General","7","Cariboo","Barnard, Frank Stillman","Barnard","Frank","Stillman","Man","Businessman","Conservative (1867-1942)","Elected",223
+"British Columbia",1891-03-05,"General","7","Cariboo","Watt, Hugh","Watt","Hugh",NA,"Man","Physician","Liberal Party of Canada","Defeated",194
+"British Columbia",1891-03-05,"General","7","New Westminster","Corbould, Gordon Edward","Corbould","Gordon","Edward","Man","Lawyer","Conservative (1867-1942)","Elected",1694
+"British Columbia",1891-03-05,"General","7","New Westminster","Scoullor, E.S.","Scoullor","E.S.",NA,"Man",NA,"Liberal Party of Canada","Defeated",532
+"British Columbia",1891-03-05,"General","7","Vancouver","Gordon, David William","Gordon","David","William","Man","Contractor","Liberal-Conservative","Elected (Acclamation)",0
+"British Columbia",1891-03-05,"General","7","Victoria","Earle, Thomas","Earle","Thomas",NA,"Man","Businessman","Conservative (1867-1942)","Elected",1061
+"British Columbia",1891-03-05,"General","7","Victoria","Prior, Edward Gawler","Prior","Edward","Gawler","Man","Mining engineer","Conservative (1867-1942)","Elected",1031
+"British Columbia",1891-03-05,"General","7","Victoria","Templeman, William","Templeman","William",NA,"Man",NA,"Liberal Party of Canada","Defeated",449
+"British Columbia",1891-03-05,"General","7","Victoria","Marchant, William","Marchant","William",NA,"Man",NA,"Liberal Party of Canada","Defeated",417
+"British Columbia",1891-03-05,"General","7","Yale","Mara, John Andrew","Mara","John","Andrew","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
+"Manitoba",1891-03-05,"General","7","Lisgar","Ross, Arthur Wellington","Ross","Arthur","Wellington","Man","Teacher","Liberal-Conservative","Elected",1359
+"Manitoba",1891-03-05,"General","7","Lisgar","Taylor, John","Taylor","John",NA,"Man",NA,"Liberal Party of Canada","Defeated",1169
+"Manitoba",1891-03-05,"General","7","Marquette","Watson, Robert","Watson","Robert",NA,"Man","Businessman","Liberal Party of Canada","Elected",2265
+"Manitoba",1891-03-05,"General","7","Marquette","Boyd, Nathaniel","Boyd","Nathaniel",NA,"Man","Telegraph operator","Conservative (1867-1942)","Defeated",2219
+"Manitoba",1891-03-05,"General","7","Provencher","LaRivière, Alphonse Alfred Clément","LaRivière","Alphonse","Alfred Clément","Man","Editor","Conservative (1867-1942)","Elected (Acclamation)",0
+"Manitoba",1891-03-05,"General","7","Selkirk","Daly, Thomas Mayne","Daly","Thomas","Mayne","Man","Lawyer","Liberal-Conservative","Elected",3660
+"Manitoba",1891-03-05,"General","7","Selkirk","Martin, Joseph","Martin","Joseph",NA,"Man","Miller","Liberal Party of Canada","Defeated",3225
+"Manitoba",1891-03-05,"General","7","Winnipeg","Macdonald, Hugh John","Macdonald","Hugh","John","Man","Lawyer","Liberal-Conservative","Elected",2131
+"Manitoba",1891-03-05,"General","7","Winnipeg","Campbell, Isaac","Campbell","Isaac",NA,"Man",NA,"Liberal Party of Canada","Defeated",1622
+"New Brunswick",1891-03-05,"General","7","Albert","Weldon, Richard Chapman","Weldon","Richard","Chapman","Man","Lawyer","Conservative (1867-1942)","Elected",1096
+"New Brunswick",1891-03-05,"General","7","Albert","Emmerson, Henry Robert","Emmerson","Henry","Robert","Man",NA,"Liberal Party of Canada","Defeated",1020
+"New Brunswick",1891-03-05,"General","7","Carleton","Colter, Newton Ramsay","Colter","Newton","Ramsay","Man","Physician","Liberal Party of Canada","Elected",2016
+"New Brunswick",1891-03-05,"General","7","Carleton","Vince, D. McL.","Vince","D.","McL.","Man",NA,"Conservative (1867-1942)","Defeated",1908
+"New Brunswick",1891-03-05,"General","7","Charlotte","Gillmor, Arthur Hill","Gillmor","Arthur","Hill","Man","Lumberman","Liberal Party of Canada","Elected",1934
+"New Brunswick",1891-03-05,"General","7","Charlotte","Lawson, Edward M.","Lawson","Edward","M.","Man",NA,"Conservative (1867-1942)","Defeated",1686
+"New Brunswick",1891-03-05,"General","7","Gloucester","Burns, Kennedy Francis","Burns","Kennedy","Francis","Man","Merchant","Conservative (1867-1942)","Elected",1943
+"New Brunswick",1891-03-05,"General","7","Gloucester","Landry, W.A.","Landry","W.A.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1571
+"New Brunswick",1891-03-05,"General","7","Kent","Léger, Édouard H.","Léger","Édouard","H.","Man","Physician","Conservative (1867-1942)","Elected",1722
+"New Brunswick",1891-03-05,"General","7","Kent","LeBlanc, Olivier J.","LeBlanc","Olivier","J.","Man",NA,"Liberal Party of Canada","Defeated",1011
+"New Brunswick",1891-03-05,"General","7","King's","Foster, George Eulas","Foster","George","Eulas","Man","University teacher","Conservative (1867-1942)","Elected",1931
+"New Brunswick",1891-03-05,"General","7","King's","Domville, James","Domville","James",NA,"Man","Merchant","Independent","Defeated",1858
+"New Brunswick",1891-03-05,"General","7","Northumberland","Adams, Michael","Adams","Michael",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2192
+"New Brunswick",1891-03-05,"General","7","Northumberland","Mitchell, Peter","Mitchell","Peter",NA,"Man","Lawyer","Independent Liberal","Defeated",1719
+"New Brunswick",1891-03-05,"General","7","Queen's","King, George Gerald","King","George","Gerald","Man","Businessman","Liberal Party of Canada","Elected",1233
+"New Brunswick",1891-03-05,"General","7","Queen's","Baird, George Frederick","Baird","George","Frederick","Man","Lawyer","Conservative (1867-1942)","Defeated",1204
+"New Brunswick",1891-03-05,"General","7","Restigouche","McAlister, John","McAlister","John",NA,"Man","Lawyer","Liberal-Conservative","Elected",735
+"New Brunswick",1891-03-05,"General","7","Restigouche","Moffatt, George","Moffatt","George",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",519
+"New Brunswick",1891-03-05,"General","7","St. John (City and County of)","Hazen, John Douglas","Hazen","John","Douglas","Man","Lawyer","Conservative (1867-1942)","Elected",4824
+"New Brunswick",1891-03-05,"General","7","St. John (City and County of)","Skinner, Charles Nelson","Skinner","Charles","Nelson","Man","Lawyer","Liberal Party of Canada","Elected",4448
+"New Brunswick",1891-03-05,"General","7","St. John (City and County of)","Weldon, Charles Wesley","Weldon","Charles","Wesley","Man","Lawyer","Liberal Party of Canada","Defeated",3832
+"New Brunswick",1891-03-05,"General","7","St. John (City and County of)","Rankine, T.A.","Rankine","T.A.",NA,"Man",NA,"Unknown","Defeated",3503
+"New Brunswick",1891-03-05,"General","7","St. John (City of )","McLeod, Ezekiel","McLeod","Ezekiel",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2649
+"New Brunswick",1891-03-05,"General","7","St. John (City of )","Ellis, John Valentine","Ellis","John","Valentine","Man","Journalist","Liberal Party of Canada","Defeated",2063
+"New Brunswick",1891-03-05,"General","7","Sunbury","Wilmot, Robert Duncan","Wilmot","Robert","Duncan","Man","Businessman","Conservative (1867-1942)","Elected",712
+"New Brunswick",1891-03-05,"General","7","Sunbury","Day, Geo. E.","Day","Geo.","E.","Man","Physician","Liberal Party of Canada","Defeated",427
+"New Brunswick",1891-03-05,"General","7","Victoria","Costigan, John","Costigan","John",NA,"Man","Judge","Liberal-Conservative","Elected",1427
+"New Brunswick",1891-03-05,"General","7","Victoria","Lawson, Thomas","Lawson","Thomas",NA,"Man",NA,"Liberal Party of Canada","Defeated",732
+"New Brunswick",1891-03-05,"General","7","Westmorland","Wood, Josiah","Wood","Josiah",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",4205
+"New Brunswick",1891-03-05,"General","7","Westmorland","George, Wm. F.","George","Wm.","F.","Man",NA,"Liberal Party of Canada","Defeated",2057
+"New Brunswick",1891-03-05,"General","7","York","Temple, Thomas","Temple","Thomas",NA,"Man","Farmer","Conservative (1867-1942)","Elected",2048
+"New Brunswick",1891-03-05,"General","7","York","Thompson, Frederick Pemberton","Thompson","Frederick","Pemberton","Man",NA,"Liberal Party of Canada","Defeated",1821
+"Northwest Territories",1891-03-05,"General","7","Alberta (Provisional District)","Davis, Donald Watson","Davis","Donald","Watson","Man","Merchant","Conservative (1867-1942)","Elected",2742
+"Northwest Territories",1891-03-05,"General","7","Alberta (Provisional District)","Reilly, James","Reilly","James",NA,"Man",NA,"Conservative (1867-1942)","Defeated",935
+"Northwest Territories",1891-03-05,"General","7","Assiniboia East","Dewdney, Edgar","Dewdney","Edgar",NA,"Man",NA,"Conservative (1867-1942)","Elected",2049
+"Northwest Territories",1891-03-05,"General","7","Assiniboia East","Turriff, John Gillanders","Turriff","John","Gillanders","Man",NA,"Liberal Party of Canada","Defeated",1293
+"Northwest Territories",1891-03-05,"General","7","Assiniboia West","Davin, Nicholas Flood","Davin","Nicholas","Flood","Man","Barrister","Conservative (1867-1942)","Elected",1011
+"Northwest Territories",1891-03-05,"General","7","Assiniboia West","Tweed, Thomas","Tweed","Thomas",NA,"Man",NA,"Conservative (1867-1942)","Defeated",684
+"Northwest Territories",1891-03-05,"General","7","Saskatchewan (Provisional District)","Macdowall, Day Hort","Macdowall","Day","Hort","Man","Lumber merchant","Conservative (1867-1942)","Elected",950
+"Northwest Territories",1891-03-05,"General","7","Saskatchewan (Provisional District)","Montgomery, H.J.","Montgomery","H.J.",NA,"Man",NA,"Liberal Party of Canada","Defeated",667
+"Nova Scotia",1891-03-05,"General","7","Annapolis","Mills, John Burpee","Mills","John","Burpee","Man","Lawyer","Conservative (1867-1942)","Elected",1835
+"Nova Scotia",1891-03-05,"General","7","Annapolis","Chipman, Wm. A.","Chipman","Wm.","A.","Man",NA,"Unknown","Defeated",1662
+"Nova Scotia",1891-03-05,"General","7","Antigonish","Thompson, John Sparrow David","Thompson","John","Sparrow David","Man","Lawyer","Liberal-Conservative","Elected",1346
+"Nova Scotia",1891-03-05,"General","7","Antigonish","Mcgillivray, Angus","Mcgillivray","Angus",NA,"Man",NA,"Unknown","Defeated",1119
+"Nova Scotia",1891-03-05,"General","7","Cape Breton","MacKeen, David","MacKeen","David",NA,"Man","Merchant","Conservative (1867-1942)","Elected",2889
+"Nova Scotia",1891-03-05,"General","7","Cape Breton","McDougall, Hector Francis","McDougall","Hector","Francis","Man","General merchant","Liberal-Conservative","Elected",2681
+"Nova Scotia",1891-03-05,"General","7","Cape Breton","Murray, Geo. H.","Murray","Geo.","H.","Man",NA,"Liberal Party of Canada","Defeated",2161
+"Nova Scotia",1891-03-05,"General","7","Cape Breton","Mcpherson, Joseph","Mcpherson","Joseph",NA,"Man",NA,"Liberal Party of Canada","Defeated",2078
+"Nova Scotia",1891-03-05,"General","7","Colchester","Patterson, William Albert","Patterson","William","Albert","Man","Lumber merchant","Conservative (1867-1942)","Elected",2588
+"Nova Scotia",1891-03-05,"General","7","Colchester","Archibald, P. McG.","Archibald","P.","McG.","Man",NA,"Liberal Party of Canada","Defeated",1785
+"Nova Scotia",1891-03-05,"General","7","Colchester","Fletcher, A.B.","Fletcher","A.B.",NA,"Man",NA,"Progressive","Defeated",165
+"Nova Scotia",1891-03-05,"General","7","Cumberland","Dickey, Arthur Rupert","Dickey","Arthur","Rupert","Man","Lawyer","Conservative (1867-1942)","Elected",2935
+"Nova Scotia",1891-03-05,"General","7","Cumberland","Howard, D.S.","Howard","D.S.",NA,"Man",NA,"Liberal Party of Canada","Defeated",2095
+"Nova Scotia",1891-03-05,"General","7","Cumberland","Casey, C.R.","Casey","C.R.",NA,"Man",NA,"Progressive","Defeated",303
+"Nova Scotia",1891-03-05,"General","7","Digby","Bowers, Edward Charles","Bowers","Edward","Charles","Man","General trader","Liberal Party of Canada","Elected",1503
+"Nova Scotia",1891-03-05,"General","7","Digby","Jones, Herbert Ladd","Jones","Herbert","Ladd","Man",NA,"Conservative (1867-1942)","Defeated",1430
+"Nova Scotia",1891-03-05,"General","7","Guysborough","Fraser, Duncan Cameron","Fraser","Duncan","Cameron","Man","Lawyer","Liberal Party of Canada","Elected",1145
+"Nova Scotia",1891-03-05,"General","7","Guysborough","Ogden, Alfred","Ogden","Alfred",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1059
+"Nova Scotia",1891-03-05,"General","7","Halifax","Kenny, Thomas Edward","Kenny","Thomas","Edward","Man","Merchant","Conservative (1867-1942)","Elected",5274
+"Nova Scotia",1891-03-05,"General","7","Halifax","Stairs, John Fitz William","Stairs","John","Fitz William","Man","Merchant","Conservative (1867-1942)","Elected",5262
+"Nova Scotia",1891-03-05,"General","7","Halifax","Jones, Alfred Gilpin","Jones","Alfred","Gilpin","Man","Merchant","Liberal Party of Canada","Defeated",4335
+"Nova Scotia",1891-03-05,"General","7","Halifax","Farrell, Edward","Farrell","Edward",NA,"Man","Physician","Liberal Party of Canada","Defeated",4174
+"Nova Scotia",1891-03-05,"General","7","Hants","Putnam, Alfred","Putnam","Alfred",NA,"Man","Shipbuilder","Conservative (1867-1942)","Elected",1705
+"Nova Scotia",1891-03-05,"General","7","Hants","Haley, Allen","Haley","Allen",NA,"Man",NA,"Liberal Party of Canada","Defeated",1604
+"Nova Scotia",1891-03-05,"General","7","Inverness","Cameron, Hugh","Cameron","Hugh",NA,"Man","Physician","Conservative (1867-1942)","Elected",1877
+"Nova Scotia",1891-03-05,"General","7","Inverness","McDonnell, Samuel","McDonnell","Samuel",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",1567
+"Nova Scotia",1891-03-05,"General","7","Kings","Borden, Frederick William","Borden","Frederick","William","Man","Physician","Liberal Party of Canada","Elected",1815
+"Nova Scotia",1891-03-05,"General","7","Kings","Bill, C.R.","Bill","C.R.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1654
+"Nova Scotia",1891-03-05,"General","7","Lunenburg","Kaulbach, Charles Edwin","Kaulbach","Charles","Edwin","Man","Businessman","Conservative (1867-1942)","Elected",2592
+"Nova Scotia",1891-03-05,"General","7","Lunenburg","Eisenhauer, James Daniel","Eisenhauer","James","Daniel","Man","Merchant","Liberal Party of Canada","Defeated",2402
+"Nova Scotia",1891-03-05,"General","7","Pictou","Tupper, Charles Hibbert","Tupper","Charles","Hibbert","Man","Lawyer","Conservative (1867-1942)","Elected",3433
+"Nova Scotia",1891-03-05,"General","7","Pictou","McDougald, John","McDougald","John",NA,"Man","Merchant","Liberal-Conservative","Elected",3384
+"Nova Scotia",1891-03-05,"General","7","Pictou","Fraser, Jas. A.","Fraser","Jas.","A.","Man",NA,"Liberal Party of Canada","Defeated",2708
+"Nova Scotia",1891-03-05,"General","7","Pictou","Yorston, John","Yorston","John",NA,"Man",NA,"Liberal Party of Canada","Defeated",2594
+"Nova Scotia",1891-03-05,"General","7","Queens","Forbes, Francis Gordon","Forbes","Francis","Gordon","Man","Lawyer","Liberal Party of Canada","Elected",867
+"Nova Scotia",1891-03-05,"General","7","Queens","Freeman, Joshua Newton","Freeman","Joshua","Newton","Man","Merchant","Liberal-Conservative","Defeated",766
+"Nova Scotia",1891-03-05,"General","7","Richmond","Gillies, Joseph Alexander","Gillies","Joseph","Alexander","Man","Lawyer","Conservative (1867-1942)","Elected",857
+"Nova Scotia",1891-03-05,"General","7","Richmond","Paint, Henry Nicholas","Paint","Henry","Nicholas","Man","Commission and insurance agent","Conservative (1867-1942)","Defeated",755
+"Nova Scotia",1891-03-05,"General","7","Richmond","Flynn, Edmund Power","Flynn","Edmund","Power","Man","Merchant","Liberal Party of Canada","Defeated",670
+"Nova Scotia",1891-03-05,"General","7","Shelburne","White, Nathaniel Whitworth","White","Nathaniel","Whitworth","Man","Lawyer","Liberal-Conservative","Elected",1388
+"Nova Scotia",1891-03-05,"General","7","Shelburne","Robertson, Thomas","Robertson","Thomas",NA,"Man","Civil servant","Liberal Party of Canada","Defeated",1369
+"Nova Scotia",1891-03-05,"General","7","Victoria","McDonald, John Archibald","McDonald","John","Archibald","Man","Lawyer","Conservative (1867-1942)","Elected",822
+"Nova Scotia",1891-03-05,"General","7","Victoria","Ross, William","Ross","William",NA,"Man","Commission merchant","Liberal Party of Canada","Defeated",770
+"Nova Scotia",1891-03-05,"General","7","Yarmouth","Flint, Thomas Barnard","Flint","Thomas","Barnard","Man","Lawyer","Liberal Party of Canada","Elected",1732
+"Nova Scotia",1891-03-05,"General","7","Yarmouth","Kinney, Joseph Robbins","Kinney","Joseph","Robbins","Man","Merchant","Liberal Party of Canada","Defeated",1157
+"Ontario",1891-03-05,"General","7","Addington","Dawson, George Walker Wesley","Dawson","George","Walker Wesley","Man","Postmaster","Liberal Party of Canada","Elected",2307
+"Ontario",1891-03-05,"General","7","Addington","Bell, John William","Bell","John","William","Man","School teacher and farmer","Conservative (1867-1942)","Defeated",2246
+"Ontario",1891-03-05,"General","7","Algoma","Macdonell, George Hugh","Macdonell","George","Hugh","Man","Contractor","Conservative (1867-1942)","Elected",2251
+"Ontario",1891-03-05,"General","7","Algoma","Burk, Daniel F.","Burk","Daniel","F.","Man",NA,"Unknown","Defeated",1813
+"Ontario",1891-03-05,"General","7","Bothwell","Mills, David","Mills","David",NA,"Man","Lawyer","Liberal Party of Canada","Elected",2006
+"Ontario",1891-03-05,"General","7","Bothwell","Langford, G.R.","Langford","G.R.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1456
+"Ontario",1891-03-05,"General","7","Bothwell","Mclartey, A.","Mclartey","A.",NA,"Man",NA,"Unknown","Defeated",1088
+"Ontario",1891-03-05,"General","7","Brant North","Somerville, James","Somerville","James",NA,"Man","Newspaperman","Liberal Party of Canada","Elected",1729
+"Ontario",1891-03-05,"General","7","Brant North","Hamilton, R.L.","Hamilton","R.L.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",613
+"Ontario",1891-03-05,"General","7","Brant South","Paterson, William","Paterson","William",NA,"Man","Biscuit manufacturer","Liberal Party of Canada","Elected",1963
+"Ontario",1891-03-05,"General","7","Brant South","Cox, Peter H.","Cox","Peter","H.","Man",NA,"Unknown","Defeated",1421
+"Ontario",1891-03-05,"General","7","Brockville","Wood, John Fisher","Wood","John","Fisher","Man","Lawyer","Liberal-Conservative","Elected",1815
+"Ontario",1891-03-05,"General","7","Brockville","Derbyshire, Daniel","Derbyshire","Daniel",NA,"Man","Merchant","Liberal Party of Canada","Defeated",1637
+"Ontario",1891-03-05,"General","7","Bruce East","Truax, Reuben Eldridge","Truax","Reuben","Eldridge","Man","Sawmill owner and operator","Liberal Party of Canada","Elected",2045
+"Ontario",1891-03-05,"General","7","Bruce East","Cargill, Henry","Cargill","Henry",NA,"Man","Lumber manufacturer","Conservative (1867-1942)","Defeated",1931
+"Ontario",1891-03-05,"General","7","Bruce North","McNeill, Alexander","McNeill","Alexander",NA,"Man","Lawyer","Liberal-Conservative","Elected",1865
+"Ontario",1891-03-05,"General","7","Bruce North","Bonnar, Hector Alex","Bonnar","Hector","Alex","Man","Physician","Liberal Party of Canada","Defeated",1826
+"Ontario",1891-03-05,"General","7","Bruce West","Rowand, James","Rowand","James",NA,"Man","Farmer","Liberal Party of Canada","Elected",2015
+"Ontario",1891-03-05,"General","7","Bruce West","Morrison, Hugh","Morrison","Hugh",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1085
+"Ontario",1891-03-05,"General","7","Cardwell","White, Robert Smeaton","White","Robert","Smeaton","Man","Journalist","Conservative (1867-1942)","Elected",1628
+"Ontario",1891-03-05,"General","7","Cardwell","Myers, Elgin","Myers","Elgin",NA,"Man",NA,"Liberal Party of Canada","Defeated",1380
+"Ontario",1891-03-05,"General","7","Carleton","Hodgins, William Thomas","Hodgins","William","Thomas","Man","Farmer","Conservative (1867-1942)","Elected",1494
+"Ontario",1891-03-05,"General","7","Carleton","Dickinson, George Lemuel","Dickinson","George","Lemuel","Man","Mill owner","Conservative (1867-1942)","Defeated",1451
+"Ontario",1891-03-05,"General","7","Cornwall and Stormont","Bergin, Darby","Bergin","Darby",NA,"Man","Physician","Liberal-Conservative","Elected",2152
+"Ontario",1891-03-05,"General","7","Cornwall and Stormont","Snetsinger, John Goodall","Snetsinger","John","Goodall","Man","Merchant","Liberal Party of Canada","Defeated",1934
+"Ontario",1891-03-05,"General","7","Dundas","Ross, Hugo Homer","Ross","Hugo","Homer","Man","Merchant","Conservative (1867-1942)","Elected",2086
+"Ontario",1891-03-05,"General","7","Dundas","Johnston, Adam","Johnston","Adam",NA,"Man",NA,"Liberal Party of Canada","Defeated",2026
+"Ontario",1891-03-05,"General","7","Durham East","Craig, Thomas Dixon","Craig","Thomas","Dixon","Man","Leather manufacturer","Conservative (1867-1942)","Elected",1746
+"Ontario",1891-03-05,"General","7","Durham East","Grandy, Samuel","Grandy","Samuel",NA,"Man",NA,"Equal Rights","Defeated",1685
+"Ontario",1891-03-05,"General","7","Durham West","Beith, Robert","Beith","Robert",NA,"Man","Farmer","Liberal Party of Canada","Elected",1962
+"Ontario",1891-03-05,"General","7","Durham West","Blackstock, Geo. T.","Blackstock","Geo.","T.","Man",NA,"Conservative (1867-1942)","Defeated",1764
+"Ontario",1891-03-05,"General","7","Elgin East","Ingram, Andrew B.","Ingram","Andrew","B.","Man","Real estate agent","Liberal-Conservative","Elected",2740
+"Ontario",1891-03-05,"General","7","Elgin East","Wilson, John Henry","Wilson","John","Henry","Man","Physician","Liberal Party of Canada","Defeated",2694
+"Ontario",1891-03-05,"General","7","Elgin West","Casey, George Elliott","Casey","George","Elliott","Man","Journalist","Liberal Party of Canada","Elected",2335
+"Ontario",1891-03-05,"General","7","Elgin West","Mclean, Duncan","Mclean","Duncan",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1653
+"Ontario",1891-03-05,"General","7","Essex North","McGregor, William","McGregor","William",NA,"Man","Banker","Liberal Party of Canada","Elected",2892
+"Ontario",1891-03-05,"General","7","Essex North","Patterson, James Colebrooke","Patterson","James","Colebrooke","Man","Lawyer","Conservative (1867-1942)","Defeated",2043
+"Ontario",1891-03-05,"General","7","Essex South","Allan, Henry William","Allan","Henry","William","Man","Merchant","Liberal Party of Canada","Elected",2390
+"Ontario",1891-03-05,"General","7","Essex South","Wigle, Lewis","Wigle","Lewis",NA,"Man","Farmer","Conservative (1867-1942)","Defeated",2333
+"Ontario",1891-03-05,"General","7","Frontenac","Kirkpatrick, George Airey","Kirkpatrick","George","Airey","Man","Lawyer","Conservative (1867-1942)","Elected",1427
+"Ontario",1891-03-05,"General","7","Frontenac","Clyde, Thomas","Clyde","Thomas",NA,"Man",NA,"Liberal Party of Canada","Defeated",1222
+"Ontario",1891-03-05,"General","7","Glengarry","McLennan, Roderick R.","McLennan","Roderick","R.","Man","Railway contractor","Conservative (1867-1942)","Elected",1953
+"Ontario",1891-03-05,"General","7","Glengarry","Schell, Jacob Thomas","Schell","Jacob","Thomas","Man","Lumber manufacturer","Liberal Party of Canada","Defeated",1632
+"Ontario",1891-03-05,"General","7","Grenville South","Reid, John Dowsley","Reid","John","Dowsley","Man","Physician","Conservative (1867-1942)","Elected",1414
+"Ontario",1891-03-05,"General","7","Grenville South","Rowe, Russell D.","Rowe","Russell","D.","Man",NA,"Liberal Party of Canada","Defeated",1303
+"Ontario",1891-03-05,"General","7","Grey East","Sproule, Thomas Simpson","Sproule","Thomas","Simpson","Man","Physician","Conservative (1867-1942)","Elected",1977
+"Ontario",1891-03-05,"General","7","Grey East","Clark, John","Clark","John",NA,"Man",NA,"Liberal Party of Canada","Defeated",1958
+"Ontario",1891-03-05,"General","7","Grey North","Masson, James","Masson","James",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2511
+"Ontario",1891-03-05,"General","7","Grey North","Horsey, Edward Henry","Horsey","Edward","Henry","Man","Physician","Liberal Party of Canada","Defeated",2264
+"Ontario",1891-03-05,"General","7","Grey South","Landerkin, George","Landerkin","George",NA,"Man","Physician","Liberal Party of Canada","Elected",2301
+"Ontario",1891-03-05,"General","7","Grey South","Blyth, John","Blyth","John",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2255
+"Ontario",1891-03-05,"General","7","Haldimand","Montague, Walter Humphries","Montague","Walter","Humphries","Man","Physician","Conservative (1867-1942)","Elected",1896
+"Ontario",1891-03-05,"General","7","Haldimand","Coulter, C.W.","Coulter","C.W.",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",1818
+"Ontario",1891-03-05,"General","7","Halton","Henderson, David","Henderson","David",NA,"Man","Merchant","Conservative (1867-1942)","Elected",2441
+"Ontario",1891-03-05,"General","7","Halton","Waldie, John","Waldie","John",NA,"Man","Lumber merchant","Liberal Party of Canada","Defeated",2337
+"Ontario",1891-03-05,"General","7","Hamilton","McKay, Alexander","McKay","Alexander",NA,"Man","Grain merchant","Conservative (1867-1942)","Elected",4186
+"Ontario",1891-03-05,"General","7","Hamilton","Ryckman, Samuel Shobal","Ryckman","Samuel","Shobal","Man","Real estate agent","Conservative (1867-1942)","Elected",4156
+"Ontario",1891-03-05,"General","7","Hamilton","Doran, Wm.","Doran","Wm.",NA,"Man",NA,"Liberal Party of Canada","Defeated",3532
+"Ontario",1891-03-05,"General","7","Hamilton","Laidlaw, Adam","Laidlaw","Adam",NA,"Man",NA,"Liberal Party of Canada","Defeated",3474
+"Ontario",1891-03-05,"General","7","Hastings East","Burdett, Samuel Barton","Burdett","Samuel","Barton","Man","Lawyer","Liberal Party of Canada","Elected",1951
+"Ontario",1891-03-05,"General","7","Hastings East","Northrup, William Barton","Northrup","William","Barton","Man","Lawyer","Conservative (1867-1942)","Defeated",1897
+"Ontario",1891-03-05,"General","7","Hastings North","Bowell, Mackenzie","Bowell","Mackenzie",NA,"Man","Editor","Conservative (1867-1942)","Elected",1686
+"Ontario",1891-03-05,"General","7","Hastings North","Vankleek, Peter","Vankleek","Peter",NA,"Man",NA,"Liberal Party of Canada","Defeated",1480
+"Ontario",1891-03-05,"General","7","Hastings West","Corby, Henry","Corby","Henry",NA,"Man","Distiller","Conservative (1867-1942)","Elected",1955
+"Ontario",1891-03-05,"General","7","Hastings West","Clute, R.C.","Clute","R.C.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1595
+"Ontario",1891-03-05,"General","7","Huron East","Macdonald, Peter","Macdonald","Peter",NA,"Man","Physician","Liberal Party of Canada","Elected",2037
+"Ontario",1891-03-05,"General","7","Huron East","Holmes, Wm. J.R.","Holmes","Wm.","J.R.","Man",NA,"Conservative (1867-1942)","Defeated",1729
+"Ontario",1891-03-05,"General","7","Huron South","McMillan, John","McMillan","John",NA,"Man","Farmer","Liberal Party of Canada","Elected",1845
+"Ontario",1891-03-05,"General","7","Huron South","Weismiller, David","Weismiller","David",NA,"Man",NA,"Liberal Party of Canada","Defeated",990
+"Ontario",1891-03-05,"General","7","Huron South","Reith, John","Reith","John",NA,"Man",NA,"Unknown","Defeated",54
+"Ontario",1891-03-05,"General","7","Huron West","Cameron, Malcolm Colin","Cameron","Malcolm","Colin","Man","Lawyer","Liberal Party of Canada","Elected",2199
+"Ontario",1891-03-05,"General","7","Huron West","Porter, Robert","Porter","Robert",NA,"Man","Farmer","Liberal-Conservative","Defeated",1820
+"Ontario",1891-03-05,"General","7","Kent","Campbell, Archibald","Campbell","Archibald",NA,"Man","Miller","Liberal Party of Canada","Elected",3138
+"Ontario",1891-03-05,"General","7","Kent","Killackey, William P.","Killackey","William","P.","Man",NA,"Conservative (1867-1942)","Defeated",2662
+"Ontario",1891-03-05,"General","7","Kingston","Macdonald, John Alexander","Macdonald","John","Alexander","Man","Lawyer","Conservative (1867-1942)","Elected",1784
+"Ontario",1891-03-05,"General","7","Kingston","Gunn, Alexander","Gunn","Alexander",NA,"Man",NA,"Liberal Party of Canada","Defeated",1301
+"Ontario",1891-03-05,"General","7","Kingston","Edwards, Major","Edwards","Major",NA,"Man",NA,"Conservative (1867-1942)","Defeated",29
+"Ontario",1891-03-05,"General","7","Lambton East","Moncrieff, George","Moncrieff","George",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2636
+"Ontario",1891-03-05,"General","7","Lambton East","Stutt, Richard","Stutt","Richard",NA,"Man",NA,"Liberal Party of Canada","Defeated",2070
+"Ontario",1891-03-05,"General","7","Lambton West","Lister, James Frederick","Lister","James","Frederick","Man","Lawyer","Liberal Party of Canada","Elected",2364
+"Ontario",1891-03-05,"General","7","Lambton West","Smith, Frank","Smith","Frank",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1766
+"Ontario",1891-03-05,"General","7","Lanark North","Jamieson, Joseph","Jamieson","Joseph",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",1723
+"Ontario",1891-03-05,"General","7","Lanark North","Fraser, Donald M.","Fraser","Donald","M.","Man",NA,"Liberal Party of Canada","Defeated",1422
+"Ontario",1891-03-05,"General","7","Lanark South","Haggart, John Graham","Haggart","John","Graham","Man","Mill owner","Conservative (1867-1942)","Elected",1804
+"Ontario",1891-03-05,"General","7","Lanark South","Mcgarry, William","Mcgarry","William",NA,"Man",NA,"Liberal Party of Canada","Defeated",1174
+"Ontario",1891-03-05,"General","7","Leeds North and Grenville North","Ferguson, Charles Frederick","Ferguson","Charles","Frederick","Man","Physician","Liberal-Conservative","Elected",1311
+"Ontario",1891-03-05,"General","7","Leeds North and Grenville North","Frost, Francis Theodore","Frost","Francis","Theodore","Man",NA,"Liberal Party of Canada","Defeated",1165
+"Ontario",1891-03-05,"General","7","Leeds South","Taylor, George","Taylor","George",NA,"Man","Manufacturer","Conservative (1867-1942)","Elected",2294
+"Ontario",1891-03-05,"General","7","Leeds South","Turner, J.B.","Turner","J.B.",NA,"Man",NA,"Liberal Party of Canada","Defeated",2188
+"Ontario",1891-03-05,"General","7","Lennox","Allison, David Wright","Allison","David","Wright","Man","Farmer","Liberal Party of Canada","Elected",1637
+"Ontario",1891-03-05,"General","7","Lennox","Wilson, Uriah","Wilson","Uriah",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",1580
+"Ontario",1891-03-05,"General","7","Lincoln and Niagara","Gibson, William","Gibson","William",NA,"Man","Engineer","Liberal Party of Canada","Elected",2212
+"Ontario",1891-03-05,"General","7","Lincoln and Niagara","Neelon, Sylvester","Neelon","Sylvester",NA,"Man",NA,"Unknown","Defeated",2164
+"Ontario",1891-03-05,"General","7","London","Hyman, Charles Smith","Hyman","Charles","Smith","Man","Manufacturer","Liberal Party of Canada","Elected",2037
+"Ontario",1891-03-05,"General","7","London","Carling, John","Carling","John",NA,"Man","Brewer","Liberal-Conservative","Defeated",1854
+"Ontario",1891-03-05,"General","7","Middlesex East","Marshall, Joseph Henry","Marshall","Joseph","Henry","Man","Farmer","Conservative (1867-1942)","Elected",2369
+"Ontario",1891-03-05,"General","7","Middlesex East","Taylor, George","Taylor","George",NA,"Man",NA,"Liberal Party of Canada","Defeated",2214
+"Ontario",1891-03-05,"General","7","Middlesex North","Hutchins, William Henry","Hutchins","William","Henry","Man","Merchant","Conservative (1867-1942)","Elected",1965
+"Ontario",1891-03-05,"General","7","Middlesex North","Taylor, W.H.","Taylor","W.H.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1959
+"Ontario",1891-03-05,"General","7","Middlesex South","Armstrong, James","Armstrong","James",NA,"Man","Farmer","Liberal Party of Canada","Elected",1906
+"Ontario",1891-03-05,"General","7","Middlesex South","Chisholm, Andrew G.","Chisholm","Andrew","G.","Man",NA,"Conservative (1867-1942)","Defeated",1282
+"Ontario",1891-03-05,"General","7","Middlesex West","Roome, William Frederick","Roome","William","Frederick","Man","Physician","Conservative (1867-1942)","Elected",1529
+"Ontario",1891-03-05,"General","7","Middlesex West","Mcfarlane, Hector","Mcfarlane","Hector",NA,"Man",NA,"Liberal Party of Canada","Defeated",1119
+"Ontario",1891-03-05,"General","7","Middlesex West","Brock, William","Brock","William",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1110
+"Ontario",1891-03-05,"General","7","Monck","Brown, John","Brown","John",NA,"Man","Mining prospector","Liberal Party of Canada","Elected",1874
+"Ontario",1891-03-05,"General","7","Monck","Boyle, Arthur","Boyle","Arthur",NA,"Man","Businessman","Conservative (1867-1942)","Defeated",1614
+"Ontario",1891-03-05,"General","7","Muskoka and Parry Sound","O'Brien, William Edward","O'Brien","William","Edward","Man","Editor","Conservative (1867-1942)","Elected",1916
+"Ontario",1891-03-05,"General","7","Muskoka and Parry Sound","Fitzgerald, J.W.","Fitzgerald","J.W.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1768
+"Ontario",1891-03-05,"General","7","Norfolk North","Charlton, John","Charlton","John",NA,"Man","Businessman","Liberal Party of Canada","Elected",2370
+"Ontario",1891-03-05,"General","7","Norfolk North","Sinclair, Lachlin","Sinclair","Lachlin",NA,"Man","Physician","Conservative (1867-1942)","Defeated",1902
+"Ontario",1891-03-05,"General","7","Norfolk South","Tisdale, David","Tisdale","David",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2051
+"Ontario",1891-03-05,"General","7","Norfolk South","Ellis, Jonathan","Ellis","Jonathan",NA,"Man",NA,"Liberal Party of Canada","Defeated",1639
+"Ontario",1891-03-05,"General","7","Northumberland East","Cochrane, Edward","Cochrane","Edward",NA,"Man","Farmer","Conservative (1867-1942)","Elected",2495
+"Ontario",1891-03-05,"General","7","Northumberland East","Ketchum, M.P.","Ketchum","M.P.",NA,"Man",NA,"Liberal Party of Canada","Defeated",2259
+"Ontario",1891-03-05,"General","7","Northumberland West","Hargraft, John","Hargraft","John",NA,"Man","Merchant","Liberal Party of Canada","Elected",1590
+"Ontario",1891-03-05,"General","7","Northumberland West","Guillet, George","Guillet","George",NA,"Man","General merchant","Conservative (1867-1942)","Defeated",1554
+"Ontario",1891-03-05,"General","7","Ontario North","Madill, Frank","Madill","Frank",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2206
+"Ontario",1891-03-05,"General","7","Ontario North","Cockburn, P.","Cockburn","P.",NA,"Man","Merchant","Liberal Party of Canada","Defeated",1952
+"Ontario",1891-03-05,"General","7","Ontario South","Davidson, James Ironside","Davidson","James","Ironside","Man","Farmer","Liberal Party of Canada","Elected",2042
+"Ontario",1891-03-05,"General","7","Ontario South","Smith, William","Smith","William",NA,"Man","Farmer","Conservative (1867-1942)","Defeated",2009
+"Ontario",1891-03-05,"General","7","Ontario West","Edgar, James David","Edgar","James","David","Man","Lawyer","Liberal Party of Canada","Elected",1867
+"Ontario",1891-03-05,"General","7","Ontario West","White, F.P.","White","F.P.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",868
+"Ontario",1891-03-05,"General","7","Ottawa (City of)","Mackintosh, Charles Herbert","Mackintosh","Charles","Herbert","Man","Journalist","Conservative (1867-1942)","Elected",3029
+"Ontario",1891-03-05,"General","7","Ottawa (City of)","Robillard, Honoré","Robillard","Honoré",NA,"Man","Contractor","Liberal-Conservative","Elected",2363
+"Ontario",1891-03-05,"General","7","Ottawa (City of)","Belcourt, Napoléon Antoine","Belcourt","Napoléon","Antoine","Man","Lawyer","Liberal Party of Canada","Defeated",1946
+"Ontario",1891-03-05,"General","7","Ottawa (City of)","Patterson, J.W.","Patterson","J.W.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1287
+"Ontario",1891-03-05,"General","7","Ottawa (City of)","Lewis, W.H.","Lewis","W.H.",NA,"Man",NA,"Equal Rights","Defeated",770
+"Ontario",1891-03-05,"General","7","Ottawa (City of)","Nagle, R.","Nagle","R.",NA,"Man",NA,"Liberal Party of Canada","Defeated",55
+"Ontario",1891-03-05,"General","7","Oxford North","Sutherland, James","Sutherland","James",NA,"Man","Merchant","Liberal Party of Canada","Elected",2544
+"Ontario",1891-03-05,"General","7","Oxford North","Karn, D.W.","Karn","D.W.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1010
+"Ontario",1891-03-05,"General","7","Oxford South","Cartwright, Richard John","Cartwright","Richard","John","Man","Businessman","Liberal Party of Canada","Elected",2021
+"Ontario",1891-03-05,"General","7","Oxford South","Walsh, Michael","Walsh","Michael",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1287
+"Ontario",1891-03-05,"General","7","Peel","Featherston, Joseph","Featherston","Joseph",NA,"Man","Breeder","Liberal Party of Canada","Elected",1667
+"Ontario",1891-03-05,"General","7","Peel","McCulla, William Armstrong","McCulla","William","Armstrong","Man",NA,"Conservative (1867-1942)","Defeated",1613
+"Ontario",1891-03-05,"General","7","Perth North","Grieve, James Nicol","Grieve","James","Nicol","Man","Farmer","Liberal Party of Canada","Elected",2520
+"Ontario",1891-03-05,"General","7","Perth North","Hesson, Samuel Rollin","Hesson","Samuel","Rollin","Man","Merchant","Conservative (1867-1942)","Defeated",2449
+"Ontario",1891-03-05,"General","7","Perth South","Trow, James","Trow","James",NA,"Man","Banker","Liberal Party of Canada","Elected",2363
+"Ontario",1891-03-05,"General","7","Perth South","Sharp, H.F.","Sharp","H.F.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2186
+"Ontario",1891-03-05,"General","7","Peterborough East","Burnham, John","Burnham","John",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",1832
+"Ontario",1891-03-05,"General","7","Peterborough East","Rork, Thomas","Rork","Thomas",NA,"Man",NA,"Liberal Party of Canada","Defeated",1803
+"Ontario",1891-03-05,"General","7","Peterborough West","Stevenson, James","Stevenson","James",NA,"Man","Merchant","Conservative (1867-1942)","Elected",1447
+"Ontario",1891-03-05,"General","7","Peterborough West","Hall, Richard","Hall","Richard",NA,"Man",NA,"Liberal Party of Canada","Defeated",1215
+"Ontario",1891-03-05,"General","7","Prescott","Proulx, Isidore","Proulx","Isidore",NA,"Man","General merchant","Liberal Party of Canada","Elected",1269
+"Ontario",1891-03-05,"General","7","Prescott","Routhier, Félix","Routhier","Félix",NA,"Man","Manufacturer","Conservative (1867-1942)","Defeated",608
+"Ontario",1891-03-05,"General","7","Prescott","Johnson, E.A.","Johnson","E.A.",NA,"Man",NA,"Unknown","Defeated",532
+"Ontario",1891-03-05,"General","7","Prescott","Bertrand, David","Bertrand","David",NA,"Man","Farmer","Unknown","Defeated",335
+"Ontario",1891-03-05,"General","7","Prince Edward","Miller, Archibald Campbell","Miller","Archibald","Campbell","Man","Farmer","Conservative (1867-1942)","Elected",2264
+"Ontario",1891-03-05,"General","7","Prince Edward","Platt, John Milton","Platt","John","Milton","Man","Physician","Liberal Party of Canada","Defeated",2225
+"Ontario",1891-03-05,"General","7","Renfrew North","White, Peter","White","Peter",NA,"Man","Merchant","Conservative (1867-1942)","Elected",1497
+"Ontario",1891-03-05,"General","7","Renfrew North","Barr, Henry","Barr","Henry",NA,"Man",NA,"Liberal Party of Canada","Defeated",1418
+"Ontario",1891-03-05,"General","7","Renfrew South","Ferguson, John","Ferguson","John",NA,"Man","Farmer","Independent Conservative","Elected",1642
+"Ontario",1891-03-05,"General","7","Renfrew South","Barr, David","Barr","David",NA,"Man",NA,"Liberal Party of Canada","Defeated",1198
+"Ontario",1891-03-05,"General","7","Russell","Edwards, William Cameron","Edwards","William","Cameron","Man","Businessman","Liberal Party of Canada","Elected",2308
+"Ontario",1891-03-05,"General","7","Russell","Dickinson, Moss Kent","Dickinson","Moss","Kent","Man",NA,"Conservative (1867-1942)","Defeated",1895
+"Ontario",1891-03-05,"General","7","Simcoe East","Spohn, Philip Howard","Spohn","Philip","Howard","Man","Physician","Liberal Party of Canada","Elected",2850
+"Ontario",1891-03-05,"General","7","Simcoe East","Bennett, William Humphrey","Bennett","William","Humphrey","Man","Lawyer","Conservative (1867-1942)","Defeated",2643
+"Ontario",1891-03-05,"General","7","Simcoe North","McCarthy, D'Alton","McCarthy","D'Alton",NA,"Man","Lawyer","Independent","Elected",2417
+"Ontario",1891-03-05,"General","7","Simcoe North","Cook, Herman Henry","Cook","Herman","Henry","Man","Businessman","Liberal Party of Canada","Defeated",2121
+"Ontario",1891-03-05,"General","7","Simcoe South","Tyrwhitt, Richard","Tyrwhitt","Richard",NA,"Man","Farmer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Ontario",1891-03-05,"General","7","Toronto Centre","Cockburn, George Ralph Richardson","Cockburn","George","Ralph Richardson","Man","College principal","Conservative (1867-1942)","Elected",2414
+"Ontario",1891-03-05,"General","7","Toronto Centre","Kerr, James Kirkpatrick","Kerr","James","Kirkpatrick","Man",NA,"Liberal Party of Canada","Defeated",1912
+"Ontario",1891-03-05,"General","7","Toronto East","Coatsworth, Emerson","Coatsworth","Emerson",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",3520
+"Ontario",1891-03-05,"General","7","Toronto East","Wheeler, Alex E.","Wheeler","Alex","E.","Man",NA,"Liberal Party of Canada","Defeated",2056
+"Ontario",1891-03-05,"General","7","Toronto West","Denison, Frederick Charles","Denison","Frederick","Charles","Man","Lawyer","Conservative (1867-1942)","Elected",5048
+"Ontario",1891-03-05,"General","7","Toronto West","Mowat, Arthur","Mowat","Arthur",NA,"Man",NA,"Liberal Party of Canada","Defeated",3291
+"Ontario",1891-03-05,"General","7","Victoria North","Barron, John Augustus","Barron","John","Augustus","Man","Lawyer","Liberal Party of Canada","Elected",1614
+"Ontario",1891-03-05,"General","7","Victoria North","Hughes, Samuel","Hughes","Samuel",NA,"Man","Editor","Liberal-Conservative","Defeated",1412
+"Ontario",1891-03-05,"General","7","Victoria South","Fairbairn, Charles","Fairbairn","Charles",NA,"Man","Farmer","Liberal-Conservative","Elected",2055
+"Ontario",1891-03-05,"General","7","Victoria South","Walters, Thomas","Walters","Thomas",NA,"Man",NA,"Liberal Party of Canada","Defeated",2030
+"Ontario",1891-03-05,"General","7","Waterloo North","Bowman, Isaac Erb","Bowman","Isaac","Erb","Man","Businessman","Liberal Party of Canada","Elected",2289
+"Ontario",1891-03-05,"General","7","Waterloo North","Kranz, Hugo","Kranz","Hugo",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2204
+"Ontario",1891-03-05,"General","7","Waterloo South","Livingston, James","Livingston","James",NA,"Man","Merchant","Liberal Party of Canada","Elected",2228
+"Ontario",1891-03-05,"General","7","Waterloo South","Clare, George Adam","Clare","George","Adam","Man","Businessman","Conservative (1867-1942)","Defeated",1916
+"Ontario",1891-03-05,"General","7","Welland","German, William Manley","German","William","Manley","Man","Lawyer","Liberal Party of Canada","Elected",2726
+"Ontario",1891-03-05,"General","7","Welland","Ferguson, John","Ferguson","John",NA,"Man","Physician","Conservative (1867-1942)","Defeated",2279
+"Ontario",1891-03-05,"General","7","Wellington Centre","Semple, Andrew","Semple","Andrew",NA,"Man","Miller","Liberal Party of Canada","Elected",2455
+"Ontario",1891-03-05,"General","7","Wellington Centre","Hunter, Wm. H.","Hunter","Wm.","H.","Man",NA,"Conservative (1867-1942)","Defeated",2299
+"Ontario",1891-03-05,"General","7","Wellington North","McMullen, James","McMullen","James",NA,"Man","Merchant","Liberal Party of Canada","Elected",2486
+"Ontario",1891-03-05,"General","7","Wellington North","Clarke, L.H.","Clarke","L.H.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2300
+"Ontario",1891-03-05,"General","7","Wellington South","Innes, James","Innes","James",NA,"Man","School teacher","Liberal Party of Canada","Elected",2510
+"Ontario",1891-03-05,"General","7","Wellington South","Goldie, James","Goldie","James",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2134
+"Ontario",1891-03-05,"General","7","Wentworth North","Bain, Thomas","Bain","Thomas",NA,"Man","Farmer","Liberal Party of Canada","Elected",1517
+"Ontario",1891-03-05,"General","7","Wentworth North","Wardell, Alex R.","Wardell","Alex","R.","Man",NA,"Conservative (1867-1942)","Defeated",1317
+"Ontario",1891-03-05,"General","7","Wentworth South","Carpenter, Franklin Metcalfe","Carpenter","Franklin","Metcalfe","Man","Farmer","Conservative (1867-1942)","Elected",1773
+"Ontario",1891-03-05,"General","7","Wentworth South","Middleton, Jas. T.","Middleton","Jas.","T.","Man",NA,"Liberal Party of Canada","Defeated",1772
+"Ontario",1891-03-05,"General","7","York East","Mackenzie, Alexander","Mackenzie","Alexander",NA,"Man","Editor","Liberal Party of Canada","Elected",3003
+"Ontario",1891-03-05,"General","7","York East","Maclean, William Findlay","Maclean","William","Findlay","Man","Journalist","Independent Conservative","Defeated",2977
+"Ontario",1891-03-05,"General","7","York North","Mulock, William","Mulock","William",NA,"Man","Lawyer","Liberal Party of Canada","Elected",2331
+"Ontario",1891-03-05,"General","7","York North","Pegg, W.W.","Pegg","W.W.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1968
+"Ontario",1891-03-05,"General","7","York West","Wallace, Nathaniel Clarke","Wallace","Nathaniel","Clarke","Man","Miller","Conservative (1867-1942)","Elected",3434
+"Ontario",1891-03-05,"General","7","York West","Clement, W.H.P.","Clement","W.H.P.",NA,"Man",NA,"Liberal Party of Canada","Defeated",2628
+"Prince Edward Island",1891-03-05,"General","7","King's County","McLean, John","McLean","John",NA,"Man","Clerk","Conservative (1867-1942)","Elected",2624
+"Prince Edward Island",1891-03-05,"General","7","King's County","Macdonald, Augustine Colin","Macdonald","Augustine","Colin","Man","Merchant","Conservative (1867-1942)","Elected",2514
+"Prince Edward Island",1891-03-05,"General","7","King's County","McIntyre, Peter Adolphus","McIntyre","Peter","Adolphus","Man","Physician","Liberal Party of Canada","Defeated",2369
+"Prince Edward Island",1891-03-05,"General","7","King's County","Robertson, James Edwin","Robertson","James","Edwin","Man","Physician","Liberal Party of Canada","Defeated",2276
+"Prince Edward Island",1891-03-05,"General","7","Prince County","Yeo, John","Yeo","John",NA,"Man","Shipowner","Liberal Party of Canada","Elected",3279
+"Prince Edward Island",1891-03-05,"General","7","Prince County","Perry, Stanislaus Francis","Perry","Stanislaus","Francis","Man","Farmer","Liberal Party of Canada","Elected",3182
+"Prince Edward Island",1891-03-05,"General","7","Prince County","Howlan, George William","Howlan","George","William","Man",NA,"Conservative (1867-1942)","Defeated",2903
+"Prince Edward Island",1891-03-05,"General","7","Prince County","Hunt, Richard","Hunt","Richard",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2661
+"Prince Edward Island",1891-03-05,"General","7","Queen's County","Davies, Louis Henry","Davies","Louis","Henry","Man","Lawyer","Liberal Party of Canada","Elected",4006
+"Prince Edward Island",1891-03-05,"General","7","Queen's County","Welsh, William","Welsh","William",NA,"Man","Shipowner","Independent Liberal","Elected",3854
+"Prince Edward Island",1891-03-05,"General","7","Queen's County","Blake, Patrick","Blake","Patrick",NA,"Man",NA,"Conservative (1867-1942)","Defeated",3669
+"Prince Edward Island",1891-03-05,"General","7","Queen's County","Ferguson, Donald","Ferguson","Donald",NA,"Man",NA,"Conservative (1867-1942)","Defeated",3521
+"Quebec",1891-03-05,"General","7","Argenteuil","Christie, Thomas","Christie","Thomas",NA,"Man","Physician","Liberal Party of Canada","Elected",1050
+"Quebec",1891-03-05,"General","7","Argenteuil","Owens, William","Owens","William",NA,"Man",NA,"Conservative (1867-1942)","Defeated",848
+"Quebec",1891-03-05,"General","7","Bagot","Dupont, Flavien","Dupont","Flavien",NA,"Man","Notary","Conservative (1867-1942)","Elected",1582
+"Quebec",1891-03-05,"General","7","Bagot","Pilon, J.","Pilon","J.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1529
+"Quebec",1891-03-05,"General","7","Beauce","Godbout, Joseph","Godbout","Joseph",NA,"Man","Physician","Liberal Party of Canada","Elected",2313
+"Quebec",1891-03-05,"General","7","Beauce","Morency, J.A.","Morency","J.A.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1832
+"Quebec",1891-03-05,"General","7","Beauharnois","Bergeron, Joseph Gédéon Horace","Bergeron","Joseph","Gédéon Horace","Man","Lawyer","Conservative (1867-1942)","Elected",1458
+"Quebec",1891-03-05,"General","7","Beauharnois","Seers, L.A.","Seers","L.A.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1155
+"Quebec",1891-03-05,"General","7","Bellechasse","Amyot, Guillaume","Amyot","Guillaume",NA,"Man","Lawyer","Nationalist Conservative","Elected",1271
+"Quebec",1891-03-05,"General","7","Bellechasse","DE ST. MAURICE, Faucher","DE ST. MAURICE","Faucher",NA,"Man","Writer","Conservative (1867-1942)","Defeated",1165
+"Quebec",1891-03-05,"General","7","Berthier","Beausoleil, Cléophas","Beausoleil","Cléophas",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1522
+"Quebec",1891-03-05,"General","7","Berthier","Allard, Victor","Allard","Victor",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1365
+"Quebec",1891-03-05,"General","7","Bonaventure","Fauvel, William LeBoutillier","Fauvel","William","LeBoutillier","Man","Merchant","Liberal Party of Canada","Elected",1707
+"Quebec",1891-03-05,"General","7","Bonaventure","Laferriere, A.A.","Laferriere","A.A.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1003
+"Quebec",1891-03-05,"General","7","Brome","Dyer, Eugène Alphonse","Dyer","Eugène","Alphonse","Man","Merchant","Conservative (1867-1942)","Elected",1452
+"Quebec",1891-03-05,"General","7","Brome","Fisher, Sydney Arthur","Fisher","Sydney","Arthur","Man","Farmer","Liberal Party of Canada","Defeated",1452
+"Quebec",1891-03-05,"General","7","Chambly","Préfontaine, Joseph Raymond Fournier","Préfontaine","Joseph","Raymond Fournier","Man","Lawyer","Liberal Party of Canada","Elected",1202
+"Quebec",1891-03-05,"General","7","Chambly","Lamarre, P.B.","Lamarre","P.B.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1115
+"Quebec",1891-03-05,"General","7","Champlain","Carignan, Onésime","Carignan","Onésime",NA,"Man","Grocer","Conservative (1867-1942)","Elected",1976
+"Quebec",1891-03-05,"General","7","Champlain","Trudel, Ferdinand","Trudel","Ferdinand",NA,"Man",NA,"Unknown","Defeated",1899
+"Quebec",1891-03-05,"General","7","Charlevoix","Simard, Henry","Simard","Henry",NA,"Man","Merchant","Liberal Party of Canada","Elected",1542
+"Quebec",1891-03-05,"General","7","Charlevoix","Cimon, Simon","Cimon","Simon",NA,"Man","Civil engineer","Conservative (1867-1942)","Defeated",1235
+"Quebec",1891-03-05,"General","7","Châteauguay","Brown, James Pollock","Brown","James","Pollock","Man","Farmer","Liberal Party of Canada","Elected",1246
+"Quebec",1891-03-05,"General","7","Châteauguay","Walsh, R.N.","Walsh","R.N.",NA,"Man",NA,"Independent","Defeated",1148
+"Quebec",1891-03-05,"General","7","Chicoutimi--Saguenay","Savard, Paul Vilmond","Savard","Paul","Vilmond","Man","Lawyer","Liberal Party of Canada","Elected",1927
+"Quebec",1891-03-05,"General","7","Chicoutimi--Saguenay","Caron, Adolphe-Philippe","Caron","Adolphe-Philippe",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",1804
+"Quebec",1891-03-05,"General","7","Compton","Pope, Rufus Henry","Pope","Rufus","Henry","Man","Farmer and breeder","Conservative (1867-1942)","Elected",2004
+"Quebec",1891-03-05,"General","7","Compton","Leet, S.P.","Leet","S.P.",NA,"Man",NA,"Liberal Party of Canada","Defeated",938
+"Quebec",1891-03-05,"General","7","Dorchester","Vaillancourt, Cyrille Émile","Vaillancourt","Cyrille","Émile","Man","Physician","Nationalist","Elected (Acclamation)",0
+"Quebec",1891-03-05,"General","7","Drummond--Arthabaska","Lavergne, Joseph","Lavergne","Joseph",NA,"Man","Lawyer","Liberal Party of Canada","Elected",3159
+"Quebec",1891-03-05,"General","7","Drummond--Arthabaska","Crépeau, L.P.E.","Crépeau","L.P.E.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2197
+"Quebec",1891-03-05,"General","7","Gaspé","Joncas, Louis Zéphirin","Joncas","Louis","Zéphirin","Man","Accountant","Conservative (1867-1942)","Elected (Acclamation)",0
+"Quebec",1891-03-05,"General","7","Hochelaga","Desjardins, Alphonse","Desjardins","Alphonse",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",5266
+"Quebec",1891-03-05,"General","7","Hochelaga","Lanctot, Joseph","Lanctot","Joseph",NA,"Man","Physician","Liberal Party of Canada","Defeated",3805
+"Quebec",1891-03-05,"General","7","Huntingdon","Scriver, Julius","Scriver","Julius",NA,"Man","Mill and tannery owner","Liberal Party of Canada","Elected",1408
+"Quebec",1891-03-05,"General","7","Huntingdon","Mccormick, Duncan","Mccormick","Duncan",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1125
+"Quebec",1891-03-05,"General","7","Iberville","Béchard, François","Béchard","François",NA,"Man","Farmer","Liberal Party of Canada","Elected",1029
+"Quebec",1891-03-05,"General","7","Iberville","Nadeau, Joseph A.","Nadeau","Joseph","A.","Man",NA,"Conservative (1867-1942)","Defeated",545
+"Quebec",1891-03-05,"General","7","Jacques Cartier","Girouard, Désiré","Girouard","Désiré",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",1379
+"Quebec",1891-03-05,"General","7","Jacques Cartier","Madore, Joseph Alexandre Camille","Madore","Joseph","Alexandre Camille","Man",NA,"Liberal Party of Canada","Defeated",1103
+"Quebec",1891-03-05,"General","7","Joliette","Lippé, Urbain","Lippé","Urbain",NA,"Man","Notary","Conservative (1867-1942)","Elected",1581
+"Quebec",1891-03-05,"General","7","Joliette","Neveu, Hilaire","Neveu","Hilaire",NA,"Man","Farmer","Liberal Party of Canada","Defeated",1521
+"Quebec",1891-03-05,"General","7","Kamouraska","Carroll, Henry George","Carroll","Henry","George","Man","Lawyer","Liberal Party of Canada","Elected",1506
+"Quebec",1891-03-05,"General","7","Kamouraska","Chapais, Joseph Amable Thomas","Chapais","Joseph","Amable Thomas","Man",NA,"Conservative (1867-1942)","Defeated",1411
+"Quebec",1891-03-05,"General","7","L'Assomption","Gauthier, Joseph","Gauthier","Joseph",NA,"Man","Farmer","Liberal Party of Canada","Elected",1239
+"Quebec",1891-03-05,"General","7","L'Assomption","Jeannotte, Hormidas","Jeannotte","Hormidas",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1161
+"Quebec",1891-03-05,"General","7","L'Islet","Desjardins, Louis-Georges","Desjardins","Louis-Georges",NA,"Man","Journalist","Conservative (1867-1942)","Elected",981
+"Quebec",1891-03-05,"General","7","L'Islet","Casgrain, Philippe Baby","Casgrain","Philippe","Baby","Man","Lawyer","Liberal Party of Canada","Defeated",975
+"Quebec",1891-03-05,"General","7","Laprairie","Pelletier, Louis Conrad","Pelletier","Louis","Conrad","Man","Lawyer","Conservative (1867-1942)","Elected",970
+"Quebec",1891-03-05,"General","7","Laprairie","Doyon, Cyrille","Doyon","Cyrille",NA,"Man","Farmer","Liberal Party of Canada","Defeated",916
+"Quebec",1891-03-05,"General","7","Laval","Ouimet, Joseph-Aldéric","Ouimet","Joseph-Aldéric",NA,"Man","Lawyer","Liberal-Conservative","Elected",1082
+"Quebec",1891-03-05,"General","7","Laval","Ladouceur, N.H.","Ladouceur","N.H.",NA,"Man",NA,"Liberal Party of Canada","Defeated",548
+"Quebec",1891-03-05,"General","7","Lévis","Guay, Pierre Malcom","Guay","Pierre","Malcom","Man","Physician","Liberal Party of Canada","Elected",2075
+"Quebec",1891-03-05,"General","7","Lévis","Paquet, E.T.","Paquet","E.T.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1794
+"Quebec",1891-03-05,"General","7","Lotbinière","Rinfret, Côme Isaïe","Rinfret","Côme","Isaïe","Man","Physician","Liberal Party of Canada","Elected (Acclamation)",0
+"Quebec",1891-03-05,"General","7","Maskinongé","Legris, Joseph Hormisdas","Legris","Joseph","Hormisdas","Man","Farmer","Liberal Party of Canada","Elected",1153
+"Quebec",1891-03-05,"General","7","Maskinongé","Coulombe, Charles Jérémie","Coulombe","Charles","Jérémie","Man","Physician","Conservative (1867-1942)","Defeated",1045
+"Quebec",1891-03-05,"General","7","Mégantic","Fréchette, Louis-Israël Côté Alias","Fréchette","Louis-Israël","Côté Alias","Man","Merchant","Conservative (1867-1942)","Elected",1658
+"Quebec",1891-03-05,"General","7","Mégantic","Turcot, Georges","Turcot","Georges",NA,"Man","Merchant","Liberal Party of Canada","Defeated",1547
+"Quebec",1891-03-05,"General","7","Missisquoi","Baker, George Barnard","Baker","George","Barnard","Man","Lawyer","Liberal-Conservative","Elected",1776
+"Quebec",1891-03-05,"General","7","Missisquoi","Meigs, Daniel Bishop","Meigs","Daniel","Bishop","Man",NA,"Liberal Party of Canada","Defeated",1617
+"Quebec",1891-03-05,"General","7","Montcalm","Dugas, Joseph Louis Euclide","Dugas","Joseph","Louis Euclide","Man","Farmer","Conservative (1867-1942)","Elected",673
+"Quebec",1891-03-05,"General","7","Montcalm","Thérien, Olaüs","Thérien","Olaüs",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",632
+"Quebec",1891-03-05,"General","7","Montcalm","Magnan, Octave","Magnan","Octave",NA,"Man",NA,"Conservative (1867-1942)","Defeated",516
+"Quebec",1891-03-05,"General","7","Montmagny","Choquette, Philippe Auguste","Choquette","Philippe","Auguste","Man","Lawyer","Liberal Party of Canada","Elected",1172
+"Quebec",1891-03-05,"General","7","Montmagny","Bender, E.P.","Bender","E.P.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",739
+"Quebec",1891-03-05,"General","7","Montmorency","Tarte, Joseph Israël","Tarte","Joseph","Israël","Man","Journalist","Conservative (1867-1942)","Elected",975
+"Quebec",1891-03-05,"General","7","Montmorency","Turcotte, Arthur Joseph","Turcotte","Arthur","Joseph","Man",NA,"Conservative (1867-1942)","Defeated",868
+"Quebec",1891-03-05,"General","7","Montmorency","Valin, Pierre Vincent","Valin","Pierre","Vincent","Man","Businessman","Conservative (1867-1942)","Defeated",92
+"Quebec",1891-03-05,"General","7","Montreal Centre","Curran, John Joseph","Curran","John","Joseph","Man","Lawyer","Conservative (1867-1942)","Elected",3450
+"Quebec",1891-03-05,"General","7","Montreal Centre","Guérin, E.W.P.","Guérin","E.W.P.",NA,"Man",NA,"Unknown","Defeated",2236
+"Quebec",1891-03-05,"General","7","Montreal East","Lépine, Alphonse Télesphore","Lépine","Alphonse","Télesphore","Man","Journalist","Independent Conservative","Elected",5840
+"Quebec",1891-03-05,"General","7","Montreal East","David, Laurent-Olivier","David","Laurent-Olivier",NA,"Man","Journalist","Liberal Party of Canada","Defeated",5015
+"Quebec",1891-03-05,"General","7","Montreal West","Smith, Donald Alexander","Smith","Donald","Alexander","Man","Governor of the Hudson's Bay Company","Independent Conservative","Elected",4586
+"Quebec",1891-03-05,"General","7","Montreal West","Law, Marion Albert","Law","Marion","Albert","Man",NA,"Liberal Party of Canada","Defeated",880
+"Quebec",1891-03-05,"General","7","Napierville","Monet, Dominique","Monet","Dominique",NA,"Man","Lawyer","Liberal Party of Canada","Elected",817
+"Quebec",1891-03-05,"General","7","Napierville","Paradis, François-Xavier","Paradis","François-Xavier",NA,"Man",NA,"Conservative (1867-1942)","Defeated",799
+"Quebec",1891-03-05,"General","7","Nicolet","Leduc, Joseph Hector","Leduc","Joseph","Hector","Man","Merchant","Liberal Party of Canada","Elected",1538
+"Quebec",1891-03-05,"General","7","Nicolet","Prince, E.C.","Prince","E.C.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1533
+"Quebec",1891-03-05,"General","7","Nicolet","Houde, C.E.","Houde","C.E.",NA,"Man",NA,"Liberal Party of Canada","Defeated",327
+"Quebec",1891-03-05,"General","7","Ottawa (County of)","Devlin, Charles Ramsay","Devlin","Charles","Ramsay","Man","Merchant","Liberal Party of Canada","Elected",2993
+"Quebec",1891-03-05,"General","7","Ottawa (County of)","Mcdougall, J.M.","Mcdougall","J.M.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2579
+"Quebec",1891-03-05,"General","7","Pontiac","Murray, Thomas","Murray","Thomas",NA,"Man","Merchant","Liberal Party of Canada","Elected",1100
+"Quebec",1891-03-05,"General","7","Pontiac","Mclean, H.M.","Mclean","H.M.",NA,"Man",NA,"Unknown","Defeated",795
+"Quebec",1891-03-05,"General","7","Pontiac","Bryson, John","Bryson","John",NA,"Man","Businessman","Conservative (1867-1942)","Defeated",787
+"Quebec",1891-03-05,"General","7","Portneuf","Delisle, Arthur","Delisle","Arthur",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1906
+"Quebec",1891-03-05,"General","7","Portneuf","Vallée, Roch Pamphile","Vallée","Roch","Pamphile","Man","Journalist","Conservative (1867-1942)","Defeated",1756
+"Quebec",1891-03-05,"General","7","Quebec County","Frémont, Jules Joseph Taschereau","Frémont","Jules","Joseph Taschereau","Man","Lawyer","Liberal Party of Canada","Elected",1692
+"Quebec",1891-03-05,"General","7","Quebec County","Flynn, Edmund James","Flynn","Edmund","James","Man","Lawyer","Conservative (1867-1942)","Defeated",1352
+"Quebec",1891-03-05,"General","7","Quebec East","Laurier, Wilfrid","Laurier","Wilfrid",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
+"Quebec",1891-03-05,"General","7","Quebec West","McGreevy, Thomas","McGreevy","Thomas",NA,"Man","Contractor","Liberal-Conservative","Elected",885
+"Quebec",1891-03-05,"General","7","Quebec West","Hearn, M.A.","Hearn","M.A.",NA,"Man",NA,"Unknown","Defeated",832
+"Quebec",1891-03-05,"General","7","Quebec-Centre","Langelier, François Charles Stanislas","Langelier","François","Charles Stanislas","Man","Lawyer","Liberal Party of Canada","Elected",1080
+"Quebec",1891-03-05,"General","7","Quebec-Centre","Chateauvert, Victor","Chateauvert","Victor",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1002
+"Quebec",1891-03-05,"General","7","Richelieu","Langevin, Hector-Louis","Langevin","Hector-Louis",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",1701
+"Quebec",1891-03-05,"General","7","Richelieu","Gouin, Lomer","Gouin","Lomer",NA,"Man",NA,"Liberal Party of Canada","Defeated",1393
+"Quebec",1891-03-05,"General","7","Richmond--Wolfe","Cleveland, Clarence Chester","Cleveland","Clarence","Chester","Man","Farmer","Conservative (1867-1942)","Elected",2416
+"Quebec",1891-03-05,"General","7","Richmond--Wolfe","Laurier, Wilfrid","Laurier","Wilfrid",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",2135
+"Quebec",1891-03-05,"General","7","Rimouski","Caron, Adolphe-Philippe","Caron","Adolphe-Philippe",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2061
+"Quebec",1891-03-05,"General","7","Rimouski","Fiset, Jean-Baptiste Romuald","Fiset","Jean-Baptiste","Romuald","Man","Physician","Liberal Party of Canada","Defeated",1799
+"Quebec",1891-03-05,"General","7","Rouville","Brodeur, Louis-Philippe","Brodeur","Louis-Philippe",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1289
+"Quebec",1891-03-05,"General","7","Rouville","Gigault, Georges Auguste","Gigault","Georges","Auguste","Man","Notary","Conservative (1867-1942)","Defeated",1220
+"Quebec",1891-03-05,"General","7","Saint Maurice","Desaulniers, François Sévère Lesieur","Desaulniers","François","Sévère Lesieur","Man","Lawyer","Conservative (1867-1942)","Elected",894
+"Quebec",1891-03-05,"General","7","Saint Maurice","Desaulniers, Louis-Léon Lesieur","Desaulniers","Louis-Léon","Lesieur","Man","Physician","Independent Conservative","Defeated",749
+"Quebec",1891-03-05,"General","7","Shefford","Sanborn, John Robbins","Sanborn","John","Robbins","Man","Farmer","Liberal Party of Canada","Elected",1792
+"Quebec",1891-03-05,"General","7","Shefford","Savage, A.C.","Savage","A.C.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1615
+"Quebec",1891-03-05,"General","7","Sherbrooke (Town of)","Ives, William Bullock","Ives","William","Bullock","Man","Businessman","Conservative (1867-1942)","Elected",1118
+"Quebec",1891-03-05,"General","7","Sherbrooke (Town of)","Millier, Clement","Millier","Clement",NA,"Man",NA,"Liberal Party of Canada","Defeated",803
+"Quebec",1891-03-05,"General","7","Soulanges","Mousseau, Joseph Octave","Mousseau","Joseph","Octave","Man","Physician","Independent","Elected",934
+"Quebec",1891-03-05,"General","7","Soulanges","Bain, James William","Bain","James","William","Man",NA,"Conservative (1867-1942)","Defeated",895
+"Quebec",1891-03-05,"General","7","St. Hyacinthe","Bernier, Michel Esdras","Bernier","Michel","Esdras","Man","Businessman","Liberal Party of Canada","Elected",1671
+"Quebec",1891-03-05,"General","7","St. Hyacinthe","Brodeur, Eusèbe","Brodeur","Eusèbe",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1175
+"Quebec",1891-03-05,"General","7","St. John's","Bourassa, François","Bourassa","François",NA,"Man","Militia captain","Liberal Party of Canada","Elected",997
+"Quebec",1891-03-05,"General","7","St. John's","Black, J.","Black","J.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",769
+"Quebec",1891-03-05,"General","7","Stanstead","Rider, Timothy Byron","Rider","Timothy","Byron","Man","Merchant","Liberal Party of Canada","Elected",1655
+"Quebec",1891-03-05,"General","7","Stanstead","Colby, Charles Carroll","Colby","Charles","Carroll","Man","Lawyer","Liberal-Conservative","Defeated",1553
+"Quebec",1891-03-05,"General","7","Témiscouata","Grandbois, Paul Étienne","Grandbois","Paul","Étienne","Man","Physician","Conservative (1867-1942)","Elected",1813
+"Quebec",1891-03-05,"General","7","Témiscouata","Deschênes, G.H.","Deschênes","G.H.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1615
+"Quebec",1891-03-05,"General","7","Terrebonne","Chapleau, Joseph Adolphe","Chapleau","Joseph","Adolphe","Man","Lawyer","Conservative (1867-1942)","Elected",1830
+"Quebec",1891-03-05,"General","7","Terrebonne","Limoges, M.D.","Limoges","M.D.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1126
+"Quebec",1891-03-05,"General","7","Three Rivers","Langevin, Hector-Louis","Langevin","Hector-Louis",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",682
+"Quebec",1891-03-05,"General","7","Three Rivers","Polette, L.T.","Polette","L.T.",NA,"Man",NA,"Liberal Party of Canada","Defeated",482
+"Quebec",1891-03-05,"General","7","Two Mountains","Daoust, Jean-Baptiste","Daoust","Jean-Baptiste",NA,"Man","Farmer","Conservative (1867-1942)","Elected",1158
+"Quebec",1891-03-05,"General","7","Two Mountains","Fortier, L.A.","Fortier","L.A.",NA,"Man","Physician","Liberal Party of Canada","Defeated",871
+"Quebec",1891-03-05,"General","7","Vaudreuil","Harwood, Henry Stanislas","Harwood","Henry","Stanislas","Man","Farmer","Liberal Party of Canada","Elected",1087
+"Quebec",1891-03-05,"General","7","Vaudreuil","McMillan, Hugh","McMillan","Hugh",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",989
+"Quebec",1891-03-05,"General","7","Verchères","Geoffrion, Félix","Geoffrion","Félix",NA,"Man","Notary","Liberal Party of Canada","Elected",1108
+"Quebec",1891-03-05,"General","7","Verchères","Archambault, A.M.","Archambault","A.M.",NA,"Man",NA,"Unknown","Defeated",940
+"Quebec",1891-03-05,"General","7","Yamaska","Mignault, Roch Moïse Samuel","Mignault","Roch","Moïse Samuel","Man","Physician","Liberal Party of Canada","Elected",1399
+"Quebec",1891-03-05,"General","7","Yamaska","Vertefeuille, F.V.","Vertefeuille","F.V.",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",1229

@@ -1,9 +1,9 @@
-"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Yukon",1987-07-20,"By-Election","33","Yukon","McLaughlin, Audrey Marlene","Woman","Consultant","New Democratic Party","Elected",3273
-"Yukon",1987-07-20,"By-Election","33","Yukon","Branigan, Don","Man","Medical doctor","Liberal Party of Canada","Defeated",3014
-"Yukon",1987-07-20,"By-Election","33","Yukon","Leverton, David","Man","Businessman","Progressive Conservative Party","Defeated",2536
-"Yukon",1987-07-20,"By-Election","33","Yukon","Marshall, Fred","Man","Surgeon","Independent","Defeated",474
-"Yukon",1957-12-16,"By-Election","23","Yukon","Nielsen, Erik","Man","Barrister","Progressive Conservative Party","Elected",2365
-"Yukon",1957-12-16,"By-Election","23","Yukon","Simmons, James Aubrey","Man","Retired","Liberal Party of Canada","Defeated",2237
-"Yukon",1902-12-02,"By-Election","9","Yukon","Ross, James Hamilton","Man","Rancher","Liberal Party of Canada","Elected",2971
-"Yukon",1902-12-02,"By-Election","9","Yukon","CLARK, Jos. A.","Man",NA,"Conservative (1867-1942)","Defeated",2079
+"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
+"Yukon",1987-07-20,"By-Election","33","Yukon","McLaughlin, Audrey Marlene","McLaughlin","Audrey","Marlene","Woman","Consultant","New Democratic Party","Elected",3273
+"Yukon",1987-07-20,"By-Election","33","Yukon","Branigan, Don","Branigan","Don",NA,"Man","Medical doctor","Liberal Party of Canada","Defeated",3014
+"Yukon",1987-07-20,"By-Election","33","Yukon","Leverton, David","Leverton","David",NA,"Man","Businessman","Progressive Conservative Party","Defeated",2536
+"Yukon",1987-07-20,"By-Election","33","Yukon","Marshall, Fred","Marshall","Fred",NA,"Man","Surgeon","Independent","Defeated",474
+"Yukon",1957-12-16,"By-Election","23","Yukon","Nielsen, Erik","Nielsen","Erik",NA,"Man","Barrister","Progressive Conservative Party","Elected",2365
+"Yukon",1957-12-16,"By-Election","23","Yukon","Simmons, James Aubrey","Simmons","James","Aubrey","Man","Retired","Liberal Party of Canada","Defeated",2237
+"Yukon",1902-12-02,"By-Election","9","Yukon","Ross, James Hamilton","Ross","James","Hamilton","Man","Rancher","Liberal Party of Canada","Elected",2971
+"Yukon",1902-12-02,"By-Election","9","Yukon","Clark, Jos. A.","Clark","Jos.","A.","Man",NA,"Conservative (1867-1942)","Defeated",2079

@@ -1,8 +1,8 @@
-"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Northwest Territories",1905-04-25,"By-Election","10","Edmonton","Oliver, Frank","Man",NA,"Liberal Party of Canada","Elected (Acclamation)",0
-"Northwest Territories",1906-04-05,"By-Election","10","Strathcona","McIntyre, Wilbert","Man",NA,"Liberal Party of Canada","Elected",2819
-"Northwest Territories",1906-04-05,"By-Election","10","Strathcona","CRANG, F.W.","Man",NA,"Conservative (1867-1942)","Defeated",1301
-"Northwest Territories",1896-12-19,"By-Election","8","Saskatchewan (Provisional District)","Davis, Thomas Osborne","Man","Merchant","Liberal Party of Canada","Elected",1060
-"Northwest Territories",1896-12-19,"By-Election","8","Saskatchewan (Provisional District)","MCPHAIL, J.R.","Man",NA,"Conservative (1867-1942)","Defeated",876
-"Northwest Territories",1892-11-21,"By-Election","7","Assiniboia East","McDonald, William Walter","Man","Farmer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Northwest Territories",1888-09-12,"By-Election","6","Assiniboia East","Dewdney, Edgar","Man","Civil engineer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
+"Northwest Territories",1905-04-25,"By-Election","10","Edmonton","Oliver, Frank","Oliver","Frank",NA,"Man",NA,"Liberal Party of Canada","Elected (Acclamation)",0
+"Northwest Territories",1906-04-05,"By-Election","10","Strathcona","McIntyre, Wilbert","McIntyre","Wilbert",NA,"Man",NA,"Liberal Party of Canada","Elected",2819
+"Northwest Territories",1906-04-05,"By-Election","10","Strathcona","Crang, F.W.","Crang","F.W.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1301
+"Northwest Territories",1896-12-19,"By-Election","8","Saskatchewan (Provisional District)","Davis, Thomas Osborne","Davis","Thomas","Osborne","Man","Merchant","Liberal Party of Canada","Elected",1060
+"Northwest Territories",1896-12-19,"By-Election","8","Saskatchewan (Provisional District)","Mcphail, J.R.","Mcphail","J.R.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",876
+"Northwest Territories",1892-11-21,"By-Election","7","Assiniboia East","McDonald, William Walter","McDonald","William","Walter","Man","Farmer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Northwest Territories",1888-09-12,"By-Election","6","Assiniboia East","Dewdney, Edgar","Dewdney","Edgar",NA,"Man","Civil engineer","Conservative (1867-1942)","Elected (Acclamation)",0

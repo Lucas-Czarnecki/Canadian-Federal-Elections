@@ -1,158 +1,158 @@
-"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Armstrong, Scott","Man","Educator","Conservative (1867-1942)","Elected",11167
-"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Austin, Mark","Man","Sustainability consultant","New Democratic Party","Defeated",6267
-"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Burrows, Jim","Man","Dairy farmer","Liberal Party of Canada","Defeated",5193
-"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Blanch, Jason","Man","Environmental educator","Green Party of Canada","Defeated",807
-"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Hnatiuk, Jim","Man","Naval electronics technician","Christian Heritage Party of Canada","Defeated",778
-"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Graves, Kate","Woman","Human ecologist","Independent","Defeated",149
-"Nova Scotia",2000-09-11,"By-Election","36","Kings--Hants","Clark, Charles Joseph","Man","Party leader","Progressive Conservative Party","Elected",14525
-"Nova Scotia",2000-09-11,"By-Election","36","Kings--Hants","JOHNSON, Kaye","Woman","Educator","New Democratic Party","Defeated",7375
-"Nova Scotia",2000-09-11,"By-Election","36","Kings--Hants","FULTON, Gerry","Man","Businessman","Canadian Reform Conservative Alliance","Defeated",4385
-"Nova Scotia",2000-09-11,"By-Election","36","Kings--Hants","NERON, Alex","Man","Filmmaker","No affiliation to a recognised party","Defeated",670
-"Nova Scotia",2000-09-11,"By-Election","36","Kings--Hants","TURMEL, John C.","Man","Banking systems engineer","Independent","Defeated",221
-"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","Mulroney, Martin Brian","Man","Barrister","Progressive Conservative Party","Elected",18882
-"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","Sinclair, Alvin","Man","High school principal","Liberal Party of Canada","Defeated",7858
-"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","Demarsh, Roy G.","Man","Clergy","New Democratic Party","Defeated",4202
-"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","McBride, Anne C.","Woman",NA,"Independent","Defeated",287
-"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","Kirk, Bob Robert","Man","Semi-retired","Independent","Defeated",97
-"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","Turmel, John C.","Man","Banking systems engineer","Independent","Defeated",46
-"Nova Scotia",1978-10-16,"By-Election","30","Halifax--East Hants","Crosby, Howard Edward","Man","Lawyer","Progressive Conservative Party","Elected",18767
-"Nova Scotia",1978-10-16,"By-Election","30","Halifax--East Hants","MACINNIS, Ken","Man","Barrister","Liberal Party of Canada","Defeated",10161
-"Nova Scotia",1978-10-16,"By-Election","30","Halifax--East Hants","DOULL, Edgar Charles","Man","Business manager","New Democratic Party","Defeated",1697
-"Nova Scotia",1978-10-16,"By-Election","30","Halifax--East Hants","MORGAN, David","Man","Insurance agent","No affiliation to a recognised party","Defeated",355
-"Nova Scotia",1971-05-31,"By-Election","28","Central Nova","MacKay, Elmer MacIntosh","Man","Barrister","Progressive Conservative Party","Elected",15359
-"Nova Scotia",1971-05-31,"By-Election","28","Central Nova","MACKINNON, Clarrie","Man","Broadcaster","Liberal Party of Canada","Defeated",11200
-"Nova Scotia",1971-05-31,"By-Election","28","Central Nova","MARCHBANK, Allan M.","Man","Farmer","New Democratic Party","Defeated",1940
-"Nova Scotia",1971-05-31,"By-Election","28","Central Nova","HENDERSON, John J.","Man","Teacher","Social Credit Party of Canada","Defeated",714
-"Nova Scotia",1967-11-06,"By-Election","27","Colchester--Hants","Stanfield, Robert Lorne","Man","Barrister","Progressive Conservative Party","Elected",15389
-"Nova Scotia",1967-11-06,"By-Election","27","Colchester--Hants","KIRK, Robert","Man","Contractor","Independent Liberal","Defeated",1098
-"Nova Scotia",1967-11-06,"By-Election","27","Colchester--Hants","SMITH, Elwood","Man","Manager","Independent","Defeated",221
-"Nova Scotia",1950-06-19,"By-Election","21","Annapolis--Kings","Nowlan, George Clyde","Man","Barrister","Progressive Conservative Party","Elected",14255
-"Nova Scotia",1950-06-19,"By-Election","21","Annapolis--Kings","Elderkin, Angus Alexander","Man","Farmer","Liberal Party of Canada","Defeated",11670
-"Nova Scotia",1950-06-19,"By-Election","21","Halifax","Balcom, Samuel Rosborough","Man","Druggist","Liberal Party of Canada","Elected",24665
-"Nova Scotia",1950-06-19,"By-Election","21","Halifax","ALLEN, Lloyd","Man","Contractor","Progressive Conservative Party","Defeated",13696
-"Nova Scotia",1950-06-19,"By-Election","21","Halifax","NICHOLSON, J.W.A.","Man","Clergyman","Co-operative Commonwealth Federation","Defeated",4861
-"Nova Scotia",1947-07-14,"By-Election","20","Halifax","Dickey, John Horace","Man","Barrister","Liberal Party of Canada","Elected",24469
-"Nova Scotia",1947-07-14,"By-Election","20","Halifax","MACINTOSH, H.L.","Man","Shipwright","Co-operative Commonwealth Federation","Defeated",16151
-"Nova Scotia",1947-07-14,"By-Election","20","Halifax","MCDONALD, Alex A.","Man","Builder","Progressive Conservative Party","Defeated",13768
-"Nova Scotia",1948-12-13,"By-Election","20","Digby--Annapolis--Kings","Nowlan, George Clyde","Man","Barrister","Progressive Conservative Party","Elected",14057
-"Nova Scotia",1948-12-13,"By-Election","20","Digby--Annapolis--Kings","MCKENZIE, John Douglas","Man","Manufacturer","Liberal Party of Canada","Defeated",12469
-"Nova Scotia",1948-12-13,"By-Election","20","Digby--Annapolis--Kings","SHAW, Lloyd R.","Man","Secretary","Co-operative Commonwealth Federation","Defeated",1992
-"Nova Scotia",1936-03-16,"By-Election","18","Antigonish--Guysborough","Kirk, James Ralph","Man","Merchant","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1937-10-18,"By-Election","18","Cape Breton North and Victoria","MacLean, Matthew","Man","Insurance agent","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1930-09-02,"By-Election","17","Richmond--West Cape Breton","Rhodes, Edgar Nelson","Man","Lawyer-at-law","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1926-11-02,"By-Election","16","Shelburne--Yarmouth","Ralston, James Layton","Man","Minister of National Defence","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1927-01-18,"By-Election","16","Antigonish--Guysborough","Duff, William","Man","Fish merchant","Liberal Party of Canada","Elected",6415
-"Nova Scotia",1927-01-18,"By-Election","16","Antigonish--Guysborough","MCARTHUR, Neil Romuald","Man","Barrister-at-law","Conservative (1867-1942)","Defeated",5292
-"Nova Scotia",1922-01-19,"By-Election","14","North Cape Breton and Victoria","McKenzie, Daniel Duncan","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1922-01-19,"By-Election","14","Shelburne and Queen's","Fielding, William Stevens","Man","Journalist","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1922-12-04,"By-Election","14","Halifax","Finn, Robert Emmett","Man","Lawyer","Liberal Party of Canada","Elected",8668
-"Nova Scotia",1922-12-04,"By-Election","14","Halifax","POWER, John Joseph","Man",NA,"Conservative (1867-1942)","Defeated",4796
-"Nova Scotia",1922-12-04,"By-Election","14","Halifax","O'CONNELL, James Joseph","Man",NA,"Labour","Defeated",2409
-"Nova Scotia",1923-07-31,"By-Election","14","North Cape Breton and Victoria","Kelly, Fenwick Lionel","Man","Ship broker","Liberal Party of Canada","Elected",4839
-"Nova Scotia",1923-07-31,"By-Election","14","North Cape Breton and Victoria","Butts, Robert Hamilton","Man","Barrister-at-bar","Conservative (1867-1942)","Defeated",4215
-"Nova Scotia",1923-07-31,"By-Election","14","North Cape Breton and Victoria","MACDONALD, Daniel David","Man","Coal miner","Labour","Defeated",1652
-"Nova Scotia",1923-09-06,"By-Election","14","Pictou","Macdonald, Angus Lewis","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1923-12-05,"By-Election","14","Halifax","Black, William Anderson","Man","Businessman","Conservative (1867-1942)","Elected",13365
-"Nova Scotia",1923-12-05,"By-Election","14","Halifax","REDMOND, George Alfred","Man",NA,"Liberal Party of Canada","Defeated",11433
-"Nova Scotia",1920-09-20,"By-Election","13","Colchester","McCurdy, Fleming Blanchard","Man","Financier","Nationalist Liberal","Elected",6478
-"Nova Scotia",1920-09-20,"By-Election","13","Colchester","DICKSON, Hugh Archibald","Man",NA,"United Farmers-Labour","Defeated",5034
-"Nova Scotia",1911-10-27,"By-Election","12","Halifax","Borden, Robert Laird","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1909-12-22,"By-Election","11","Lunenburg","Sperry, John Drew","Man","Merchant","Liberal Party of Canada","Elected",3371
-"Nova Scotia",1909-12-22,"By-Election","11","Lunenburg","MARSHALL, Carmon Smith","Man",NA,"Conservative (1867-1942)","Defeated",3104
-"Nova Scotia",1905-11-22,"By-Election","10","Antigonish","Chisholm, William","Man","Lawyer","Liberal Party of Canada","Elected",1325
-"Nova Scotia",1905-11-22,"By-Election","10","Antigonish","Girroir, Edward Lavin","Man",NA,"Conservative (1867-1942)","Defeated",1090
-"Nova Scotia",1906-03-14,"By-Election","10","North Cape Breton and Victoria","Ross, Alexander Charles","Man","Business executive","Liberal Party of Canada","Elected",2922
-"Nova Scotia",1906-03-14,"By-Election","10","North Cape Breton and Victoria","MACCORMICK, John","Man","Merchant","Conservative (1867-1942)","Defeated",2088
-"Nova Scotia",1906-10-31,"By-Election","10","Shelburne and Queen's","Fielding, William Stevens","Man","Journalist","Liberal Party of Canada","Elected",2500
-"Nova Scotia",1906-10-31,"By-Election","10","Shelburne and Queen's","Weldon, Richard Chapman","Man","Lawyer","Conservative (1867-1942)","Defeated",1484
-"Nova Scotia",1907-11-28,"By-Election","10","Colchester","Stanfield, John","Man","Manufacturer","Conservative (1867-1942)","Elected",2586
-"Nova Scotia",1907-11-28,"By-Election","10","Colchester","HILL, Charles","Man",NA,"Liberal Party of Canada","Defeated",2363
-"Nova Scotia",1902-12-03,"By-Election","9","Yarmouth","Law, Bowman Brown","Man","Merchant","Liberal Party of Canada","Elected",2076
-"Nova Scotia",1902-12-03,"By-Election","9","Yarmouth","CORNING, T.E.","Man",NA,"Conservative (1867-1942)","Defeated",1208
-"Nova Scotia",1904-03-16,"By-Election","9","Guysborough","Sinclair, John Howard","Man","Lawyer","Liberal Party of Canada","Elected",2004
-"Nova Scotia",1904-03-16,"By-Election","9","Guysborough","GRIFFIN, S.O.","Man",NA,"Conservative (1867-1942)","Defeated",1643
-"Nova Scotia",1896-07-30,"By-Election","8","Kings","Borden, Frederick William","Man","Physician","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1896-08-05,"By-Election","8","Shelburne and Queen's","Fielding, William Stevens","Man","Journalist","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1897-04-20,"By-Election","8","Colchester","McClure, Firman","Man","Lawyer","Liberal Party of Canada","Elected",2350
-"Nova Scotia",1897-04-20,"By-Election","8","Colchester","MUIR, D.H.","Man",NA,"Conservative (1867-1942)","Defeated",2344
-"Nova Scotia",1892-01-21,"By-Election","7","Richmond","Gillies, Joseph Alexander","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1892-01-26,"By-Election","7","Victoria","McDonald, John Archibald","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1892-01-30,"By-Election","7","Cumberland","Dickey, Arthur Rupert","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1892-02-09,"By-Election","7","Queens","Forbes, Francis Gordon","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1892-02-11,"By-Election","7","Halifax","Kenny, Thomas Edward","Man","Merchant","Conservative (1867-1942)","Elected",0
-"Nova Scotia",1892-02-11,"By-Election","7","Halifax","Stairs, John Fitz William","Man","Merchant","Conservative (1867-1942)","Elected",0
-"Nova Scotia",1892-02-13,"By-Election","7","Digby","Bowers, Edward Charles","Man","General trader","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1892-02-13,"By-Election","7","Kings","Borden, Frederick William","Man","Physician","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1895-01-15,"By-Election","7","Cumberland","Dickey, Arthur Rupert","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1895-04-17,"By-Election","7","Antigonish","McIsaac, Colin Francis","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1896-02-04,"By-Election","7","Cape Breton","Tupper, Charles","Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1887-07-16,"By-Election","6","Digby","Jones, Herbert Ladd","Man","Merchant","Conservative (1867-1942)","Elected",1092
-"Nova Scotia",1887-07-16,"By-Election","6","Digby","ROBICHON, H.M.","Man",NA,"Independent","Defeated",1056
-"Nova Scotia",1887-10-27,"By-Election","6","Colchester","McLelan, Archibald Woodbury","Man","Lumber merchant","Conservative (1867-1942)","Elected",2137
-"Nova Scotia",1887-10-27,"By-Election","6","Colchester","MCLELLAND, Samuel David","Man",NA,"Liberal Party of Canada","Defeated",1511
-"Nova Scotia",1887-11-09,"By-Election","6","Cumberland","Tupper, Charles","Man",NA,"Conservative (1867-1942)","Elected",2468
-"Nova Scotia",1887-11-09,"By-Election","6","Cumberland","BALMER, J.T.","Man",NA,"Independent","Defeated",1026
-"Nova Scotia",1887-11-21,"By-Election","6","Victoria","McDonald, John Archibald","Man","Lawyer","Liberal Party of Canada","Elected",960
-"Nova Scotia",1887-11-21,"By-Election","6","Victoria","Campbell, Charles James","Man","Merchant","Conservative (1867-1942)","Defeated",398
-"Nova Scotia",1887-12-15,"By-Election","6","Shelburne","Laurie, John Wimburne","Man","Soldier","Conservative (1867-1942)","Elected",1083
-"Nova Scotia",1887-12-15,"By-Election","6","Shelburne","Robertson, Thomas","Man","Civil servant","Liberal Party of Canada","Defeated",1075
-"Nova Scotia",1887-12-15,"By-Election","6","Yarmouth","Lovitt, John","Man","Shipowner","Liberal Party of Canada","Elected",1551
-"Nova Scotia",1887-12-15,"By-Election","6","Yarmouth","CROSBY, T.B.","Man",NA,"Independent","Defeated",980
-"Nova Scotia",1888-06-18,"By-Election","6","Pictou","Tupper, Charles Hibbert","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1888-07-13,"By-Election","6","Cumberland","Dickey, Arthur Rupert","Man","Lawyer","Conservative (1867-1942)","Elected",2491
-"Nova Scotia",1888-07-13,"By-Election","6","Cumberland","CASEY, C.R.","Man",NA,"Unknown","Defeated",1727
-"Nova Scotia",1888-08-15,"By-Election","6","Colchester","Archibald, Adams George","Man",NA,"Liberal-Conservative","Elected",1773
-"Nova Scotia",1888-08-15,"By-Election","6","Colchester","EATON, Cyrus","Man",NA,"Unknown","Defeated",1267
-"Nova Scotia",1888-08-15,"By-Election","6","Colchester","FULTON, E.","Man",NA,"Unknown","Defeated",315
-"Nova Scotia",1888-10-22,"By-Election","6","Shelburne","Laurie, John Wimburne","Man","Soldier","Conservative (1867-1942)","Elected",987
-"Nova Scotia",1888-10-22,"By-Election","6","Shelburne","CONGDEN,","Man",NA,"Unknown","Defeated",976
-"Nova Scotia",1888-12-26,"By-Election","6","Cumberland","Dickey, Arthur Rupert","Man","Lawyer","Conservative (1867-1942)","Elected",2479
-"Nova Scotia",1888-12-26,"By-Election","6","Cumberland","Elderkin, Angus Alexander","Man",NA,"Unknown","Defeated",1431
-"Nova Scotia",1883-07-24,"By-Election","5","Halifax","Stairs, John Fitz William","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1883-10-10,"By-Election","5","Lunenburg","Kaulbach, Charles Edwin","Man","Businessman","Conservative (1867-1942)","Elected",1991
-"Nova Scotia",1883-10-10,"By-Election","5","Lunenburg","Keefler, Thomas Twining","Man","Merchant","Liberal Party of Canada","Defeated",1712
-"Nova Scotia",1884-06-26,"By-Election","5","Cumberland","Townshend, Charles James","Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
-"Nova Scotia",1884-07-03,"By-Election","5","Cape Breton","McDougall, Hector Francis","Man","General merchant","Liberal-Conservative","Elected",1395
-"Nova Scotia",1884-07-03,"By-Election","5","Cape Breton","Mackay, Newton LeGayet","Man","Lawyer","Liberal Party of Canada","Defeated",1245
-"Nova Scotia",1885-10-16,"By-Election","5","Antigonish","Thompson, John Sparrow David","Man","Lawyer","Liberal-Conservative","Elected",1020
-"Nova Scotia",1885-10-16,"By-Election","5","Antigonish","McIntosh, Alexander","Man","Physician","Independent Conservative","Defeated",792
-"Nova Scotia",1878-11-04,"By-Election","4","Cumberland","Tupper, Charles","Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1878-11-04,"By-Election","4","Pictou","McDonald, James","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1879-10-23,"By-Election","4","Cape Breton","McLeod, William Mackenzie","Man","Physician","Liberal-Conservative","Elected",1094
-"Nova Scotia",1879-10-23,"By-Election","4","Cape Breton","Mackay, Newton LeGayet","Man","Lawyer","Liberal Party of Canada","Defeated",866
-"Nova Scotia",1879-10-23,"By-Election","4","Cape Breton","Dodd, Murray","Man","Lawyer","Conservative (1867-1942)","Defeated",799
-"Nova Scotia",1881-06-18,"By-Election","4","Colchester","McLelan, Archibald Woodbury","Man","Lumber merchant","Conservative (1867-1942)","Elected",1802
-"Nova Scotia",1881-06-18,"By-Election","4","Colchester","CUMMINGS, Charles N.","Man",NA,"Independent","Defeated",1374
-"Nova Scotia",1881-06-18,"By-Election","4","Pictou","McDougald, John","Man","Merchant","Liberal-Conservative","Elected (Acclamation)",0
-"Nova Scotia",1874-10-26,"By-Election","3","Digby","Vail, William Berrian","Man","Businessman","Liberal Party of Canada","Elected",932
-"Nova Scotia",1874-10-26,"By-Election","3","Digby","TAYLOR, W.H.","Man","Merchant","Unknown","Defeated",656
-"Nova Scotia",1874-12-17,"By-Election","3","Colchester","McKay, Thomas","Man","Merchant","Liberal-Conservative","Elected",1818
-"Nova Scotia",1874-12-17,"By-Election","3","Colchester","PAGE, Alex C.","Man","Physician","Unknown","Defeated",951
-"Nova Scotia",1874-12-17,"By-Election","3","Victoria","Campbell, Charles James","Man","Merchant","Conservative (1867-1942)","Elected",541
-"Nova Scotia",1874-12-17,"By-Election","3","Victoria","Tremain, Barclay Edmund","Man","Lawyer","Liberal Party of Canada","Defeated",523
-"Nova Scotia",1875-04-28,"By-Election","3","Victoria","Tremain, Barclay Edmund","Man","Lawyer","Liberal Party of Canada","Elected",0
-"Nova Scotia",1876-09-21,"By-Election","3","Victoria","Campbell, Charles James","Man","Merchant","Conservative (1867-1942)","Elected",624
-"Nova Scotia",1876-09-21,"By-Election","3","Victoria","Ross, John","Man",NA,"Liberal Party of Canada","Defeated",526
-"Nova Scotia",1878-01-19,"By-Election","3","Digby","Wade, John Chipman","Man","Lawyer","Conservative (1867-1942)","Elected",1210
-"Nova Scotia",1878-01-19,"By-Election","3","Digby","Vail, William Berrian","Man","Businessman","Liberal Party of Canada","Defeated",845
-"Nova Scotia",1878-01-29,"By-Election","3","Halifax","Jones, Alfred Gilpin","Man","Merchant","Independent","Elected",2981
-"Nova Scotia",1878-01-29,"By-Election","3","Halifax","Richey, Matthew Henry","Man","Lawyer","Unknown","Defeated",2761
-"Nova Scotia",1873-07-05,"By-Election","2","Hants","Goudge, Monson Henry","Man","Merchant","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1873-07-07,"By-Election","2","Antigonish","McDonald, Hugh","Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
-"Nova Scotia",1873-12-09,"By-Election","2","Shelburne","Coffin, Thomas","Man","Merchant","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1873-12-20,"By-Election","2","Antigonish","McIsaac, Angus","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1873-12-20,"By-Election","2","Victoria","Ross, William","Man","Commission merchant","Liberal Party of Canada","Elected",541
-"Nova Scotia",1873-12-20,"By-Election","2","Victoria","Campbell, Charles James","Man","Merchant","Conservative (1867-1942)","Defeated",523
-"Nova Scotia",1869-04-20,"By-Election","1","Richmond","Le Vesconte, Isaac","Man","Merchant","Conservative (1867-1942)","Elected",560
-"Nova Scotia",1869-04-20,"By-Election","1","Richmond","HENRY, W.A.","Man","Lawyer","Unknown","Defeated",333
-"Nova Scotia",1869-04-20,"By-Election","1","Yarmouth","Killam, Frank","Man","Shipowner","Liberal Party of Canada","Elected",1220
-"Nova Scotia",1869-04-20,"By-Election","1","Yarmouth","CLEMENTS, N.P.","Man",NA,"Unknown","Defeated",598
-"Nova Scotia",1869-04-24,"By-Election","1","Hants","Howe, Joseph","Man","Editor","Liberal-Conservative","Elected",1512
-"Nova Scotia",1869-04-24,"By-Election","1","Hants","Goudge, Monson Henry","Man","Merchant","Liberal Party of Canada","Defeated",1129
-"Nova Scotia",1869-09-09,"By-Election","1","Colchester","Archibald, Adams George","Man","Lawyer","Liberal-Conservative","Elected",1585
-"Nova Scotia",1869-09-09,"By-Election","1","Colchester","Pearson, Frederick M.","Man","Merchant","Liberal Party of Canada","Defeated",1230
-"Nova Scotia",1870-06-15,"By-Election","1","Cumberland","Tupper, Charles","Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
-"Nova Scotia",1870-06-23,"By-Election","1","Kings","Chipman, Leverett de Veber","Man","Hardware merchant","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1870-11-08,"By-Election","1","Colchester","Pearson, Frederick M.","Man","Merchant","Liberal Party of Canada","Elected",1672
-"Nova Scotia",1870-11-08,"By-Election","1","Colchester","CHAMBERS, R.","Man",NA,"Unknown","Defeated",268
+"Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
+"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Armstrong, Scott","Armstrong","Scott",NA,"Man","Educator","Conservative (1867-1942)","Elected",11167
+"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Austin, Mark","Austin","Mark",NA,"Man","Sustainability consultant","New Democratic Party","Defeated",6267
+"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Burrows, Jim","Burrows","Jim",NA,"Man","Dairy farmer","Liberal Party of Canada","Defeated",5193
+"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Blanch, Jason","Blanch","Jason",NA,"Man","Environmental educator","Green Party of Canada","Defeated",807
+"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Hnatiuk, Jim","Hnatiuk","Jim",NA,"Man","Naval electronics technician","Christian Heritage Party of Canada","Defeated",778
+"Nova Scotia",2009-11-09,"By-Election","40","Cumberland--Colchester--Musquodoboit Valley","Graves, Kate","Graves","Kate",NA,"Woman","Human ecologist","Independent","Defeated",149
+"Nova Scotia",2000-09-11,"By-Election","36","Kings--Hants","Clark, Charles Joseph","Clark","Charles","Joseph","Man","Party leader","Progressive Conservative Party","Elected",14525
+"Nova Scotia",2000-09-11,"By-Election","36","Kings--Hants","Johnson, Kaye","Johnson","Kaye",NA,"Woman","Educator","New Democratic Party","Defeated",7375
+"Nova Scotia",2000-09-11,"By-Election","36","Kings--Hants","Fulton, Gerry","Fulton","Gerry",NA,"Man","Businessman","Canadian Reform Conservative Alliance","Defeated",4385
+"Nova Scotia",2000-09-11,"By-Election","36","Kings--Hants","Neron, Alex","Neron","Alex",NA,"Man","Filmmaker","No affiliation to a recognised party","Defeated",670
+"Nova Scotia",2000-09-11,"By-Election","36","Kings--Hants","Turmel, John C.","Turmel","John","C.","Man","Banking systems engineer","Independent","Defeated",221
+"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","Mulroney, Martin Brian","Mulroney","Martin","Brian","Man","Barrister","Progressive Conservative Party","Elected",18882
+"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","Sinclair, Alvin","Sinclair","Alvin",NA,"Man","High school principal","Liberal Party of Canada","Defeated",7858
+"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","Demarsh, Roy G.","Demarsh","Roy","G.","Man","Clergy","New Democratic Party","Defeated",4202
+"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","McBride, Anne C.","McBride","Anne","C.","Woman",NA,"Independent","Defeated",287
+"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","Kirk, Bob Robert","Kirk","Bob","Robert","Man","Semi-retired","Independent","Defeated",97
+"Nova Scotia",1983-08-29,"By-Election","32","Central Nova","Turmel, John C.","Turmel","John","C.","Man","Banking systems engineer","Independent","Defeated",46
+"Nova Scotia",1978-10-16,"By-Election","30","Halifax--East Hants","Crosby, Howard Edward","Crosby","Howard","Edward","Man","Lawyer","Progressive Conservative Party","Elected",18767
+"Nova Scotia",1978-10-16,"By-Election","30","Halifax--East Hants","Macinnis, Ken","Macinnis","Ken",NA,"Man","Barrister","Liberal Party of Canada","Defeated",10161
+"Nova Scotia",1978-10-16,"By-Election","30","Halifax--East Hants","Doull, Edgar Charles","Doull","Edgar","Charles","Man","Business manager","New Democratic Party","Defeated",1697
+"Nova Scotia",1978-10-16,"By-Election","30","Halifax--East Hants","Morgan, David","Morgan","David",NA,"Man","Insurance agent","No affiliation to a recognised party","Defeated",355
+"Nova Scotia",1971-05-31,"By-Election","28","Central Nova","MacKay, Elmer MacIntosh","MacKay","Elmer","MacIntosh","Man","Barrister","Progressive Conservative Party","Elected",15359
+"Nova Scotia",1971-05-31,"By-Election","28","Central Nova","Mackinnon, Clarrie","Mackinnon","Clarrie",NA,"Man","Broadcaster","Liberal Party of Canada","Defeated",11200
+"Nova Scotia",1971-05-31,"By-Election","28","Central Nova","Marchbank, Allan M.","Marchbank","Allan","M.","Man","Farmer","New Democratic Party","Defeated",1940
+"Nova Scotia",1971-05-31,"By-Election","28","Central Nova","Henderson, John J.","Henderson","John","J.","Man","Teacher","Social Credit Party of Canada","Defeated",714
+"Nova Scotia",1967-11-06,"By-Election","27","Colchester--Hants","Stanfield, Robert Lorne","Stanfield","Robert","Lorne","Man","Barrister","Progressive Conservative Party","Elected",15389
+"Nova Scotia",1967-11-06,"By-Election","27","Colchester--Hants","Kirk, Robert","Kirk","Robert",NA,"Man","Contractor","Independent Liberal","Defeated",1098
+"Nova Scotia",1967-11-06,"By-Election","27","Colchester--Hants","Smith, Elwood","Smith","Elwood",NA,"Man","Manager","Independent","Defeated",221
+"Nova Scotia",1950-06-19,"By-Election","21","Annapolis--Kings","Nowlan, George Clyde","Nowlan","George","Clyde","Man","Barrister","Progressive Conservative Party","Elected",14255
+"Nova Scotia",1950-06-19,"By-Election","21","Annapolis--Kings","Elderkin, Angus Alexander","Elderkin","Angus","Alexander","Man","Farmer","Liberal Party of Canada","Defeated",11670
+"Nova Scotia",1950-06-19,"By-Election","21","Halifax","Balcom, Samuel Rosborough","Balcom","Samuel","Rosborough","Man","Druggist","Liberal Party of Canada","Elected",24665
+"Nova Scotia",1950-06-19,"By-Election","21","Halifax","Allen, Lloyd","Allen","Lloyd",NA,"Man","Contractor","Progressive Conservative Party","Defeated",13696
+"Nova Scotia",1950-06-19,"By-Election","21","Halifax","Nicholson, J.W.A.","Nicholson","J.W.A.",NA,"Man","Clergyman","Co-operative Commonwealth Federation","Defeated",4861
+"Nova Scotia",1947-07-14,"By-Election","20","Halifax","Dickey, John Horace","Dickey","John","Horace","Man","Barrister","Liberal Party of Canada","Elected",24469
+"Nova Scotia",1947-07-14,"By-Election","20","Halifax","Macintosh, H.L.","Macintosh","H.L.",NA,"Man","Shipwright","Co-operative Commonwealth Federation","Defeated",16151
+"Nova Scotia",1947-07-14,"By-Election","20","Halifax","Mcdonald, Alex A.","Mcdonald","Alex","A.","Man","Builder","Progressive Conservative Party","Defeated",13768
+"Nova Scotia",1948-12-13,"By-Election","20","Digby--Annapolis--Kings","Nowlan, George Clyde","Nowlan","George","Clyde","Man","Barrister","Progressive Conservative Party","Elected",14057
+"Nova Scotia",1948-12-13,"By-Election","20","Digby--Annapolis--Kings","Mckenzie, John Douglas","Mckenzie","John","Douglas","Man","Manufacturer","Liberal Party of Canada","Defeated",12469
+"Nova Scotia",1948-12-13,"By-Election","20","Digby--Annapolis--Kings","Shaw, Lloyd R.","Shaw","Lloyd","R.","Man","Secretary","Co-operative Commonwealth Federation","Defeated",1992
+"Nova Scotia",1936-03-16,"By-Election","18","Antigonish--Guysborough","Kirk, James Ralph","Kirk","James","Ralph","Man","Merchant","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1937-10-18,"By-Election","18","Cape Breton North and Victoria","MacLean, Matthew","MacLean","Matthew",NA,"Man","Insurance agent","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1930-09-02,"By-Election","17","Richmond--West Cape Breton","Rhodes, Edgar Nelson","Rhodes","Edgar","Nelson","Man","Lawyer-at-law","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1926-11-02,"By-Election","16","Shelburne--Yarmouth","Ralston, James Layton","Ralston","James","Layton","Man","Minister of National Defence","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1927-01-18,"By-Election","16","Antigonish--Guysborough","Duff, William","Duff","William",NA,"Man","Fish merchant","Liberal Party of Canada","Elected",6415
+"Nova Scotia",1927-01-18,"By-Election","16","Antigonish--Guysborough","Mcarthur, Neil Romuald","Mcarthur","Neil","Romuald","Man","Barrister-at-law","Conservative (1867-1942)","Defeated",5292
+"Nova Scotia",1922-01-19,"By-Election","14","North Cape Breton and Victoria","McKenzie, Daniel Duncan","McKenzie","Daniel","Duncan","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1922-01-19,"By-Election","14","Shelburne and Queen's","Fielding, William Stevens","Fielding","William","Stevens","Man","Journalist","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1922-12-04,"By-Election","14","Halifax","Finn, Robert Emmett","Finn","Robert","Emmett","Man","Lawyer","Liberal Party of Canada","Elected",8668
+"Nova Scotia",1922-12-04,"By-Election","14","Halifax","Power, John Joseph","Power","John","Joseph","Man",NA,"Conservative (1867-1942)","Defeated",4796
+"Nova Scotia",1922-12-04,"By-Election","14","Halifax","O'CONNELL, James Joseph","O'CONNELL","James","Joseph","Man",NA,"Labour","Defeated",2409
+"Nova Scotia",1923-07-31,"By-Election","14","North Cape Breton and Victoria","Kelly, Fenwick Lionel","Kelly","Fenwick","Lionel","Man","Ship broker","Liberal Party of Canada","Elected",4839
+"Nova Scotia",1923-07-31,"By-Election","14","North Cape Breton and Victoria","Butts, Robert Hamilton","Butts","Robert","Hamilton","Man","Barrister-at-bar","Conservative (1867-1942)","Defeated",4215
+"Nova Scotia",1923-07-31,"By-Election","14","North Cape Breton and Victoria","Macdonald, Daniel David","Macdonald","Daniel","David","Man","Coal miner","Labour","Defeated",1652
+"Nova Scotia",1923-09-06,"By-Election","14","Pictou","Macdonald, Angus Lewis","Macdonald","Angus","Lewis","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1923-12-05,"By-Election","14","Halifax","Black, William Anderson","Black","William","Anderson","Man","Businessman","Conservative (1867-1942)","Elected",13365
+"Nova Scotia",1923-12-05,"By-Election","14","Halifax","Redmond, George Alfred","Redmond","George","Alfred","Man",NA,"Liberal Party of Canada","Defeated",11433
+"Nova Scotia",1920-09-20,"By-Election","13","Colchester","McCurdy, Fleming Blanchard","McCurdy","Fleming","Blanchard","Man","Financier","Nationalist Liberal","Elected",6478
+"Nova Scotia",1920-09-20,"By-Election","13","Colchester","Dickson, Hugh Archibald","Dickson","Hugh","Archibald","Man",NA,"United Farmers-Labour","Defeated",5034
+"Nova Scotia",1911-10-27,"By-Election","12","Halifax","Borden, Robert Laird","Borden","Robert","Laird","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1909-12-22,"By-Election","11","Lunenburg","Sperry, John Drew","Sperry","John","Drew","Man","Merchant","Liberal Party of Canada","Elected",3371
+"Nova Scotia",1909-12-22,"By-Election","11","Lunenburg","Marshall, Carmon Smith","Marshall","Carmon","Smith","Man",NA,"Conservative (1867-1942)","Defeated",3104
+"Nova Scotia",1905-11-22,"By-Election","10","Antigonish","Chisholm, William","Chisholm","William",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1325
+"Nova Scotia",1905-11-22,"By-Election","10","Antigonish","Girroir, Edward Lavin","Girroir","Edward","Lavin","Man",NA,"Conservative (1867-1942)","Defeated",1090
+"Nova Scotia",1906-03-14,"By-Election","10","North Cape Breton and Victoria","Ross, Alexander Charles","Ross","Alexander","Charles","Man","Business executive","Liberal Party of Canada","Elected",2922
+"Nova Scotia",1906-03-14,"By-Election","10","North Cape Breton and Victoria","Maccormick, John","Maccormick","John",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",2088
+"Nova Scotia",1906-10-31,"By-Election","10","Shelburne and Queen's","Fielding, William Stevens","Fielding","William","Stevens","Man","Journalist","Liberal Party of Canada","Elected",2500
+"Nova Scotia",1906-10-31,"By-Election","10","Shelburne and Queen's","Weldon, Richard Chapman","Weldon","Richard","Chapman","Man","Lawyer","Conservative (1867-1942)","Defeated",1484
+"Nova Scotia",1907-11-28,"By-Election","10","Colchester","Stanfield, John","Stanfield","John",NA,"Man","Manufacturer","Conservative (1867-1942)","Elected",2586
+"Nova Scotia",1907-11-28,"By-Election","10","Colchester","Hill, Charles","Hill","Charles",NA,"Man",NA,"Liberal Party of Canada","Defeated",2363
+"Nova Scotia",1902-12-03,"By-Election","9","Yarmouth","Law, Bowman Brown","Law","Bowman","Brown","Man","Merchant","Liberal Party of Canada","Elected",2076
+"Nova Scotia",1902-12-03,"By-Election","9","Yarmouth","Corning, T.E.","Corning","T.E.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1208
+"Nova Scotia",1904-03-16,"By-Election","9","Guysborough","Sinclair, John Howard","Sinclair","John","Howard","Man","Lawyer","Liberal Party of Canada","Elected",2004
+"Nova Scotia",1904-03-16,"By-Election","9","Guysborough","Griffin, S.O.","Griffin","S.O.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1643
+"Nova Scotia",1896-07-30,"By-Election","8","Kings","Borden, Frederick William","Borden","Frederick","William","Man","Physician","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1896-08-05,"By-Election","8","Shelburne and Queen's","Fielding, William Stevens","Fielding","William","Stevens","Man","Journalist","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1897-04-20,"By-Election","8","Colchester","McClure, Firman","McClure","Firman",NA,"Man","Lawyer","Liberal Party of Canada","Elected",2350
+"Nova Scotia",1897-04-20,"By-Election","8","Colchester","Muir, D.H.","Muir","D.H.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2344
+"Nova Scotia",1892-01-21,"By-Election","7","Richmond","Gillies, Joseph Alexander","Gillies","Joseph","Alexander","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1892-01-26,"By-Election","7","Victoria","McDonald, John Archibald","McDonald","John","Archibald","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1892-01-30,"By-Election","7","Cumberland","Dickey, Arthur Rupert","Dickey","Arthur","Rupert","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1892-02-09,"By-Election","7","Queens","Forbes, Francis Gordon","Forbes","Francis","Gordon","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1892-02-11,"By-Election","7","Halifax","Kenny, Thomas Edward","Kenny","Thomas","Edward","Man","Merchant","Conservative (1867-1942)","Elected",0
+"Nova Scotia",1892-02-11,"By-Election","7","Halifax","Stairs, John Fitz William","Stairs","John","Fitz William","Man","Merchant","Conservative (1867-1942)","Elected",0
+"Nova Scotia",1892-02-13,"By-Election","7","Digby","Bowers, Edward Charles","Bowers","Edward","Charles","Man","General trader","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1892-02-13,"By-Election","7","Kings","Borden, Frederick William","Borden","Frederick","William","Man","Physician","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1895-01-15,"By-Election","7","Cumberland","Dickey, Arthur Rupert","Dickey","Arthur","Rupert","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1895-04-17,"By-Election","7","Antigonish","McIsaac, Colin Francis","McIsaac","Colin","Francis","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1896-02-04,"By-Election","7","Cape Breton","Tupper, Charles","Tupper","Charles",NA,"Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1887-07-16,"By-Election","6","Digby","Jones, Herbert Ladd","Jones","Herbert","Ladd","Man","Merchant","Conservative (1867-1942)","Elected",1092
+"Nova Scotia",1887-07-16,"By-Election","6","Digby","Robichon, H.M.","Robichon","H.M.",NA,"Man",NA,"Independent","Defeated",1056
+"Nova Scotia",1887-10-27,"By-Election","6","Colchester","McLelan, Archibald Woodbury","McLelan","Archibald","Woodbury","Man","Lumber merchant","Conservative (1867-1942)","Elected",2137
+"Nova Scotia",1887-10-27,"By-Election","6","Colchester","Mclelland, Samuel David","Mclelland","Samuel","David","Man",NA,"Liberal Party of Canada","Defeated",1511
+"Nova Scotia",1887-11-09,"By-Election","6","Cumberland","Tupper, Charles","Tupper","Charles",NA,"Man",NA,"Conservative (1867-1942)","Elected",2468
+"Nova Scotia",1887-11-09,"By-Election","6","Cumberland","Balmer, J.T.","Balmer","J.T.",NA,"Man",NA,"Independent","Defeated",1026
+"Nova Scotia",1887-11-21,"By-Election","6","Victoria","McDonald, John Archibald","McDonald","John","Archibald","Man","Lawyer","Liberal Party of Canada","Elected",960
+"Nova Scotia",1887-11-21,"By-Election","6","Victoria","Campbell, Charles James","Campbell","Charles","James","Man","Merchant","Conservative (1867-1942)","Defeated",398
+"Nova Scotia",1887-12-15,"By-Election","6","Shelburne","Laurie, John Wimburne","Laurie","John","Wimburne","Man","Soldier","Conservative (1867-1942)","Elected",1083
+"Nova Scotia",1887-12-15,"By-Election","6","Shelburne","Robertson, Thomas","Robertson","Thomas",NA,"Man","Civil servant","Liberal Party of Canada","Defeated",1075
+"Nova Scotia",1887-12-15,"By-Election","6","Yarmouth","Lovitt, John","Lovitt","John",NA,"Man","Shipowner","Liberal Party of Canada","Elected",1551
+"Nova Scotia",1887-12-15,"By-Election","6","Yarmouth","Crosby, T.B.","Crosby","T.B.",NA,"Man",NA,"Independent","Defeated",980
+"Nova Scotia",1888-06-18,"By-Election","6","Pictou","Tupper, Charles Hibbert","Tupper","Charles","Hibbert","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1888-07-13,"By-Election","6","Cumberland","Dickey, Arthur Rupert","Dickey","Arthur","Rupert","Man","Lawyer","Conservative (1867-1942)","Elected",2491
+"Nova Scotia",1888-07-13,"By-Election","6","Cumberland","Casey, C.R.","Casey","C.R.",NA,"Man",NA,"Unknown","Defeated",1727
+"Nova Scotia",1888-08-15,"By-Election","6","Colchester","Archibald, Adams George","Archibald","Adams","George","Man",NA,"Liberal-Conservative","Elected",1773
+"Nova Scotia",1888-08-15,"By-Election","6","Colchester","Eaton, Cyrus","Eaton","Cyrus",NA,"Man",NA,"Unknown","Defeated",1267
+"Nova Scotia",1888-08-15,"By-Election","6","Colchester","Fulton, E.","Fulton","E.",NA,"Man",NA,"Unknown","Defeated",315
+"Nova Scotia",1888-10-22,"By-Election","6","Shelburne","Laurie, John Wimburne","Laurie","John","Wimburne","Man","Soldier","Conservative (1867-1942)","Elected",987
+"Nova Scotia",1888-10-22,"By-Election","6","Shelburne","Congden, (unknown)","Congden",NA,NA,"Man",NA,"Unknown","Defeated",976
+"Nova Scotia",1888-12-26,"By-Election","6","Cumberland","Dickey, Arthur Rupert","Dickey","Arthur","Rupert","Man","Lawyer","Conservative (1867-1942)","Elected",2479
+"Nova Scotia",1888-12-26,"By-Election","6","Cumberland","Elderkin, Angus Alexander","Elderkin","Angus","Alexander","Man",NA,"Unknown","Defeated",1431
+"Nova Scotia",1883-07-24,"By-Election","5","Halifax","Stairs, John Fitz William","Stairs","John","Fitz William","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1883-10-10,"By-Election","5","Lunenburg","Kaulbach, Charles Edwin","Kaulbach","Charles","Edwin","Man","Businessman","Conservative (1867-1942)","Elected",1991
+"Nova Scotia",1883-10-10,"By-Election","5","Lunenburg","Keefler, Thomas Twining","Keefler","Thomas","Twining","Man","Merchant","Liberal Party of Canada","Defeated",1712
+"Nova Scotia",1884-06-26,"By-Election","5","Cumberland","Townshend, Charles James","Townshend","Charles","James","Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
+"Nova Scotia",1884-07-03,"By-Election","5","Cape Breton","McDougall, Hector Francis","McDougall","Hector","Francis","Man","General merchant","Liberal-Conservative","Elected",1395
+"Nova Scotia",1884-07-03,"By-Election","5","Cape Breton","Mackay, Newton LeGayet","Mackay","Newton","LeGayet","Man","Lawyer","Liberal Party of Canada","Defeated",1245
+"Nova Scotia",1885-10-16,"By-Election","5","Antigonish","Thompson, John Sparrow David","Thompson","John","Sparrow David","Man","Lawyer","Liberal-Conservative","Elected",1020
+"Nova Scotia",1885-10-16,"By-Election","5","Antigonish","McIntosh, Alexander","McIntosh","Alexander",NA,"Man","Physician","Independent Conservative","Defeated",792
+"Nova Scotia",1878-11-04,"By-Election","4","Cumberland","Tupper, Charles","Tupper","Charles",NA,"Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1878-11-04,"By-Election","4","Pictou","McDonald, James","McDonald","James",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1879-10-23,"By-Election","4","Cape Breton","McLeod, William Mackenzie","McLeod","William","Mackenzie","Man","Physician","Liberal-Conservative","Elected",1094
+"Nova Scotia",1879-10-23,"By-Election","4","Cape Breton","Mackay, Newton LeGayet","Mackay","Newton","LeGayet","Man","Lawyer","Liberal Party of Canada","Defeated",866
+"Nova Scotia",1879-10-23,"By-Election","4","Cape Breton","Dodd, Murray","Dodd","Murray",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",799
+"Nova Scotia",1881-06-18,"By-Election","4","Colchester","McLelan, Archibald Woodbury","McLelan","Archibald","Woodbury","Man","Lumber merchant","Conservative (1867-1942)","Elected",1802
+"Nova Scotia",1881-06-18,"By-Election","4","Colchester","Cummings, Charles N.","Cummings","Charles","N.","Man",NA,"Independent","Defeated",1374
+"Nova Scotia",1881-06-18,"By-Election","4","Pictou","McDougald, John","McDougald","John",NA,"Man","Merchant","Liberal-Conservative","Elected (Acclamation)",0
+"Nova Scotia",1874-10-26,"By-Election","3","Digby","Vail, William Berrian","Vail","William","Berrian","Man","Businessman","Liberal Party of Canada","Elected",932
+"Nova Scotia",1874-10-26,"By-Election","3","Digby","Taylor, W.H.","Taylor","W.H.",NA,"Man","Merchant","Unknown","Defeated",656
+"Nova Scotia",1874-12-17,"By-Election","3","Colchester","McKay, Thomas","McKay","Thomas",NA,"Man","Merchant","Liberal-Conservative","Elected",1818
+"Nova Scotia",1874-12-17,"By-Election","3","Colchester","Page, Alex C.","Page","Alex","C.","Man","Physician","Unknown","Defeated",951
+"Nova Scotia",1874-12-17,"By-Election","3","Victoria","Campbell, Charles James","Campbell","Charles","James","Man","Merchant","Conservative (1867-1942)","Elected",541
+"Nova Scotia",1874-12-17,"By-Election","3","Victoria","Tremain, Barclay Edmund","Tremain","Barclay","Edmund","Man","Lawyer","Liberal Party of Canada","Defeated",523
+"Nova Scotia",1875-04-28,"By-Election","3","Victoria","Tremain, Barclay Edmund","Tremain","Barclay","Edmund","Man","Lawyer","Liberal Party of Canada","Elected",0
+"Nova Scotia",1876-09-21,"By-Election","3","Victoria","Campbell, Charles James","Campbell","Charles","James","Man","Merchant","Conservative (1867-1942)","Elected",624
+"Nova Scotia",1876-09-21,"By-Election","3","Victoria","Ross, John","Ross","John",NA,"Man",NA,"Liberal Party of Canada","Defeated",526
+"Nova Scotia",1878-01-19,"By-Election","3","Digby","Wade, John Chipman","Wade","John","Chipman","Man","Lawyer","Conservative (1867-1942)","Elected",1210
+"Nova Scotia",1878-01-19,"By-Election","3","Digby","Vail, William Berrian","Vail","William","Berrian","Man","Businessman","Liberal Party of Canada","Defeated",845
+"Nova Scotia",1878-01-29,"By-Election","3","Halifax","Jones, Alfred Gilpin","Jones","Alfred","Gilpin","Man","Merchant","Independent","Elected",2981
+"Nova Scotia",1878-01-29,"By-Election","3","Halifax","Richey, Matthew Henry","Richey","Matthew","Henry","Man","Lawyer","Unknown","Defeated",2761
+"Nova Scotia",1873-07-05,"By-Election","2","Hants","Goudge, Monson Henry","Goudge","Monson","Henry","Man","Merchant","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1873-07-07,"By-Election","2","Antigonish","McDonald, Hugh","McDonald","Hugh",NA,"Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
+"Nova Scotia",1873-12-09,"By-Election","2","Shelburne","Coffin, Thomas","Coffin","Thomas",NA,"Man","Merchant","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1873-12-20,"By-Election","2","Antigonish","McIsaac, Angus","McIsaac","Angus",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1873-12-20,"By-Election","2","Victoria","Ross, William","Ross","William",NA,"Man","Commission merchant","Liberal Party of Canada","Elected",541
+"Nova Scotia",1873-12-20,"By-Election","2","Victoria","Campbell, Charles James","Campbell","Charles","James","Man","Merchant","Conservative (1867-1942)","Defeated",523
+"Nova Scotia",1869-04-20,"By-Election","1","Richmond","Le Vesconte, Isaac","Le Vesconte","Isaac",NA,"Man","Merchant","Conservative (1867-1942)","Elected",560
+"Nova Scotia",1869-04-20,"By-Election","1","Richmond","Henry, W.A.","Henry","W.A.",NA,"Man","Lawyer","Unknown","Defeated",333
+"Nova Scotia",1869-04-20,"By-Election","1","Yarmouth","Killam, Frank","Killam","Frank",NA,"Man","Shipowner","Liberal Party of Canada","Elected",1220
+"Nova Scotia",1869-04-20,"By-Election","1","Yarmouth","Clements, N.P.","Clements","N.P.",NA,"Man",NA,"Unknown","Defeated",598
+"Nova Scotia",1869-04-24,"By-Election","1","Hants","Howe, Joseph","Howe","Joseph",NA,"Man","Editor","Liberal-Conservative","Elected",1512
+"Nova Scotia",1869-04-24,"By-Election","1","Hants","Goudge, Monson Henry","Goudge","Monson","Henry","Man","Merchant","Liberal Party of Canada","Defeated",1129
+"Nova Scotia",1869-09-09,"By-Election","1","Colchester","Archibald, Adams George","Archibald","Adams","George","Man","Lawyer","Liberal-Conservative","Elected",1585
+"Nova Scotia",1869-09-09,"By-Election","1","Colchester","Pearson, Frederick M.","Pearson","Frederick","M.","Man","Merchant","Liberal Party of Canada","Defeated",1230
+"Nova Scotia",1870-06-15,"By-Election","1","Cumberland","Tupper, Charles","Tupper","Charles",NA,"Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
+"Nova Scotia",1870-06-23,"By-Election","1","Kings","Chipman, Leverett de Veber","Chipman","Leverett","de Veber","Man","Hardware merchant","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1870-11-08,"By-Election","1","Colchester","Pearson, Frederick M.","Pearson","Frederick","M.","Man","Merchant","Liberal Party of Canada","Elected",1672
+"Nova Scotia",1870-11-08,"By-Election","1","Colchester","Chambers, R.","Chambers","R.",NA,"Man",NA,"Unknown","Defeated",268
