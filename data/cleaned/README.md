@@ -19,7 +19,10 @@ The data found in `by-elections`, `general-elections`, and `master` are candidat
 | `Election_Type`  |  Consists of two values; either `General` or `By-Election`  |
 | `Parliament`  |  Records the session of Parliament |
 | `Constituency`  |  Records in which electoral division the candidate ran for office |
-| `Candidate`  |  Records the candidate's full name (last name, first name) |
+| `Candidate`  |  Records the candidate's full name (last name, first name middle name(s) ) |
+| `Last_Name`  |  Records the candidate's last name |
+| `First_Name`  |  Records the candidate's first name or "(unknown)" if there is no known record |
+| `Middle_Names`  |  Records the candidate's middle name(s) or NA if not applicable |
 | `Gender`  |  Consists of three variables; namely, "Man", "Woman" or "Other Gender Identity" |
 | `Occupation`  |  The candidate's occupation at the time of running for office |
 | `Political_Affiliation`  |  Records (at the time of the election) the name of the political party that a candidate was registered to or "Independent" if the candidate ran unaffiliated |

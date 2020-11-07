@@ -16,6 +16,16 @@ This repository processes the excel formatted data from the LOP into formats tha
 
 The scripts used to process the raw data can be found in the folder, [R](https://github.com/Lucas-Czarnecki/Canadian-Federal-Elections/tree/main/R).  
 
+### **What is different?**
+
+The cleaned data differs from the original LOP data set in the following ways:
+* All data are presented in long format.
+* Data are exported as .csv and .Rds files and organized across multiple folders rather than a single excel spreadsheet.
+* A variable called `Parliament` was created from the original data set to record the session of Parliament in long form. 
+* Additional variables, namely `Election_Date` and `Election_Type`, were created from the original data set to record the date (i.e., `Election_Date` as `yyyy-mm-dd`) of each general and by-election (i.e., `Election_Type`) in long form.
+* New variables (i.e., `Last_Name`, `First_Name`, and `Middle_Names`) were created to identify each candidate's first, middle, and last names.  
+* The variable `Candidate`, which records the full name of each candidate, was modified to address inconsistent use of uppercase in candidates' last names. Punctuation marks inserted in error were also removed from candidates' names. 
+
 ## Credit and Copyright
 
 Canada's [Library of Parliament (LOP)](https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections) is the source of all data in this repository. Data are, therefore, subject to the same [Copyright Act](https://laws-lois.justice.gc.ca/eng/acts/C-42/index.html) as the LOP and is subject to change. The data in this repository are released for **personal and non-commercial use** in accordance with the Copyright Act (R.S.C., 1985, c. C-42).
