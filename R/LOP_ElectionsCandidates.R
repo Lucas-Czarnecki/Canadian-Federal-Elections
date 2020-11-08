@@ -77,17 +77,22 @@ FED_1867_present$Gender <- as.factor(FED_1867_present$Gender)
 FED_1867_present$Political_Affiliation <- as.factor(FED_1867_present$Political_Affiliation)
 FED_1867_present$Result <- as.factor(FED_1867_present$Result)
 
-# 2. Casefold candidates' last names. Multiple candidates' last names are recorded in all uppercase, which is inconsistent with most of the data. 
+# 2. Clean Candidates' names.
+
+# Correct improper use of uppercase and punctuation marks. Multiple candidates' last names are recorded in all uppercase, which is inconsistent with most of the data. Punctuation marks are present in strings in apparent error.
 
 # Create new variables to differentiate first, middle, and last names.
 FED_1867_present <- FED_1867_present %>% 
   separate(col = Candidate, into = c("Last_Name", "First_Name"), sep = ", ", remove=FALSE, extra = "merge") %>% 
   separate(col = First_Name, into = c("First_Name", "Middle_Names"), sep = " ", extra = "merge")
 
-# Remove redundant commas from names that appear to be the result of human error.
+# Remove redundant punctuation marks from names that appear to be the result of human error.
 FED_1867_present$First_Name <- gsub(',','',FED_1867_present$First_Name)
 FED_1867_present$Last_Name <- gsub(',','',FED_1867_present$Last_Name)
 FED_1867_present$Middle_Names <- gsub(',','',FED_1867_present$Middle_Names)
+
+# For first names, treat blank cells as missing values.
+FED_1867_present$First_Name[FED_1867_present$First_Name == ""] <- NA
 
 # If last name is in all uppercase then transform the length of the string such that only the first letter is capitalized.
 FED_1867_present$Last_Name <- ifelse(str_detect(FED_1867_present$Last_Name, "^[:upper:]+$"), 
@@ -98,7 +103,7 @@ FED_1867_present$Last_Name <- ifelse(str_detect(FED_1867_present$Last_Name, "^[:
 FED_1867_present$Candidate <-  paste(FED_1867_present$Last_Name, FED_1867_present$First_Name, sep=", ") %>% 
   paste(FED_1867_present$Middle_Names, sep=" ") 
 
-# Remove or replace missing values to tidy cleaned `Candidate` key. 
+# Remove or replace missing values to tidy cleaned `Candidate` key.
 FED_1867_present$Candidate <- gsub(", NA NA", ", (unknown)", FED_1867_present$Candidate)
 FED_1867_present$Candidate <- gsub(" NA", "", FED_1867_present$Candidate)
 
