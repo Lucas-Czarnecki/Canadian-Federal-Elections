@@ -71,7 +71,10 @@ FED_1867_present <- FED_1867_present %>%
 # 1. Assign appropriate variable class.
 FED_1867_present$Province_Territory <- factor(FED_1867_present$Province_Territory, levels = c("British Columbia", "Alberta", "Saskatchewan", "Manitoba", "Ontario", "Quebec", "Newfoundland and Labrador", "New Brunswick", "Nova Scotia", "Prince Edward Island", "Yukon", "Northwest Territories", "Nunavut"))
 FED_1867_present$Election_Type <- as.factor(FED_1867_present$Election_Type)
-FED_1867_present$Parliament <- as.factor(FED_1867_present$Parliament)
+
+ordered_parl <- order(levels(as.factor(FED_1867_present$Parliament))) #  Parliament is treated as a factor ordered chronologically for data exploration purposes.
+FED_1867_present$Parliament <- factor(FED_1867_present$Parliament, levels = ordered_parl)
+
 FED_1867_present$Constituency <- as.factor(FED_1867_present$Constituency)
 FED_1867_present$Gender <- as.factor(FED_1867_present$Gender)
 FED_1867_present$Political_Affiliation <- as.factor(FED_1867_present$Political_Affiliation)
