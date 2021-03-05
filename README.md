@@ -26,6 +26,11 @@ The cleaned data differs from the original LOP data set in the following ways:
 * New variables (i.e., `Last_Name`, `First_Name`, and `Middle_Names`) were created to identify each candidate's first, middle, and last names.  
 * The variable `Candidate`, which records the full name of each candidate, was modified to address inconsistent use of uppercase in candidates' last names. Punctuation marks inserted in error were also removed from candidates' names. 
 
+## Supplementary Data
+
+This repository also contains a [supplementary folder](https://github.com/Lucas-Czarnecki/Canadian-Federal-Elections/tree/main/data/cleaned/supplementary) that contains multiple files of interest to researchers based on the LOP's data. The folder includes a data set on federal ridings that records the names, start dates, and end dates of every federal riding since 1867. Other data sets identify the names and number of constituencies in each general and by-election. Users will find that these data are available in .csv as well as .Rds formats. 
+
+
 ## Credit and Copyright
 
 Canada's [Library of Parliament (LOP)](https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections) is the source of all data in this repository. Data are, therefore, subject to the same [Copyright Act](https://laws-lois.justice.gc.ca/eng/acts/C-42/index.html) as the LOP and is subject to change. The data in this repository are released for **personal and non-commercial use** in accordance with the Copyright Act (R.S.C., 1985, c. C-42).

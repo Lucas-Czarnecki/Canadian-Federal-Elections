@@ -6,7 +6,11 @@ Users who want to work with the entire data set of election results (i.e., Elect
 
 Folders `by-elections` and `general-elections` separate data according to `Election_Type`. The former organizes by-elections according to `Province_Territory` with each file containing every by-election that took place within a given province or territory. The latter saves results on every general election by `Election_Date`.
 
-The folder `supplementary` records the name, start date, and end date of every federal riding from 1867 to the present represented in the House of Commons. Users will find the data in .csv and .Rds format. 
+The folder `supplementary` contains multiple files that may be of interest to researchers:
+* `FED_Ridings` presents data from Parlinfo's [Ridings](https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Ridings) data set. The data lists the name, start date, and end date of every federal riding from 1867 to the present.
+* `Expected_Ridings` records the total number of constituencies in each general and by-election. Note that Canadian federal elections before 1966 featured dual-member ridings. Therefore, the number of ridings does not necessarily equal the number of seats in elections before this date.
+* `List_Ridings` Records the names of every constituency contested in every general and by-election since 1867. 
+* Users will find each data set above in .csv and .Rds format. 
 
 ## Variables: Election Results
 
