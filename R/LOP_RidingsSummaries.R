@@ -29,7 +29,7 @@ List_Ridings$Combined_Key <- paste(List_Ridings$Constituency, List_Ridings$Provi
 # Summarize the number of ridings by general election. The variable `Expected` records the number of ridings expected in each election.
 Expected_Ridings <- List_Ridings %>% 
   group_by(Election_Date, Election_Type) %>% 
-  summarise(Expected = length(unique(Combined_Key)), .groups='drop')
+  summarise(Expected_Ridings = length(unique(Combined_Key)), .groups='drop')
 
 # ---- Export Data ----
 
