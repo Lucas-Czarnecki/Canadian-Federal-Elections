@@ -16,20 +16,41 @@ FED_1867_present <- readRDS("~/GitHub/Canadian-Federal-Elections/data/cleaned/ma
 # ---- Data Processing ----
 
 # 1. Identify unique ridings by general election
-List_Ridings<- FED_1867_present %>% 
+List_Ridings <- FED_1867_present %>% 
   group_by(Election_Date, Election_Type, Parliament, Province_Territory, Constituency) %>% 
   summarise(.groups = 'drop')
 
-# 2. Count the number of unique districts that appear in each general election.
-
-# First create a combined key (i.e., riding + province)
-# A combined key takes into consideration ridings located in different provinces but with identical names. 
+# Create a combined key to take into consideration ridings located in different provinces but with identical names. 
 List_Ridings$Combined_Key <- paste(List_Ridings$Constituency, List_Ridings$Province_Territory, sep = ", ")
 
-# Summarize the number of ridings by general election. The variable `Expected` records the number of ridings expected in each election.
-Expected_Ridings <- List_Ridings %>% 
+# Election-level results
+
+# Subset for convenience.
+FED_1867_present$Combined_Key <- paste(FED_1867_present$Constituency, FED_1867_present$Province_Territory, sep = ", ")
+
+# Number of Ridings: Summarize the total number of ridings in each election. 
+Expected_Ridings <- FED_1867_present %>% 
   group_by(Election_Date, Election_Type) %>% 
   summarise(Expected_Ridings = length(unique(Combined_Key)), .groups='drop')
+
+# 2. Constituency-level results
+
+# Number of Candidates: Summarize expected number of candidates in each riding.
+Expected_Candidates <- FED_1867_present %>% 
+  group_by(Election_Date, Election_Type, Parliament, Constituency, Province_Territory, Combined_Key) %>% 
+  summarise(Expected_Candidates = length(Candidate), .groups='drop')
+
+# District Magnitude: Summarize the number of seats contested in each riding.
+Expected_DM <- FED_1867_present %>% 
+  group_by(Election_Date, Election_Type, Parliament, Constituency, Province_Territory, Combined_Key) %>% 
+  summarise(Expected_DM = length(Result[Result=="Elected" |Result== "Elected (Acclamation)" ]), .groups='drop')
+
+# TODO
+# Concatenate expected results. 
+# NOTE Match needs to be done by Combined Key AND Election Date
+
+# List_Ridings$Expected_Candidates <- Expected_Candidates$Expected_Candidates[match(List_Ridings$Combined_Key, Expected_Candidates$Combined_Key)]
+# List_Ridings$Expected_DM <- Expected_DM$Expected_DM[match(List_Ridings$Combined_Key, Expected_DM$Combined_Key)]
 
 # ---- Export Data ----
 
