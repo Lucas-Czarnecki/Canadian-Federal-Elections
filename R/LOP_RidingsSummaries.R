@@ -21,12 +21,12 @@ List_Ridings <- FED_1867_present %>%
   summarise(.groups = 'drop')
 
 # Create a combined key to take into consideration ridings located in different provinces but with identical names. 
-List_Ridings$Combined_Key <- paste(List_Ridings$Constituency, List_Ridings$Province_Territory, sep = ", ")
+List_Ridings$Combined_Key <- paste(as.character(List_Ridings$Election_Date), List_Ridings$Constituency, List_Ridings$Province_Territory, sep = ", ")
 
 # Election-level results
 
 # Subset for convenience.
-FED_1867_present$Combined_Key <- paste(FED_1867_present$Constituency, FED_1867_present$Province_Territory, sep = ", ")
+FED_1867_present$Combined_Key <- paste(as.character(FED_1867_present$Election_Date), FED_1867_present$Constituency, FED_1867_present$Province_Territory, sep = ", ")
 
 # Number of Ridings: Summarize the total number of ridings in each election. 
 Expected_Ridings <- FED_1867_present %>% 
@@ -45,12 +45,9 @@ Expected_DM <- FED_1867_present %>%
   group_by(Election_Date, Election_Type, Parliament, Constituency, Province_Territory, Combined_Key) %>% 
   summarise(Expected_DM = length(Result[Result=="Elected" |Result== "Elected (Acclamation)" ]), .groups='drop')
 
-# TODO
-# Concatenate expected results. 
-# NOTE Match needs to be done by Combined Key AND Election Date
-
-# List_Ridings$Expected_Candidates <- Expected_Candidates$Expected_Candidates[match(List_Ridings$Combined_Key, Expected_Candidates$Combined_Key)]
-# List_Ridings$Expected_DM <- Expected_DM$Expected_DM[match(List_Ridings$Combined_Key, Expected_DM$Combined_Key)]
+# Concatenate constituency level summaries.
+List_Ridings$Expected_Candidates <- Expected_Candidates$Expected_Candidates[match(List_Ridings$Combined_Key, Expected_Candidates$Combined_Key)]
+List_Ridings$Expected_DM <- Expected_DM$Expected_DM[match(List_Ridings$Combined_Key, Expected_DM$Combined_Key)]
 
 # ---- Export Data ----
 
