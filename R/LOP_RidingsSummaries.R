@@ -15,48 +15,33 @@ FED_1867_present <- readRDS("~/GitHub/Canadian-Federal-Elections/data/cleaned/ma
 
 # ---- Data Processing ----
 
-# 1. Identify unique ridings by general election
-List_Ridings <- FED_1867_present %>% 
-  group_by(Election_Date, Election_Type, Parliament, Province_Territory, Constituency) %>% 
-  summarise(.groups = 'drop')
+# TODO
+# Rename List_Ridings to indicate data are a constituency-level summary.
 
-# Create a combined key to take into consideration ridings located in different provinces but with identical names. 
-List_Ridings$Combined_Key <- paste(as.character(List_Ridings$Election_Date), List_Ridings$Constituency, List_Ridings$Province_Territory, sep = ", ")
-
-# Election-level results
-
-# Subset for convenience.
+# create the same combined key for master data set.
 FED_1867_present$Combined_Key <- paste(as.character(FED_1867_present$Election_Date), FED_1867_present$Constituency, FED_1867_present$Province_Territory, sep = ", ")
 
-# Number of Ridings: Summarize the total number of ridings in each election. 
-Expected_Ridings <- FED_1867_present %>% 
+# 1. Create a summary table of constituency-level results.
+Summary_of_Ridings <- FED_1867_present %>% 
+  group_by(Election_Date, Election_Type, Parliament, Constituency, Province_Territory, Combined_Key) %>% 
+  summarise(Number_of_Candidates = length(Candidate), Number_of_Parties = length(unique(Political_Affiliation)), District_Magnitude = length(Result[Result=="Elected" |Result== "Elected (Acclamation)" ]), Valid_Votes = sum(Votes), .groups='drop')
+
+# Note: the number of parties includes independents and those who ran as "not affiliated". These are distinct categories in the Canada Elections Act. Note also that the number of parties is an approximation as historically many candidates' political affiliations are `Unknown`. 
+
+# 2. Create a summary table of elections-level results.  
+Summary_of_Elections <- Summary_of_Ridings %>% 
   group_by(Election_Date, Election_Type) %>% 
-  summarise(Expected_Ridings = length(unique(Combined_Key)), .groups='drop')
+  summarise(Number_of_Ridings = length(unique(Combined_Key)), Number_of_Seats = sum(District_Magnitude), Number_of_Candidates = sum(Number_of_Candidates), Total_Valid_Votes = sum(Valid_Votes), .groups='drop')
 
-# 2. Constituency-level results
-
-# Number of Candidates: Summarize expected number of candidates in each riding.
-Expected_Candidates <- FED_1867_present %>% 
-  group_by(Election_Date, Election_Type, Parliament, Constituency, Province_Territory, Combined_Key) %>% 
-  summarise(Expected_Candidates = length(Candidate), .groups='drop')
-
-# District Magnitude: Summarize the number of seats contested in each riding.
-Expected_DM <- FED_1867_present %>% 
-  group_by(Election_Date, Election_Type, Parliament, Constituency, Province_Territory, Combined_Key) %>% 
-  summarise(Expected_DM = length(Result[Result=="Elected" |Result== "Elected (Acclamation)" ]), .groups='drop')
-
-# Concatenate constituency level summaries.
-List_Ridings$Expected_Candidates <- Expected_Candidates$Expected_Candidates[match(List_Ridings$Combined_Key, Expected_Candidates$Combined_Key)]
-List_Ridings$Expected_DM <- Expected_DM$Expected_DM[match(List_Ridings$Combined_Key, Expected_DM$Combined_Key)]
 
 # ---- Export Data ----
 
-# Expected number of ridings by general election. 
-saveRDS(Expected_Ridings, file = "~/GitHub/Canadian-Federal-Elections/data/cleaned/supplementary/Expected_Ridings.Rds")
-write.csv(Expected_Ridings, file = "~/GitHub/Canadian-Federal-Elections/data/cleaned/supplementary/Expected_Ridings.csv", fileEncoding = "UTF-8", row.names = FALSE)
+# Constituency-level summary.
+saveRDS(Summary_of_Ridings, file = "~/GitHub/Canadian-Federal-Elections/data/cleaned/supplementary/Summary_of_Ridings.Rds")
+write.csv(Summary_of_Ridings, file = "~/GitHub/Canadian-Federal-Elections/data/cleaned/supplementary/Summary_of_Ridings.csv", fileEncoding = "UTF-8", row.names = FALSE)
 
-# List of ridings by general election.
-saveRDS(List_Ridings, file = "~/GitHub/Canadian-Federal-Elections/data/cleaned/supplementary/List_Ridings.Rds")
-write.csv(List_Ridings, file = "~/GitHub/Canadian-Federal-Elections/data/cleaned/supplementary/List_Ridings.csv", fileEncoding = "UTF-8", row.names = FALSE)
+# Elections-level summary.
+saveRDS(Summary_of_Elections, file = "~/GitHub/Canadian-Federal-Elections/data/cleaned/supplementary/Summary_of_Elections.Rds")
+write.csv(Summary_of_Elections, file = "~/GitHub/Canadian-Federal-Elections/data/cleaned/supplementary/Summary_of_Elections.csv", fileEncoding = "UTF-8", row.names = FALSE)
 
 # ___ end ___
