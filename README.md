@@ -28,7 +28,7 @@ The cleaned data differs from the original LOP data set in the following ways:
 
 ## Supplementary Data
 
-This repository also contains a [supplementary folder](https://github.com/Lucas-Czarnecki/Canadian-Federal-Elections/tree/main/data/cleaned/supplementary) that contains multiple files of interest to researchers based on the LOP's data. The folder includes a data set on federal ridings that records the names, start dates, and end dates of every federal riding since 1867. Other data sets identify the names and number of constituencies in each general and by-election. Users will find that these data are available in .csv as well as .Rds formats. 
+This repository also contains a [supplementary folder](https://github.com/Lucas-Czarnecki/Canadian-Federal-Elections/tree/main/data/cleaned/supplementary) that contains multiple files of interest to researchers based on the LOP's data. The folder includes a data set on federal ridings that records the names, start dates, and end dates of every federal riding since 1867. Additional data sets summarize various fields of interest at the national and constituency-level of analysis. Summary variables include fields such as the number of candidates running, the number of registered parties, the number of seats contested, etc. Summary data are available in .csv as well as .Rds formats. 
 
 
 ## Credit and Copyright
