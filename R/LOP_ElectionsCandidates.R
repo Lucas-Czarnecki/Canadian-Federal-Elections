@@ -13,7 +13,10 @@ if(!require(pacman)) install.packages("pacman")
 pacman::p_load(readxl, tidyverse, zoo)
 
 # Import raw data from Library of Parliament (LOP). Data were manually exported from the LOP as an excel spreadsheet.
-FED_1867_present <- read_excel("~/GitHub/Canadian-Federal-Elections/data/raw/electionsCandidates.xlsx")
+FED_1867_present <- read_excel("data/raw/electionsCandidates.xlsx", 
+              col_types = c("text", "text", "text", 
+                            "text", "text", "text", "text", "text", 
+                            "numeric"))
 
 # Rename columns using a program-friendly format. Identify the column `picture` as temporary. Online this column features a photo of the candidate. This column will be removed once other data are extracted. 
 FED_1867_present <- FED_1867_present %>% 
