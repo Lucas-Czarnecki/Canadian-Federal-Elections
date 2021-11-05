@@ -3770,7 +3770,7 @@
 1926-03-29,"By-Election","15","Middlesex West","Ontario","Middlesex West, Ontario",2,2,1,10226
 1926-09-14,"General","16","Acadia","Alberta","Acadia, Alberta",2,2,1,8844
 1926-09-14,"General","16","Algoma East","Ontario","Algoma East, Ontario",2,2,1,13052
-1926-09-14,"General","16","Algoma West","Ontario","Algoma West, Ontario",1,1,1,7171
+1926-09-14,"General","16","Algoma West","Ontario","Algoma West, Ontario",2,2,1,11358
 1926-09-14,"General","16","Antigonish--Guysborough","Nova Scotia","Antigonish--Guysborough, Nova Scotia",2,2,1,12143
 1926-09-14,"General","16","Argenteuil","Quebec","Argenteuil, Quebec",2,2,1,7948
 1926-09-14,"General","16","Assiniboia","Saskatchewan","Assiniboia, Saskatchewan",3,3,1,13048
@@ -11907,3 +11907,341 @@
 2019-10-21,"General","43","Yukon","Yukon","Yukon, Yukon",5,5,1,21017
 2020-10-26,"By-Election","43","Toronto Centre","Ontario","Toronto Centre, Ontario",9,9,1,25203
 2020-10-26,"By-Election","43","York Centre","Ontario","York Centre, Ontario",6,6,1,18058
+2021-09-20,"General","44","Abbotsford","British Columbia","Abbotsford, British Columbia",5,5,1,41926
+2021-09-20,"General","44","Abitibi--Baie-James--Nunavik--Eeyou","Quebec","Abitibi--Baie-James--Nunavik--Eeyou, Quebec",8,8,1,27633
+2021-09-20,"General","44","Abitibi--Témiscamingue","Quebec","Abitibi--Témiscamingue, Quebec",8,8,1,44032
+2021-09-20,"General","44","Acadie--Bathurst","New Brunswick","Acadie--Bathurst, New Brunswick",6,6,1,40190
+2021-09-20,"General","44","Ahuntsic-Cartierville","Quebec","Ahuntsic-Cartierville, Quebec",6,6,1,48824
+2021-09-20,"General","44","Ajax","Ontario","Ajax, Ontario",4,4,1,47299
+2021-09-20,"General","44","Alfred-Pellan","Quebec","Alfred-Pellan, Quebec",6,6,1,48572
+2021-09-20,"General","44","Algoma--Manitoulin--Kapuskasing","Ontario","Algoma--Manitoulin--Kapuskasing, Ontario",6,6,1,38468
+2021-09-20,"General","44","Argenteuil--La Petite-Nation","Quebec","Argenteuil--La Petite-Nation, Quebec",6,6,1,49080
+2021-09-20,"General","44","Aurora--Oak Ridges--Richmond Hill","Ontario","Aurora--Oak Ridges--Richmond Hill, Ontario",5,5,1,43313
+2021-09-20,"General","44","Avalon","Newfoundland and Labrador","Avalon, Newfoundland and Labrador",4,4,1,34346
+2021-09-20,"General","44","Avignon--La Mitis--Matane--Matapédia","Quebec","Avignon--La Mitis--Matane--Matapédia, Quebec",6,6,1,31761
+2021-09-20,"General","44","Banff--Airdrie","Alberta","Banff--Airdrie, Alberta",9,8,1,72172
+2021-09-20,"General","44","Barrie--Innisfil","Ontario","Barrie--Innisfil, Ontario",4,4,1,50000
+2021-09-20,"General","44","Barrie--Springwater--Oro-Medonte","Ontario","Barrie--Springwater--Oro-Medonte, Ontario",4,4,1,52241
+2021-09-20,"General","44","Battle River--Crowfoot","Alberta","Battle River--Crowfoot, Alberta",7,7,1,56308
+2021-09-20,"General","44","Battlefords--Lloydminster","Saskatchewan","Battlefords--Lloydminster, Saskatchewan",6,6,1,29810
+2021-09-20,"General","44","Bay of Quinte","Ontario","Bay of Quinte, Ontario",5,5,1,56741
+2021-09-20,"General","44","Beaches--East York","Ontario","Beaches--East York, Ontario",8,8,1,47520
+2021-09-20,"General","44","Beauce","Quebec","Beauce, Quebec",8,8,1,55621
+2021-09-20,"General","44","Beauport--Côte-de-Beaupré--Île D’Orléans--Charlevoix","Quebec","Beauport--Côte-de-Beaupré--Île D’Orléans--Charlevoix, Quebec",8,8,1,48500
+2021-09-20,"General","44","Beauport--Limoilou","Quebec","Beauport--Limoilou, Quebec",7,7,1,48552
+2021-09-20,"General","44","Beauséjour","New Brunswick","Beauséjour, New Brunswick",6,6,1,46937
+2021-09-20,"General","44","Bécancour--Nicolet--Saurel","Quebec","Bécancour--Nicolet--Saurel, Quebec",7,7,1,47085
+2021-09-20,"General","44","Bellechasse--Les Etchemins--Lévis","Quebec","Bellechasse--Les Etchemins--Lévis, Quebec",7,7,1,63262
+2021-09-20,"General","44","Beloeil--Chambly","Quebec","Beloeil--Chambly, Quebec",10,10,1,62849
+2021-09-20,"General","44","Berthier--Maskinongé","Quebec","Berthier--Maskinongé, Quebec",8,8,1,54056
+2021-09-20,"General","44","Bonavista--Burin--Trinity","Newfoundland and Labrador","Bonavista--Burin--Trinity, Newfoundland and Labrador",4,4,1,28726
+2021-09-20,"General","44","Bourassa","Quebec","Bourassa, Quebec",7,7,1,35029
+2021-09-20,"General","44","Bow River","Alberta","Bow River, Alberta",6,6,1,49316
+2021-09-20,"General","44","Brampton Centre","Ontario","Brampton Centre, Ontario",4,4,1,33005
+2021-09-20,"General","44","Brampton East","Ontario","Brampton East, Ontario",4,4,1,39056
+2021-09-20,"General","44","Brampton North","Ontario","Brampton North, Ontario",3,3,1,41411
+2021-09-20,"General","44","Brampton South","Ontario","Brampton South, Ontario",4,4,1,38652
+2021-09-20,"General","44","Brampton West","Ontario","Brampton West, Ontario",5,5,1,45024
+2021-09-20,"General","44","Brandon--Souris","Manitoba","Brandon--Souris, Manitoba",4,4,1,38162
+2021-09-20,"General","44","Brantford--Brant","Ontario","Brantford--Brant, Ontario",7,6,1,66096
+2021-09-20,"General","44","Brome--Missisquoi","Quebec","Brome--Missisquoi, Quebec",10,10,1,61471
+2021-09-20,"General","44","Brossard--Saint-Lambert","Quebec","Brossard--Saint-Lambert, Quebec",6,6,1,52319
+2021-09-20,"General","44","Bruce--Grey--Owen Sound","Ontario","Bruce--Grey--Owen Sound, Ontario",6,6,1,56826
+2021-09-20,"General","44","Burlington","Ontario","Burlington, Ontario",6,6,1,65134
+2021-09-20,"General","44","Burnaby North--Seymour","British Columbia","Burnaby North--Seymour, British Columbia",5,5,1,45666
+2021-09-20,"General","44","Burnaby South","British Columbia","Burnaby South, British Columbia",6,6,1,37806
+2021-09-20,"General","44","Calgary Centre","Alberta","Calgary Centre, Alberta",5,5,1,55668
+2021-09-20,"General","44","Calgary Confederation","Alberta","Calgary Confederation, Alberta",6,6,1,57810
+2021-09-20,"General","44","Calgary Forest Lawn","Alberta","Calgary Forest Lawn, Alberta",6,6,1,33724
+2021-09-20,"General","44","Calgary Heritage","Alberta","Calgary Heritage, Alberta",7,7,1,57858
+2021-09-20,"General","44","Calgary Midnapore","Alberta","Calgary Midnapore, Alberta",6,6,1,61587
+2021-09-20,"General","44","Calgary Nose Hill","Alberta","Calgary Nose Hill, Alberta",9,9,1,48288
+2021-09-20,"General","44","Calgary Rocky Ridge","Alberta","Calgary Rocky Ridge, Alberta",6,6,1,62387
+2021-09-20,"General","44","Calgary Shepard","Alberta","Calgary Shepard, Alberta",8,8,1,70149
+2021-09-20,"General","44","Calgary Signal Hill","Alberta","Calgary Signal Hill, Alberta",6,6,1,57004
+2021-09-20,"General","44","Calgary Skyview","Alberta","Calgary Skyview, Alberta",8,8,1,46999
+2021-09-20,"General","44","Cambridge","Ontario","Cambridge, Ontario",5,5,1,54633
+2021-09-20,"General","44","Cape Breton--Canso","Nova Scotia","Cape Breton--Canso, Nova Scotia",4,4,1,37465
+2021-09-20,"General","44","Cardigan","Prince Edward Island","Cardigan, Prince Edward Island",6,6,1,21293
+2021-09-20,"General","44","Cariboo--Prince George","British Columbia","Cariboo--Prince George, British Columbia",6,6,1,47517
+2021-09-20,"General","44","Carleton","Ontario","Carleton, Ontario",5,5,1,67197
+2021-09-20,"General","44","Carlton Trail--Eagle Creek","Saskatchewan","Carlton Trail--Eagle Creek, Saskatchewan",6,6,1,39093
+2021-09-20,"General","44","Central Nova","Nova Scotia","Central Nova, Nova Scotia",8,8,1,39251
+2021-09-20,"General","44","Central Okanagan--Similkameen--Nicola","British Columbia","Central Okanagan--Similkameen--Nicola, British Columbia",5,5,1,61119
+2021-09-20,"General","44","Charlesbourg--Haute-Saint-Charles","Quebec","Charlesbourg--Haute-Saint-Charles, Quebec",7,7,1,56180
+2021-09-20,"General","44","Charleswood--St. James--Assiniboia--Headingley","Manitoba","Charleswood--St. James--Assiniboia--Headingley, Manitoba",5,5,1,44327
+2021-09-20,"General","44","Charlottetown","Prince Edward Island","Charlottetown, Prince Edward Island",5,5,1,17573
+2021-09-20,"General","44","Châteauguay--Lacolle","Quebec","Châteauguay--Lacolle, Quebec",8,8,1,48683
+2021-09-20,"General","44","Chatham-Kent--Leamington","Ontario","Chatham-Kent--Leamington, Ontario",5,5,1,52977
+2021-09-20,"General","44","Chicoutimi--Le Fjord","Quebec","Chicoutimi--Le Fjord, Quebec",6,6,1,40578
+2021-09-20,"General","44","Chilliwack--Hope","British Columbia","Chilliwack--Hope, British Columbia",5,5,1,47904
+2021-09-20,"General","44","Churchill--Keewatinook Aski","Manitoba","Churchill--Keewatinook Aski, Manitoba",5,5,1,16619
+2021-09-20,"General","44","Cloverdale--Langley City","British Columbia","Cloverdale--Langley City, British Columbia",4,4,1,50030
+2021-09-20,"General","44","Coast of Bays--Central--Notre Dame","Newfoundland and Labrador","Coast of Bays--Central--Notre Dame, Newfoundland and Labrador",3,3,1,29942
+2021-09-20,"General","44","Compton--Stanstead","Quebec","Compton--Stanstead, Quebec",8,8,1,56729
+2021-09-20,"General","44","Coquitlam--Port Coquitlam","British Columbia","Coquitlam--Port Coquitlam, British Columbia",4,4,1,51383
+2021-09-20,"General","44","Courtenay--Alberni","British Columbia","Courtenay--Alberni, British Columbia",6,6,1,61776
+2021-09-20,"General","44","Cowichan--Malahat--Langford","British Columbia","Cowichan--Malahat--Langford, British Columbia",5,5,1,56876
+2021-09-20,"General","44","Cumberland--Colchester","Nova Scotia","Cumberland--Colchester, Nova Scotia",6,6,1,38978
+2021-09-20,"General","44","Cypress Hills--Grasslands","Saskatchewan","Cypress Hills--Grasslands, Saskatchewan",7,7,1,33178
+2021-09-20,"General","44","Dartmouth--Cole Harbour","Nova Scotia","Dartmouth--Cole Harbour, Nova Scotia",4,4,1,46239
+2021-09-20,"General","44","Dauphin--Swan River--Neepawa","Manitoba","Dauphin--Swan River--Neepawa, Manitoba",6,6,1,37638
+2021-09-20,"General","44","Davenport","Ontario","Davenport, Ontario",7,6,1,47307
+2021-09-20,"General","44","Delta","British Columbia","Delta, British Columbia",6,6,1,48981
+2021-09-20,"General","44","Desnethé--Missinippi--Churchill River","Saskatchewan","Desnethé--Missinippi--Churchill River, Saskatchewan",6,6,1,19777
+2021-09-20,"General","44","Don Valley East","Ontario","Don Valley East, Ontario",4,4,1,35778
+2021-09-20,"General","44","Don Valley North","Ontario","Don Valley North, Ontario",5,5,1,38612
+2021-09-20,"General","44","Don Valley West","Ontario","Don Valley West, Ontario",6,6,1,43538
+2021-09-20,"General","44","Dorval--Lachine--LaSalle","Quebec","Dorval--Lachine--LaSalle, Quebec",6,6,1,46596
+2021-09-20,"General","44","Drummond","Quebec","Drummond, Quebec",7,7,1,51147
+2021-09-20,"General","44","Dufferin--Caledon","Ontario","Dufferin--Caledon, Ontario",6,6,1,66002
+2021-09-20,"General","44","Durham","Ontario","Durham, Ontario",7,6,1,65286
+2021-09-20,"General","44","Edmonton--Wetaskiwin","Alberta","Edmonton--Wetaskiwin, Alberta",5,5,1,84713
+2021-09-20,"General","44","Edmonton Centre","Alberta","Edmonton Centre, Alberta",6,6,1,46534
+2021-09-20,"General","44","Edmonton Griesbach","Alberta","Edmonton Griesbach, Alberta",8,8,1,41511
+2021-09-20,"General","44","Edmonton Manning","Alberta","Edmonton Manning, Alberta",5,5,1,47730
+2021-09-20,"General","44","Edmonton Mill Woods","Alberta","Edmonton Mill Woods, Alberta",5,5,1,48482
+2021-09-20,"General","44","Edmonton Riverbend","Alberta","Edmonton Riverbend, Alberta",5,5,1,53752
+2021-09-20,"General","44","Edmonton Strathcona","Alberta","Edmonton Strathcona, Alberta",6,6,1,49357
+2021-09-20,"General","44","Edmonton West","Alberta","Edmonton West, Alberta",5,5,1,53843
+2021-09-20,"General","44","Eglinton--Lawrence","Ontario","Eglinton--Lawrence, Ontario",5,5,1,43845
+2021-09-20,"General","44","Egmont","Prince Edward Island","Egmont, Prince Edward Island",5,5,1,19571
+2021-09-20,"General","44","Elgin--Middlesex--London","Ontario","Elgin--Middlesex--London, Ontario",6,6,1,60957
+2021-09-20,"General","44","Elmwood--Transcona","Manitoba","Elmwood--Transcona, Manitoba",5,5,1,40010
+2021-09-20,"General","44","Esquimalt--Saanich--Sooke","British Columbia","Esquimalt--Saanich--Sooke, British Columbia",6,6,1,58856
+2021-09-20,"General","44","Essex","Ontario","Essex, Ontario",7,7,1,67565
+2021-09-20,"General","44","Etobicoke--Lakeshore","Ontario","Etobicoke--Lakeshore, Ontario",7,7,1,60833
+2021-09-20,"General","44","Etobicoke Centre","Ontario","Etobicoke Centre, Ontario",4,4,1,54118
+2021-09-20,"General","44","Etobicoke North","Ontario","Etobicoke North, Ontario",5,5,1,35637
+2021-09-20,"General","44","Flamborough--Glanbrook","Ontario","Flamborough--Glanbrook, Ontario",5,5,1,57808
+2021-09-20,"General","44","Fleetwood--Port Kells","British Columbia","Fleetwood--Port Kells, British Columbia",6,6,1,43888
+2021-09-20,"General","44","Foothills","Alberta","Foothills, Alberta",6,6,1,61597
+2021-09-20,"General","44","Fort McMurray--Cold Lake","Alberta","Fort McMurray--Cold Lake, Alberta",7,7,1,40473
+2021-09-20,"General","44","Fredericton","New Brunswick","Fredericton, New Brunswick",7,7,1,44062
+2021-09-20,"General","44","Fundy Royal","New Brunswick","Fundy Royal, New Brunswick",5,5,1,42779
+2021-09-20,"General","44","Gaspésie--Les Îles-de-la-Madeleine","Quebec","Gaspésie--Les Îles-de-la-Madeleine, Quebec",6,6,1,47336
+2021-09-20,"General","44","Gatineau","Quebec","Gatineau, Quebec",9,9,1,49821
+2021-09-20,"General","44","Glengarry--Prescott--Russell","Ontario","Glengarry--Prescott--Russell, Ontario",7,7,1,61634
+2021-09-20,"General","44","Grande Prairie--Mackenzie","Alberta","Grande Prairie--Mackenzie, Alberta",6,6,1,51293
+2021-09-20,"General","44","Guelph","Ontario","Guelph, Ontario",7,7,1,65625
+2021-09-20,"General","44","Haldimand--Norfolk","Ontario","Haldimand--Norfolk, Ontario",6,6,1,60423
+2021-09-20,"General","44","Haliburton--Kawartha Lakes--Brock","Ontario","Haliburton--Kawartha Lakes--Brock, Ontario",6,6,1,64296
+2021-09-20,"General","44","Halifax","Nova Scotia","Halifax, Nova Scotia",6,6,1,48718
+2021-09-20,"General","44","Halifax West","Nova Scotia","Halifax West, Nova Scotia",6,6,1,48822
+2021-09-20,"General","44","Hamilton Centre","Ontario","Hamilton Centre, Ontario",7,7,1,38896
+2021-09-20,"General","44","Hamilton East--Stoney Creek","Ontario","Hamilton East--Stoney Creek, Ontario",5,5,1,47373
+2021-09-20,"General","44","Hamilton Mountain","Ontario","Hamilton Mountain, Ontario",6,6,1,46235
+2021-09-20,"General","44","Hamilton West--Ancaster--Dundas","Ontario","Hamilton West--Ancaster--Dundas, Ontario",6,6,1,57817
+2021-09-20,"General","44","Hastings--Lennox and Addington","Ontario","Hastings--Lennox and Addington, Ontario",6,6,1,51310
+2021-09-20,"General","44","Hochelaga","Quebec","Hochelaga, Quebec",9,9,1,45315
+2021-09-20,"General","44","Honoré-Mercier","Quebec","Honoré-Mercier, Quebec",7,7,1,47061
+2021-09-20,"General","44","Hull--Aylmer","Quebec","Hull--Aylmer, Quebec",9,9,1,45578
+2021-09-20,"General","44","Humber River--Black Creek","Ontario","Humber River--Black Creek, Ontario",6,6,1,30940
+2021-09-20,"General","44","Huron--Bruce","Ontario","Huron--Bruce, Ontario",5,5,1,59110
+2021-09-20,"General","44","Joliette","Quebec","Joliette, Quebec",8,8,1,54307
+2021-09-20,"General","44","Jonquière","Quebec","Jonquière, Quebec",6,6,1,45629
+2021-09-20,"General","44","Kamloops--Thompson--Cariboo","British Columbia","Kamloops--Thompson--Cariboo, British Columbia",7,6,1,64388
+2021-09-20,"General","44","Kanata--Carleton","Ontario","Kanata--Carleton, Ontario",5,5,1,57435
+2021-09-20,"General","44","Kelowna--Lake Country","British Columbia","Kelowna--Lake Country, British Columbia",5,5,1,61544
+2021-09-20,"General","44","Kenora","Ontario","Kenora, Ontario",5,5,1,24540
+2021-09-20,"General","44","Kildonan--St. Paul","Manitoba","Kildonan--St. Paul, Manitoba",4,4,1,41637
+2021-09-20,"General","44","King--Vaughan","Ontario","King--Vaughan, Ontario",5,5,1,47711
+2021-09-20,"General","44","Kings--Hants","Nova Scotia","Kings--Hants, Nova Scotia",5,5,1,42780
+2021-09-20,"General","44","Kingston and the Islands","Ontario","Kingston and the Islands, Ontario",5,5,1,61814
+2021-09-20,"General","44","Kitchener--Conestoga","Ontario","Kitchener--Conestoga, Ontario",5,5,1,49309
+2021-09-20,"General","44","Kitchener Centre","Ontario","Kitchener Centre, Ontario",6,6,1,48760
+2021-09-20,"General","44","Kitchener South--Hespeler","Ontario","Kitchener South--Hespeler, Ontario",8,8,1,47496
+2021-09-20,"General","44","Kootenay--Columbia","British Columbia","Kootenay--Columbia, British Columbia",5,5,1,61150
+2021-09-20,"General","44","La Pointe-de-l'Île","Quebec","La Pointe-de-l'Île, Quebec",8,8,1,49909
+2021-09-20,"General","44","La Prairie","Quebec","La Prairie, Quebec",7,7,1,58860
+2021-09-20,"General","44","Labrador","Newfoundland and Labrador","Labrador, Newfoundland and Labrador",4,4,1,9037
+2021-09-20,"General","44","Lac-Saint-Jean","Quebec","Lac-Saint-Jean, Quebec",5,5,1,47544
+2021-09-20,"General","44","Lac-Saint-Louis","Quebec","Lac-Saint-Louis, Quebec",6,6,1,55206
+2021-09-20,"General","44","Lakeland","Alberta","Lakeland, Alberta",6,6,1,51434
+2021-09-20,"General","44","Lambton--Kent--Middlesex","Ontario","Lambton--Kent--Middlesex, Ontario",5,5,1,58622
+2021-09-20,"General","44","Lanark--Frontenac--Kingston","Ontario","Lanark--Frontenac--Kingston, Ontario",6,6,1,59334
+2021-09-20,"General","44","Langley--Aldergrove","British Columbia","Langley--Aldergrove, British Columbia",5,5,1,59022
+2021-09-20,"General","44","LaSalle--Émard--Verdun","Quebec","LaSalle--Émard--Verdun, Quebec",8,8,1,45603
+2021-09-20,"General","44","Laurentides--Labelle","Quebec","Laurentides--Labelle, Quebec",8,8,1,63953
+2021-09-20,"General","44","Laurier--Sainte-Marie","Quebec","Laurier--Sainte-Marie, Quebec",11,11,1,45287
+2021-09-20,"General","44","Laval--Les Îles","Quebec","Laval--Les Îles, Quebec",6,6,1,50451
+2021-09-20,"General","44","Leeds--Grenville--Thousand Islands and Rideau Lakes","Ontario","Leeds--Grenville--Thousand Islands and Rideau Lakes, Ontario",5,5,1,56375
+2021-09-20,"General","44","Lethbridge","Alberta","Lethbridge, Alberta",6,6,1,59291
+2021-09-20,"General","44","Lévis--Lotbinière","Quebec","Lévis--Lotbinière, Quebec",8,8,1,62272
+2021-09-20,"General","44","London--Fanshawe","Ontario","London--Fanshawe, Ontario",4,4,1,49997
+2021-09-20,"General","44","London North Centre","Ontario","London North Centre, Ontario",5,5,1,54950
+2021-09-20,"General","44","London West","Ontario","London West, Ontario",5,5,1,64774
+2021-09-20,"General","44","Long Range Mountains","Newfoundland and Labrador","Long Range Mountains, Newfoundland and Labrador",4,4,1,34633
+2021-09-20,"General","44","Longueuil--Charles-LeMoyne","Quebec","Longueuil--Charles-LeMoyne, Quebec",7,7,1,47641
+2021-09-20,"General","44","Longueuil--Saint-Hubert","Quebec","Longueuil--Saint-Hubert, Quebec",7,7,1,55373
+2021-09-20,"General","44","Louis-Hébert","Quebec","Louis-Hébert, Quebec",6,6,1,59789
+2021-09-20,"General","44","Louis-Saint-Laurent","Quebec","Louis-Saint-Laurent, Quebec",7,7,1,64098
+2021-09-20,"General","44","Madawaska--Restigouche","New Brunswick","Madawaska--Restigouche, New Brunswick",6,6,1,28801
+2021-09-20,"General","44","Malpeque","Prince Edward Island","Malpeque, Prince Edward Island",5,5,1,23607
+2021-09-20,"General","44","Manicouagan","Quebec","Manicouagan, Quebec",5,5,1,33743
+2021-09-20,"General","44","Marc-Aurèle-Fortin","Quebec","Marc-Aurèle-Fortin, Quebec",6,6,1,50588
+2021-09-20,"General","44","Markham--Stouffville","Ontario","Markham--Stouffville, Ontario",5,5,1,55158
+2021-09-20,"General","44","Markham--Thornhill","Ontario","Markham--Thornhill, Ontario",5,5,1,36754
+2021-09-20,"General","44","Markham--Unionville","Ontario","Markham--Unionville, Ontario",4,4,1,42309
+2021-09-20,"General","44","Medicine Hat--Cardston--Warner","Alberta","Medicine Hat--Cardston--Warner, Alberta",6,6,1,46222
+2021-09-20,"General","44","Mégantic--L'Érable","Quebec","Mégantic--L'Érable, Quebec",8,8,1,46425
+2021-09-20,"General","44","Milton","Ontario","Milton, Ontario",5,5,1,53848
+2021-09-20,"General","44","Mirabel","Quebec","Mirabel, Quebec",7,7,1,62172
+2021-09-20,"General","44","Miramichi--Grand Lake","New Brunswick","Miramichi--Grand Lake, New Brunswick",5,5,1,32505
+2021-09-20,"General","44","Mission--Matsqui--Fraser Canyon","British Columbia","Mission--Matsqui--Fraser Canyon, British Columbia",5,5,1,41155
+2021-09-20,"General","44","Mississauga--Erin Mills","Ontario","Mississauga--Erin Mills, Ontario",5,5,1,47699
+2021-09-20,"General","44","Mississauga--Lakeshore","Ontario","Mississauga--Lakeshore, Ontario",6,6,1,52882
+2021-09-20,"General","44","Mississauga--Malton","Ontario","Mississauga--Malton, Ontario",5,5,1,39437
+2021-09-20,"General","44","Mississauga--Streetsville","Ontario","Mississauga--Streetsville, Ontario",6,6,1,50988
+2021-09-20,"General","44","Mississauga Centre","Ontario","Mississauga Centre, Ontario",5,5,1,45841
+2021-09-20,"General","44","Mississauga East--Cooksville","Ontario","Mississauga East--Cooksville, Ontario",6,6,1,43335
+2021-09-20,"General","44","Moncton--Riverview--Dieppe","New Brunswick","Moncton--Riverview--Dieppe, New Brunswick",5,5,1,42703
+2021-09-20,"General","44","Montarville","Quebec","Montarville, Quebec",5,5,1,55634
+2021-09-20,"General","44","Montcalm","Quebec","Montcalm, Quebec",7,7,1,50715
+2021-09-20,"General","44","Montmagny--L’Islet--Kamouraska--Rivière-du-Loup","Quebec","Montmagny--L’Islet--Kamouraska--Rivière-du-Loup, Quebec",6,6,1,47797
+2021-09-20,"General","44","Moose Jaw--Lake Centre--Lanigan","Saskatchewan","Moose Jaw--Lake Centre--Lanigan, Saskatchewan",6,6,1,39420
+2021-09-20,"General","44","Mount Royal","Quebec","Mount Royal, Quebec",7,7,1,40357
+2021-09-20,"General","44","Nanaimo--Ladysmith","British Columbia","Nanaimo--Ladysmith, British Columbia",5,5,1,61852
+2021-09-20,"General","44","Nepean","Ontario","Nepean, Ontario",5,5,1,59576
+2021-09-20,"General","44","New Brunswick Southwest","New Brunswick","New Brunswick Southwest, New Brunswick",5,5,1,35288
+2021-09-20,"General","44","New Westminster--Burnaby","British Columbia","New Westminster--Burnaby, British Columbia",5,5,1,44490
+2021-09-20,"General","44","Newmarket--Aurora","Ontario","Newmarket--Aurora, Ontario",6,6,1,51642
+2021-09-20,"General","44","Niagara Centre","Ontario","Niagara Centre, Ontario",5,5,1,56619
+2021-09-20,"General","44","Niagara Falls","Ontario","Niagara Falls, Ontario",5,5,1,68010
+2021-09-20,"General","44","Niagara West","Ontario","Niagara West, Ontario",6,6,1,53336
+2021-09-20,"General","44","Nickel Belt","Ontario","Nickel Belt, Ontario",5,5,1,49700
+2021-09-20,"General","44","Nipissing--Timiskaming","Ontario","Nipissing--Timiskaming, Ontario",4,4,1,47210
+2021-09-20,"General","44","North Island--Powell River","British Columbia","North Island--Powell River, British Columbia",7,7,1,52653
+2021-09-20,"General","44","North Okanagan--Shuswap","British Columbia","North Okanagan--Shuswap, British Columbia",5,5,1,66542
+2021-09-20,"General","44","North Vancouver","British Columbia","North Vancouver, British Columbia",5,5,1,52765
+2021-09-20,"General","44","Northumberland--Peterborough South","Ontario","Northumberland--Peterborough South, Ontario",5,5,1,66665
+2021-09-20,"General","44","Northwest Territories","Northwest Territories","Northwest Territories, Northwest Territories",5,5,1,13941
+2021-09-20,"General","44","Notre-Dame-de-Grâce--Westmount","Quebec","Notre-Dame-de-Grâce--Westmount, Quebec",8,8,1,45680
+2021-09-20,"General","44","Nunavut","Nunavut","Nunavut, Nunavut",3,3,1,6819
+2021-09-20,"General","44","Oakville","Ontario","Oakville, Ontario",5,5,1,57328
+2021-09-20,"General","44","Oakville North--Burlington","Ontario","Oakville North--Burlington, Ontario",5,5,1,63217
+2021-09-20,"General","44","Orléans","Ontario","Orléans, Ontario",6,6,1,68419
+2021-09-20,"General","44","Oshawa","Ontario","Oshawa, Ontario",5,5,1,53028
+2021-09-20,"General","44","Ottawa--Vanier","Ontario","Ottawa--Vanier, Ontario",8,8,1,61282
+2021-09-20,"General","44","Ottawa Centre","Ontario","Ottawa Centre, Ontario",8,8,1,68058
+2021-09-20,"General","44","Ottawa South","Ontario","Ottawa South, Ontario",6,6,1,55492
+2021-09-20,"General","44","Ottawa West--Nepean","Ontario","Ottawa West--Nepean, Ontario",6,6,1,53793
+2021-09-20,"General","44","Outremont","Quebec","Outremont, Quebec",7,7,1,36377
+2021-09-20,"General","44","Oxford","Ontario","Oxford, Ontario",6,6,1,60101
+2021-09-20,"General","44","Papineau","Quebec","Papineau, Quebec",10,9,1,45502
+2021-09-20,"General","44","Parkdale--High Park","Ontario","Parkdale--High Park, Ontario",7,7,1,46858
+2021-09-20,"General","44","Parry Sound--Muskoka","Ontario","Parry Sound--Muskoka, Ontario",7,7,1,52249
+2021-09-20,"General","44","Peace River--Westlock","Alberta","Peace River--Westlock, Alberta",6,6,1,45539
+2021-09-20,"General","44","Perth--Wellington","Ontario","Perth--Wellington, Ontario",4,4,1,53486
+2021-09-20,"General","44","Peterborough--Kawartha","Ontario","Peterborough--Kawartha, Ontario",6,6,1,69081
+2021-09-20,"General","44","Pickering--Uxbridge","Ontario","Pickering--Uxbridge, Ontario",4,4,1,54132
+2021-09-20,"General","44","Pierre-Boucher--Les Patriotes--Verchères","Quebec","Pierre-Boucher--Les Patriotes--Verchères, Quebec",6,6,1,53420
+2021-09-20,"General","44","Pierrefonds--Dollard","Quebec","Pierrefonds--Dollard, Quebec",5,5,1,46926
+2021-09-20,"General","44","Pitt Meadows--Maple Ridge","British Columbia","Pitt Meadows--Maple Ridge, British Columbia",6,6,1,49100
+2021-09-20,"General","44","Pontiac","Quebec","Pontiac, Quebec",8,8,1,59493
+2021-09-20,"General","44","Port Moody--Coquitlam","British Columbia","Port Moody--Coquitlam, British Columbia",5,5,1,47708
+2021-09-20,"General","44","Portage--Lisgar","Manitoba","Portage--Lisgar, Manitoba",5,5,1,42839
+2021-09-20,"General","44","Portneuf--Jacques-Cartier","Quebec","Portneuf--Jacques-Cartier, Quebec",7,7,1,62910
+2021-09-20,"General","44","Prince Albert","Saskatchewan","Prince Albert, Saskatchewan",6,6,1,33082
+2021-09-20,"General","44","Prince George--Peace River--Northern Rockies","British Columbia","Prince George--Peace River--Northern Rockies, British Columbia",7,7,1,46684
+2021-09-20,"General","44","Provencher","Manitoba","Provencher, Manitoba",6,6,1,48441
+2021-09-20,"General","44","Québec","Quebec","Québec, Quebec",7,7,1,51172
+2021-09-20,"General","44","Red Deer--Lacombe","Alberta","Red Deer--Lacombe, Alberta",7,7,1,59986
+2021-09-20,"General","44","Red Deer--Mountain View","Alberta","Red Deer--Mountain View, Alberta",7,7,1,61169
+2021-09-20,"General","44","Regina--Lewvan","Saskatchewan","Regina--Lewvan, Saskatchewan",5,5,1,42097
+2021-09-20,"General","44","Regina--Qu'Appelle","Saskatchewan","Regina--Qu'Appelle, Saskatchewan",5,5,1,31455
+2021-09-20,"General","44","Regina--Wascana","Saskatchewan","Regina--Wascana, Saskatchewan",5,5,1,35649
+2021-09-20,"General","44","Renfrew--Nipissing--Pembroke","Ontario","Renfrew--Nipissing--Pembroke, Ontario",6,6,1,56203
+2021-09-20,"General","44","Repentigny","Quebec","Repentigny, Quebec",6,6,1,59692
+2021-09-20,"General","44","Richmond--Arthabaska","Quebec","Richmond--Arthabaska, Quebec",7,7,1,56889
+2021-09-20,"General","44","Richmond Centre","British Columbia","Richmond Centre, British Columbia",5,5,1,32359
+2021-09-20,"General","44","Richmond Hill","Ontario","Richmond Hill, Ontario",6,5,1,45529
+2021-09-20,"General","44","Rimouski-Neigette--Témiscouata--Les Basques","Quebec","Rimouski-Neigette--Témiscouata--Les Basques, Quebec",8,8,1,42090
+2021-09-20,"General","44","Rivière-des-Mille-Îles","Quebec","Rivière-des-Mille-Îles, Quebec",9,9,1,51909
+2021-09-20,"General","44","Rivière-du-Nord","Quebec","Rivière-du-Nord, Quebec",8,8,1,54993
+2021-09-20,"General","44","Rosemont--La Petite-Patrie","Quebec","Rosemont--La Petite-Patrie, Quebec",6,6,1,55022
+2021-09-20,"General","44","Saanich--Gulf Islands","British Columbia","Saanich--Gulf Islands, British Columbia",6,6,1,57637
+2021-09-20,"General","44","Sackville--Preston--Chezzetcook","Nova Scotia","Sackville--Preston--Chezzetcook, Nova Scotia",5,5,1,44088
+2021-09-20,"General","44","Saint-Hyacinthe--Bagot","Quebec","Saint-Hyacinthe--Bagot, Quebec",6,6,1,52023
+2021-09-20,"General","44","Saint-Jean","Quebec","Saint-Jean, Quebec",7,7,1,59210
+2021-09-20,"General","44","Saint-Laurent","Quebec","Saint-Laurent, Quebec",6,6,1,37312
+2021-09-20,"General","44","Saint-Léonard--Saint-Michel","Quebec","Saint-Léonard--Saint-Michel, Quebec",5,5,1,41402
+2021-09-20,"General","44","Saint-Maurice--Champlain","Quebec","Saint-Maurice--Champlain, Quebec",9,9,1,54686
+2021-09-20,"General","44","Saint Boniface--Saint Vital","Manitoba","Saint Boniface--Saint Vital, Manitoba",21,8,1,39585
+2021-09-20,"General","44","Saint John--Rothesay","New Brunswick","Saint John--Rothesay, New Brunswick",5,5,1,37456
+2021-09-20,"General","44","Salaberry--Suroît","Quebec","Salaberry--Suroît, Quebec",7,7,1,60782
+2021-09-20,"General","44","Sarnia--Lambton","Ontario","Sarnia--Lambton, Ontario",6,6,1,53742
+2021-09-20,"General","44","Saskatoon--Grasswood","Saskatchewan","Saskatoon--Grasswood, Saskatchewan",5,5,1,42116
+2021-09-20,"General","44","Saskatoon--University","Saskatchewan","Saskatoon--University, Saskatchewan",7,7,1,38930
+2021-09-20,"General","44","Saskatoon West","Saskatchewan","Saskatoon West, Saskatchewan",5,5,1,33092
+2021-09-20,"General","44","Sault Ste. Marie","Ontario","Sault Ste. Marie, Ontario",4,4,1,40201
+2021-09-20,"General","44","Scarborough--Agincourt","Ontario","Scarborough--Agincourt, Ontario",5,5,1,34302
+2021-09-20,"General","44","Scarborough--Guildwood","Ontario","Scarborough--Guildwood, Ontario",8,7,1,37535
+2021-09-20,"General","44","Scarborough--Rouge Park","Ontario","Scarborough--Rouge Park, Ontario",4,4,1,45861
+2021-09-20,"General","44","Scarborough Centre","Ontario","Scarborough Centre, Ontario",5,5,1,39692
+2021-09-20,"General","44","Scarborough North","Ontario","Scarborough North, Ontario",5,5,1,30147
+2021-09-20,"General","44","Scarborough Southwest","Ontario","Scarborough Southwest, Ontario",6,6,1,43182
+2021-09-20,"General","44","Selkirk--Interlake--Eastman","Manitoba","Selkirk--Interlake--Eastman, Manitoba",5,5,1,47819
+2021-09-20,"General","44","Shefford","Quebec","Shefford, Quebec",9,9,1,57429
+2021-09-20,"General","44","Sherbrooke","Quebec","Sherbrooke, Quebec",7,7,1,58175
+2021-09-20,"General","44","Sherwood Park--Fort Saskatchewan","Alberta","Sherwood Park--Fort Saskatchewan, Alberta",7,7,1,67949
+2021-09-20,"General","44","Simcoe--Grey","Ontario","Simcoe--Grey, Ontario",6,6,1,75514
+2021-09-20,"General","44","Simcoe North","Ontario","Simcoe North, Ontario",6,6,1,59774
+2021-09-20,"General","44","Skeena--Bulkley Valley","British Columbia","Skeena--Bulkley Valley, British Columbia",6,6,1,35678
+2021-09-20,"General","44","Souris--Moose Mountain","Saskatchewan","Souris--Moose Mountain, Saskatchewan",5,5,1,38333
+2021-09-20,"General","44","South Okanagan--West Kootenay","British Columbia","South Okanagan--West Kootenay, British Columbia",5,5,1,60269
+2021-09-20,"General","44","South Shore--St. Margarets","Nova Scotia","South Shore--St. Margarets, Nova Scotia",4,4,1,48279
+2021-09-20,"General","44","South Surrey--White Rock","British Columbia","South Surrey--White Rock, British Columbia",4,4,1,52795
+2021-09-20,"General","44","Spadina--Fort York","Ontario","Spadina--Fort York, Ontario",5,5,1,48820
+2021-09-20,"General","44","St. Albert--Edmonton","Alberta","St. Albert--Edmonton, Alberta",4,4,1,59602
+2021-09-20,"General","44","St. Catharines","Ontario","St. Catharines, Ontario",5,5,1,58364
+2021-09-20,"General","44","St. John's East","Newfoundland and Labrador","St. John's East, Newfoundland and Labrador",4,4,1,38222
+2021-09-20,"General","44","St. John's South--Mount Pearl","Newfoundland and Labrador","St. John's South--Mount Pearl, Newfoundland and Labrador",4,4,1,31519
+2021-09-20,"General","44","Steveston--Richmond East","British Columbia","Steveston--Richmond East, British Columbia",5,5,1,36061
+2021-09-20,"General","44","Stormont--Dundas--South Glengarry","Ontario","Stormont--Dundas--South Glengarry, Ontario",5,5,1,52062
+2021-09-20,"General","44","Sturgeon River--Parkland","Alberta","Sturgeon River--Parkland, Alberta",6,6,1,63506
+2021-09-20,"General","44","Sudbury","Ontario","Sudbury, Ontario",6,6,1,46005
+2021-09-20,"General","44","Surrey--Newton","British Columbia","Surrey--Newton, British Columbia",5,5,1,34395
+2021-09-20,"General","44","Surrey Centre","British Columbia","Surrey Centre, British Columbia",7,7,1,37098
+2021-09-20,"General","44","Sydney--Victoria","Nova Scotia","Sydney--Victoria, Nova Scotia",6,6,1,36231
+2021-09-20,"General","44","Terrebonne","Quebec","Terrebonne, Quebec",8,8,1,58945
+2021-09-20,"General","44","Thérèse-De Blainville","Quebec","Thérèse-De Blainville, Quebec",7,7,1,50680
+2021-09-20,"General","44","Thornhill","Ontario","Thornhill, Ontario",5,5,1,50082
+2021-09-20,"General","44","Thunder Bay--Rainy River","Ontario","Thunder Bay--Rainy River, Ontario",5,5,1,39883
+2021-09-20,"General","44","Thunder Bay--Superior North","Ontario","Thunder Bay--Superior North, Ontario",6,6,1,41460
+2021-09-20,"General","44","Timmins--James Bay","Ontario","Timmins--James Bay, Ontario",4,4,1,34565
+2021-09-20,"General","44","Tobique--Mactaquac","New Brunswick","Tobique--Mactaquac, New Brunswick",6,6,1,32980
+2021-09-20,"General","44","Toronto--Danforth","Ontario","Toronto--Danforth, Ontario",8,8,1,47719
+2021-09-20,"General","44","Toronto--St. Paul's","Ontario","Toronto--St. Paul's, Ontario",5,5,1,46949
+2021-09-20,"General","44","Toronto Centre","Ontario","Toronto Centre, Ontario",7,7,1,45906
+2021-09-20,"General","44","Trois-Rivières","Quebec","Trois-Rivières, Quebec",7,7,1,54065
+2021-09-20,"General","44","University--Rosedale","Ontario","University--Rosedale, Ontario",6,6,1,45714
+2021-09-20,"General","44","Vancouver Centre","British Columbia","Vancouver Centre, British Columbia",5,5,1,46338
+2021-09-20,"General","44","Vancouver East","British Columbia","Vancouver East, British Columbia",7,7,1,45427
+2021-09-20,"General","44","Vancouver Granville","British Columbia","Vancouver Granville, British Columbia",5,5,1,49575
+2021-09-20,"General","44","Vancouver Kingsway","British Columbia","Vancouver Kingsway, British Columbia",7,7,1,36008
+2021-09-20,"General","44","Vancouver Quadra","British Columbia","Vancouver Quadra, British Columbia",5,5,1,42865
+2021-09-20,"General","44","Vancouver South","British Columbia","Vancouver South, British Columbia",5,5,1,36897
+2021-09-20,"General","44","Vaudreuil--Soulanges","Quebec","Vaudreuil--Soulanges, Quebec",6,6,1,64297
+2021-09-20,"General","44","Vaughan--Woodbridge","Ontario","Vaughan--Woodbridge, Ontario",6,6,1,47132
+2021-09-20,"General","44","Victoria","British Columbia","Victoria, British Columbia",7,7,1,57484
+2021-09-20,"General","44","Ville-Marie--Le Sud-Ouest--Île-des-Soeurs","Quebec","Ville-Marie--Le Sud-Ouest--Île-des-Soeurs, Quebec",8,8,1,50552
+2021-09-20,"General","44","Vimy","Quebec","Vimy, Quebec",5,5,1,48140
+2021-09-20,"General","44","Waterloo","Ontario","Waterloo, Ontario",5,5,1,55866
+2021-09-20,"General","44","Wellington--Halton Hills","Ontario","Wellington--Halton Hills, Ontario",5,5,1,67548
+2021-09-20,"General","44","West Nova","Nova Scotia","West Nova, Nova Scotia",4,4,1,43973
+2021-09-20,"General","44","West Vancouver--Sunshine Coast--Sea to Sky Country","British Columbia","West Vancouver--Sunshine Coast--Sea to Sky Country, British Columbia",8,7,1,57948
+2021-09-20,"General","44","Whitby","Ontario","Whitby, Ontario",5,5,1,58670
+2021-09-20,"General","44","Willowdale","Ontario","Willowdale, Ontario",5,5,1,41001
+2021-09-20,"General","44","Windsor--Tecumseh","Ontario","Windsor--Tecumseh, Ontario",6,6,1,56969
+2021-09-20,"General","44","Windsor West","Ontario","Windsor West, Ontario",5,5,1,49044
+2021-09-20,"General","44","Winnipeg Centre","Manitoba","Winnipeg Centre, Manitoba",7,7,1,29554
+2021-09-20,"General","44","Winnipeg North","Manitoba","Winnipeg North, Manitoba",6,6,1,31403
+2021-09-20,"General","44","Winnipeg South","Manitoba","Winnipeg South, Manitoba",5,5,1,44403
+2021-09-20,"General","44","Winnipeg South Centre","Manitoba","Winnipeg South Centre, Manitoba",6,6,1,48861
+2021-09-20,"General","44","Yellowhead","Alberta","Yellowhead, Alberta",6,6,1,49358
+2021-09-20,"General","44","York--Simcoe","Ontario","York--Simcoe, Ontario",4,4,1,48188
+2021-09-20,"General","44","York Centre","Ontario","York Centre, Ontario",4,4,1,36823
+2021-09-20,"General","44","York South--Weston","Ontario","York South--Weston, Ontario",5,5,1,36841
+2021-09-20,"General","44","Yorkton--Melville","Saskatchewan","Yorkton--Melville, Saskatchewan",6,6,1,34733
+2021-09-20,"General","44","Yukon","Yukon","Yukon, Yukon",5,5,1,19350
