@@ -6,4 +6,6 @@ This folder contains scripts used to process raw data from the Library of Canadi
 
 * The R script, `LOP_Ridings.R` is used to process data on federal ridings from Parlinfo's [Ridings](https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Ridings) data set to match the naming conventions of other data found in this repository.
 
+* The R script `LOP_RidingsSummaries.R` is used to provide election and constituency-level summaries of Canadian general elections ranging from 1867 to the present.
+
 The cleaned data can be found [HERE](https://github.com/Lucas-Czarnecki/Canadian-Federal-Elections/tree/main/data/cleaned).
