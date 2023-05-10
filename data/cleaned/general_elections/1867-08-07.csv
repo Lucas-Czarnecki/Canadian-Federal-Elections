@@ -25,7 +25,6 @@
 "New Brunswick",1867-08-07,"General","1","Victoria","Costigan, John","Costigan","John",NA,"Man","Judge","Liberal-Conservative","Elected",778
 "New Brunswick",1867-08-07,"General","1","Victoria","Beveridge, Wm. B.","Beveridge","Wm.","B.","Man",NA,"Unknown","Defeated",549
 "New Brunswick",1867-08-07,"General","1","Victoria","Workman, James","Workman","James",NA,"Man",NA,"Unknown","Defeated",16
-"New Brunswick",1867-08-07,"General","1","Victoria","Tibbetts, James","Tibbetts","James",NA,"Man",NA,"Unknown","Defeated",0
 "New Brunswick",1867-08-07,"General","1","Westmorland","Smith, Albert James","Smith","Albert","James","Man","Lawyer","Liberal Party of Canada","Elected",2207
 "New Brunswick",1867-08-07,"General","1","Westmorland","Landry, J.J.D.","Landry","J.J.D.",NA,"Man",NA,"Unknown","Defeated",454
 "New Brunswick",1867-08-07,"General","1","York","Fisher, Charles","Fisher","Charles",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
@@ -67,10 +66,6 @@
 "Ontario",1867-08-07,"General","1","Addington","Lapum, James N.","Lapum","James","N.","Man","Postmaster","Conservative (1867-1942)","Elected",1120
 "Ontario",1867-08-07,"General","1","Addington","Shibley, Schuyler","Shibley","Schuyler",NA,"Man","Farmer","Liberal-Conservative","Defeated",991
 "Ontario",1867-08-07,"General","1","Addington","Smith, Sir Henry","Smith","Sir","Henry","Man",NA,"Unknown","Defeated",2
-"Ontario",1867-08-07,"General","1","Addington","Price, (unknown)","Price",NA,NA,"Man",NA,"Unknown","Defeated",1
-"Ontario",1867-08-07,"General","1","Addington","Cameron, D.","Cameron","D.",NA,"Man",NA,"Unknown","Defeated",0
-"Ontario",1867-08-07,"General","1","Addington","Ham, (unknown)","Ham",NA,NA,"Man",NA,"Unknown","Defeated",0
-"Ontario",1867-08-07,"General","1","Addington","Lott, (unknown)","Lott",NA,NA,"Man",NA,"Unknown","Defeated",0
 "Ontario",1867-08-07,"General","1","Algoma","Simpson, Wemyss Mackenzie","Simpson","Wemyss","Mackenzie","Man","Trader","Conservative (1867-1942)","Elected",250
 "Ontario",1867-08-07,"General","1","Algoma","Beatty, (unknown)","Beatty",NA,NA,"Man",NA,"Unknown","Defeated",241
 "Ontario",1867-08-07,"General","1","Algoma","Macdonell, (unknown)","Macdonell",NA,NA,"Man",NA,"Unknown","Defeated",38
@@ -163,26 +158,20 @@
 "Ontario",1867-08-07,"General","1","Norfolk South","Lawson, Peter","Lawson","Peter",NA,"Man","Tanner","Liberal Party of Canada","Elected",1050
 "Ontario",1867-08-07,"General","1","Norfolk South","Walker, (unknown)","Walker",NA,NA,"Man",NA,"Unknown","Defeated",969
 "Ontario",1867-08-07,"General","1","Northumberland East","Keeler, Joseph","Keeler","Joseph",NA,"Man","Grain and lumber dealer","Liberal-Conservative","Elected",1607
-"Ontario",1867-08-07,"General","1","Northumberland East","Mckenzie, (unknown)","Mckenzie",NA,NA,"Man","Lawyer","Unknown","Defeated",827
-"Ontario",1867-08-07,"General","1","Northumberland East","Meyers, (unknown)","Meyers",NA,NA,"Man",NA,"Unknown","Defeated",0
+"Ontario",1867-08-07,"General","1","Northumberland East","McKenzie, K.","McKenzie","K.",NA,"Man","Lawyer","Unknown","Defeated",827
 "Ontario",1867-08-07,"General","1","Northumberland West","Cockburn, James","Cockburn","James",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1867-08-07,"General","1","Ontario North","Thompson, John Auld","Thompson","John","Auld","Man","Court commissioner","Liberal Party of Canada","Elected",1628
 "Ontario",1867-08-07,"General","1","Ontario North","Cameron, Malcolm","Cameron","Malcolm",NA,"Man","Lumber merchant","Liberal Party of Canada","Defeated",1362
 "Ontario",1867-08-07,"General","1","Ontario South","Gibbs, Thomas Nicholson","Gibbs","Thomas","Nicholson","Man","Merchant","Liberal-Conservative","Elected",1292
 "Ontario",1867-08-07,"General","1","Ontario South","Brown, George","Brown","George",NA,"Man",NA,"Unknown","Defeated",1223
 "Ontario",1867-08-07,"General","1","Ottawa (City of)","Currier, Joseph Merrill","Currier","Joseph","Merrill","Man","Lumberman","Liberal-Conservative","Elected",974
-"Ontario",1867-08-07,"General","1","Ottawa (City of)","Gibb, (unknown)","Gibb",NA,NA,"Man",NA,"Unknown","Defeated",25
-"Ontario",1867-08-07,"General","1","Ottawa (City of)","Mcgillivray, (unknown)","Mcgillivray",NA,NA,"Man",NA,"Unknown","Defeated",5
-"Ontario",1867-08-07,"General","1","Ottawa (City of)","Martineau, (unknown)","Martineau",NA,NA,"Man",NA,"Unknown","Defeated",1
-"Ontario",1867-08-07,"General","1","Ottawa (City of)","Dickinson, (unknown)","Dickinson",NA,NA,"Man",NA,"Unknown","Defeated",0
-"Ontario",1867-08-07,"General","1","Ottawa (City of)","Thompson, Andrew Thorburn","Thompson","Andrew","Thorburn","Man",NA,"Unknown","Defeated",0
+"Ontario",1867-08-07,"General","1","Ottawa (City of)","McGillivray, E.","McGillivray","E.",NA,"Man",NA,"Unknown","Defeated",5
 "Ontario",1867-08-07,"General","1","Oxford North","Oliver, Thomas","Oliver","Thomas",NA,"Man","Teacher","Liberal Party of Canada","Elected (Acclamation)",0
 "Ontario",1867-08-07,"General","1","Oxford South","Bodwell, Ebenezer Vining","Bodwell","Ebenezer","Vining","Man","General merchant","Liberal Party of Canada","Elected (Acclamation)",0
 "Ontario",1867-08-07,"General","1","Peel","Cameron, John Hillyard","Cameron","John","Hillyard","Man","Lawyer","Conservative (1867-1942)","Elected",1138
 "Ontario",1867-08-07,"General","1","Peel","Barber, (unknown)","Barber",NA,NA,"Man",NA,"Unknown","Defeated",1076
 "Ontario",1867-08-07,"General","1","Perth North","Redford, James","Redford","James",NA,"Man","Lumberman","Liberal Party of Canada","Elected",1515
 "Ontario",1867-08-07,"General","1","Perth North","Daly, Thomas Mayne","Daly","Thomas","Mayne","Man","Contractor","Liberal-Conservative","Defeated",1307
-"Ontario",1867-08-07,"General","1","Perth North","Grey, (unknown)","Grey",NA,NA,"Man",NA,"Unknown","Defeated",0
 "Ontario",1867-08-07,"General","1","Perth South","MacFarlane, Robert","MacFarlane","Robert",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1490
 "Ontario",1867-08-07,"General","1","Perth South","Guest, (unknown)","Guest",NA,NA,"Man",NA,"Unknown","Defeated",1393
 "Ontario",1867-08-07,"General","1","Peterborough East","Grover, Peregrine Maitland","Grover","Peregrine","Maitland","Man","Farmer","Conservative (1867-1942)","Elected",956
@@ -229,8 +218,7 @@
 "Ontario",1867-08-07,"General","1","York East","Milne, (unknown)","Milne",NA,NA,"Man",NA,"Unknown","Defeated",937
 "Ontario",1867-08-07,"General","1","York North","Wells, James Pearson","Wells","James","Pearson","Man","Farmer","Liberal Party of Canada","Elected (Acclamation)",0
 "Ontario",1867-08-07,"General","1","York West","Howland, William Pierce","Howland","William","Pierce","Man","Businessman","Liberal-Conservative","Elected",810
-"Ontario",1867-08-07,"General","1","York West","Hubertus, (unknown)","Hubertus",NA,NA,"Man",NA,"Unknown","Defeated",297
-"Ontario",1867-08-07,"General","1","York West","Blain, David","Blain","David",NA,"Man",NA,"Unknown","Defeated",0
+"Ontario",1867-08-07,"General","1","York West","Hubertus, J. S.","Hubertus","J.","S.","Man",NA,"Unknown","Defeated",297
 "Quebec",1867-08-07,"General","1","Argenteuil","Abbott, John Joseph Caldwell","Abbott","John","Joseph Caldwell","Man","Lawyer","Liberal-Conservative","Elected",693
 "Quebec",1867-08-07,"General","1","Argenteuil","Hutchins, B.","Hutchins","B.",NA,"Man",NA,"Unknown","Defeated",595
 "Quebec",1867-08-07,"General","1","Bagot","Gendron, Pierre Samuel","Gendron","Pierre","Samuel","Man","Notary","Conservative (1867-1942)","Elected",1156
@@ -242,7 +230,7 @@
 "Quebec",1867-08-07,"General","1","Bellechasse","Casault, Louis Napoléon","Casault","Louis","Napoléon","Man","Lawyer","Conservative (1867-1942)","Elected",983
 "Quebec",1867-08-07,"General","1","Bellechasse","Remillard, (unknown)","Remillard",NA,NA,"Man",NA,"Unknown","Defeated",671
 "Quebec",1867-08-07,"General","1","Berthier","Pâquet, Anselme Homère","Pâquet","Anselme","Homère","Man","Physician","Liberal Party of Canada","Elected",1131
-"Quebec",1867-08-07,"General","1","Berthier","Trachemontagne, (unknown)","Trachemontagne",NA,NA,"Man",NA,"Unknown","Defeated",1095
+"Quebec",1867-08-07,"General","1","Berthier","Tranchemontagne, L","Tranchemontagne","L",NA,"Man",NA,"Unknown","Defeated",1095
 "Quebec",1867-08-07,"General","1","Bonaventure","Robitaille, Théodore","Robitaille","Théodore",NA,"Man","Physician","Conservative (1867-1942)","Elected",1018
 "Quebec",1867-08-07,"General","1","Bonaventure","Tremblay, (unknown)","Tremblay",NA,NA,"Man",NA,"Unknown","Defeated",444
 "Quebec",1867-08-07,"General","1","Brome","Dunkin, Christopher","Dunkin","Christopher",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
@@ -300,7 +288,7 @@
 "Quebec",1867-08-07,"General","1","Ottawa (County of)","Wright, Alonzo","Wright","Alonzo",NA,"Man","Farmer","Liberal-Conservative","Elected (Acclamation)",0
 "Quebec",1867-08-07,"General","1","Pontiac","Heath, Edmund","Heath","Edmund",NA,"Man","Crown lands agent","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1867-08-07,"General","1","Portneuf","Brousseau, Jean Docile","Brousseau","Jean","Docile","Man","Printer","Conservative (1867-1942)","Elected",1027
-"Quebec",1867-08-07,"General","1","Portneuf","Dery, (unknown)","Dery",NA,NA,"Man",NA,"Unknown","Defeated",718
+"Quebec",1867-08-07,"General","1","Portneuf","Déry, (unknown)","Déry",NA,NA,"Man",NA,"Unknown","Defeated",718
 "Quebec",1867-08-07,"General","1","Portneuf","Dubord, (unknown)","Dubord",NA,NA,"Man",NA,"Unknown","Defeated",1
 "Quebec",1867-08-07,"General","1","Quebec County","Chauveau, Pierre-Joseph-Olivier","Chauveau","Pierre-Joseph-Olivier",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1867-08-07,"General","1","Quebec East","Huot, Pierre-Gabriel","Huot","Pierre-Gabriel",NA,"Man","Notary","Liberal Party of Canada","Elected (Acclamation)",0

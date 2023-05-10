@@ -1,19 +1,59 @@
 "Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Ien, Marci","Ien","Marci",NA,"Woman",NA,"Liberal Party of Canada","Elected",10579
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Paul, Annamie","Paul","Annamie",NA,"Woman",NA,"Green Party of Canada","Defeated",8250
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Brian, Chang","Brian","Chang",NA,"Man",NA,"New Democratic Party","Defeated",4280
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Gauri Sharma, Benjamin","Gauri Sharma","Benjamin",NA,"Man",NA,"Conservative Party of Canada","Defeated",1435
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Bawa, Baljit","Bawa","Baljit",NA,"Man",NA,"People's Party of Canada","Defeated",271
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Komar, Keith","Komar","Keith",NA,"Man",NA,"Libertarian Party of Canada","Defeated",135
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Clarke, Kevin","Clarke","Kevin",NA,"Man",NA,"Independent","Defeated",123
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Cappelletti, Dwayne","Cappelletti","Dwayne",NA,"Man",NA,"Free Party Canada","Defeated",74
-"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Znoneofthe, Above","Znoneofthe","Above",NA,"Man",NA,"No affiliation to a recognised party","Defeated",56
-"Ontario",2020-10-26,"By-Election","43","York Centre","Saks, Ya'ara","Saks","Ya'ara",NA,"Woman",NA,"Liberal Party of Canada","Elected",8253
-"Ontario",2020-10-26,"By-Election","43","York Centre","Tiangson, Julius","Tiangson","Julius",NA,"Man",NA,"Conservative Party of Canada","Defeated",7552
-"Ontario",2020-10-26,"By-Election","43","York Centre","Vásquez Jiménez , Andrea","Vásquez Jiménez ","Andrea",NA,"Woman",NA,"New Democratic Party","Defeated",1046
-"Ontario",2020-10-26,"By-Election","43","York Centre","Bernier, Maxime","Bernier","Maxime",NA,"Man",NA,"People's Party of Canada","Defeated",642
-"Ontario",2020-10-26,"By-Election","43","York Centre","Zavarella, Sasha","Zavarella","Sasha",NA,"Woman",NA,"Green Party of Canada","Defeated",461
-"Ontario",2020-10-26,"By-Election","43","York Centre","Turmel, John The Engineer","Turmel","John","The Engineer","Man",NA,"Independent","Defeated",104
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Sousa, Charles","Sousa","Charles",NA,"Man","Senior Advisor, Finance","Liberal Party of Canada","Elected",12766
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Chhinzer, Ron","Chhinzer","Ron",NA,"Man","Police Officer","Conservative Party of Canada","Defeated",9215
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Kole, Julia","Kole","Julia",NA,"Woman","Constituency Assistant","New Democratic Party","Defeated",1231
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Kidnew, Mary","Kidnew","Mary",NA,"Woman","Community Organizer","Green Party of Canada","Defeated",792
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Al-Sudani, Khaled","Al-Sudani","Khaled",NA,"Man","Information Technology Professional","People's Party of Canada","Defeated",293
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Carson, Sean","Carson","Sean",NA,"Man","Comedian","Independent","Defeated",48
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Currie, Charles","Currie","Charles",NA,"Man","Comedian, Writer","Independent","Defeated",44
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Strzalkowski, Patrick","Strzalkowski","Patrick",NA,"Man","Ecologist","Independent","Defeated",38
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","House, Peter","House","Peter",NA,"Man","General Labourer","Independent","Defeated",31
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Anderson, Mélodie","Anderson","Mélodie",NA,"Woman","Student","Independent","Defeated",29
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","CoRhino, Sébastien","CoRhino","Sébastien",NA,"Man","Musician","Rhinoceros Party of Canada","Defeated",24
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Lukawski, Conrad","Lukawski","Conrad",NA,"Man","Software Developer","Independent","Defeated",23
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Smith, Adam","Smith","Adam",NA,"Man","Unemployed","Independent","Defeated",23
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Davis, Stephen","Davis","Stephen",NA,"Man","Software Engineer","Independent","Defeated",21
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","LeBel, Marie-Hélène","LeBel","Marie-Hélène",NA,"Woman","Teacher","Independent","Defeated",17
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Rosenblum, Eliana","Rosenblum","Eliana",NA,"Woman","Teacher","Independent","Defeated",17
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Beaulieu, Myriam","Beaulieu","Myriam",NA,"Woman","Stay at home mom","Independent","Defeated",16
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Sherwood, Roger","Sherwood","Roger",NA,"Man","Cemetery Groundskeeper","Independent","Defeated",14
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Turmel, John The Engineer","Turmel","John","The Engineer","Man","Banking Systems Engineer","Independent","Defeated",14
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Carroll, Jevin David","Carroll","Jevin","David","Man","Accountant","Independent","Defeated",12
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Rocchi, Spencer","Rocchi","Spencer",NA,"Man","Teacher","Independent","Defeated",12
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Szuchewycz, Tomas","Szuchewycz","Tomas",NA,"Man","Software Developer","Independent","Defeated",12
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Dejewski, Mark","Dejewski","Mark",NA,"Man","Sailor","Independent","Defeated",11
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","St-Amand, Julie","St-Amand","Julie",NA,"Woman","Telecom Employee","Independent","Defeated",11
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Selody, Julian","Selody","Julian",NA,"Man","Musician","Independent","Defeated",10
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Teichman, Ben","Teichman","Ben",NA,"Man","Software Engineer","Independent","Defeated",10
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Bonneau, Mylène","Bonneau","Mylène",NA,"Woman","Raw Materials Coordinator","Independent","Defeated",9
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Hildebrandt, Kerri","Hildebrandt","Kerri",NA,"Woman","Engineer","Independent","Defeated",9
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Bélanger, Line","Bélanger","Line",NA,"Woman","Production Supervisor","Independent","Defeated",8
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Engering, Alexandra","Engering","Alexandra",NA,"Woman","Youth Leadership Specialist","Independent","Defeated",8
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Jubinville, Samuel","Jubinville","Samuel",NA,"Man","Packer","Independent","Defeated",8
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Gagnon, Daniel","Gagnon","Daniel",NA,"Man","Computer Scientist","Independent","Defeated",7
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Parent Boudreault, Jean-Denis","Parent Boudreault","Jean-Denis",NA,"Man","Social Work","Independent","Defeated",7
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Vanderwater, Darcy Justin","Vanderwater","Darcy","Justin","Man","Technical Service Supervisor","Independent","Defeated",6
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Eckstrom, Donovan","Eckstrom","Donovan",NA,"Man","Teacher","Independent","Defeated",5
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Gagnon, Donald","Gagnon","Donald",NA,"Man","Entrepreneur","Independent","Defeated",5
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Jubinville, Martin Acetaria Caesar","Jubinville","Martin","Acetaria Caesar","Man","Collective Development Advisor","Independent","Defeated",3
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Dupont, Ysack","Dupont","Ysack",NA,"Man","Computer Scientist","Independent","Defeated",2
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","St-Amand, Pascal","St-Amand","Pascal",NA,"Man","Cultural Development Advisor","Independent","Defeated",2
+"Ontario",2022-12-12,"By-Election","44","Mississauga--Lakeshore","Lamontagne, Alain","Lamontagne","Alain",NA,"Man","Retired","Independent","Defeated",1
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Ien, Marci","Ien","Marci",NA,"Woman","Journalist","Liberal Party of Canada","Elected",10579
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Paul, Annamie","Paul","Annamie",NA,"Woman","Lawyer","Green Party of Canada","Defeated",8250
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Chang, Brian","Chang","Brian",NA,"Man","Research Associate","New Democratic Party","Defeated",4280
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Gauri Sharma, Benjamin","Gauri Sharma","Benjamin",NA,"Man","Policy Advisor","Conservative Party of Canada","Defeated",1435
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Bawa, Baljit","Bawa","Baljit",NA,"Man","Immigration Consultant","People's Party of Canada","Defeated",271
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Komar, Keith","Komar","Keith",NA,"Man","Bricklayer","Libertarian Party of Canada","Defeated",135
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Clarke, Kevin","Clarke","Kevin",NA,"Man","Servant","Independent","Defeated",123
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Cappelletti, Dwayne","Cappelletti","Dwayne",NA,"Man","Construction Labourer","Free Party Canada","Defeated",74
+"Ontario",2020-10-26,"By-Election","43","Toronto Centre","Znoneofthe, Above","Znoneofthe","Above",NA,"Man","Customer Service","No affiliation to a recognised party","Defeated",56
+"Ontario",2020-10-26,"By-Election","43","York Centre","Saks, Ya'ara","Saks","Ya'ara",NA,"Woman","Trauma Practice for Healthy Communities","Liberal Party of Canada","Elected",8253
+"Ontario",2020-10-26,"By-Election","43","York Centre","Tiangson, Julius","Tiangson","Julius",NA,"Man","Real Estate Developer and Investment Consultant","Conservative Party of Canada","Defeated",7552
+"Ontario",2020-10-26,"By-Election","43","York Centre","Vásquez Jiménez , Andrea","Vásquez Jiménez ","Andrea",NA,"Woman","Consultant","New Democratic Party","Defeated",1046
+"Ontario",2020-10-26,"By-Election","43","York Centre","Bernier, Maxime","Bernier","Maxime",NA,"Man","CEO of the People's Party of Canada","People's Party of Canada","Defeated",642
+"Ontario",2020-10-26,"By-Election","43","York Centre","Zavarella, Sasha","Zavarella","Sasha",NA,"Woman","Shipping/Receiving Manager","Green Party of Canada","Defeated",461
+"Ontario",2020-10-26,"By-Election","43","York Centre","Turmel, John The Engineer","Turmel","John","The Engineer","Man","Banking Systems Engineer","Independent","Defeated",104
 "Ontario",2017-04-03,"By-Election","42","Markham--Thornhill","Ng, Mary","Ng","Mary",NA,"Woman","Political advisor","Liberal Party of Canada","Elected",9881
 "Ontario",2017-04-03,"By-Election","42","Markham--Thornhill","Paranchothy, Ragavan","Paranchothy","Ragavan",NA,"Man","Broadcaster","Conservative Party of Canada","Defeated",7501
 "Ontario",2017-04-03,"By-Election","42","Markham--Thornhill","Hines, Gregory","Hines","Gregory",NA,"Man","Upport worker/business owner","New Democratic Party","Defeated",671
@@ -36,17 +76,17 @@
 "Ontario",2017-12-11,"By-Election","42","Scarborough--Agincourt","Zhu, Tom","Zhu","Tom",NA,"Man","Professional engineer","Independent","Defeated",148
 "Ontario",2017-12-11,"By-Election","42","Scarborough--Agincourt","Turmel, John ""The Engineer""","Turmel","John","""The Engineer""","Man","Engineer","Independent","Defeated",145
 "Ontario",2018-12-03,"By-Election","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","Barrett, Michael","Barrett","Michael",NA,"Man","Human Resources Manager","Conservative Party of Canada","Elected",16865
-"Ontario",2018-12-03,"By-Election","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","McFall, Mary Jean","McFall","Mary","Jean","Woman",NA,"Liberal Party of Canada","Defeated",10443
-"Ontario",2018-12-03,"By-Election","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","Taylor, Michelle","Taylor","Michelle",NA,"Woman",NA,"New Democratic Party","Defeated",883
-"Ontario",2018-12-03,"By-Election","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","Rekmans, Lorraine","Rekmans","Lorraine",NA,"Woman",NA,"Green Party of Canada","Defeated",859
-"Ontario",2018-12-03,"By-Election","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","Turmel, John The Engineer","Turmel","John","The Engineer","Man",NA,"Independent","Defeated",111
+"Ontario",2018-12-03,"By-Election","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","McFall, Mary Jean","McFall","Mary","Jean","Woman","Lawyer","Liberal Party of Canada","Defeated",10443
+"Ontario",2018-12-03,"By-Election","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","Taylor, Michelle","Taylor","Michelle",NA,"Woman","Homemaker","New Democratic Party","Defeated",883
+"Ontario",2018-12-03,"By-Election","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","Rekmans, Lorraine","Rekmans","Lorraine",NA,"Woman","Business Owner / Journalist","Green Party of Canada","Defeated",859
+"Ontario",2018-12-03,"By-Election","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","Turmel, John The Engineer","Turmel","John","The Engineer","Man","Banking Systems Engineer","Independent","Defeated",111
 "Ontario",2019-02-25,"By-Election","42","York--Simcoe","Davidson, Scot","Davidson","Scot",NA,"Man","Businessman","Conservative Party of Canada","Elected",8929
 "Ontario",2019-02-25,"By-Election","42","York--Simcoe","Tanaka, Shaun","Tanaka","Shaun",NA,"Woman","Professor","Liberal Party of Canada","Defeated",4811
 "Ontario",2019-02-25,"By-Election","42","York--Simcoe","McLean , Jessa","McLean ","Jessa",NA,"Woman","Community organizer","New Democratic Party","Defeated",1244
 "Ontario",2019-02-25,"By-Election","42","York--Simcoe","Baxter, Dorian","Baxter","Dorian",NA,"Man","Bishop","Progressive Canadian Party","Defeated",634
 "Ontario",2019-02-25,"By-Election","42","York--Simcoe","Lund, Mathew","Lund","Mathew",NA,"Man","Paralegal","Green Party of Canada","Defeated",451
 "Ontario",2019-02-25,"By-Election","42","York--Simcoe","Geurts, Robert","Geurts","Robert",NA,"Man","Attorney","People's Party of Canada","Defeated",314
-"Ontario",2019-02-25,"By-Election","42","York--Simcoe","Komar, Keith Dean","Komar","Keith","Dean","Man",NA,"Libertarian Party of Canada","Defeated",95
+"Ontario",2019-02-25,"By-Election","42","York--Simcoe","Komar, Keith Dean","Komar","Keith","Dean","Man","Landscape Design","Libertarian Party of Canada","Defeated",95
 "Ontario",2019-02-25,"By-Election","42","York--Simcoe","Turmel, John The Engineer","Turmel","John","The Engineer","Man","Engineer","Independent","Defeated",64
 "Ontario",2019-02-25,"By-Election","42","York--Simcoe","Suhr, Adam","Suhr","Adam",NA,"Man","Truck driver","National Citizens Alliance","Defeated",22
 "Ontario",2012-03-19,"By-Election","41","Toronto--Danforth","Scott, Craig","Scott","Craig",NA,"Man","Law professor","New Democratic Party","Elected",19210
@@ -61,10 +101,10 @@
 "Ontario",2012-03-19,"By-Election","41","Toronto--Danforth","Jedan, Brian","Jedan","Brian",NA,"Man","Media consultant","United Party of Canada","Defeated",55
 "Ontario",2012-03-19,"By-Election","41","Toronto--Danforth","Yazdanfar, Bahman","Yazdanfar","Bahman",NA,"Man","Business consultant","Independent","Defeated",36
 "Ontario",2012-11-26,"By-Election","41","Durham","O'Toole, Erin","O'Toole","Erin",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",17280
-"Ontario",2012-11-26,"By-Election","41","Durham","O'Connor, Larry","O'Connor","Larry",NA,"Man",NA,"New Democratic Party","Defeated",8946
+"Ontario",2012-11-26,"By-Election","41","Durham","O'Connor, Larry","O'Connor","Larry",NA,"Man","Retired","New Democratic Party","Defeated",8946
 "Ontario",2012-11-26,"By-Election","41","Durham","Humes, Grant","Humes","Grant",NA,"Man","Retired","Liberal Party of Canada","Defeated",5887
-"Ontario",2012-11-26,"By-Election","41","Durham","Ervin, Virginia","Ervin","Virginia",NA,"Woman","Environmental clerk/student","Green Party of Canada","Defeated",1386
-"Ontario",2012-11-26,"By-Election","41","Durham","Moriarity, Andrew","Moriarity","Andrew",NA,"Man","Material handler","Christian Heritage Party of Canada","Defeated",437
+"Ontario",2012-11-26,"By-Election","41","Durham","Ervin, Virginia","Ervin","Virginia",NA,"Woman","Field Technician","Green Party of Canada","Defeated",1386
+"Ontario",2012-11-26,"By-Election","41","Durham","Moriarity, Andrew","Moriarity","Andrew",NA,"Man","Student","Christian Heritage Party of Canada","Defeated",437
 "Ontario",2013-11-25,"By-Election","41","Toronto Centre","Freeland, Chrystia","Freeland","Chrystia",NA,"Woman","Journalist","Liberal Party of Canada","Elected",17194
 "Ontario",2013-11-25,"By-Election","41","Toronto Centre","McQuaig, Linda","McQuaig","Linda",NA,"Woman","Author and Journalist","New Democratic Party","Defeated",12640
 "Ontario",2013-11-25,"By-Election","41","Toronto Centre","Pollock, Geoff","Pollock","Geoff",NA,"Man","Lawyer","Conservative Party of Canada","Defeated",3004
@@ -153,7 +193,7 @@
 "Ontario",1996-03-25,"By-Election","35","Etobicoke North","Gray, Ron","Gray","Ron",NA,"Man","Writer","Christian Heritage Party of Canada","Defeated",284
 "Ontario",1996-03-25,"By-Election","35","Etobicoke North","Charbin, Sylvie","Charbin","Sylvie",NA,"Man","Electronics assembler","Independent","Defeated",96
 "Ontario",1996-03-25,"By-Election","35","Etobicoke North","Turmel, John C.","Turmel","John","C.","Man","Engineer","Abolitionist Party of Canada","Defeated",75
-"Ontario",1996-06-17,"By-Election","35","Hamilton East","Copps, Sheila Maureen","Copps","Sheila","Maureen","Woman",NA,"Liberal Party of Canada","Elected",12268
+"Ontario",1996-06-17,"By-Election","35","Hamilton East","Copps, Sheila Maureen","Copps","Sheila","Maureen","Woman","Journalist","Liberal Party of Canada","Elected",12268
 "Ontario",1996-06-17,"By-Election","35","Hamilton East","Marston, Wayne","Marston","Wayne",NA,"Man","Retired Bell technician","New Democratic Party","Defeated",6941
 "Ontario",1996-06-17,"By-Election","35","Hamilton East","Tomasic, Angie","Tomasic","Angie",NA,"Man","Bank manager","Progressive Conservative Party","Defeated",3662
 "Ontario",1996-06-17,"By-Election","35","Hamilton East","Sweck, Andy","Sweck","Andy",NA,"Man","Supervisor","Reform Party of Canada","Defeated",2750
@@ -322,7 +362,7 @@
 "Ontario",1949-10-24,"By-Election","21","Greenwood","Macdonnell, James MacKerras","Macdonnell","James","MacKerras","Man","Lawyer","Progressive Conservative Party","Elected",9399
 "Ontario",1949-10-24,"By-Election","21","Greenwood","Ryan, Sylvester Perry","Ryan","Sylvester","Perry","Man","Lawyer","Liberal Party of Canada","Defeated",7230
 "Ontario",1949-10-24,"By-Election","21","Greenwood","Hotrum, Harvey Angus","Hotrum","Harvey","Angus","Man","Photoengraver","Co-operative Commonwealth Federation","Defeated",6580
-"Ontario",1949-10-24,"By-Election","21","Greenwood","Watson, Louise","Watson","Louise",NA,"Man","Housewife","Labor-Progressive Party","Defeated",189
+"Ontario",1949-10-24,"By-Election","21","Greenwood","Watson, Louise","Watson","Louise",NA,"Woman","Housewife","Labor-Progressive Party","Defeated",189
 "Ontario",1950-05-15,"By-Election","21","Broadview","Hees, George Harris","Hees","George","Harris","Man","Manufacturer","Progressive Conservative Party","Elected",10399
 "Ontario",1950-05-15,"By-Election","21","Broadview","Radford, Ruth Elizabeth","Radford","Ruth","Elizabeth","Man",NA,"Unknown","Defeated",6055
 "Ontario",1950-05-15,"By-Election","21","Broadview","Grube, George","Grube","George",NA,"Man",NA,"Unknown","Defeated",4975
@@ -336,7 +376,7 @@
 "Ontario",1950-10-16,"By-Election","21","Welland","Doig, Melbourne A.","Doig","Melbourne","A.","Man","Organizer","Labor-Progressive Party","Defeated",1616
 "Ontario",1951-06-25,"By-Election","21","Waterloo South","Meeker, Howard William","Meeker","Howard","William","Man","Hockey player","Progressive Conservative Party","Elected",8950
 "Ontario",1951-06-25,"By-Election","21","Waterloo South","Moffatt, J. Mel","Moffatt","J.","Mel","Man","Dairyman","Liberal Party of Canada","Defeated",6483
-"Ontario",1951-06-25,"By-Election","21","Waterloo South","Geens, Margaret","Geens","Margaret",NA,"Man","Housewife","Co-operative Commonwealth Federation","Defeated",5754
+"Ontario",1951-06-25,"By-Election","21","Waterloo South","Geens, Margaret","Geens","Margaret",NA,"Woman","Housewife","Co-operative Commonwealth Federation","Defeated",5754
 "Ontario",1952-05-26,"By-Election","21","Ontario","Starr, Michael","Starr","Michael",NA,"Man","Clerk","Progressive Conservative Party","Elected",12275
 "Ontario",1952-05-26,"By-Election","21","Ontario","Lay, John Legge","Lay","John","Legge","Man","Sales manager","Liberal Party of Canada","Defeated",9091
 "Ontario",1952-05-26,"By-Election","21","Ontario","Scott, Herbert Roy","Scott","Herbert","Roy","Man","Farmer","Co-operative Commonwealth Federation","Defeated",8464
@@ -348,7 +388,7 @@
 "Ontario",1946-10-21,"By-Election","20","Parkdale","Timmins, Harold Aberdeen Watson","Timmins","Harold","Aberdeen Watson","Man","Lawyer","Progressive Conservative Party","Elected",8212
 "Ontario",1946-10-21,"By-Election","20","Parkdale","Hunter, John William Gordon","Hunter","John","William Gordon","Man","Barrister","Liberal Party of Canada","Defeated",7569
 "Ontario",1946-10-21,"By-Election","20","Parkdale","Brand, Ford","Brand","Ford",NA,"Man","Pressman","Co-operative Commonwealth Federation","Defeated",6470
-"Ontario",1946-10-21,"By-Election","20","Parkdale","Morton, Elizabeth","Morton","Elizabeth",NA,"Man","Housewife","Unknown","Defeated",966
+"Ontario",1946-10-21,"By-Election","20","Parkdale","Morton, Elizabeth","Morton","Elizabeth",NA,"Woman","Housewife","Unknown","Defeated",966
 "Ontario",1946-10-21,"By-Election","20","Parkdale","Palmer, Len","Palmer","Len",NA,"Man","Construction worker","Unknown","Defeated",64
 "Ontario",1948-06-08,"By-Election","20","Ontario","Williams, Arthur Henry","Williams","Arthur","Henry","Man","Trade union organizer","Co-operative Commonwealth Federation","Elected",10187
 "Ontario",1948-06-08,"By-Election","20","Ontario","Gifford, Lyman Alfred","Gifford","Lyman","Alfred","Man","Farmer","Liberal Party of Canada","Defeated",8311
@@ -359,7 +399,7 @@
 "Ontario",1948-12-20,"By-Election","20","Carleton","Drew, George Alexander","Drew","George","Alexander","Man","Barrister","Progressive Conservative Party","Elected",12284
 "Ontario",1948-12-20,"By-Election","20","Carleton","Forsey, Eugene Alfred","Forsey","Eugene","Alfred","Man","Research director","Co-operative Commonwealth Federation","Defeated",3371
 "Ontario",1948-12-20,"By-Election","20","Carleton","Mccracken, J. Nelson","Mccracken","J.","Nelson","Man","Banknote engraver","Social Credit Party of Canada","Defeated",451
-"Ontario",1940-08-12,"By-Election","19","Kingston City","Macdonald, Angus Lewis","Macdonald","Angus","Lewis","Man","Minister of National Defence for Naval Service","Unknown","Elected (Acclamation)",0
+"Ontario",1940-08-12,"By-Election","19","Kingston City","Macdonald, Angus Lewis","Macdonald","Angus","Lewis","Man","Minister of National Defence for Naval Service","Liberal Party of Canada","Elected (Acclamation)",0
 "Ontario",1940-08-19,"By-Election","19","Carleton","Boucher, George Russell","Boucher","George","Russell","Man","Barrister","Conservative (1867-1942)","Elected",6045
 "Ontario",1940-08-19,"By-Election","19","Carleton","Mccracken, John Nelson","Mccracken","John","Nelson","Man","Store manager","New Democracy","Defeated",1483
 "Ontario",1940-08-19,"By-Election","19","Waterloo North","Breithaupt, Louis Orville","Breithaupt","Louis","Orville","Man","Manufacturer","Liberal Party of Canada","Elected",8826
@@ -450,7 +490,7 @@
 "Ontario",1919-12-09,"By-Election","13","Ontario North","Halbert, Robert Henry","Halbert","Robert","Henry","Man","Farmer","Independent","Elected",3662
 "Ontario",1919-12-09,"By-Election","13","Ontario North","Mackinnon, Neil D.","Mackinnon","Neil","D.","Man",NA,"United Farmers of Ontario","Defeated",3477
 "Ontario",1920-04-07,"By-Election","13","Timiskaming","McDonald, Angus","McDonald","Angus",NA,"Man","Carpenter","Independent","Elected",5797
-"Ontario",1920-04-07,"By-Election","13","Timiskaming","Slaght, Arthur Graeme","Slaght","Arthur","Graeme","Man",NA,"Liberal Party of Canada","Defeated",3090
+"Ontario",1920-04-07,"By-Election","13","Timiskaming","Slaght, Arthur Graeme","Slaght","Arthur","Graeme","Man","Barrister","Liberal Party of Canada","Defeated",3090
 "Ontario",1920-04-07,"By-Election","13","Timiskaming","Pullen, Ernest Fleetwood","Pullen","Ernest","Fleetwood","Man",NA,"Independent Conservative","Defeated",2996
 "Ontario",1920-11-22,"By-Election","13","Elgin East","McDermand, Sydney Smith","McDermand","Sydney","Smith","Man","Farmer","United Farmers of Ontario","Elected",3101
 "Ontario",1920-11-22,"By-Election","13","Elgin East","Stansell, John Lawrence","Stansell","John","Lawrence","Man","Farmer","National Liberal and Conservative Party (1921)","Defeated",2850
@@ -492,7 +532,7 @@
 "Ontario",1905-02-04,"By-Election","10","Carleton","Borden, Robert Laird","Borden","Robert","Laird","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1905-04-11,"By-Election","10","Toronto Centre","Bristol, Edmund James","Bristol","Edmund","James","Man","Barrister","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1905-06-13,"By-Election","10","London","Hyman, Charles Smith","Hyman","Charles","Smith","Man","Manufacturer","Liberal Party of Canada","Elected",4581
-"Ontario",1905-06-13,"By-Election","10","London","Gray, William","Gray","William",NA,"Man",NA,"Conservative (1867-1942)","Defeated",4251
+"Ontario",1905-06-13,"By-Election","10","London","Gray, William","Gray","William",NA,"Man","Manufacturer, Financier","Conservative (1867-1942)","Defeated",4251
 "Ontario",1905-06-13,"By-Election","10","Oxford North","Smith, George","Smith","George",NA,"Man","Lawyer","Liberal Party of Canada","Elected",2845
 "Ontario",1905-06-13,"By-Election","10","Oxford North","Wallace, J.G.","Wallace","J.G.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2507
 "Ontario",1905-11-22,"By-Election","10","Lambton West","Pardee, Frederick Forsyth","Pardee","Frederick","Forsyth","Man","Barrister-at-law","Liberal Party of Canada","Elected",2848
@@ -504,8 +544,8 @@
 "Ontario",1906-10-04,"By-Election","10","Elgin East","Marshall, David","Marshall","David",NA,"Man","Businessman","Conservative (1867-1942)","Elected",2069
 "Ontario",1906-10-04,"By-Election","10","Elgin East","Haight, G.","Haight","G.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1996
 "Ontario",1906-10-09,"By-Election","10","Renfrew North","White, Gerald Verner","White","Gerald","Verner","Man","Mining engineer","Conservative (1867-1942)","Elected",2167
-"Ontario",1906-10-09,"By-Election","10","Renfrew North","Murray, Thomas","Murray","Thomas",NA,"Man",NA,"Unknown","Defeated",1166
-"Ontario",1906-10-09,"By-Election","10","Renfrew North","Mckay, M.","Mckay","M.",NA,"Man",NA,"Unknown","Defeated",233
+"Ontario",1906-10-09,"By-Election","10","Renfrew North","Murray, Thomas","Murray","Thomas",NA,"Man","Contractor, Merchant","Unknown","Defeated",1166
+"Ontario",1906-10-09,"By-Election","10","Renfrew North","McKay, M.","McKay","M.",NA,"Man",NA,"Unknown","Defeated",233
 "Ontario",1906-10-30,"By-Election","10","Bruce North","Tolmie, John","Tolmie","John",NA,"Man","Salt manufacturer","Liberal Party of Canada","Elected",2606
 "Ontario",1906-10-30,"By-Election","10","Bruce North","Mclelland, A.","Mclelland","A.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2135
 "Ontario",1907-09-18,"By-Election","10","Brockville","Graham, George Perry","Graham","George","Perry","Man","Newspaperman","Liberal Party of Canada","Elected (Acclamation)",0
@@ -514,7 +554,7 @@
 "Ontario",1907-10-29,"By-Election","10","Northumberland East","Owen, Charles Lewis","Owen","Charles","Lewis","Man","Woollen manufacturer","Conservative (1867-1942)","Elected",2347
 "Ontario",1907-10-29,"By-Election","10","Northumberland East","Mulholland, A.A.","Mulholland","A.A.",NA,"Man",NA,"Liberal Party of Canada","Defeated",2105
 "Ontario",1907-10-29,"By-Election","10","Wellington North","Martin, Alexander Munro","Martin","Alexander","Munro","Man","Businessman","Liberal Party of Canada","Elected",2338
-"Ontario",1907-10-29,"By-Election","10","Wellington North","Hamilton, Francis Alvin George","Hamilton","Francis","Alvin George","Man",NA,"Conservative (1867-1942)","Defeated",2072
+"Ontario",1907-10-29,"By-Election","10","Wellington North","Hamilton, Francis Alvin George","Hamilton","Francis","Alvin George","Man","Teacher","Conservative (1867-1942)","Defeated",2072
 "Ontario",1907-12-23,"By-Election","10","Ottawa (City of)","Caron, Jean-Baptiste Thomas","Caron","Jean-Baptiste","Thomas","Man","Lawyer","Liberal Party of Canada","Elected",4474
 "Ontario",1907-12-23,"By-Election","10","Ottawa (City of)","Morris, W.D.","Morris","W.D.",NA,"Man",NA,"Unknown","Defeated",1145
 "Ontario",1907-12-23,"By-Election","10","York Centre","McLean, Peter Douglas","McLean","Peter","Douglas","Man","Physician","Liberal Party of Canada","Elected",2282
@@ -523,10 +563,10 @@
 "Ontario",1908-01-22,"By-Election","10","Huron South","Horton, Henry","Horton","Henry",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2562
 "Ontario",1901-03-20,"By-Election","9","Bruce North","Halliday, James","Halliday","James",NA,"Man","Cattle dealer and merchant","Conservative (1867-1942)","Elected",2289
 "Ontario",1901-03-20,"By-Election","9","Bruce North","Campbell, James E.","Campbell","James","E.","Man",NA,"Liberal Party of Canada","Defeated",2278
-"Ontario",1902-01-15,"By-Election","9","Addington","Avery, Melzar","Avery","Melzar",NA,"Man",NA,"Conservative (1867-1942)","Elected",2505
+"Ontario",1902-01-15,"By-Election","9","Addington","Avery, Melzar","Avery","Melzar",NA,"Man","Lumber Merchant","Conservative (1867-1942)","Elected",2505
 "Ontario",1902-01-15,"By-Election","9","Addington","Wartman, F.S.","Wartman","F.S.",NA,"Man",NA,"Liberal Party of Canada","Defeated",2121
 "Ontario",1902-01-15,"By-Election","9","Durham West","Beith, Robert","Beith","Robert",NA,"Man","Farmer","Liberal Party of Canada","Elected",1740
-"Ontario",1902-01-15,"By-Election","9","Durham West","Thornton, Charles Jonas","Thornton","Charles","Jonas","Man",NA,"Conservative (1867-1942)","Defeated",1728
+"Ontario",1902-01-15,"By-Election","9","Durham West","Thornton, Charles Jonas","Thornton","Charles","Jonas","Man","Farmer","Conservative (1867-1942)","Defeated",1728
 "Ontario",1902-01-15,"By-Election","9","Hastings West","Porter, Edward Guss","Porter","Edward","Guss","Man","Barrister","Conservative (1867-1942)","Elected",1831
 "Ontario",1902-01-15,"By-Election","9","Hastings West","Frost, J.G.","Frost","J.G.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1330
 "Ontario",1902-01-15,"By-Election","9","Kingston","Harty, William","Harty","William",NA,"Man","Businessman","Liberal Party of Canada","Elected",2116
@@ -537,7 +577,7 @@
 "Ontario",1903-02-24,"By-Election","9","Grey North","Thomson, Thomas Inkerman","Thomson","Thomas","Inkerman","Man","Merchant","Conservative (1867-1942)","Elected",3018
 "Ontario",1903-02-24,"By-Election","9","Grey North","Kennedy, Matthew","Kennedy","Matthew",NA,"Man",NA,"Liberal Party of Canada","Defeated",2855
 "Ontario",1903-03-10,"By-Election","9","Ontario North","Grant, George Davidson","Grant","George","Davidson","Man","Lawyer","Liberal Party of Canada","Elected",2465
-"Ontario",1903-03-10,"By-Election","9","Ontario North","Foster, George Eulas","Foster","George","Eulas","Man",NA,"Unknown","Defeated",2265
+"Ontario",1903-03-10,"By-Election","9","Ontario North","Foster, George Eulas","Foster","George","Eulas","Man","Professor, Teacher","Unknown","Defeated",2265
 "Ontario",1903-04-20,"By-Election","9","Russell","Wallace, David Wardrope","Wallace","David","Wardrope","Man","Physician","Liberal Party of Canada","Elected (Acclamation)",0
 "Ontario",1904-02-16,"By-Election","9","Bruce East","Donnelly, James J.","Donnelly","James","J.","Man","Company president","Conservative (1867-1942)","Elected",1821
 "Ontario",1904-02-16,"By-Election","9","Bruce East","Robb, Alexander W.","Robb","Alexander","W.","Man",NA,"Liberal Party of Canada","Defeated",1650
@@ -564,34 +604,34 @@
 "Ontario",1899-02-21,"By-Election","8","Huron West","Holmes, Robert","Holmes","Robert",NA,"Man","Printer and publisher","Liberal Party of Canada","Elected",2274
 "Ontario",1899-02-21,"By-Election","8","Huron West","Mclean, Robert","Mclean","Robert",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2134
 "Ontario",1899-04-20,"By-Election","8","Brockville","Comstock, William Henry","Comstock","William","Henry","Man","Drugs and medicine manufacturer","Liberal Party of Canada","Elected",1881
-"Ontario",1899-04-20,"By-Election","8","Brockville","White, Peter","White","Peter",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1673
+"Ontario",1899-04-20,"By-Election","8","Brockville","White, Peter","White","Peter",NA,"Man","Lumber Merchant","Conservative (1867-1942)","Defeated",1673
 "Ontario",1900-01-18,"By-Election","8","Ontario West","Gould, Isaac James","Gould","Isaac","James","Man","Farmer","Liberal Party of Canada","Elected (Acclamation)",0
 "Ontario",1891-12-31,"By-Election","7","Lanark North","Rosamond, Bennett","Rosamond","Bennett",NA,"Man","Woollen manufacturer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1892-01-14,"By-Election","7","Glengarry","McLennan, Roderick R.","McLennan","Roderick","R.","Man","Railway contractor","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1892-01-28,"By-Election","7","Halton","Henderson, David","Henderson","David",NA,"Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1892-01-28,"By-Election","7","Kingston","Metcalfe, James Henry","Metcalfe","James","Henry","Man",NA,"Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1892-01-28,"By-Election","7","Lincoln and Niagara","Gibson, William","Gibson","William",NA,"Man","Engineer","Liberal Party of Canada","Elected (Acclamation)",0
-"Ontario",1892-02-04,"By-Election","7","Lennox","Allison, David Wright","Allison","David","Wright","Man","Farmer","Liberal Party of Canada","Defeated",0
-"Ontario",1892-02-04,"By-Election","7","Lennox","Wilson, Uriah","Wilson","Uriah",NA,"Man","Merchant","Conservative (1867-1942)","Elected",0
+"Ontario",1892-02-04,"By-Election","7","Lennox","Wilson, Uriah","Wilson","Uriah",NA,"Man","Merchant","Conservative (1867-1942)","Elected",131
+"Ontario",1892-02-04,"By-Election","7","Lennox","Allison, David Wright","Allison","David","Wright","Man","Farmer","Liberal Party of Canada","Defeated",100
 "Ontario",1892-02-04,"By-Election","7","Prince Edward","Miller, Archibald Campbell","Miller","Archibald","Campbell","Man","Farmer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1892-02-11,"By-Election","7","Bruce East","Cargill, Henry","Cargill","Henry",NA,"Man","Lumber manufacturer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1892-02-11,"By-Election","7","Middlesex East","Marshall, Joseph Henry","Marshall","Joseph","Henry","Man","Farmer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1892-02-11,"By-Election","7","Peel","Featherston, Joseph","Featherston","Joseph",NA,"Man","Breeder","Liberal Party of Canada","Elected (Acclamation)",0
-"Ontario",1892-02-11,"By-Election","7","Victoria North","Barron, John Augustus","Barron","John","Augustus","Man","Lawyer","Liberal Party of Canada","Defeated",0
-"Ontario",1892-02-11,"By-Election","7","Victoria North","Hughes, Samuel","Hughes","Samuel",NA,"Man","Editor","Liberal-Conservative","Elected",0
+"Ontario",1892-02-11,"By-Election","7","Victoria North","Hughes, Samuel","Hughes","Samuel",NA,"Man","Editor","Liberal-Conservative","Elected",365
+"Ontario",1892-02-11,"By-Election","7","Victoria North","Barron, John Augustus","Barron","John","Augustus","Man","Lawyer","Liberal Party of Canada","Defeated",232
 "Ontario",1892-02-11,"By-Election","7","Victoria South","Fairbairn, Charles","Fairbairn","Charles",NA,"Man","Farmer","Liberal-Conservative","Elected (Acclamation)",0
 "Ontario",1892-02-12,"By-Election","7","Elgin East","Ingram, Andrew B.","Ingram","Andrew","B.","Man","Real estate agent","Liberal-Conservative","Elected (Acclamation)",0
 "Ontario",1892-02-20,"By-Election","7","Hastings East","Northrup, William Barton","Northrup","William","Barton","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1892-02-20,"By-Election","7","Ontario South","Smith, William","Smith","William",NA,"Man","Farmer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Ontario",1892-02-22,"By-Election","7","Huron West","Cameron, Malcolm Colin","Cameron","Malcolm","Colin","Man","Lawyer","Liberal Party of Canada","Defeated",0
-"Ontario",1892-02-22,"By-Election","7","Huron West","Patterson, James Colebrooke","Patterson","James","Colebrooke","Man","Lawyer","Conservative (1867-1942)","Elected",0
+"Ontario",1892-02-22,"By-Election","7","Huron West","Patterson, James Colebrooke","Patterson","James","Colebrooke","Man","Lawyer","Conservative (1867-1942)","Elected",453
+"Ontario",1892-02-22,"By-Election","7","Huron West","Cameron, Malcolm Colin","Cameron","Malcolm","Colin","Man","Lawyer","Liberal Party of Canada","Defeated",433
 "Ontario",1892-02-25,"By-Election","7","Simcoe East","Bennett, William Humphrey","Bennett","William","Humphrey","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
-"Ontario",1892-02-26,"By-Election","7","London","Carling, John","Carling","John",NA,"Man","Brewer","Liberal-Conservative","Elected",0
-"Ontario",1892-02-26,"By-Election","7","London","Hyman, Charles Smith","Hyman","Charles","Smith","Man","Manufacturer","Liberal Party of Canada","Defeated",0
+"Ontario",1892-02-26,"By-Election","7","London","Carling, John","Carling","John",NA,"Man","Brewer","Liberal-Conservative","Elected",2531
+"Ontario",1892-02-26,"By-Election","7","London","Hyman, Charles Smith","Hyman","Charles","Smith","Man","Manufacturer","Liberal Party of Canada","Defeated",2422
 "Ontario",1892-03-10,"By-Election","7","Perth South","Pridham, William","Pridham","William",NA,"Man","Drover","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1892-03-12,"By-Election","7","Monck","Boyle, Arthur","Boyle","Arthur",NA,"Man","Businessman","Conservative (1867-1942)","Elected (Acclamation)",0
-"Ontario",1892-03-15,"By-Election","7","Northumberland West","Guillet, George","Guillet","George",NA,"Man","General merchant","Conservative (1867-1942)","Elected",0
-"Ontario",1892-03-15,"By-Election","7","Northumberland West","Hargraft, John","Hargraft","John",NA,"Man","Merchant","Liberal Party of Canada","Defeated",0
+"Ontario",1892-03-15,"By-Election","7","Northumberland West","Guillet, George","Guillet","George",NA,"Man","General merchant","Conservative (1867-1942)","Elected",212
+"Ontario",1892-03-15,"By-Election","7","Northumberland West","Hargraft, John","Hargraft","John",NA,"Man","Merchant","Liberal Party of Canada","Defeated",157
 "Ontario",1892-03-30,"By-Election","7","Prescott","Proulx, Isidore","Proulx","Isidore",NA,"Man","General merchant","Liberal Party of Canada","Elected (Acclamation)",0
 "Ontario",1892-04-29,"By-Election","7","Welland","Lowell, James A.","Lowell","James","A.","Man","Merchant","Liberal Party of Canada","Elected (Acclamation)",0
 "Ontario",1892-05-11,"By-Election","7","York East","Maclean, William Findlay","Maclean","William","Findlay","Man","Journalist","Independent Conservative","Elected (Acclamation)",0
@@ -640,8 +680,8 @@
 "Ontario",1888-11-21,"By-Election","6","Northumberland East","Mallory, Albert Elhanon","Mallory","Albert","Elhanon","Man","Physician","Liberal Party of Canada","Defeated",2028
 "Ontario",1889-01-30,"By-Election","6","Haldimand","Colter, Charles Wesley","Colter","Charles","Wesley","Man","Lawyer","Liberal Party of Canada","Elected",1803
 "Ontario",1889-01-30,"By-Election","6","Haldimand","Montague, Walter Humphries","Montague","Walter","Humphries","Man","Physician","Conservative (1867-1942)","Defeated",1757
-"Ontario",1890-02-20,"By-Election","6","Haldimand","Colter, Charles Wesley","Colter","Charles","Wesley","Man","Lawyer","Liberal Party of Canada","Defeated",0
-"Ontario",1890-02-20,"By-Election","6","Haldimand","Montague, Walter Humphries","Montague","Walter","Humphries","Man","Physician","Conservative (1867-1942)","Elected",0
+"Ontario",1890-02-20,"By-Election","6","Haldimand","Montague, Walter Humphries","Montague","Walter","Humphries","Man","Physician","Conservative (1867-1942)","Elected",473
+"Ontario",1890-02-20,"By-Election","6","Haldimand","Colter, Charles Wesley","Colter","Charles","Wesley","Man","Lawyer","Liberal Party of Canada","Defeated",315
 "Ontario",1890-04-26,"By-Election","6","Ottawa (City of)","Mackintosh, Charles Herbert","Mackintosh","Charles","Herbert","Man","Journalist","Conservative (1867-1942)","Elected",2454
 "Ontario",1890-04-26,"By-Election","6","Ottawa (City of)","Hay, (unknown)","Hay",NA,NA,"Man",NA,"Equal Rights","Defeated",1597
 "Ontario",1890-04-26,"By-Election","6","Ottawa (City of)","Chrysler, (unknown)","Chrysler",NA,NA,"Man",NA,"Liberal Party of Canada","Defeated",1242
@@ -654,7 +694,7 @@
 "Ontario",1883-12-14,"By-Election","5","Middlesex West","Roome, William Frederick","Roome","William","Frederick","Man","Physician","Conservative (1867-1942)","Defeated",1739
 "Ontario",1884-01-29,"By-Election","5","Kent","Smyth, Henry","Smyth","Henry",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",2548
 "Ontario",1884-01-29,"By-Election","5","Kent","Samson, James","Samson","James",NA,"Man",NA,"Unknown","Defeated",2266
-"Ontario",1884-02-25,"By-Election","5","Bothwell","Mills, David","Mills","David",NA,"Man","Lawyer","Liberal Party of Canada","Elected",0
+"Ontario",1884-02-25,"By-Election","5","Bothwell","Mills, David","Mills","David",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Court decision)",0
 "Ontario",1884-08-22,"By-Election","5","Ontario West","Edgar, James David","Edgar","James","David","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Ontario",1885-01-28,"By-Election","5","Lennox","Pruyn, Matthew William","Pruyn","Matthew","William","Man","Merchant","Conservative (1867-1942)","Elected",1515
 "Ontario",1885-01-28,"By-Election","5","Lennox","Allison, David Wright","Allison","David","Wright","Man","Farmer","Liberal Party of Canada","Defeated",1473
@@ -691,7 +731,7 @@
 "Ontario",1874-04-07,"By-Election","3","Durham West","Burk, Harvey William","Burk","Harvey","William","Man","Farmer","Liberal Party of Canada","Elected",1251
 "Ontario",1874-04-07,"By-Election","3","Durham West","Mcclung, Thomas","Mcclung","Thomas",NA,"Man",NA,"Unknown","Defeated",989
 "Ontario",1874-05-23,"By-Election","3","Oxford South","Skinner, James Atchison","Skinner","James","Atchison","Man","Farmer","Liberal Party of Canada","Elected",1186
-"Ontario",1874-05-23,"By-Election","3","Oxford South","Edgar, James David","Edgar","James","David","Man",NA,"Unknown","Defeated",823
+"Ontario",1874-05-23,"By-Election","3","Oxford South","Edgar, James David","Edgar","James","David","Man","Lawyer","Unknown","Defeated",823
 "Ontario",1874-08-11,"By-Election","3","Elgin East","Macdougall, Colin","Macdougall","Colin",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1738
 "Ontario",1874-08-11,"By-Election","3","Elgin East","Senkins, Thomas","Senkins","Thomas",NA,"Man","Merchant","Unknown","Defeated",1523
 "Ontario",1874-10-20,"By-Election","3","Cornwall","Macdonald, Alexander Francis","Macdonald","Alexander","Francis","Man","Railway contractor","Liberal Party of Canada","Elected",471
@@ -709,7 +749,7 @@
 "Ontario",1874-11-17,"By-Election","3","Northumberland West","Kerr, William","Kerr","William",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1315
 "Ontario",1874-11-17,"By-Election","3","Northumberland West","Smith, Sidney","Smith","Sidney",NA,"Man","Lawyer","Unknown","Defeated",1160
 "Ontario",1874-12-12,"By-Election","3","Northumberland East","Biggar, James Lyons","Biggar","James","Lyons","Man","General merchant","Independent Liberal","Elected",1670
-"Ontario",1874-12-12,"By-Election","3","Northumberland East","Cockburn, James","Cockburn","James",NA,"Man",NA,"Unknown","Defeated",1385
+"Ontario",1874-12-12,"By-Election","3","Northumberland East","Cockburn, James","Cockburn","James",NA,"Man","Lawyer","Unknown","Defeated",1385
 "Ontario",1874-12-13,"By-Election","3","Wellington Centre","Orton, George Turner","Orton","George","Turner","Man","Physician","Liberal-Conservative","Elected",1571
 "Ontario",1874-12-13,"By-Election","3","Wellington Centre","Ross, James","Ross","James",NA,"Man","Farmer","Liberal Party of Canada","Defeated",1445
 "Ontario",1874-12-16,"By-Election","3","Leeds North and Grenville North","Ferguson, Charles Frederick","Ferguson","Charles","Frederick","Man","Physician","Liberal-Conservative","Elected",917
@@ -729,7 +769,7 @@
 "Ontario",1875-01-25,"By-Election","3","Halton","McCraney, William","McCraney","William",NA,"Man","Lumber merchant","Liberal Party of Canada","Elected",1704
 "Ontario",1875-01-25,"By-Election","3","Halton","Chisholm, Daniel Black","Chisholm","Daniel","Black","Man","Lawyer","Liberal-Conservative","Defeated",1569
 "Ontario",1875-01-28,"By-Election","3","Middlesex East","Macmillan, Duncan","Macmillan","Duncan",NA,"Man","Lawyer","Liberal-Conservative","Elected",2098
-"Ontario",1875-01-28,"By-Election","3","Middlesex East","Armstrong, James","Armstrong","James",NA,"Man",NA,"Unknown","Defeated",1926
+"Ontario",1875-01-28,"By-Election","3","Middlesex East","Armstrong, James","Armstrong","James",NA,"Man","Farmer","Unknown","Defeated",1926
 "Ontario",1875-02-11,"By-Election","3","Huron South","Greenway, Thomas","Greenway","Thomas",NA,"Man","Merchant","Independent","Elected (Acclamation)",0
 "Ontario",1875-02-18,"By-Election","3","London","Fraser, James Harshaw","Fraser","James","Harshaw","Man","Lawyer","Liberal-Conservative","Elected",1228
 "Ontario",1875-02-18,"By-Election","3","London","Peters, Samuel","Peters","Samuel",NA,"Man",NA,"Unknown","Defeated",1100
@@ -751,7 +791,7 @@
 "Ontario",1875-07-07,"By-Election","3","Glengarry","McMillan, Donald","McMillan","Donald",NA,"Man","Physician","Unknown","Defeated",945
 "Ontario",1875-07-07,"By-Election","3","Perth North","Monteith, Andrew","Monteith","Andrew",NA,"Man","Businessman","Conservative (1867-1942)","Elected",1737
 "Ontario",1875-07-07,"By-Election","3","Perth North","Fisher, James","Fisher","James",NA,"Man",NA,"Independent","Defeated",1717
-"Ontario",1875-09-17,"By-Election","3","Victoria North","Cameron, Hector","Cameron","Hector",NA,"Man",NA,"Conservative (1867-1942)","Elected",0
+"Ontario",1875-09-17,"By-Election","3","Victoria North","Cameron, Hector","Cameron","Hector",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Court decision)",0
 "Ontario",1875-11-06,"By-Election","3","Toronto West","Robinson, John Beverley","Robinson","John","Beverley","Man","Barrister","Conservative (1867-1942)","Elected",1935
 "Ontario",1875-11-06,"By-Election","3","Toronto West","Turner, John","Turner","John",NA,"Man",NA,"Unknown","Defeated",1584
 "Ontario",1876-01-21,"By-Election","3","Renfrew North","White, Peter","White","Peter",NA,"Man","Merchant","Conservative (1867-1942)","Elected",1192
@@ -761,18 +801,18 @@
 "Ontario",1876-07-05,"By-Election","3","Ontario North","Gibbs, William Henry","Gibbs","William","Henry","Man","Manufacturer","Conservative (1867-1942)","Elected",1891
 "Ontario",1876-07-05,"By-Election","3","Ontario North","Currie, George","Currie","George",NA,"Man",NA,"Unknown","Defeated",1804
 "Ontario",1876-07-05,"By-Election","3","Ontario South","Gibbs, Thomas Nicholson","Gibbs","Thomas","Nicholson","Man","Manufacturer","Liberal-Conservative","Elected",1665
-"Ontario",1876-07-05,"By-Election","3","Ontario South","Edgar, James David","Edgar","James","David","Man",NA,"Unknown","Defeated",1627
+"Ontario",1876-07-05,"By-Election","3","Ontario South","Edgar, James David","Edgar","James","David","Man","Lawyer","Unknown","Defeated",1627
 "Ontario",1876-07-05,"By-Election","3","Wellington South","Guthrie, Donald","Guthrie","Donald",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1366
 "Ontario",1876-07-05,"By-Election","3","Wellington South","Goldie, James","Goldie","James",NA,"Man",NA,"Unknown","Defeated",1288
 "Ontario",1876-07-31,"By-Election","3","Glengarry","McNab, Archibald","McNab","Archibald",NA,"Man","Railway company director","Liberal Party of Canada","Elected",1203
-"Ontario",1876-07-31,"By-Election","3","Glengarry","McLennan, John","McLennan","John",NA,"Man",NA,"Unknown","Defeated",1032
+"Ontario",1876-07-31,"By-Election","3","Glengarry","McLennan, John","McLennan","John",NA,"Man","Merchant","Unknown","Defeated",1032
 "Ontario",1876-11-15,"By-Election","3","Bothwell","Mills, David","Mills","David",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1650
 "Ontario",1876-11-15,"By-Election","3","Bothwell","Dawson, James","Dawson","James",NA,"Man",NA,"Unknown","Defeated",1142
 "Ontario",1876-12-14,"By-Election","3","Cardwell","McCarthy, D'Alton","McCarthy","D'Alton",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1877-05-09,"By-Election","3","Lincoln","Norris, James","Norris","James",NA,"Man","Merchant","Liberal Party of Canada","Elected",1831
 "Ontario",1877-05-09,"By-Election","3","Lincoln","Miller, James","Miller","James",NA,"Man","Lawyer","Unknown","Defeated",1746
 "Ontario",1877-05-09,"By-Election","3","Ottawa (City of)","Currier, Joseph Merrill","Currier","Joseph","Merrill","Man","Lumberman","Liberal-Conservative","Elected",2035
-"Ontario",1877-05-09,"By-Election","3","Ottawa (City of)","Featherston, Joseph","Featherston","Joseph",NA,"Man",NA,"Unknown","Defeated",772
+"Ontario",1877-05-09,"By-Election","3","Ottawa (City of)","Featherston, Joseph","Featherston","Joseph",NA,"Man","Farmer, Breeder","Unknown","Defeated",772
 "Ontario",1872-11-23,"By-Election","2","Welland","Thomson, William Alexander","Thomson","William","Alexander","Man","Railway promoter","Liberal Party of Canada","Elected",1539
 "Ontario",1872-11-23,"By-Election","2","Welland","King, Richard S.","King","Richard","S.","Man","Physician","Unknown","Defeated",1480
 "Ontario",1873-04-10,"By-Election","2","Durham West","Wood, Edmund Burke","Wood","Edmund","Burke","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
@@ -795,4 +835,4 @@
 "Ontario",1870-04-27,"By-Election","1","Frontenac","Kirkpatrick, George Airey","Kirkpatrick","George","Airey","Man","Lawyer","Conservative (1867-1942)","Elected",869
 "Ontario",1870-04-27,"By-Election","1","Frontenac","Cartwright, James Strachan","Cartwright","James","Strachan","Man","Barrister","Unknown","Defeated",517
 "Ontario",1871-03-20,"By-Election","1","Hastings East","White, John","White","John",NA,"Man","Machinist","Conservative (1867-1942)","Elected (Acclamation)",0
-"Ontario",1871-06-30,"By-Election","1","Algoma","Cumberland, Frederick William","Cumberland","Frederick","William","Man",NA,"Conservative (1867-1942)","Elected (Acclamation)",0
+"Ontario",1871-06-30,"By-Election","1","Algoma","Cumberland, Frederick William","Cumberland","Frederick","William","Man","Architect, Civil Engineer","Conservative (1867-1942)","Elected (Acclamation)",0

@@ -15,9 +15,7 @@
 "Manitoba",1872-07-20,"General","2","Marquette","Breland, P.","Breland","P.",NA,"Man","Merchant","Unknown","Defeated",5
 "Manitoba",1872-07-20,"General","2","Provencher","Cartier, George-Étienne","Cartier","George-Étienne",NA,"Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
 "Manitoba",1872-07-20,"General","2","Selkirk","Smith, Donald Alexander","Smith","Donald","Alexander","Man","Hudson's Bay Co. employee","Independent Conservative","Elected",258
-"Manitoba",1872-07-20,"General","2","Selkirk","Wilson, A.E.","Wilson","A.E.",NA,"Man",NA,"Unknown","Defeated",62
-"Manitoba",1872-07-20,"General","2","Selkirk","Mulvey, S.","Mulvey","S.",NA,"Man",NA,"Unknown","Defeated",0
-"Manitoba",1872-07-20,"General","2","Selkirk","Sutherland, J.","Sutherland","J.",NA,"Man",NA,"Unknown","Defeated",0
+"Manitoba",1872-07-20,"General","2","Selkirk","Wilson, E. A.","Wilson","E.","A.","Man",NA,"Unknown","Defeated",62
 "New Brunswick",1872-07-20,"General","2","Albert","Wallace, John","Wallace","John",NA,"Man","Farmer","Liberal Party of Canada","Elected",847
 "New Brunswick",1872-07-20,"General","2","Albert","Calhoun, (unknown)","Calhoun",NA,NA,"Man",NA,"Unknown","Defeated",748
 "New Brunswick",1872-07-20,"General","2","Carleton","Connell, Charles","Connell","Charles",NA,"Man","General merchant","Liberal Party of Canada","Elected (Acclamation)",0
@@ -190,8 +188,7 @@
 "Ontario",1872-07-20,"General","2","Ontario North","Gibbs, William Henry","Gibbs","William","Henry","Man","Manufacturer","Conservative (1867-1942)","Elected",1835
 "Ontario",1872-07-20,"General","2","Ontario North","Thompson, John Auld","Thompson","John","Auld","Man","Court commissioner","Liberal Party of Canada","Defeated",1620
 "Ontario",1872-07-20,"General","2","Ontario South","Gibbs, Thomas Nicholson","Gibbs","Thomas","Nicholson","Man","Merchant","Liberal-Conservative","Elected",1466
-"Ontario",1872-07-20,"General","2","Ontario South","Trueman, P. White","Trueman","P.","White","Man",NA,"Unknown","Defeated",1373
-"Ontario",1872-07-20,"General","2","Ontario South","White, (unknown)","White",NA,NA,"Man",NA,"Unknown","Defeated",0
+"Ontario",1872-07-20,"General","2","Ontario South","White, Trueman P.","White","Trueman","P.","Man",NA,"Unknown","Defeated",1373
 "Ontario",1872-07-20,"General","2","Ottawa (City of)","Currier, Joseph Merrill","Currier","Joseph","Merrill","Man","Lumberman","Liberal-Conservative","Elected (Acclamation)",0
 "Ontario",1872-07-20,"General","2","Ottawa (City of)","Lewis, John Bower","Lewis","John","Bower","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Ontario",1872-07-20,"General","2","Oxford North","Oliver, Thomas","Oliver","Thomas",NA,"Man","Teacher","Liberal Party of Canada","Elected (Acclamation)",0
@@ -204,8 +201,8 @@
 "Ontario",1872-07-20,"General","2","Perth South","Kidd, J.","Kidd","J.",NA,"Man",NA,"Unknown","Defeated",1256
 "Ontario",1872-07-20,"General","2","Peterborough East","Grover, Peregrine Maitland","Grover","Peregrine","Maitland","Man","Farmer","Conservative (1867-1942)","Elected",804
 "Ontario",1872-07-20,"General","2","Peterborough East","Ingram, (unknown)","Ingram",NA,NA,"Man",NA,"Unknown","Defeated",752
-"Ontario",1872-07-20,"General","2","Peterborough West","Bertram, John","Bertram","John",NA,"Man","Businessman","Liberal Party of Canada","Elected",735
-"Ontario",1872-07-20,"General","2","Peterborough West","Cluxton, William","Cluxton","William",NA,"Man","Businessman","Conservative (1867-1942)","Defeated",702
+"Ontario",1872-07-20,"General","2","Peterborough West","Bertram, John","Bertram","John",NA,"Man","Businessman","Liberal Party of Canada","Defeated",745
+"Ontario",1872-07-20,"General","2","Peterborough West","Cluxton, William","Cluxton","William",NA,"Man","Businessman","Conservative (1867-1942)","Elected",705
 "Ontario",1872-07-20,"General","2","Prescott","Hagar, Albert Peter","Hagar","Albert","Peter","Man","Merchant","Liberal Party of Canada","Elected (Acclamation)",0
 "Ontario",1872-07-20,"General","2","Prince Edward","Ross, Walter","Ross","Walter",NA,"Man","General merchant","Liberal Party of Canada","Elected",1759
 "Ontario",1872-07-20,"General","2","Prince Edward","McCuaig, James Simeon","McCuaig","James","Simeon","Man","Businessman","Conservative (1867-1942)","Defeated",1625
@@ -225,8 +222,7 @@
 "Ontario",1872-07-20,"General","2","Toronto East","Beaty, James","Beaty","James",NA,"Man","Merchant","Conservative (1867-1942)","Elected",872
 "Ontario",1872-07-20,"General","2","Toronto East","O'Donohoe, John","O'Donohoe","John",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",775
 "Ontario",1872-07-20,"General","2","Toronto West","Crawford, John Willoughby","Crawford","John","Willoughby","Man","Lawyer","Conservative (1867-1942)","Elected",1043
-"Ontario",1872-07-20,"General","2","Toronto West","Mclellan, (unknown)","Mclellan",NA,NA,"Man","Barrister","Unknown","Defeated",574
-"Ontario",1872-07-20,"General","2","Toronto West","Capreol, (unknown)","Capreol",NA,NA,"Man",NA,"Unknown","Defeated",0
+"Ontario",1872-07-20,"General","2","Toronto West","McLellan, Jas. A.","McLellan","Jas.","A.","Man","Barrister","Unknown","Defeated",574
 "Ontario",1872-07-20,"General","2","Victoria North","Staples, Joseph","Staples","Joseph",NA,"Man","Military","Conservative (1867-1942)","Elected",629
 "Ontario",1872-07-20,"General","2","Victoria North","Morison, John","Morison","John",NA,"Man","Merchant","Liberal Party of Canada","Defeated",541
 "Ontario",1872-07-20,"General","2","Victoria South","Dormer, George","Dormer","George",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",1228
@@ -260,7 +256,6 @@
 "Quebec",1872-07-20,"General","2","Bellechasse","Caron, A.","Caron","A.",NA,"Man","Lawyer","Conservative (1867-1942)","Defeated",638
 "Quebec",1872-07-20,"General","2","Berthier","Pâquet, Anselme Homère","Pâquet","Anselme","Homère","Man","Physician","Liberal Party of Canada","Elected",757
 "Quebec",1872-07-20,"General","2","Berthier","Cuthbert, Edward Octavian","Cuthbert","Edward","Octavian","Man","Owner of Seigniory of Berthier","Conservative (1867-1942)","Defeated",15
-"Quebec",1872-07-20,"General","2","Berthier","Barthe, (unknown)","Barthe",NA,NA,"Man",NA,"Unknown","Defeated",0
 "Quebec",1872-07-20,"General","2","Bonaventure","Robitaille, Théodore","Robitaille","Théodore",NA,"Man","Physician","Conservative (1867-1942)","Elected",999
 "Quebec",1872-07-20,"General","2","Bonaventure","Hamilton, J.R.","Hamilton","J.R.",NA,"Man",NA,"Unknown","Defeated",232
 "Quebec",1872-07-20,"General","2","Bonaventure","Verge, A.","Verge","A.",NA,"Man",NA,"Unknown","Defeated",2

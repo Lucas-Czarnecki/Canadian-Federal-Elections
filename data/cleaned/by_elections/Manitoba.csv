@@ -37,7 +37,7 @@
 "Manitoba",1978-10-16,"By-Election","30","St. Boniface","Hawryluk, William","Hawryluk","William",NA,"Man","Accountant","Independent","Defeated",161
 "Manitoba",1970-04-13,"By-Election","28","Selkirk","Rowland, Douglas Charles","Rowland","Douglas","Charles","Man","Special assistant","New Democratic Party","Elected",16595
 "Manitoba",1970-04-13,"By-Election","28","Selkirk","Reimer, Phil","Reimer","Phil",NA,"Man","Broadcasting consultant","Liberal Party of Canada","Defeated",6947
-"Manitoba",1970-04-13,"By-Election","28","Selkirk","Enns, Vera","Enns","Vera",NA,"Man","Housewife","Progressive Conservative Party","Defeated",4993
+"Manitoba",1970-04-13,"By-Election","28","Selkirk","Enns, Vera","Enns","Vera",NA,"Woman","Housewife","Progressive Conservative Party","Defeated",4993
 "Manitoba",1970-04-13,"By-Election","28","Selkirk","Luining, Bob","Luining","Bob",NA,"Man","Manager","Social Credit Party of Canada","Defeated",541
 "Manitoba",1970-04-13,"By-Election","28","Selkirk","Fitch, Travis I.","Fitch","Travis","I.","Man","Student","Independent","Defeated",143
 "Manitoba",1970-11-16,"By-Election","28","Lisgar","Murta, Jack Burnett","Murta","Jack","Burnett","Man","Farmer","Progressive Conservative Party","Elected",11222
@@ -80,12 +80,12 @@
 "Manitoba",1911-10-27,"By-Election","12","Marquette","Roche, William James","Roche","William","James","Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
 "Manitoba",1911-10-27,"By-Election","12","Winnipeg","Rogers, Robert","Rogers","Robert",NA,"Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
 "Manitoba",1912-10-12,"By-Election","12","Macdonald","Morrison, Alexander","Morrison","Alexander",NA,"Man","Farmer","Conservative (1867-1942)","Elected",3534
-"Manitoba",1912-10-12,"By-Election","12","Macdonald","Richardson, Robert Lorne","Richardson","Robert","Lorne","Man",NA,"Liberal Party of Canada","Defeated",2740
+"Manitoba",1912-10-12,"By-Election","12","Macdonald","Richardson, Robert Lorne","Richardson","Robert","Lorne","Man","Editor, Author, Publisher","Liberal Party of Canada","Defeated",2740
 "Manitoba",1913-07-19,"By-Election","12","Portage la Prairie","Meighen, Arthur","Meighen","Arthur",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Manitoba",1913-12-13,"By-Election","12","Macdonald","Morrison, Alexander","Morrison","Alexander",NA,"Man","Farmer","Conservative (1867-1942)","Elected",3855
 "Manitoba",1913-12-13,"By-Election","12","Macdonald","Myles, Andrew Watson","Myles","Andrew","Watson","Man",NA,"Liberal Party of Canada","Defeated",2939
 "Manitoba",1902-02-18,"By-Election","9","Lisgar","Stewart, Duncan Alexander","Stewart","Duncan","Alexander","Man","Farmer","Liberal Party of Canada","Elected",3370
-"Manitoba",1902-02-18,"By-Election","9","Lisgar","Richardson, Robert Lorne","Richardson","Robert","Lorne","Man",NA,"Independent Liberal","Defeated",2354
+"Manitoba",1902-02-18,"By-Election","9","Lisgar","Richardson, Robert Lorne","Richardson","Robert","Lorne","Man","Editor, Author, Publisher","Independent Liberal","Defeated",2354
 "Manitoba",1902-02-18,"By-Election","9","Lisgar","Toombs, J.M.","Toombs","J.M.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1646
 "Manitoba",1896-11-27,"By-Election","8","Brandon","Sifton, Clifford","Sifton","Clifford",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Manitoba",1897-04-27,"By-Election","8","Macdonald","Rutherford, John Gunion","Rutherford","John","Gunion","Man","Veterinary surgeon","Liberal Party of Canada","Elected",2619
@@ -102,7 +102,7 @@
 "Manitoba",1889-01-24,"By-Election","6","Provencher","Clarke, (unknown)","Clarke",NA,NA,"Man",NA,"Unknown","Defeated",269
 "Manitoba",1878-11-30,"By-Election","4","Marquette","Ryan, Joseph O'Connell","Ryan","Joseph","O'Connell","Man","Barrister","Liberal Party of Canada","Elected (Acclamation)",0
 "Manitoba",1879-12-30,"By-Election","4","Provencher","Royal, Joseph","Royal","Joseph",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",652
-"Manitoba",1879-12-30,"By-Election","4","Provencher","Molloy, John Patrick","Molloy","John","Patrick","Man",NA,"Unknown","Defeated",269
+"Manitoba",1879-12-30,"By-Election","4","Provencher","Molloy, John Patrick","Molloy","John","Patrick","Man","Farmer, Veterinary Surgeon","Unknown","Defeated",269
 "Manitoba",1879-12-30,"By-Election","4","Provencher","Hamelin, S.","Hamelin","S.",NA,"Man",NA,"Unknown","Defeated",121
 "Manitoba",1880-09-10,"By-Election","4","Selkirk","Scott, Thomas","Scott","Thomas",NA,"Man","Journalist","Conservative (1867-1942)","Elected",735
 "Manitoba",1880-09-10,"By-Election","4","Selkirk","Smith, Donald Alexander","Smith","Donald","Alexander","Man","Hudson's Bay Co. employee","Independent Conservative","Defeated",577

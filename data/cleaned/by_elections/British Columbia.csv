@@ -20,10 +20,10 @@
 "British Columbia",2019-05-06,"By-Election","42","Nanaimo--Ladysmith","Marlatt, Brian","Marlatt","Brian",NA,"Man","Writer","Progressive Canadian Party","Defeated",253
 "British Columbia",2019-05-06,"By-Election","42","Nanaimo--Ladysmith","Letkemann, Jakob","Letkemann","Jakob",NA,"Man","Board game designer","National Citizens Alliance","Defeated",66
 "British Columbia",2012-11-26,"By-Election","41","Victoria","Rankin, Murray","Rankin","Murray",NA,"Man","Lawyer","New Democratic Party","Elected",14507
-"British Columbia",2012-11-26,"By-Election","41","Victoria","Galloway, Donald","Galloway","Donald",NA,"Man",NA,"Green Party of Canada","Defeated",13389
-"British Columbia",2012-11-26,"By-Election","41","Victoria","Gann, Dale","Gann","Dale",NA,"Man",NA,"Conservative (1867-1942)","Defeated",5654
-"British Columbia",2012-11-26,"By-Election","41","Victoria","Summerville, Paul","Summerville","Paul",NA,"Man","Banker","Liberal Party of Canada","Defeated",5097
-"British Columbia",2012-11-26,"By-Election","41","Victoria","Lowe, Art","Lowe","Art",NA,"Man",NA,"Libertarian Party of Canada","Defeated",193
+"British Columbia",2012-11-26,"By-Election","41","Victoria","Galloway, Donald","Galloway","Donald",NA,"Man","Professor","Green Party of Canada","Defeated",13389
+"British Columbia",2012-11-26,"By-Election","41","Victoria","Gann, Dale","Gann","Dale",NA,"Man","High Technology Executive","Conservative (1867-1942)","Defeated",5654
+"British Columbia",2012-11-26,"By-Election","41","Victoria","Summerville, Paul","Summerville","Paul",NA,"Man","Adjunct Professor","Liberal Party of Canada","Defeated",5097
+"British Columbia",2012-11-26,"By-Election","41","Victoria","Lowe, Art","Lowe","Art",NA,"Man","Property Manager","Libertarian Party of Canada","Defeated",193
 "British Columbia",2012-11-26,"By-Election","41","Victoria","Ney, Philip G.","Ney","Philip","G.","Man","Physician","Christian Heritage Party of Canada","Defeated",192
 "British Columbia",2009-11-09,"By-Election","40","New Westminster--Coquitlam","Donnelly, Fin","Donnelly","Fin",NA,"Man","Executive director","New Democratic Party","Elected",12171
 "British Columbia",2009-11-09,"By-Election","40","New Westminster--Coquitlam","Dilworth, Diana","Dilworth","Diana",NA,"Woman","City councillor","Conservative (1867-1942)","Defeated",8730
@@ -112,13 +112,13 @@
 "British Columbia",1906-03-06,"By-Election","10","Victoria City","Beckwith, J.L.","Beckwith","J.L.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",857
 "British Columbia",1906-03-06,"By-Election","10","Victoria City","Marcon, W.H.","Marcon","W.H.",NA,"Man",NA,"Independent","Defeated",308
 "British Columbia",1902-01-28,"By-Election","9","Victoria","Riley, George","Riley","George",NA,"Man","Merchant","Liberal Party of Canada","Elected",1797
-"British Columbia",1902-01-28,"By-Election","9","Victoria","Barnard, Frank Stillman","Barnard","Frank","Stillman","Man",NA,"Conservative (1867-1942)","Defeated",1378
+"British Columbia",1902-01-28,"By-Election","9","Victoria","Barnard, Frank Stillman","Barnard","Frank","Stillman","Man","Businessman","Conservative (1867-1942)","Defeated",1378
 "British Columbia",1903-02-04,"By-Election","9","Burrard","Macpherson, Robert George","Macpherson","Robert","George","Man","Manager of insurance company","Liberal Party of Canada","Elected",2108
 "British Columbia",1903-02-04,"By-Election","9","Burrard","Foley, Chris.","Foley","Chris.",NA,"Man",NA,"Independent Liberal","Defeated",1885
-"British Columbia",1903-02-04,"By-Election","9","Burrard","McInnes, Thomas Robert","McInnes","Thomas","Robert","Man",NA,"Independent","Defeated",362
+"British Columbia",1903-02-04,"By-Election","9","Burrard","McInnes, Thomas Robert","McInnes","Thomas","Robert","Man","Coroner, Physician, Surgeon","Independent","Defeated",362
 "British Columbia",1893-05-02,"By-Election","7","Vancouver","Haslam, Andrew","Haslam","Andrew",NA,"Man","Businessman","Conservative (1867-1942)","Elected (Acclamation)",0
-"British Columbia",1896-01-06,"By-Election","7","Victoria","Prior, Edward Gawler","Prior","Edward","Gawler","Man","Mining engineer","Conservative (1867-1942)","Elected",0
-"British Columbia",1896-01-06,"By-Election","7","Victoria","Templeman, William","Templeman","William",NA,"Man",NA,"Liberal Party of Canada","Defeated",0
+"British Columbia",1896-01-06,"By-Election","7","Victoria","Prior, Edward Gawler","Prior","Edward","Gawler","Man","Mining engineer","Conservative (1867-1942)","Elected",1567
+"British Columbia",1896-01-06,"By-Election","7","Victoria","Templeman, William","Templeman","William",NA,"Man","Editor","Liberal Party of Canada","Defeated",1460
 "British Columbia",1888-01-23,"By-Election","6","Victoria","Prior, Edward Gawler","Prior","Edward","Gawler","Man","Mining engineer","Conservative (1867-1942)","Elected (Acclamation)",0
 "British Columbia",1888-11-22,"By-Election","6","Cariboo","Barnard, Frank Stillman","Barnard","Frank","Stillman","Man","Businessman","Conservative (1867-1942)","Elected",117
 "British Columbia",1888-11-22,"By-Election","6","Cariboo","Mcleese, R.","Mcleese","R.",NA,"Man",NA,"Independent","Defeated",95
@@ -133,6 +133,8 @@
 "British Columbia",1881-03-31,"By-Election","4","Cariboo","Greig, Archibald","Greig","Archibald",NA,"Man",NA,"Unknown","Defeated",62
 "British Columbia",1882-03-09,"By-Election","4","New Westminster","Homer, Joshua Attwood Reynolds","Homer","Joshua","Attwood Reynolds","Man","Commission merchant","Liberal-Conservative","Elected (Acclamation)",0
 "British Columbia",1878-03-25,"By-Election","3","New Westminster","McInnes, Thomas Robert","McInnes","Thomas","Robert","Man","Physician","Independent","Elected (Acclamation)",0
+"British Columbia",1871-11-24,"By-Election","1","Victoria District","De Cosmos, Amor","De Cosmos","Amor",NA,"Man","Newspaper Owner and Chief Editor","Liberal Party of Canada","Elected (Acclamation)",0
+"British Columbia",1871-11-24,"By-Election","1","Victoria District","Nathan, Henry","Nathan","Henry",NA,"Man","Businessman","Liberal Party of Canada","Elected (Acclamation)",0
 "British Columbia",1871-12-13,"By-Election","1","New Westminster District","Nelson, Hugh","Nelson","Hugh",NA,"Man","Lumber merchant","Liberal-Conservative","Elected",125
 "British Columbia",1871-12-13,"By-Election","1","New Westminster District","Scott, (unknown)","Scott",NA,NA,"Man",NA,"Unknown","Defeated",24
 "British Columbia",1871-12-15,"By-Election","1","Vancouver Island","Wallace, Robert","Wallace","Robert",NA,"Man","Commission merchant","Conservative (1867-1942)","Elected",137

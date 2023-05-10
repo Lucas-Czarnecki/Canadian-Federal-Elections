@@ -52,7 +52,7 @@
 "Nova Scotia",1923-07-31,"By-Election","14","North Cape Breton and Victoria","Kelly, Fenwick Lionel","Kelly","Fenwick","Lionel","Man","Ship broker","Liberal Party of Canada","Elected",4839
 "Nova Scotia",1923-07-31,"By-Election","14","North Cape Breton and Victoria","Butts, Robert Hamilton","Butts","Robert","Hamilton","Man","Barrister-at-bar","Conservative (1867-1942)","Defeated",4215
 "Nova Scotia",1923-07-31,"By-Election","14","North Cape Breton and Victoria","Macdonald, Daniel David","Macdonald","Daniel","David","Man","Coal miner","Labour","Defeated",1652
-"Nova Scotia",1923-09-06,"By-Election","14","Pictou","Macdonald, Angus Lewis","Macdonald","Angus","Lewis","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
+"Nova Scotia",1923-09-06,"By-Election","14","Pictou","Macdonald, Edward Mortimer","Macdonald","Edward","Mortimer","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Nova Scotia",1923-12-05,"By-Election","14","Halifax","Black, William Anderson","Black","William","Anderson","Man","Businessman","Conservative (1867-1942)","Elected",13365
 "Nova Scotia",1923-12-05,"By-Election","14","Halifax","Redmond, George Alfred","Redmond","George","Alfred","Man",NA,"Liberal Party of Canada","Defeated",11433
 "Nova Scotia",1920-09-20,"By-Election","13","Colchester","McCurdy, Fleming Blanchard","McCurdy","Fleming","Blanchard","Man","Financier","Nationalist Liberal","Elected",6478
@@ -61,7 +61,7 @@
 "Nova Scotia",1909-12-22,"By-Election","11","Lunenburg","Sperry, John Drew","Sperry","John","Drew","Man","Merchant","Liberal Party of Canada","Elected",3371
 "Nova Scotia",1909-12-22,"By-Election","11","Lunenburg","Marshall, Carmon Smith","Marshall","Carmon","Smith","Man",NA,"Conservative (1867-1942)","Defeated",3104
 "Nova Scotia",1905-11-22,"By-Election","10","Antigonish","Chisholm, William","Chisholm","William",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1325
-"Nova Scotia",1905-11-22,"By-Election","10","Antigonish","Girroir, Edward Lavin","Girroir","Edward","Lavin","Man",NA,"Conservative (1867-1942)","Defeated",1090
+"Nova Scotia",1905-11-22,"By-Election","10","Antigonish","Girroir, Edward Lavin","Girroir","Edward","Lavin","Man","Lecturer, Lawyer","Conservative (1867-1942)","Defeated",1090
 "Nova Scotia",1906-03-14,"By-Election","10","North Cape Breton and Victoria","Ross, Alexander Charles","Ross","Alexander","Charles","Man","Business executive","Liberal Party of Canada","Elected",2922
 "Nova Scotia",1906-03-14,"By-Election","10","North Cape Breton and Victoria","Maccormick, John","Maccormick","John",NA,"Man","Merchant","Conservative (1867-1942)","Defeated",2088
 "Nova Scotia",1906-10-31,"By-Election","10","Shelburne and Queen's","Fielding, William Stevens","Fielding","William","Stevens","Man","Journalist","Liberal Party of Canada","Elected",2500
@@ -80,8 +80,8 @@
 "Nova Scotia",1892-01-26,"By-Election","7","Victoria","McDonald, John Archibald","McDonald","John","Archibald","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Nova Scotia",1892-01-30,"By-Election","7","Cumberland","Dickey, Arthur Rupert","Dickey","Arthur","Rupert","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Nova Scotia",1892-02-09,"By-Election","7","Queens","Forbes, Francis Gordon","Forbes","Francis","Gordon","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Nova Scotia",1892-02-11,"By-Election","7","Halifax","Kenny, Thomas Edward","Kenny","Thomas","Edward","Man","Merchant","Conservative (1867-1942)","Elected",0
-"Nova Scotia",1892-02-11,"By-Election","7","Halifax","Stairs, John Fitz William","Stairs","John","Fitz William","Man","Merchant","Conservative (1867-1942)","Elected",0
+"Nova Scotia",1892-02-11,"By-Election","7","Halifax","Kenny, Thomas Edward","Kenny","Thomas","Edward","Man","Merchant","Conservative (1867-1942)","Elected",5558
+"Nova Scotia",1892-02-11,"By-Election","7","Halifax","Stairs, John Fitz William","Stairs","John","Fitz William","Man","Merchant","Conservative (1867-1942)","Elected",5503
 "Nova Scotia",1892-02-13,"By-Election","7","Digby","Bowers, Edward Charles","Bowers","Edward","Charles","Man","General trader","Liberal Party of Canada","Elected (Acclamation)",0
 "Nova Scotia",1892-02-13,"By-Election","7","Kings","Borden, Frederick William","Borden","Frederick","William","Man","Physician","Liberal Party of Canada","Elected (Acclamation)",0
 "Nova Scotia",1895-01-15,"By-Election","7","Cumberland","Dickey, Arthur Rupert","Dickey","Arthur","Rupert","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
@@ -91,7 +91,7 @@
 "Nova Scotia",1887-07-16,"By-Election","6","Digby","Robichon, H.M.","Robichon","H.M.",NA,"Man",NA,"Independent","Defeated",1056
 "Nova Scotia",1887-10-27,"By-Election","6","Colchester","McLelan, Archibald Woodbury","McLelan","Archibald","Woodbury","Man","Lumber merchant","Conservative (1867-1942)","Elected",2137
 "Nova Scotia",1887-10-27,"By-Election","6","Colchester","Mclelland, Samuel David","Mclelland","Samuel","David","Man",NA,"Liberal Party of Canada","Defeated",1511
-"Nova Scotia",1887-11-09,"By-Election","6","Cumberland","Tupper, Charles","Tupper","Charles",NA,"Man",NA,"Conservative (1867-1942)","Elected",2468
+"Nova Scotia",1887-11-09,"By-Election","6","Cumberland","Tupper, Charles","Tupper","Charles",NA,"Man","Diplomat, Physician","Conservative (1867-1942)","Elected",2468
 "Nova Scotia",1887-11-09,"By-Election","6","Cumberland","Balmer, J.T.","Balmer","J.T.",NA,"Man",NA,"Independent","Defeated",1026
 "Nova Scotia",1887-11-21,"By-Election","6","Victoria","McDonald, John Archibald","McDonald","John","Archibald","Man","Lawyer","Liberal Party of Canada","Elected",960
 "Nova Scotia",1887-11-21,"By-Election","6","Victoria","Campbell, Charles James","Campbell","Charles","James","Man","Merchant","Conservative (1867-1942)","Defeated",398
@@ -102,13 +102,13 @@
 "Nova Scotia",1888-06-18,"By-Election","6","Pictou","Tupper, Charles Hibbert","Tupper","Charles","Hibbert","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Nova Scotia",1888-07-13,"By-Election","6","Cumberland","Dickey, Arthur Rupert","Dickey","Arthur","Rupert","Man","Lawyer","Conservative (1867-1942)","Elected",2491
 "Nova Scotia",1888-07-13,"By-Election","6","Cumberland","Casey, C.R.","Casey","C.R.",NA,"Man",NA,"Unknown","Defeated",1727
-"Nova Scotia",1888-08-15,"By-Election","6","Colchester","Archibald, Adams George","Archibald","Adams","George","Man",NA,"Liberal-Conservative","Elected",1773
+"Nova Scotia",1888-08-15,"By-Election","6","Colchester","Archibald, Adams George","Archibald","Adams","George","Man","Lawyer","Liberal-Conservative","Elected",1773
 "Nova Scotia",1888-08-15,"By-Election","6","Colchester","Eaton, Cyrus","Eaton","Cyrus",NA,"Man",NA,"Unknown","Defeated",1267
 "Nova Scotia",1888-08-15,"By-Election","6","Colchester","Fulton, E.","Fulton","E.",NA,"Man",NA,"Unknown","Defeated",315
 "Nova Scotia",1888-10-22,"By-Election","6","Shelburne","Laurie, John Wimburne","Laurie","John","Wimburne","Man","Soldier","Conservative (1867-1942)","Elected",987
 "Nova Scotia",1888-10-22,"By-Election","6","Shelburne","Congden, (unknown)","Congden",NA,NA,"Man",NA,"Unknown","Defeated",976
 "Nova Scotia",1888-12-26,"By-Election","6","Cumberland","Dickey, Arthur Rupert","Dickey","Arthur","Rupert","Man","Lawyer","Conservative (1867-1942)","Elected",2479
-"Nova Scotia",1888-12-26,"By-Election","6","Cumberland","Elderkin, Angus Alexander","Elderkin","Angus","Alexander","Man",NA,"Unknown","Defeated",1431
+"Nova Scotia",1888-12-26,"By-Election","6","Cumberland","Elderkin, Angus Alexander","Elderkin","Angus","Alexander","Man","Farmer, Fruit Grower","Unknown","Defeated",1431
 "Nova Scotia",1883-07-24,"By-Election","5","Halifax","Stairs, John Fitz William","Stairs","John","Fitz William","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
 "Nova Scotia",1883-10-10,"By-Election","5","Lunenburg","Kaulbach, Charles Edwin","Kaulbach","Charles","Edwin","Man","Businessman","Conservative (1867-1942)","Elected",1991
 "Nova Scotia",1883-10-10,"By-Election","5","Lunenburg","Keefler, Thomas Twining","Keefler","Thomas","Twining","Man","Merchant","Liberal Party of Canada","Defeated",1712
@@ -131,9 +131,9 @@
 "Nova Scotia",1874-12-17,"By-Election","3","Colchester","Page, Alex C.","Page","Alex","C.","Man","Physician","Unknown","Defeated",951
 "Nova Scotia",1874-12-17,"By-Election","3","Victoria","Campbell, Charles James","Campbell","Charles","James","Man","Merchant","Conservative (1867-1942)","Elected",541
 "Nova Scotia",1874-12-17,"By-Election","3","Victoria","Tremain, Barclay Edmund","Tremain","Barclay","Edmund","Man","Lawyer","Liberal Party of Canada","Defeated",523
-"Nova Scotia",1875-04-28,"By-Election","3","Victoria","Tremain, Barclay Edmund","Tremain","Barclay","Edmund","Man","Lawyer","Liberal Party of Canada","Elected",0
+"Nova Scotia",1875-04-28,"By-Election","3","Victoria","Tremain, Barclay Edmund","Tremain","Barclay","Edmund","Man","Lawyer","Liberal Party of Canada","Elected (Court decision)",0
 "Nova Scotia",1876-09-21,"By-Election","3","Victoria","Campbell, Charles James","Campbell","Charles","James","Man","Merchant","Conservative (1867-1942)","Elected",624
-"Nova Scotia",1876-09-21,"By-Election","3","Victoria","Ross, John","Ross","John",NA,"Man",NA,"Liberal Party of Canada","Defeated",526
+"Nova Scotia",1876-09-21,"By-Election","3","Victoria","Ross, John","Ross","John",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",526
 "Nova Scotia",1878-01-19,"By-Election","3","Digby","Wade, John Chipman","Wade","John","Chipman","Man","Lawyer","Conservative (1867-1942)","Elected",1210
 "Nova Scotia",1878-01-19,"By-Election","3","Digby","Vail, William Berrian","Vail","William","Berrian","Man","Businessman","Liberal Party of Canada","Defeated",845
 "Nova Scotia",1878-01-29,"By-Election","3","Halifax","Jones, Alfred Gilpin","Jones","Alfred","Gilpin","Man","Merchant","Independent","Elected",2981

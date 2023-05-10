@@ -3,7 +3,7 @@
 "New Brunswick",1990-12-10,"By-Election","34","Beauséjour","Cormier, Guy","Cormier","Guy",NA,"Man","Fisherman","New Democratic Party","Defeated",12587
 "New Brunswick",1990-12-10,"By-Election","34","Beauséjour","Bowes-LeGood, Margie","Bowes-LeGood","Margie",NA,"Man","Management consultant","Confederation of Regions Western Party","Defeated",2783
 "New Brunswick",1990-12-10,"By-Election","34","Beauséjour","LeBlanc, Alonzo","LeBlanc","Alonzo",NA,"Man","Union officer","Independent","Defeated",450
-"New Brunswick",1990-12-10,"By-Election","34","Beauséjour","Boudreau-Padersen, May","Boudreau-Padersen","May",NA,"Man","Housewife","Christian Heritage Party of Canada","Defeated",286
+"New Brunswick",1990-12-10,"By-Election","34","Beauséjour","Boudreau-Padersen, May","Boudreau-Padersen","May",NA,"Woman","Housewife","Christian Heritage Party of Canada","Defeated",286
 "New Brunswick",1990-12-10,"By-Election","34","Beauséjour","Gold, Bryan","Gold","Bryan",NA,"Man","Student","Rhinoceros Party of Canada","Defeated",246
 "New Brunswick",1975-10-14,"By-Election","30","Restigouche","Harquail, Maurice James","Harquail","Maurice","James","Man","Insurance claims adjuster","Liberal Party of Canada","Elected",9158
 "New Brunswick",1975-10-14,"By-Election","30","Restigouche","Caron, Roger L.","Caron","Roger","L.","Man","Businessman","Progressive Conservative Party","Defeated",6059
@@ -40,15 +40,15 @@
 "New Brunswick",1933-10-23,"By-Election","17","Restigouche--Madawaska","Michaud, Joseph Enoil","Michaud","Joseph","Enoil","Man","Barrister-at-law","Liberal Party of Canada","Elected",11958
 "New Brunswick",1933-10-23,"By-Election","17","Restigouche--Madawaska","Dubé, Paul-Léon","Dubé","Paul-Léon",NA,"Man","Locomotive engineer","Conservative (1867-1942)","Defeated",5498
 "New Brunswick",1926-11-02,"By-Election","16","Gloucester","Veniot, Peter John","Veniot","Peter","John","Man","Postmaster General","Liberal Party of Canada","Elected (Acclamation)",0
-"New Brunswick",1927-06-16,"By-Election","16","Victoria--Carleton","Foster, Albion Roudolph","Foster","Albion","Roudolph","Man",NA,"Liberal Party of Canada","Elected (Acclamation)",0
+"New Brunswick",1927-06-16,"By-Election","16","Victoria--Carleton","Foster, Albion Roudolph","Foster","Albion","Roudolph","Man","Farmer","Liberal Party of Canada","Elected (Acclamation)",0
 "New Brunswick",1922-01-19,"By-Election","14","Westmorland","Copp, Arthur Bliss","Copp","Arthur","Bliss","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "New Brunswick",1922-11-20,"By-Election","14","Gloucester","Robichaud, Jean George","Robichaud","Jean","George","Man","Fish merchant","Liberal Party of Canada","Elected (Acclamation)",0
 "New Brunswick",1923-12-20,"By-Election","14","Kent","Doucet, Alexandre Joseph","Doucet","Alexandre","Joseph","Man","Farmer","Conservative (1867-1942)","Elected",3643
-"New Brunswick",1923-12-20,"By-Election","14","Kent","Bourgeois, Alfred Edmond","Bourgeois","Alfred","Edmond","Man",NA,"Liberal Party of Canada","Defeated",3435
+"New Brunswick",1923-12-20,"By-Election","14","Kent","Bourgeois, Alfred Edmond","Bourgeois","Alfred","Edmond","Man","Landlord, Merchant, Clerk","Liberal Party of Canada","Defeated",3435
 "New Brunswick",1924-10-07,"By-Election","14","Northumberland","Snowball, William Bunting","Snowball","William","Bunting","Man","Lumber merchant","Liberal Party of Canada","Elected",6222
 "New Brunswick",1924-10-07,"By-Election","14","Northumberland","Hickey, Clifford Patrick","Hickey","Clifford","Patrick","Man","Druggist","Conservative (1867-1942)","Defeated",5583
-"New Brunswick",1919-10-17,"By-Election","13","Victoria--Carleton","Caldwell, Thomas Wakem","Caldwell","Thomas","Wakem","Man","Farmer","United Farmers","Elected",6500
-"New Brunswick",1919-10-17,"By-Election","13","Victoria--Carleton","Melville, Weldon Wilbur","Melville","Weldon","Wilbur","Man",NA,"Unknown","Defeated",2956
+"New Brunswick",1919-10-27,"By-Election","13","Victoria--Carleton","Caldwell, Thomas Wakem","Caldwell","Thomas","Wakem","Man","Farmer","United Farmers","Elected",6500
+"New Brunswick",1919-10-27,"By-Election","13","Victoria--Carleton","Melville, Weldon Wilbur","Melville","Weldon","Wilbur","Man",NA,"Unknown","Defeated",2956
 "New Brunswick",1920-09-20,"By-Election","13","St. John--Albert","Wigmore, Rupert Wilson","Wigmore","Rupert","Wilson","Man","Civil engineer","Conservative (1867-1942)","Elected",8125
 "New Brunswick",1920-09-20,"By-Election","13","St. John--Albert","Emery, Alban Frederick","Emery","Alban","Frederick","Man",NA,"Liberal Party of Canada","Defeated",3970
 "New Brunswick",1921-05-28,"By-Election","13","York--Sunbury","Hanson, Richard Burpee","Hanson","Richard","Burpee","Man","Barrister","Conservative (1867-1942)","Elected",7107
@@ -62,10 +62,10 @@
 "New Brunswick",1901-12-28,"By-Election","9","York","Mcleod, Joseph","Mcleod","Joseph",NA,"Man",NA,"Independent Liberal","Defeated",1976
 "New Brunswick",1904-01-30,"By-Election","9","Westmorland","Emmerson, Henry Robert","Emmerson","Henry","Robert","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "New Brunswick",1904-02-16,"By-Election","9","St. John (City of )","Daniel, John Waterhouse","Daniel","John","Waterhouse","Man","Physician","Conservative (1867-1942)","Elected",3709
-"New Brunswick",1904-02-16,"By-Election","9","St. John (City of )","Mckeown, H.A.","Mckeown","H.A.",NA,"Man",NA,"Unknown","Defeated",3440
+"New Brunswick",1904-02-16,"By-Election","9","St. John (City of )","McKeown, H.A.","McKeown","H.A.",NA,"Man",NA,"Unknown","Defeated",3440
 "New Brunswick",1896-08-25,"By-Election","8","Sunbury--Queen's","Blair, Andrew George","Blair","Andrew","George","Man","Lawyer","Liberal Party of Canada","Elected",2310
 "New Brunswick",1896-08-25,"By-Election","8","Sunbury--Queen's","Wilmot, Robert Duncan","Wilmot","Robert","Duncan","Man","Businessman","Conservative (1867-1942)","Defeated",1686
-"New Brunswick",1892-02-25,"By-Election","7","Queen's","Baird, George Frederick","Baird","George","Frederick","Man","Lawyer","Conservative (1867-1942)","Elected",0
+"New Brunswick",1892-02-25,"By-Election","7","Queen's","Baird, George Frederick","Baird","George","Frederick","Man","Lawyer","Conservative (1867-1942)","Elected (Court decision)",0
 "New Brunswick",1892-04-06,"By-Election","7","Carleton","Colter, Newton Ramsay","Colter","Newton","Ramsay","Man","Physician","Liberal Party of Canada","Elected (Acclamation)",0
 "New Brunswick",1892-11-22,"By-Election","7","St. John (City and County of)","Chesley, John  Alexander","Chesley","John"," Alexander","Man","Founder","Conservative (1867-1942)","Elected (Acclamation)",0
 "New Brunswick",1892-12-06,"By-Election","7","Kent","McInerney, George Valentine","McInerney","George","Valentine","Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
@@ -81,18 +81,18 @@
 "New Brunswick",1883-07-10,"By-Election","5","Albert","Wallace, John","Wallace","John",NA,"Man","Farmer","Liberal-Conservative","Elected",934
 "New Brunswick",1883-07-10,"By-Election","5","Albert","Rogers, Alexander","Rogers","Alexander",NA,"Man","Merchant","Liberal Party of Canada","Defeated",815
 "New Brunswick",1883-09-22,"By-Election","5","Kent","Landry, Pierre Amand","Landry","Pierre","Amand","Man","Lawyer","Conservative (1867-1942)","Elected",1638
-"New Brunswick",1883-09-22,"By-Election","5","Kent","McInerney, George Valentine","McInerney","George","Valentine","Man",NA,"Liberal Party of Canada","Defeated",1100
+"New Brunswick",1883-09-22,"By-Election","5","Kent","McInerney, George Valentine","McInerney","George","Valentine","Man","Lawyer","Liberal Party of Canada","Defeated",1100
 "New Brunswick",1884-06-29,"By-Election","5","York","Temple, Thomas","Temple","Thomas",NA,"Man","Farmer","Conservative (1867-1942)","Elected",2012
 "New Brunswick",1884-06-29,"By-Election","5","York","Gregory, G.F.","Gregory","G.F.",NA,"Man",NA,"Liberal Party of Canada","Defeated",1834
 "New Brunswick",1885-10-20,"By-Election","5","St. John (City and County of)","Everett, Charles Arthur","Everett","Charles","Arthur","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
 "New Brunswick",1885-11-24,"By-Election","5","St. John (City of )","Barker, Frederick Eustace","Barker","Frederick","Eustace","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
-"New Brunswick",1885-12-31,"By-Election","5","King's","Domville, James","Domville","James",NA,"Man","Merchant","Independent Conservative","Defeated",0
-"New Brunswick",1885-12-31,"By-Election","5","King's","Foster, George Eulas","Foster","George","Eulas","Man","University teacher","Conservative (1867-1942)","Elected",0
+"New Brunswick",1885-12-31,"By-Election","5","King's","Foster, George Eulas","Foster","George","Eulas","Man","University teacher","Conservative (1867-1942)","Elected",1903
+"New Brunswick",1885-12-31,"By-Election","5","King's","Domville, James","Domville","James",NA,"Man","Merchant","Independent Conservative","Defeated",1491
 "New Brunswick",1878-11-04,"By-Election","4","St. John (City of )","Tilley, Samuel Leonard","Tilley","Samuel","Leonard","Man","Druggist","Liberal-Conservative","Elected (Acclamation)",0
 "New Brunswick",1881-02-16,"By-Election","4","Carleton","Irvine, David","Irvine","David",NA,"Man","Farmer","Liberal Party of Canada","Elected",1470
 "New Brunswick",1881-02-16,"By-Election","4","Carleton","Connell, C.P.","Connell","C.P.",NA,"Man",NA,"Unknown","Defeated",1425
 "New Brunswick",1877-07-02,"By-Election","3","Gloucester","Anglin, Timothy Warren","Anglin","Timothy","Warren","Man","Editor","Liberal Party of Canada","Elected",1185
-"New Brunswick",1877-07-02,"By-Election","3","Gloucester","Turgeon, Onésiphore","Turgeon","Onésiphore",NA,"Man",NA,"Unknown","Defeated",858
+"New Brunswick",1877-07-02,"By-Election","3","Gloucester","Turgeon, Onésiphore","Turgeon","Onésiphore",NA,"Man","Editor, Journalist","Unknown","Defeated",858
 "New Brunswick",1878-01-12,"By-Election","3","Restigouche","Haddow, George","Haddow","George",NA,"Man","Merchant","Independent","Elected (Acclamation)",0
 "New Brunswick",1878-02-05,"By-Election","3","Northumberland","Mitchell, Peter","Mitchell","Peter",NA,"Man","Lawyer","Independent","Elected (Acclamation)",0
 "New Brunswick",1873-09-18,"By-Election","2","Carleton","Appleby, Stephen Burpee","Appleby","Stephen","Burpee","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
@@ -105,4 +105,4 @@
 "New Brunswick",1868-12-24,"By-Election","1","Northumberland","Hutchison, Richard","Hutchison","Richard",NA,"Man","Lumber merchant","Liberal Party of Canada","Elected",1133
 "New Brunswick",1868-12-24,"By-Election","1","Northumberland","Gough, (unknown)","Gough",NA,NA,"Man",NA,"Unknown","Defeated",894
 "New Brunswick",1870-11-29,"By-Election","1","Restigouche","Moffat, George","Moffat","George",NA,"Man","Merchant","Conservative (1867-1942)","Elected",411
-"New Brunswick",1870-11-29,"By-Election","1","Restigouche","DES BRISAY, A.C.","DES BRISAY","A.C.",NA,"Man",NA,"Unknown","Defeated",233
+"New Brunswick",1870-11-29,"By-Election","1","Restigouche","Des Brisay, A.C.","Des Brisay","A.C.",NA,"Man",NA,"Unknown","Defeated",233

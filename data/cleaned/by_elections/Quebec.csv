@@ -22,7 +22,7 @@
 "Quebec",2019-02-25,"By-Election","42","Outremont","Duchesne, Michel","Duchesne","Michel",NA,"Man","Writer","Bloc Québécois","Defeated",1674
 "Quebec",2019-02-25,"By-Election","42","Outremont","Louras, Jasmine","Louras","Jasmine",NA,"Woman","Student","Conservative Party of Canada","Defeated",925
 "Quebec",2019-02-25,"By-Election","42","Outremont","Seale, James","Seale","James",NA,"Man","Service member","People's Party of Canada","Defeated",232
-"Quebec",2019-02-25,"By-Election","42","Outremont","Barrett, William","Barrett","William",NA,"Man",NA,"Independent","Defeated",48
+"Quebec",2019-02-25,"By-Election","42","Outremont","Barrett, William","Barrett","William",NA,"Man","Businessman","Independent","Defeated",48
 "Quebec",2013-11-25,"By-Election","41","Bourassa","Dubourg, Emmanuel","Dubourg","Emmanuel",NA,"Man","Accountant","Liberal Party of Canada","Elected",8825
 "Quebec",2013-11-25,"By-Election","41","Bourassa","Moraille, Stéphane","Moraille","Stéphane",NA,"Man","Lawyer","New Democratic Party","Defeated",5766
 "Quebec",2013-11-25,"By-Election","41","Bourassa","Duranleau, Daniel","Duranleau","Daniel",NA,"Man","Community Activist","Bloc Québécois","Defeated",2387
@@ -103,6 +103,11 @@
 "Quebec",2003-06-16,"By-Election","37","Lévis-et-Chutes-de-la-Chaudière","Bonaventure, Yonnel","Bonaventure","Yonnel",NA,"Man","Industrial entrepreneur","Green Party of Canada","Defeated",254
 "Quebec",2003-06-16,"By-Election","37","Lévis-et-Chutes-de-la-Chaudière","Bouchard, Philippe","Bouchard","Philippe",NA,"Man","Designer","Canadian Reform Conservative Alliance","Defeated",220
 "Quebec",2003-06-16,"By-Election","37","Lévis-et-Chutes-de-la-Chaudière","Kasapoglu, Benjamin","Kasapoglu","Benjamin",NA,"Man","Salesperson","Marijuana Party","Defeated",186
+"Quebec",2003-06-16,"By-Election","37","Témiscamingue","Barrette, Gilbert","Barrette","Gilbert",NA,"Man","Retired","Liberal Party of Canada","Elected",10195
+"Quebec",2003-06-16,"By-Election","37","Témiscamingue","Sauvageau, Sylvain","Sauvageau","Sylvain",NA,"Man","Entrepreneur","Bloc Québécois","Defeated",6287
+"Quebec",2003-06-16,"By-Election","37","Témiscamingue","Lord, Rachel","Lord","Rachel",NA,"Woman","Retailer","Progressive Conservative Party","Defeated",733
+"Quebec",2003-06-16,"By-Election","37","Témiscamingue","Shushack, Dennis","Shushack","Dennis",NA,"Man","Industrial mechanic","New Democratic Party","Defeated",587
+"Quebec",2003-06-16,"By-Election","37","Témiscamingue","Marshall, Clarence","Marshall","Clarence",NA,"Man","Property manager","Canadian Reform Conservative Alliance","Defeated",82
 "Quebec",1998-09-14,"By-Election","36","Sherbrooke","Cardin, Serge","Cardin","Serge",NA,"Man","Accountant, CGA","Bloc Québécois","Elected",16143
 "Quebec",1998-09-14,"By-Election","36","Sherbrooke","Pouliot, Robert","Pouliot","Robert",NA,"Man","Shopkeeper","Liberal Party of Canada","Defeated",15923
 "Quebec",1998-09-14,"By-Election","36","Sherbrooke","Archambault, Robert","Archambault","Robert",NA,"Man","Lawyer","Progressive Conservative Party","Defeated",2303
@@ -133,7 +138,7 @@
 "Quebec",1995-02-13,"By-Election","35","Brome--Missisquoi","Ferland, Eric","Ferland","Eric",NA,"Man","Advertising representative","Green Party of Canada","Defeated",101
 "Quebec",1995-02-13,"By-Election","35","Brome--Missisquoi","Champagne, Michel","Champagne","Michel",NA,"Man","Biological producer","Natural Law Party of Canada","Defeated",77
 "Quebec",1995-02-13,"By-Election","35","Brome--Missisquoi","Long, John H.","Long","John","H.","Man","Businessman","Abolitionist Party of Canada","Defeated",15
-"Quebec",1995-02-13,"By-Election","35","Saint-Henri--Westmount","Robillard, Lucienne","Robillard","Lucienne",NA,"Woman",NA,"Liberal Party of Canada","Elected",12675
+"Quebec",1995-02-13,"By-Election","35","Saint-Henri--Westmount","Robillard, Lucienne","Robillard","Lucienne",NA,"Woman","Social Worker","Liberal Party of Canada","Elected",12675
 "Quebec",1995-02-13,"By-Election","35","Saint-Henri--Westmount","Meggs, Anne Michèle","Meggs","Anne","Michèle","Man","Councillor","Bloc Québécois","Defeated",2357
 "Quebec",1995-02-13,"By-Election","35","Saint-Henri--Westmount","Gould, Jay","Gould","Jay",NA,"Man","Public relations consultant","Progressive Conservative Party","Defeated",545
 "Quebec",1995-02-13,"By-Election","35","Saint-Henri--Westmount","Morency, Gaetan","Morency","Gaetan",NA,"Man","Businessman","Reform Party of Canada","Defeated",468
@@ -158,7 +163,7 @@
 "Quebec",1996-03-25,"By-Election","35","Saint-Laurent--Cartierville","Petel, Shaul","Petel","Shaul",NA,"Man","Teacher","Reform Party of Canada","Defeated",441
 "Quebec",1996-03-25,"By-Election","35","Saint-Laurent--Cartierville","Caron, Carole","Caron","Carole",NA,"Man","Airplane electrician","Independent","Defeated",229
 "Quebec",1996-03-25,"By-Election","35","Saint-Laurent--Cartierville","Mayo, Sara","Mayo","Sara",NA,"Man","Student","New Democratic Party","Defeated",212
-"Quebec",1990-02-12,"By-Election","34","Chambly","Edmonston, Philip","Edmonston","Philip",NA,"Man","Journalist, writer","New Democratic Party","Elected",26998
+"Quebec",1990-02-12,"By-Election","34","Chambly","Edmonston, Phillip","Edmonston","Phillip",NA,"Man","Journalist, writer","New Democratic Party","Elected",26998
 "Quebec",1990-02-12,"By-Election","34","Chambly","Lincoln, Clifford","Lincoln","Clifford",NA,"Man","Businessman","Liberal Party of Canada","Defeated",7000
 "Quebec",1990-02-12,"By-Election","34","Chambly","Bégin, Serge","Bégin","Serge",NA,"Man","Administrator","Progressive Conservative Party","Defeated",3819
 "Quebec",1990-02-12,"By-Election","34","Chambly","Décarie, Jocelyne","Décarie","Jocelyne",NA,"Man","Lawyer","Green Party of Canada","Defeated",1846
@@ -221,7 +226,7 @@
 "Quebec",1977-05-24,"By-Election","30","Terrebonne","Demers, Claude","Demers","Claude",NA,"Man","Journalist","Communist Party of Canada","Defeated",290
 "Quebec",1977-05-24,"By-Election","30","Terrebonne","ST-MICHEL, J. Noël","ST-MICHEL","J.","Noël","Man","Printer","No affiliation to a recognised party","Defeated",167
 "Quebec",1977-05-24,"By-Election","30","Verdun","Savard, Pierre Raymond","Savard","Pierre","Raymond","Man","Businessman","Liberal Party of Canada","Elected",15208
-"Quebec",1977-05-24,"By-Election","30","Verdun","Edmonston, Philip","Edmonston","Philip",NA,"Man","Lawyer","New Democratic Party","Defeated",8151
+"Quebec",1977-05-24,"By-Election","30","Verdun","Edmonston, Phillip","Edmonston","Phillip",NA,"Man","Lawyer","New Democratic Party","Defeated",8151
 "Quebec",1977-05-24,"By-Election","30","Verdun","Lucas, Pierrette","Lucas","Pierrette",NA,"Man","Public relations officer","Progressive Conservative Party","Defeated",2003
 "Quebec",1977-05-24,"By-Election","30","Verdun","Dansereau, Michel","Dansereau","Michel",NA,"Man","Communications director","Social Credit Party of Canada","Defeated",173
 "Quebec",1977-05-24,"By-Election","30","Verdun","Walsh, Samuel J.","Walsh","Samuel","J.","Man","Journalist","Communist Party of Canada","Defeated",97
@@ -247,7 +252,7 @@
 "Quebec",1971-05-31,"By-Election","28","Chambly","L'Heureux, Yvon","L'Heureux","Yvon",NA,"Man","Manufacturer","Liberal Party of Canada","Elected",16243
 "Quebec",1971-05-31,"By-Election","28","Chambly","Boudreau, Emile","Boudreau","Emile",NA,"Man","Trade unionist","New Democratic Party","Defeated",5138
 "Quebec",1971-05-31,"By-Election","28","Chambly","Hamel, Léopold","Hamel","Léopold",NA,"Man","Controller","Progressive Conservative Party","Defeated",1573
-"Quebec",1971-05-31,"By-Election","28","Chambly","Mcglynn, Jean-Margaret","Mcglynn","Jean-Margaret",NA,"Man","Housewife","Independent","Defeated",1049
+"Quebec",1971-05-31,"By-Election","28","Chambly","McGLynn, Jean-Margaret","McGLynn","Jean-Margaret",NA,"Woman","Housewife","Independent","Defeated",1049
 "Quebec",1971-05-31,"By-Election","28","Chambly","Longtin, Claude","Longtin","Claude",NA,"Man","Psychoanalyst","Republican Party","Defeated",396
 "Quebec",1971-05-31,"By-Election","28","Trois-Rivières","Lajoie, Claude G.","Lajoie","Claude","G.","Man","Contractor","Liberal Party of Canada","Elected",12809
 "Quebec",1971-05-31,"By-Election","28","Trois-Rivières","Lemay, Réal","Lemay","Réal",NA,"Man","Merchant","Social Credit Party of Canada","Defeated",11616
@@ -296,7 +301,6 @@
 "Quebec",1954-03-22,"By-Election","22","Gatineau","ST-JEAN, Ernest-Anastase","ST-JEAN","Ernest-Anastase",NA,"Man","Merchant","Progressive Conservative Party","Defeated",2614
 "Quebec",1954-03-22,"By-Election","22","Gatineau","Bonnier, Marcel-Bernard","Bonnier","Marcel-Bernard",NA,"Man","Agronomist","Independent","Defeated",796
 "Quebec",1954-03-22,"By-Election","22","Gatineau","Boucher, Roger","Boucher","Roger",NA,"Man","Inspector","Co-operative Commonwealth Federation","Defeated",674
-"Quebec",1954-03-22,"By-Election","22","Gatineau","ST-JEAN, Ernest-Anastase","ST-JEAN","Ernest-Anastase",NA,"Man",NA,"Progressive Conservative Party","Defeated",0
 "Quebec",1954-03-22,"By-Election","22","Verdun","Leduc, Joseph Gérard Yves","Leduc","Joseph","Gérard Yves","Man","Lawyer","Liberal Party of Canada","Elected",8221
 "Quebec",1954-03-22,"By-Election","22","Verdun","Dupuis, Armand","Dupuis","Armand",NA,"Man","Merchant","Progressive Conservative Party","Defeated",5755
 "Quebec",1954-03-22,"By-Election","22","Verdun","Gadbois, Roland","Gadbois","Roland",NA,"Man","Notary","Independent Liberal","Defeated",4671
@@ -306,7 +310,7 @@
 "Quebec",1954-03-22,"By-Election","22","Verdun","Perry, Ken","Perry","Ken",NA,"Man","Salesman","Independent","Defeated",204
 "Quebec",1954-11-08,"By-Election","22","Saint-Antoine--Westmount","Marler, George Carlyle","Marler","George","Carlyle","Man","Notary","Liberal Party of Canada","Elected",13960
 "Quebec",1954-11-08,"By-Election","22","Saint-Antoine--Westmount","Chambers, Egan","Chambers","Egan",NA,"Man","Insurance","Progressive Conservative Party","Defeated",9161
-"Quebec",1954-11-08,"By-Election","22","Saint-Antoine--Westmount","Harvey, Louise","Harvey","Louise",NA,"Man","Housewife","Labor-Progressive Party","Defeated",224
+"Quebec",1954-11-08,"By-Election","22","Saint-Antoine--Westmount","Harvey, Louise","Harvey","Louise",NA,"Woman","Housewife","Labor-Progressive Party","Defeated",224
 "Quebec",1954-11-08,"By-Election","22","Saint-Antoine--Westmount","Loader, Joseph","Loader","Joseph",NA,"Man","Clerk","Independent","Defeated",133
 "Quebec",1954-11-08,"By-Election","22","St. Lawrence--St. George","Richardson, Claude Sartoris","Richardson","Claude","Sartoris","Man","Lawyer","Liberal Party of Canada","Elected",6548
 "Quebec",1954-11-08,"By-Election","22","St. Lawrence--St. George","DE VOLPI, David","DE VOLPI","David",NA,"Man","Paper converter","Progressive Conservative Party","Defeated",4489
@@ -353,7 +357,7 @@
 "Quebec",1952-05-26,"By-Election","21","Roberval","Boulanger, Adjutor","Boulanger","Adjutor",NA,"Man","Pensioner","Independent Liberal","Defeated",3703
 "Quebec",1952-10-06,"By-Election","21","Outremont--St-Jean","Bourque, Romuald","Bourque","Romuald",NA,"Man","Publicist","Liberal Party of Canada","Elected",6294
 "Quebec",1952-10-06,"By-Election","21","Outremont--St-Jean","Nolin, Claude","Nolin","Claude",NA,"Man","Lawyer","Progressive Conservative Party","Defeated",3203
-"Quebec",1952-10-06,"By-Election","21","Outremont--St-Jean","Casgrain, Thérèse","Casgrain","Thérèse",NA,"Man","Housewife","Co-operative Commonwealth Federation","Defeated",1135
+"Quebec",1952-10-06,"By-Election","21","Outremont--St-Jean","Casgrain, Thérèse","Casgrain","Thérèse",NA,"Woman","Housewife","Co-operative Commonwealth Federation","Defeated",1135
 "Quebec",1952-10-06,"By-Election","21","Outremont--St-Jean","Bourque, Raymond","Bourque","Raymond",NA,"Man","Advertising agent","Independent Liberal","Defeated",442
 "Quebec",1952-10-06,"By-Election","21","Outremont--St-Jean","Ash, Ben","Ash","Ben",NA,"Man","Real estate broker","Independent","Defeated",161
 "Quebec",1952-10-06,"By-Election","21","Richelieu--Verchères","Cardin, Louis-Joseph-Lucien","Cardin","Louis-Joseph-Lucien",NA,"Man","Lawyer","Liberal Party of Canada","Elected",13285
@@ -380,7 +384,7 @@
 "Quebec",1942-02-09,"By-Election","19","Quebec East","St-Laurent, Louis Stephen","St-Laurent","Louis","Stephen","Man","Minister of Justice","Liberal Party of Canada","Elected",16708
 "Quebec",1942-02-09,"By-Election","19","Quebec East","Bouchard, Paul","Bouchard","Paul",NA,"Man","Journalist","Canadian Party","Defeated",12768
 "Quebec",1942-11-30,"By-Election","19","Charlevoix--Saguenay","Dorion, Frédéric","Dorion","Frédéric",NA,"Man","Lawyer","Independent","Elected",9773
-"Quebec",1942-11-30,"By-Election","19","Charlevoix--Saguenay","Casgrain, Thérèse Forget","Casgrain","Thérèse","Forget","Man","Housewife","Independent Liberal","Defeated",6706
+"Quebec",1942-11-30,"By-Election","19","Charlevoix--Saguenay","Casgrain, Thérèse Forget","Casgrain","Thérèse","Forget","Woman","Housewife","Independent Liberal","Defeated",6706
 "Quebec",1942-11-30,"By-Election","19","Charlevoix--Saguenay","Boivin, J. Emile","Boivin","J.","Emile","Man","Manufacturer","Independent Liberal","Defeated",2578
 "Quebec",1942-11-30,"By-Election","19","Charlevoix--Saguenay","Lacroix, J. Donat","Lacroix","J.","Donat","Man","Manufacturing agent","Independent Liberal","Defeated",209
 "Quebec",1942-11-30,"By-Election","19","Charlevoix--Saguenay","Gaudreault, Edouard","Gaudreault","Edouard",NA,"Man","Lawyer","Unknown","Defeated",189
@@ -430,7 +434,7 @@
 "Quebec",1926-11-02,"By-Election","16","Dorchester","Cannon, Lucien","Cannon","Lucien",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1926-11-02,"By-Election","16","Quebec East","Lapointe, Ernest","Lapointe","Ernest",NA,"Man","Minister of Justice","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1926-11-02,"By-Election","16","Richelieu","Cardin, Pierre-Joseph-Arthur","Cardin","Pierre-Joseph-Arthur",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Quebec",1926-11-02,"By-Election","16","St. James","Rinfret, Louis Édouard Fernand","Rinfret","Louis","Édouard Fernand","Man",NA,"Liberal Party of Canada","Elected (Acclamation)",0
+"Quebec",1926-11-02,"By-Election","16","St. James","Rinfret, Louis Édouard Fernand","Rinfret","Louis","Édouard Fernand","Man","Professor, Editor, Author, Journalist","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1928-12-17,"By-Election","16","Joliette","Ferland, Charles-Édouard","Ferland","Charles-Édouard",NA,"Man","Lawyer","Liberal Party of Canada","Elected",5251
 "Quebec",1928-12-17,"By-Election","16","Joliette","Guilbault, René-Laurier","Guilbault","René-Laurier",NA,"Man","Notary","Liberal Party of Canada","Defeated",2636
 "Quebec",1929-07-22,"By-Election","16","Laprairie--Napierville","Dupuis, Vincent","Dupuis","Vincent",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
@@ -467,7 +471,7 @@
 "Quebec",1920-04-07,"By-Election","13","St. James","Rinfret, Louis Édouard Fernand","Rinfret","Louis","Édouard Fernand","Man","Journalist","Liberal Party of Canada","Elected",3413
 "Quebec",1920-04-07,"By-Election","13","St. James","Mathieu, Alphetus","Mathieu","Alphetus",NA,"Man",NA,"Labour","Defeated",1856
 "Quebec",1921-05-28,"By-Election","13","Yamaska","Boucher, Aimé","Boucher","Aimé",NA,"Man","Notary","Liberal Party of Canada","Elected",4251
-"Quebec",1921-05-28,"By-Election","13","Yamaska","Mondou, Albéric Archie","Mondou","Albéric","Archie","Man",NA,"Unknown","Defeated",2608
+"Quebec",1921-05-28,"By-Election","13","Yamaska","Mondou, Albéric Archie","Mondou","Albéric","Archie","Man","Notary","Unknown","Defeated",2608
 "Quebec",1921-05-28,"By-Election","13","Yamaska","Lambert, Joseph","Lambert","Joseph",NA,"Man",NA,"Unknown","Defeated",467
 "Quebec",1911-10-27,"By-Election","12","Jacques Cartier","Monk, Frederick Debartzch","Monk","Frederick","Debartzch","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1911-10-27,"By-Election","12","Quebec County","Pelletier, Louis-Philippe","Pelletier","Louis-Philippe",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
@@ -478,7 +482,7 @@
 "Quebec",1912-11-19,"By-Election","12","Hochelaga","Coderre, Louis","Coderre","Louis",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",4276
 "Quebec",1912-11-19,"By-Election","12","Hochelaga","Doyon, Léopold","Doyon","Léopold",NA,"Man",NA,"Nationalist","Defeated",2003
 "Quebec",1913-10-11,"By-Election","12","Châteauguay","Morris, James","Morris","James",NA,"Man","Farmer","Conservative (1867-1942)","Elected",1412
-"Quebec",1913-10-11,"By-Election","12","Châteauguay","Fisher, Sydney Arthur","Fisher","Sydney","Arthur","Man",NA,"Liberal Party of Canada","Defeated",1267
+"Quebec",1913-10-11,"By-Election","12","Châteauguay","Fisher, Sydney Arthur","Fisher","Sydney","Arthur","Man","Farmer","Liberal Party of Canada","Defeated",1267
 "Quebec",1914-11-07,"By-Election","12","Champlain","Blondin, Pierre Édouard","Blondin","Pierre","Édouard","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1914-11-07,"By-Election","12","Quebec County","Casgrain, Thomas Chase","Casgrain","Thomas","Chase","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1915-02-01,"By-Election","12","Jacques Cartier","Descarries, Joseph-Adélard","Descarries","Joseph-Adélard",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
@@ -505,7 +509,7 @@
 "Quebec",1906-02-23,"By-Election","10","Maisonneuve","Grothe, L.O.","Grothe","L.O.",NA,"Man",NA,"Liberal Party of Canada","Defeated",3830
 "Quebec",1906-10-16,"By-Election","10","St. Johns--Iberville","Demers, Joseph","Demers","Joseph",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1906-10-23,"By-Election","10","Quebec County","Robitaille, Lorenzo","Robitaille","Lorenzo",NA,"Man","Manufacturer","Independent Liberal","Elected",2087
-"Quebec",1906-10-23,"By-Election","10","Quebec County","Amyot, Guillaume","Amyot","Guillaume",NA,"Man",NA,"Liberal Party of Canada","Defeated",1699
+"Quebec",1906-10-23,"By-Election","10","Quebec County","Amyot, Guillaume","Amyot","Guillaume",NA,"Man","Editor, Lawyer","Liberal Party of Canada","Defeated",1699
 "Quebec",1906-11-21,"By-Election","10","St. Anne","Walsh, Joseph Charles","Walsh","Joseph","Charles","Man","Lawyer","Liberal Party of Canada","Elected",2409
 "Quebec",1906-11-21,"By-Election","10","St. Anne","Curran, F.J.","Curran","F.J.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2207
 "Quebec",1906-12-29,"By-Election","10","Nicolet","Devlin, Charles Ramsay","Devlin","Charles","Ramsay","Man","Merchant","Liberal Party of Canada","Elected",2721
@@ -524,10 +528,10 @@
 "Quebec",1902-01-15,"By-Election","9","L'Islet","Carbonneau, Onésiphore","Carbonneau","Onésiphore",NA,"Man","Merchant","Liberal Party of Canada","Elected",953
 "Quebec",1902-01-15,"By-Election","9","L'Islet","Caron, Jos. Ed.","Caron","Jos.","Ed.","Man",NA,"Conservative (1867-1942)","Defeated",932
 "Quebec",1902-01-15,"By-Election","9","Laval","Léonard, Joseph-Édouard-Émile","Léonard","Joseph-Édouard-Émile",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",1649
-"Quebec",1902-01-15,"By-Election","9","Laval","Wilson, Charles Avila","Wilson","Charles","Avila","Man",NA,"Liberal Party of Canada","Defeated",1641
+"Quebec",1902-01-15,"By-Election","9","Laval","Wilson, Charles Avila","Wilson","Charles","Avila","Man","Lawyer","Liberal Party of Canada","Defeated",1641
 "Quebec",1902-01-15,"By-Election","9","Laval","Gohier, A.","Gohier","A.",NA,"Man",NA,"Independent","Defeated",43
 "Quebec",1902-01-15,"By-Election","9","St. James","Brunet, Joseph","Brunet","Joseph",NA,"Man","Businessman","Liberal Party of Canada","Elected",2899
-"Quebec",1902-01-15,"By-Election","9","St. James","Bergeron, Joseph Gédéon Horace","Bergeron","Joseph","Gédéon Horace","Man",NA,"Conservative (1867-1942)","Defeated",2252
+"Quebec",1902-01-15,"By-Election","9","St. James","Bergeron, Joseph Gédéon Horace","Bergeron","Joseph","Gédéon Horace","Man","Lawyer","Conservative (1867-1942)","Defeated",2252
 "Quebec",1902-01-29,"By-Election","9","Quebec West","Power, William","Power","William",NA,"Man","Merchant","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1902-02-28,"By-Election","9","Kamouraska","Carroll, Henry George","Carroll","Henry","George","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1902-03-26,"By-Election","9","Beauharnois","Loy, George di Madeiros","Loy","George","di Madeiros","Man","Farmer","Liberal Party of Canada","Elected",1822
@@ -550,7 +554,7 @@
 "Quebec",1904-02-16,"By-Election","9","St. Hyacinthe","Blanchet, Jean Baptiste","Blanchet","Jean","Baptiste","Man","Lawyer","Liberal Party of Canada","Elected",1841
 "Quebec",1904-02-16,"By-Election","9","St. Hyacinthe","Taché, J. de L.","Taché","J.","de L.","Man",NA,"Conservative (1867-1942)","Defeated",1645
 "Quebec",1904-02-16,"By-Election","9","St. James","Gervais, Honoré Hippolyte Achille","Gervais","Honoré","Hippolyte Achille","Man","Lawyer","Liberal Party of Canada","Elected",3269
-"Quebec",1904-02-16,"By-Election","9","St. James","Bergeron, Joseph Gédéon Horace","Bergeron","Joseph","Gédéon Horace","Man",NA,"Conservative (1867-1942)","Defeated",2591
+"Quebec",1904-02-16,"By-Election","9","St. James","Bergeron, Joseph Gédéon Horace","Bergeron","Joseph","Gédéon Horace","Man","Lawyer","Conservative (1867-1942)","Defeated",2591
 "Quebec",1904-02-20,"By-Election","9","Gaspé","Lemieux, Rodolphe","Lemieux","Rodolphe",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1896-07-30,"By-Election","8","Brome","Fisher, Sydney Arthur","Fisher","Sydney","Arthur","Man","Farmer","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1896-07-30,"By-Election","8","Portneuf","Joly de Lotbinière, Henri Gustave","Joly de Lotbinière","Henri","Gustave","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
@@ -571,7 +575,7 @@
 "Quebec",1897-12-21,"By-Election","8","Nicolet","Beauchesne, J.U.","Beauchesne","J.U.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",2018
 "Quebec",1898-01-24,"By-Election","8","Quebec-Centre","Malouin, Arthur Cyrille Albert","Malouin","Arthur","Cyrille Albert","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1898-12-14,"By-Election","8","Bagot","Marcile, Joseph Edmond","Marcile","Joseph","Edmond","Man","Merchant","Liberal Party of Canada","Elected",1431
-"Quebec",1898-12-14,"By-Election","8","Bagot","Brodeur, Louis-Philippe","Brodeur","Louis-Philippe",NA,"Man",NA,"Conservative (1867-1942)","Defeated",1384
+"Quebec",1898-12-14,"By-Election","8","Bagot","Brodeur, Louis-Philippe","Brodeur","Louis-Philippe",NA,"Man","Journalist, Lawyer","Conservative (1867-1942)","Defeated",1384
 "Quebec",1898-12-14,"By-Election","8","Montmagny","Martineau, Pierre-Raymond-Léonard","Martineau","Pierre-Raymond-Léonard",NA,"Man","Prothonotary","Liberal Party of Canada","Elected",1019
 "Quebec",1898-12-14,"By-Election","8","Montmagny","Blouin, A.","Blouin","A.",NA,"Man",NA,"Conservative (1867-1942)","Defeated",489
 "Quebec",1899-03-22,"By-Election","8","Lévis","Demers, Louis Julien","Demers","Louis","Julien","Man","Merchant","Liberal Party of Canada","Elected (Acclamation)",0
@@ -585,8 +589,8 @@
 "Quebec",1900-07-04,"By-Election","8","St. Hyacinthe","Bernier, Michel Esdras","Bernier","Michel","Esdras","Man","Businessman","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1892-01-11,"By-Election","7","Richelieu","Bruneau, Arthur Aimé","Bruneau","Arthur","Aimé","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1892-01-25,"By-Election","7","Laval","Ouimet, Joseph-Aldéric","Ouimet","Joseph-Aldéric",NA,"Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
-"Quebec",1892-02-03,"By-Election","7","Soulanges","Bain, James William","Bain","James","William","Man","Merchant","Conservative (1867-1942)","Elected",0
-"Quebec",1892-02-03,"By-Election","7","Soulanges","Mousseau, Joseph Octave","Mousseau","Joseph","Octave","Man","Physician","Independent","Defeated",0
+"Quebec",1892-02-03,"By-Election","7","Soulanges","Bain, James William","Bain","James","William","Man","Merchant","Conservative (1867-1942)","Elected",244
+"Quebec",1892-02-03,"By-Election","7","Soulanges","Mousseau, Joseph Octave","Mousseau","Joseph","Octave","Man","Physician","Independent","Defeated",126
 "Quebec",1892-02-26,"By-Election","7","Quebec West","Hearn, John","Hearn","John",NA,"Man","Real estate agent","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1892-02-27,"By-Election","7","Two Mountains","Girouard, Joseph","Girouard","Joseph",NA,"Man","Notary","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1892-02-29,"By-Election","7","Vaudreuil","McMillan, Hugh","McMillan","Hugh",NA,"Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
@@ -594,23 +598,23 @@
 "Quebec",1892-03-10,"By-Election","7","Brome","Dyer, Eugène Alphonse","Dyer","Eugène","Alphonse","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1892-03-10,"By-Election","7","Montmorency","Turcotte, Arthur Joseph","Turcotte","Arthur","Joseph","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1892-05-31,"By-Election","7","L'Assomption","Jeannotte, Hormidas","Jeannotte","Hormidas",NA,"Man","Notary","Conservative (1867-1942)","Elected (Acclamation)",0
-"Quebec",1892-06-26,"By-Election","7","Pontiac","Bryson, John","Bryson","John",NA,"Man","Businessman","Conservative (1867-1942)","Elected",0
-"Quebec",1892-06-26,"By-Election","7","Pontiac","Murray, Thomas","Murray","Thomas",NA,"Man","Merchant","Liberal Party of Canada","Defeated",0
+"Quebec",1892-06-26,"By-Election","7","Pontiac","Bryson, John","Bryson","John",NA,"Man","Businessman","Conservative (1867-1942)","Elected",992
+"Quebec",1892-06-26,"By-Election","7","Pontiac","Murray, Thomas","Murray","Thomas",NA,"Man","Merchant","Liberal Party of Canada","Defeated",296
 "Quebec",1892-08-16,"By-Election","7","Chicoutimi--Saguenay","Belley, Louis de Gonzague","Belley","Louis","de Gonzague","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1892-10-21,"By-Election","7","Hochelaga","Lachapelle, Sévérin","Lachapelle","Sévérin",NA,"Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
-"Quebec",1892-12-13,"By-Election","7","Soulanges","Bain, James William","Bain","James","William","Man","Merchant","Conservative (1867-1942)","Elected",0
-"Quebec",1892-12-13,"By-Election","7","Soulanges","Mousseau, Joseph Octave","Mousseau","Joseph","Octave","Man","Physician","Independent","Defeated",0
+"Quebec",1892-12-13,"By-Election","7","Soulanges","Bain, James William","Bain","James","William","Man","Merchant","Conservative (1867-1942)","Elected",226
+"Quebec",1892-12-13,"By-Election","7","Soulanges","Bourbonnais, Augustin","Bourbonnais","Augustin",NA,NA,"Physician","Liberal Party of Canada","Defeated",175
 "Quebec",1892-12-18,"By-Election","7","Montreal Centre","Curran, John Joseph","Curran","John","Joseph","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1892-12-21,"By-Election","7","Sherbrooke (Town of)","Ives, William Bullock","Ives","William","Bullock","Man","Businessman","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1893-01-05,"By-Election","7","L'Islet","Tarte, Joseph Israël","Tarte","Joseph","Israël","Man","Notary","Independent","Elected (Acclamation)",0
 "Quebec",1893-01-10,"By-Election","7","Terrebonne","Leclair, Pierre","Leclair","Pierre",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1893-04-12,"By-Election","7","Vaudreuil","Harwood, Henry Stanislas","Harwood","Henry","Stanislas","Man","Farmer","Liberal Party of Canada","Elected (Acclamation)",0
-"Quebec",1895-04-17,"By-Election","7","Quebec West","Dobell, Richard Reid","Dobell","Richard","Reid","Man","Businessman","Independent","Defeated",0
-"Quebec",1895-04-17,"By-Election","7","Quebec West","McGreevy, Thomas","McGreevy","Thomas",NA,"Man","Contractor","Liberal-Conservative","Elected",0
+"Quebec",1895-04-17,"By-Election","7","Quebec West","Dobell, Richard Reid","Dobell","Richard","Reid","Man","Businessman","Independent","Defeated",157
+"Quebec",1895-04-17,"By-Election","7","Quebec West","McGreevy, Thomas","McGreevy","Thomas",NA,"Man","Contractor","Liberal-Conservative","Elected",150
 "Quebec",1895-04-17,"By-Election","7","Verchères","Geoffrion, Christophe Alphonse","Geoffrion","Christophe","Alphonse","Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1895-11-30,"By-Election","7","Jacques Cartier","Charbonneau, Napoléon","Charbonneau","Napoléon",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
-"Quebec",1895-12-27,"By-Election","7","Montreal Centre","Hingston, William Hales","Hingston","William","Hales","Man","Physician","Conservative (1867-1942)","Defeated",0
-"Quebec",1895-12-27,"By-Election","7","Montreal Centre","McShane, James","McShane","James",NA,"Man","Merchant","Liberal Party of Canada","Elected",0
+"Quebec",1895-12-27,"By-Election","7","Montreal Centre","McShane, James","McShane","James",NA,"Man","Merchant","Liberal Party of Canada","Elected",3395
+"Quebec",1895-12-27,"By-Election","7","Montreal Centre","Hingston, William Hales","Hingston","William","Hales","Man","Physician","Conservative (1867-1942)","Defeated",3059
 "Quebec",1896-01-27,"By-Election","7","Charlevoix","Angers, Louis Charles Alphonse","Angers","Louis","Charles Alphonse","Man","Teacher","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1887-09-28,"By-Election","6","Charlevoix","Cimon, Simon","Cimon","Simon",NA,"Man","Civil engineer","Conservative (1867-1942)","Elected",1436
 "Quebec",1887-09-28,"By-Election","6","Charlevoix","Tremblay, J.A.","Tremblay","J.A.",NA,"Man",NA,"Unknown","Defeated",1025
@@ -624,12 +628,12 @@
 "Quebec",1888-07-17,"By-Election","6","Nicolet","Archambault, (unknown)","Archambault",NA,NA,"Man","Physician","Unknown","Defeated",1469
 "Quebec",1888-09-26,"By-Election","6","Montreal East","Lépine, Alphonse Télesphore","Lépine","Alphonse","Télesphore","Man","Journalist","Independent Conservative","Elected",3818
 "Quebec",1888-09-26,"By-Election","6","Montreal East","Poirier, (unknown)","Poirier",NA,NA,"Man",NA,"Unknown","Defeated",3155
-"Quebec",1889-01-16,"By-Election","6","Joliette","Guilbault, Édouard","Guilbault","Édouard",NA,"Man","Merchant","Independent Conservative","Defeated",0
-"Quebec",1889-01-16,"By-Election","6","Joliette","Neveu, Hilaire","Neveu","Hilaire",NA,"Man","Farmer","Nationalist","Elected",0
+"Quebec",1889-01-16,"By-Election","6","Joliette","Neveu, Hilaire","Neveu","Hilaire",NA,"Man","Farmer","Nationalist","Elected",453
+"Quebec",1889-01-16,"By-Election","6","Joliette","Guilbault, Édouard","Guilbault","Édouard",NA,"Man","Merchant","Independent Conservative","Defeated",313
 "Quebec",1889-05-16,"By-Election","6","Compton","Pope, Rufus Henry","Pope","Rufus","Henry","Man","Farmer and breeder","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1889-12-18,"By-Election","6","Stanstead","Colby, Charles Carroll","Colby","Charles","Carroll","Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
 "Quebec",1890-07-25,"By-Election","6","Montmorency","Desjardins, Louis-Georges","Desjardins","Louis-Georges",NA,"Man","Journalist","Conservative (1867-1942)","Elected (Acclamation)",0
-"Quebec",1890-12-09,"By-Election","6","Napierville","Paradis, François-Xavier","Paradis","François-Xavier",NA,"Man",NA,"Conservative (1867-1942)","Elected (Acclamation)",0
+"Quebec",1890-12-09,"By-Election","6","Napierville","Paradis, François-Xavier","Paradis","François-Xavier",NA,"Man","Farmer, Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1882-08-16,"By-Election","5","Terrebonne","Chapleau, Joseph Adolphe","Chapleau","Joseph","Adolphe","Man","Secretary of State","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1882-09-02,"By-Election","5","Bagot","Dupont, Flavien","Dupont","Flavien",NA,"Man","Notary","Conservative (1867-1942)","Elected",1408
 "Quebec",1882-09-02,"By-Election","5","Bagot","Desmarais, O.","Desmarais","O.",NA,"Man",NA,"Unknown","Defeated",1107
@@ -648,7 +652,7 @@
 "Quebec",1884-10-31,"By-Election","5","Beauce","Taschereau, Thomas Linière","Taschereau","Thomas","Linière","Man","Lawyer","Conservative (1867-1942)","Elected",1649
 "Quebec",1884-10-31,"By-Election","5","Beauce","Poirier, J.","Poirier","J.",NA,"Man",NA,"Unknown","Defeated",1336
 "Quebec",1884-12-22,"By-Election","5","Maskinongé","Desaulniers, Alexis Lesieur","Desaulniers","Alexis","Lesieur","Man","Lawyer","Conservative (1867-1942)","Elected",607
-"Quebec",1884-12-22,"By-Election","5","Maskinongé","Coulombe, Charles Jérémie","Coulombe","Charles","Jérémie","Man",NA,"Unknown","Defeated",570
+"Quebec",1884-12-22,"By-Election","5","Maskinongé","Coulombe, Charles Jérémie","Coulombe","Charles","Jérémie","Man","Physician","Unknown","Defeated",570
 "Quebec",1884-12-22,"By-Election","5","Maskinongé","Laflèche, D.L.","Laflèche","D.L.",NA,"Man",NA,"Unknown","Defeated",310
 "Quebec",1885-02-05,"By-Election","5","Soulanges","Bain, James William","Bain","James","William","Man","Merchant","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1885-04-14,"By-Election","5","Lévis","Guay, Pierre Malcom","Guay","Pierre","Malcom","Man","Surgeon","Liberal Party of Canada","Elected (Acclamation)",0
@@ -657,8 +661,8 @@
 "Quebec",1878-11-06,"By-Election","4","Terrebonne","Masson, Louis-François-Rodrigue","Masson","Louis-François-Rodrigue",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1878-11-14,"By-Election","4","Joliette","Baby, Louis François Georges","Baby","Louis","François Georges","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1879-01-09,"By-Election","4","Beauharnois","Bergeron, Joseph Gédéon Horace","Bergeron","Joseph","Gédéon Horace","Man","Lawyer","Conservative (1867-1942)","Elected",776
-"Quebec",1879-01-09,"By-Election","4","Beauharnois","Seers, L.A.","Seers","L.A.",NA,"Man",NA,"Unknown","Defeated",763
-"Quebec",1879-01-09,"By-Election","4","Beauharnois","ST. AMOUR, J.B.C.","ST. AMOUR","J.B.C.",NA,"Man",NA,"Unknown","Defeated",28
+"Quebec",1879-01-09,"By-Election","4","Beauharnois","Seers, L. Alexander","Seers","L.","Alexander","Man","Advocate","Conservative (1867-1942)","Defeated",763
+"Quebec",1879-01-09,"By-Election","4","Beauharnois","St. Amour, J.B.","St. Amour","J.B.",NA,"Man",NA,"Unknown","Defeated",28
 "Quebec",1879-02-13,"By-Election","4","Charlevoix","Perrault, Joseph Stanislas","Perrault","Joseph","Stanislas","Man","Lawyer","Conservative (1867-1942)","Elected",1077
 "Quebec",1879-02-13,"By-Election","4","Charlevoix","Cimon, Simon Xavier","Cimon","Simon","Xavier","Man","Contractor","Conservative (1867-1942)","Defeated",898
 "Quebec",1879-07-07,"By-Election","4","Yamaska","Vanasse, Fabien","Vanasse","Fabien",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",1003
@@ -687,7 +691,7 @@
 "Quebec",1874-08-04,"By-Election","3","Napierville","Coupal dit La Reine, Sixte","Coupal dit La Reine","Sixte",NA,"Man","Farmer","Liberal Party of Canada","Elected",618
 "Quebec",1874-08-04,"By-Election","3","Napierville","Goyer, Antoine","Goyer","Antoine",NA,"Man",NA,"Unknown","Defeated",609
 "Quebec",1874-11-04,"By-Election","3","Argenteuil","Cushing, Lemuel","Cushing","Lemuel",NA,"Man","Lawyer","Liberal Party of Canada","Elected",840
-"Quebec",1874-11-04,"By-Election","3","Argenteuil","Owens, William","Owens","William",NA,"Man",NA,"Unknown","Defeated",736
+"Quebec",1874-11-04,"By-Election","3","Argenteuil","Owens, William","Owens","William",NA,"Man","Merchant","Unknown","Defeated",736
 "Quebec",1874-12-04,"By-Election","3","Richmond--Wolfe","Aylmer, Henry","Aylmer","Henry",NA,"Man","Lawyer","Liberal Party of Canada","Elected",978
 "Quebec",1874-12-04,"By-Election","3","Richmond--Wolfe","Hanning, Henry-R.","Hanning","Henry-R.",NA,"Man",NA,"Unknown","Defeated",592
 "Quebec",1874-12-04,"By-Election","3","Richmond--Wolfe","Bélanger, L.C.","Bélanger","L.C.",NA,"Man","Publisher","Unknown","Defeated",414
@@ -695,7 +699,7 @@
 "Quebec",1874-12-10,"By-Election","3","Joliette","Baby, Louis François Georges","Baby","Louis","François Georges","Man","Lawyer","Conservative (1867-1942)","Elected",1069
 "Quebec",1874-12-10,"By-Election","3","Joliette","Beaupré, Amable","Beaupré","Amable",NA,"Man","Physician","Unknown","Defeated",906
 "Quebec",1874-12-10,"By-Election","3","Montreal West","Mackenzie, Frederick","Mackenzie","Frederick",NA,"Man","Lawyer","Liberal Party of Canada","Elected",2030
-"Quebec",1874-12-10,"By-Election","3","Montreal West","White, Thomas","White","Thomas",NA,"Man",NA,"Unknown","Defeated",2023
+"Quebec",1874-12-10,"By-Election","3","Montreal West","White, Thomas","White","Thomas",NA,"Man","Merchant, Editor, Journalist","Unknown","Defeated",2023
 "Quebec",1874-12-30,"By-Election","3","Chambly","Jodoin, Amable","Jodoin","Amable",NA,"Man","Businessman","Liberal Party of Canada","Elected",863
 "Quebec",1874-12-30,"By-Election","3","Chambly","Benoit, Pierre Basile","Benoit","Pierre","Basile","Man","Farmer","Conservative (1867-1942)","Defeated",817
 "Quebec",1875-01-12,"By-Election","3","Montreal Centre","Devlin, Bernard","Devlin","Bernard",NA,"Man","Lawyer","Liberal Party of Canada","Elected",2303
@@ -710,7 +714,7 @@
 "Quebec",1875-07-10,"By-Election","3","Gaspé","Short, John","Short","John",NA,"Man","Farmer","Conservative (1867-1942)","Elected",605
 "Quebec",1875-07-10,"By-Election","3","Gaspé","LE BOUTHILLIER, Horatio","LE BOUTHILLIER","Horatio",NA,"Man","Merchant","Unknown","Defeated",299
 "Quebec",1875-10-30,"By-Election","3","Montreal West","Workman, Thomas","Workman","Thomas",NA,"Man","Merchant","Liberal Party of Canada","Elected",2300
-"Quebec",1875-10-30,"By-Election","3","Montreal West","White, Thomas","White","Thomas",NA,"Man",NA,"Unknown","Defeated",2250
+"Quebec",1875-10-30,"By-Election","3","Montreal West","White, Thomas","White","Thomas",NA,"Man","Merchant, Editor, Journalist","Unknown","Defeated",2250
 "Quebec",1875-11-23,"By-Election","3","Bellechasse","Blanchet, Joseph-Godric","Blanchet","Joseph-Godric",NA,"Man","Physician","Conservative (1867-1942)","Elected",698
 "Quebec",1875-11-23,"By-Election","3","Bellechasse","LaRue, Achille","LaRue","Achille",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",443
 "Quebec",1875-11-23,"By-Election","3","Bellechasse","Boutin, Pierre","Boutin","Pierre",NA,"Man",NA,"Unknown","Defeated",359
@@ -735,11 +739,11 @@
 "Quebec",1877-11-03,"By-Election","3","Quebec-Centre","Malouin, Jacques","Malouin","Jacques",NA,"Man","Lawyer","Independent","Elected (Acclamation)",0
 "Quebec",1877-11-28,"By-Election","3","Quebec East","Laurier, Wilfrid","Laurier","Wilfrid",NA,"Man","Lawyer","Liberal Party of Canada","Elected",1863
 "Quebec",1877-11-28,"By-Election","3","Quebec East","Tourangeau, Adolphe Guillet dit","Tourangeau","Adolphe","Guillet dit","Man","Notary","Conservative (1867-1942)","Defeated",1548
-"Quebec",1877-12-18,"By-Election","3","Nicolet","Méthot, François Xavier Ovide","Méthot","François","Xavier Ovide","Man",NA,"Independent Conservative","Elected",1387
+"Quebec",1877-12-18,"By-Election","3","Nicolet","Méthot, François Xavier Ovide","Méthot","François","Xavier Ovide","Man","Farmer","Independent Conservative","Elected",1387
 "Quebec",1877-12-18,"By-Election","3","Nicolet","Turcotte, Gustave Adolphe","Turcotte","Gustave","Adolphe","Man","Physician","Liberal Party of Canada","Defeated",1018
 "Quebec",1873-02-15,"By-Election","2","Bonaventure","Robitaille, Théodore","Robitaille","Théodore",NA,"Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
-"Quebec",1873-03-28,"By-Election","2","Quebec County","Caron, Adolphe-Philippe","Caron","Adolphe-Philippe",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",0
-"Quebec",1873-03-28,"By-Election","2","Quebec County","Fabre, Hector","Fabre","Hector",NA,"Man","Lawyer","Nationalist","Defeated",0
+"Quebec",1873-03-26,"By-Election","2","Quebec County","Caron, Adolphe-Philippe","Caron","Adolphe-Philippe",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",708
+"Quebec",1873-03-26,"By-Election","2","Quebec County","Fabre, Hector","Fabre","Hector",NA,"Man","Lawyer","Nationalist","Defeated",224
 "Quebec",1873-10-28,"By-Election","2","Laval","Ouimet, Joseph-Aldéric","Ouimet","Joseph-Aldéric",NA,"Man","Lawyer","Liberal-Conservative","Elected (Acclamation)",0
 "Quebec",1873-11-27,"By-Election","2","Bellechasse","Fournier, Télesphore","Fournier","Télesphore",NA,"Man","Newspaper editor","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1873-11-27,"By-Election","2","Napierville","Dorion, Antoine-Aimé","Dorion","Antoine-Aimé",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
@@ -747,7 +751,7 @@
 "Quebec",1867-12-11,"By-Election","1","Montmorency","Langlois, Jean","Langlois","Jean",NA,"Man","Lawyer","Conservative (1867-1942)","Elected",766
 "Quebec",1867-12-11,"By-Election","1","Montmorency","Lefrançois, M.","Lefrançois","M.",NA,"Man",NA,"Unknown","Defeated",3
 "Quebec",1868-04-20,"By-Election","1","Montreal West","Ryan, Michael Patrick","Ryan","Michael","Patrick","Man","Merchant","Liberal-Conservative","Elected (Acclamation)",0
-"Quebec",1868-10-17,"By-Election","1","Three Rivers","McDougall, William","McDougall","William",NA,"Man",NA,"Conservative (1867-1942)","Elected (Acclamation)",0
+"Quebec",1868-10-17,"By-Election","1","Three Rivers","McDougall, William","McDougall","William",NA,"Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1868-10-30,"By-Election","1","Saint Maurice","Lacerte, Élie","Lacerte","Élie",NA,"Man","Physician","Conservative (1867-1942)","Elected",679
 "Quebec",1868-10-30,"By-Election","1","Saint Maurice","Gérin, E.","Gérin","E.",NA,"Man",NA,"Unknown","Defeated",419
 "Quebec",1869-02-17,"By-Election","1","Kamouraska","Pelletier, Charles Alphonse Pantaléon","Pelletier","Charles","Alphonse Pantaléon","Man","Lawyer","Liberal Party of Canada","Elected",1149
