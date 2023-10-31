@@ -85,7 +85,7 @@
 "Alberta",2021-09-20,"General","44","Calgary Skyview","Gill, Gurinder Singh","Gill","Gurinder","Singh","Man","Accountant","New Democratic Party","Defeated",7690
 "Alberta",2021-09-20,"General","44","Calgary Skyview","Dhillon, Harry","Dhillon","Harry",NA,"Man","Senior Driver Instructor","People's Party of Canada","Defeated",1720
 "Alberta",2021-09-20,"General","44","Calgary Skyview","So, Janna","So","Janna",NA,"Woman","Homemaker","Green Party of Canada","Defeated",432
-"Alberta",2021-09-20,"General","44","Calgary Skyview","Aquart, Lee","Aquart","Lee",NA,NA,"Business Woman","Independent","Defeated",184
+"Alberta",2021-09-20,"General","44","Calgary Skyview","Aquart, Lee","Aquart","Lee",NA,"Data unavailable","Business Woman","Independent","Defeated",184
 "Alberta",2021-09-20,"General","44","Calgary Skyview","Blanchard, Daniel","Blanchard","Daniel",NA,"Man","Grocery Worker","Marxist-Leninist Party of Canada","Defeated",111
 "Alberta",2021-09-20,"General","44","Calgary Skyview","Rana, Nadeem","Rana","Nadeem",NA,"Man","Business","Centrist Party of Canada","Defeated",93
 "Alberta",2021-09-20,"General","44","Edmonton Centre","Boissonnault, Randy","Boissonnault","Randy",NA,"Man","Entrepreneur","Liberal Party of Canada","Elected",16560
@@ -494,7 +494,7 @@
 "Manitoba",2021-09-20,"General","44","Saint Boniface--Saint Vital","CoRhino, Sébastien","CoRhino","Sébastien",NA,"Man","Chef","Rhinoceros Party","Defeated",80
 "Manitoba",2021-09-20,"General","44","Saint Boniface--Saint Vital","Anderson, Scott A A","Anderson","Scott","A A","Man","Operator","Independent","Defeated",58
 "Manitoba",2021-09-20,"General","44","Saint Boniface--Saint Vital","Crisostomo, Naomi","Crisostomo","Naomi",NA,"Woman","Legal Assistant","Independent","Defeated",31
-"Manitoba",2021-09-20,"General","44","Saint Boniface--Saint Vital","Hildebrandt, Kerri","Hildebrandt","Kerri",NA,NA,"Engineer","Independent","Defeated",31
+"Manitoba",2021-09-20,"General","44","Saint Boniface--Saint Vital","Hildebrandt, Kerri","Hildebrandt","Kerri",NA,"Data unavailable","Engineer","Independent","Defeated",31
 "Manitoba",2021-09-20,"General","44","Saint Boniface--Saint Vital","Currie, Charles","Currie","Charles",NA,"Man","Comedy writer","Independent","Defeated",25
 "Manitoba",2021-09-20,"General","44","Saint Boniface--Saint Vital","Boudreault, Jean-Denis","Boudreault","Jean-Denis",NA,"Man","Social Worker","Independent","Defeated",24
 "Manitoba",2021-09-20,"General","44","Saint Boniface--Saint Vital","Strzalkowski, Patrick","Strzalkowski","Patrick",NA,"Man","Student","Independent","Defeated",21
@@ -855,7 +855,7 @@
 "Ontario",2021-09-20,"General","44","Glengarry--Prescott--Russell","Austring, Brennan","Austring","Brennan",NA,"Man","Engine Fitter","People's Party of Canada","Defeated",4458
 "Ontario",2021-09-20,"General","44","Glengarry--Prescott--Russell","Lapierre, Daniel","Lapierre","Daniel",NA,"Man","Production Manager","Green Party of Canada","Defeated",1350
 "Ontario",2021-09-20,"General","44","Glengarry--Prescott--Russell","Bisaillon, Marc","Bisaillon","Marc",NA,"Man","Maintenance","Free Party Canada","Defeated",422
-"Ontario",2021-09-20,"General","44","Glengarry--Prescott--Russell","Joker, The","Joker","The",NA,NA,"Gas Meter Reader","Independent","Defeated",314
+"Ontario",2021-09-20,"General","44","Glengarry--Prescott--Russell","Joker, The","Joker","The",NA,"Data unavailable","Gas Meter Reader","Independent","Defeated",314
 "Ontario",2021-09-20,"General","44","Guelph","Longfield, Lloyd","Longfield","Lloyd",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",29382
 "Ontario",2021-09-20,"General","44","Guelph","Sachan, Ashish","Sachan","Ashish",NA,"Man","Toxicologist","Conservative Party of Canada","Defeated",16795
 "Ontario",2021-09-20,"General","44","Guelph","Jahangir, Aisha","Jahangir","Aisha",NA,"Woman","Registered Nurse","New Democratic Party","Defeated",14713
@@ -1636,7 +1636,7 @@
 "Quebec",2021-09-20,"General","44","Laval--Les Îles","El-Khoury, Fayçal","El-Khoury","Fayçal",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",24758
 "Quebec",2021-09-20,"General","44","Laval--Les Îles","Jolivet, Guillaume","Jolivet","Guillaume",NA,"Man","Financial Advisor","Bloc Québécois","Defeated",9656
 "Quebec",2021-09-20,"General","44","Laval--Les Îles","Pettas, Spyridonas","Pettas","Spyridonas",NA,"Man","Businessman","Conservative Party of Canada","Defeated",8963
-"Quebec",2021-09-20,"General","44","Laval--Les Îles","Woodmass, Rowan","Woodmass","Rowan",NA,"Other Gender Identity","Design Lead/Web Designer","New Democratic Party","Defeated",3889
+"Quebec",2021-09-20,"General","44","Laval--Les Îles","Woodmass, Rowan","Woodmass","Rowan",NA,"Another Gender","Design Lead/Web Designer","New Democratic Party","Defeated",3889
 "Quebec",2021-09-20,"General","44","Laval--Les Îles","Couture, Matthieu","Couture","Matthieu",NA,"Man","Osteopath","People's Party of Canada","Defeated",2571
 "Quebec",2021-09-20,"General","44","Laval--Les Îles","Taleb, Ahmed","Taleb","Ahmed",NA,"Man","Business Development Consultant","Green Party of Canada","Defeated",760
 "Quebec",2021-09-20,"General","44","Lévis--Lotbinière","Gourde, Jacques","Gourde","Jacques",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",32731
@@ -1985,7 +1985,7 @@
 "Saskatchewan",2021-09-20,"General","44","Saskatoon--Grasswood","Kitzul, Kyla","Kitzul","Kyla",NA,"Woman","Manager, Food Service Industry","New Democratic Party","Defeated",13720
 "Saskatchewan",2021-09-20,"General","44","Saskatoon--Grasswood","Sarwar, Rokhan","Sarwar","Rokhan",NA,"Man","Retail Store Manager","Liberal Party of Canada","Defeated",6460
 "Saskatchewan",2021-09-20,"General","44","Saskatoon--Grasswood","Friesen, Mark","Friesen","Mark",NA,"Man","Small Business Owner","People's Party of Canada","Defeated",2108
-"Saskatchewan",2021-09-20,"General","44","Saskatoon--Grasswood","Walker, Gillian","Walker","Gillian",NA,"Other Gender Identity","Educator","Green Party of Canada","Defeated",556
+"Saskatchewan",2021-09-20,"General","44","Saskatoon--Grasswood","Walker, Gillian","Walker","Gillian",NA,"Another Gender","Educator","Green Party of Canada","Defeated",556
 "Saskatchewan",2021-09-20,"General","44","Saskatoon--University","Tochor, Corey","Tochor","Corey",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",20389
 "Saskatchewan",2021-09-20,"General","44","Saskatoon--University","Card, Claire","Card","Claire",NA,"Woman","Professor of Veterinary Medicine","New Democratic Party","Defeated",15042
 "Saskatchewan",2021-09-20,"General","44","Saskatoon--University","Dumont Walker, Dawn","Dumont Walker","Dawn",NA,"Woman","Executive Operating Officer","Liberal Party of Canada","Defeated",4608

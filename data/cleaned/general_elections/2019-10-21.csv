@@ -81,7 +81,7 @@
 "Alberta",2019-10-21,"General","43","Calgary Skyview","Knutson, Signe","Knutson","Signe",NA,"Woman","Artist/Painter","Green Party of Canada","Defeated",800
 "Alberta",2019-10-21,"General","43","Calgary Skyview","Dhillon, Harry","Dhillon","Harry",NA,"Man","Senior Driver Instructor","People's Party of Canada","Defeated",603
 "Alberta",2019-10-21,"General","43","Calgary Skyview","Alexander, Joseph","Alexander","Joseph",NA,"Man","Retired","Christian Heritage Party of Canada","Defeated",483
-"Alberta",2019-10-21,"General","43","Calgary Skyview","Dawar, Harpreet Singh","Dawar","Harpreet","Singh",NA,"IT Software Application Developer","Canada's Fourth Front","Defeated",136
+"Alberta",2019-10-21,"General","43","Calgary Skyview","Dawar, Harpreet Singh","Dawar","Harpreet","Singh","Data unavailable","IT Software Application Developer","Canada's Fourth Front","Defeated",136
 "Alberta",2019-10-21,"General","43","Calgary Skyview","Blanchard, Daniel","Blanchard","Daniel",NA,"Man","Grocery Worker","Marxist-Leninist Party of Canada","Defeated",130
 "Alberta",2019-10-21,"General","43","Edmonton Centre","Cumming, James","Cumming","James",NA,"Man","Executive","Conservative Party of Canada","Elected",22006
 "Alberta",2019-10-21,"General","43","Edmonton Centre","Boissonnault, Randy","Boissonnault","Randy",NA,"Man","Parliamentarian","Liberal Party of Canada","Defeated",17524
@@ -219,7 +219,7 @@
 "British Columbia",2019-10-21,"General","43","Burnaby North--Seymour","Beech, Terry","Beech","Terry",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",17770
 "British Columbia",2019-10-21,"General","43","Burnaby North--Seymour","Robinson, Svend Johannes","Robinson","Svend","Johannes","Man","Consultant","New Democratic Party","Defeated",16185
 "British Columbia",2019-10-21,"General","43","Burnaby North--Seymour","Leung, Heather","Leung","Heather",NA,"Woman","Occupational Therapist","Conservative Party of Canada","Defeated",9734
-"British Columbia",2019-10-21,"General","43","Burnaby North--Seymour","Kuttner, Amita","Kuttner","Amita",NA,"Other Gender Identity","Astrophysicist","Green Party of Canada","Defeated",4801
+"British Columbia",2019-10-21,"General","43","Burnaby North--Seymour","Kuttner, Amita","Kuttner","Amita",NA,"Another Gender","Astrophysicist","Green Party of Canada","Defeated",4801
 "British Columbia",2019-10-21,"General","43","Burnaby North--Seymour","Dong, Rocky","Dong","Rocky",NA,"Man","Student Consultant","People's Party of Canada","Defeated",1079
 "British Columbia",2019-10-21,"General","43","Burnaby North--Seymour","Taylor, Robert","Taylor","Robert",NA,"Man","Sales","Independent","Defeated",271
 "British Columbia",2019-10-21,"General","43","Burnaby North--Seymour","Dahlby, Lewis Clarke","Dahlby","Lewis","Clarke","Man","Businessman","Libertarian Party of Canada","Defeated",219
@@ -241,7 +241,7 @@
 "British Columbia",2019-10-21,"General","43","Central Okanagan--Similkameen--Nicola","Phillip, Joan","Phillip","Joan",NA,"Woman","Band Councillor","New Democratic Party","Defeated",10904
 "British Columbia",2019-10-21,"General","43","Central Okanagan--Similkameen--Nicola","Mellalieu, Robert","Mellalieu","Robert",NA,"Man","System Integrator","Green Party of Canada","Defeated",5086
 "British Columbia",2019-10-21,"General","43","Central Okanagan--Similkameen--Nicola","Duncan, Allan","Duncan","Allan",NA,"Man","Residential Painter","People's Party of Canada","Defeated",1345
-"British Columbia",2019-10-21,"General","43","Central Okanagan--Similkameen--Nicola","Regier, Jesse","Regier","Jesse",NA,NA,"Logging Truck Driver","Libertarian Party of Canada","Defeated",213
+"British Columbia",2019-10-21,"General","43","Central Okanagan--Similkameen--Nicola","Regier, Jesse","Regier","Jesse",NA,"Data unavailable","Logging Truck Driver","Libertarian Party of Canada","Defeated",213
 "British Columbia",2019-10-21,"General","43","Chilliwack--Hope","Strahl, Mark","Strahl","Mark",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",26672
 "British Columbia",2019-10-21,"General","43","Chilliwack--Hope","Velonis, Kelly","Velonis","Kelly",NA,"Woman","Executive Director","Liberal Party of Canada","Defeated",10848
 "British Columbia",2019-10-21,"General","43","Chilliwack--Hope","McQuillan, Heather","McQuillan","Heather",NA,"Woman","Set Buyer - Film Industry","New Democratic Party","Defeated",8957
@@ -410,7 +410,7 @@
 "British Columbia",2019-10-21,"General","43","Steveston--Richmond East","Peschisolido, Joe","Peschisolido","Joe",NA,"Man","Parliamentarian","Liberal Party of Canada","Defeated",14731
 "British Columbia",2019-10-21,"General","43","Steveston--Richmond East","Dela Torre, Jaeden","Dela Torre","Jaeden",NA,"Man","Student","New Democratic Party","Defeated",6321
 "British Columbia",2019-10-21,"General","43","Steveston--Richmond East","Iaci, Nicole","Iaci","Nicole",NA,"Woman","Lawyer","Green Party of Canada","Defeated",2972
-"British Columbia",2019-10-21,"General","43","Steveston--Richmond East","Chan, Ping","Chan","Ping",NA,NA,"Engineer","Independent","Defeated",449
+"British Columbia",2019-10-21,"General","43","Steveston--Richmond East","Chan, Ping","Chan","Ping",NA,"Data unavailable","Engineer","Independent","Defeated",449
 "British Columbia",2019-10-21,"General","43","Surrey Centre","Sarai, Randeep","Sarai","Randeep",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",15453
 "British Columbia",2019-10-21,"General","43","Surrey Centre","Saran, Sarjit Singh","Saran","Sarjit","Singh","Man","Human Resources Professional","New Democratic Party","Defeated",11353
 "British Columbia",2019-10-21,"General","43","Surrey Centre","Bains, Tina","Bains","Tina",NA,"Woman","Government Advisor","Conservative Party of Canada","Defeated",10505
@@ -458,7 +458,7 @@
 "British Columbia",2019-10-21,"General","43","Vancouver Quadra","Kenny, Leigh","Kenny","Leigh",NA,"Woman","Homemaker","New Democratic Party","Defeated",7681
 "British Columbia",2019-10-21,"General","43","Vancouver Quadra","Wright, Geoff","Wright","Geoff",NA,"Man","Ergonomist","Green Party of Canada","Defeated",6308
 "British Columbia",2019-10-21,"General","43","Vancouver Quadra","Filosof-Schipper, Sandra","Filosof-Schipper","Sandra",NA,"Woman","Business person","People's Party of Canada","Defeated",428
-"British Columbia",2019-10-21,"General","43","Vancouver Quadra","Erhardt, Austen","Erhardt","Austen",NA,NA,"Consultant","Independent","Defeated",162
+"British Columbia",2019-10-21,"General","43","Vancouver Quadra","Erhardt, Austen","Erhardt","Austen",NA,"Data unavailable","Consultant","Independent","Defeated",162
 "British Columbia",2019-10-21,"General","43","Vancouver South","Sajjan, Harjit Singh","Sajjan","Harjit","Singh","Man","Parliamentarian","Liberal Party of Canada","Elected",17808
 "British Columbia",2019-10-21,"General","43","Vancouver South","Young, Wai","Young","Wai",NA,"Woman","Consultant","Conservative Party of Canada","Defeated",14388
 "British Columbia",2019-10-21,"General","43","Vancouver South","McQuillan, Sean","McQuillan","Sean",NA,"Man","Film Technician","New Democratic Party","Defeated",8015
@@ -703,7 +703,7 @@
 "Nova Scotia",2019-10-21,"General","43","Kings--Hants","Anderson, Brogan","Anderson","Brogan",NA,"Woman","Library Clerk","Green Party of Canada","Defeated",6029
 "Nova Scotia",2019-10-21,"General","43","Kings--Hants","Southall, Matthew","Southall","Matthew",NA,"Man","Telecommunications Technician","People's Party of Canada","Defeated",786
 "Nova Scotia",2019-10-21,"General","43","Kings--Hants","Tan, Nicholas","Tan","Nicholas",NA,"Man","Coffee Roaster","Rhinoceros Party of Canada","Defeated",138
-"Nova Scotia",2019-10-21,"General","43","Kings--Hants","Dodge, Stacey","Dodge","Stacey",NA,NA,"Sales Representative","Veterans Coalition Party of Canada","Defeated",118
+"Nova Scotia",2019-10-21,"General","43","Kings--Hants","Dodge, Stacey","Dodge","Stacey",NA,"Data unavailable","Sales Representative","Veterans Coalition Party of Canada","Defeated",118
 "Nova Scotia",2019-10-21,"General","43","Sackville--Preston--Chezzetcook","Samson, Darrell","Samson","Darrell",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",19925
 "Nova Scotia",2019-10-21,"General","43","Sackville--Preston--Chezzetcook","Stickland, Matt","Stickland","Matt",NA,"Man","Naval Officer (Retired)","New Democratic Party","Defeated",11860
 "Nova Scotia",2019-10-21,"General","43","Sackville--Preston--Chezzetcook","Copley, Kevin","Copley","Kevin",NA,"Man","Proposal Development Specialist","Conservative Party of Canada","Defeated",11211
@@ -723,7 +723,7 @@
 "Nova Scotia",2019-10-21,"General","43","Sydney--Victoria","McDavid, Jodi","McDavid","Jodi",NA,"Woman","Small Business Owner","New Democratic Party","Defeated",8146
 "Nova Scotia",2019-10-21,"General","43","Sydney--Victoria","MacKinnon, Archie","MacKinnon","Archie",NA,"Man","Carpenter","Independent","Defeated",5679
 "Nova Scotia",2019-10-21,"General","43","Sydney--Victoria","Foster, Lois","Foster","Lois",NA,"Woman","Continuing Care Coordinator","Green Party of Canada","Defeated",2249
-"Nova Scotia",2019-10-21,"General","43","Sydney--Victoria","MacNeil, Kenzie","MacNeil","Kenzie",NA,NA,"Pensioner","Independent","Defeated",480
+"Nova Scotia",2019-10-21,"General","43","Sydney--Victoria","MacNeil, Kenzie","MacNeil","Kenzie",NA,"Data unavailable","Pensioner","Independent","Defeated",480
 "Nova Scotia",2019-10-21,"General","43","Sydney--Victoria","Joy, Randy","Joy","Randy",NA,"Man","Retired","Veterans Coalition Party of Canada","Defeated",248
 "Nova Scotia",2019-10-21,"General","43","West Nova","d'Entremont, Chris","d'Entremont","Chris",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",18390
 "Nova Scotia",2019-10-21,"General","43","West Nova","Deveau, Jason","Deveau","Jason",NA,"Man","Executive Assistant","Liberal Party of Canada","Defeated",17025
@@ -795,7 +795,7 @@
 "Ontario",2019-10-21,"General","43","Brampton South","Brar, Ramandeep","Brar","Ramandeep",NA,"Man","Owner, Transportation Service Company","Conservative Party of Canada","Defeated",13828
 "Ontario",2019-10-21,"General","43","Brampton South","Kaur, Mandeep","Kaur","Mandeep",NA,"Woman","Mortgage Specialist","New Democratic Party","Defeated",7985
 "Ontario",2019-10-21,"General","43","Brampton South","Fraser, Karen","Fraser","Karen",NA,"Woman","Retired","Green Party of Canada","Defeated",1926
-"Ontario",2019-10-21,"General","43","Brampton South","Ghuman, Rajwinder","Ghuman","Rajwinder",NA,NA,"Registered Practical Nurse","People's Party of Canada","Defeated",354
+"Ontario",2019-10-21,"General","43","Brampton South","Ghuman, Rajwinder","Ghuman","Rajwinder",NA,"Data unavailable","Registered Practical Nurse","People's Party of Canada","Defeated",354
 "Ontario",2019-10-21,"General","43","Brampton South","Mercer, Wavey","Mercer","Wavey",NA,"Woman","Administrative Assistant","Christian Heritage Party of Canada","Defeated",285
 "Ontario",2019-10-21,"General","43","Brampton South","Joshi, Mitesh","Joshi","Mitesh",NA,"Man","IT Engineer","Canada's Fourth Front","Defeated",152
 "Ontario",2019-10-21,"General","43","Brampton South","Sullivan, Dagmar","Sullivan","Dagmar",NA,"Woman","Assembly Worker","Marxist-Leninist Party of Canada","Defeated",68
@@ -806,7 +806,7 @@
 "Ontario",2019-10-21,"General","43","Brampton West","Sampson, Roger","Sampson","Roger",NA,"Man","Accountant","People's Party of Canada","Defeated",505
 "Ontario",2019-10-21,"General","43","Brampton West","Tannahill, Paul","Tannahill","Paul",NA,"Man","Investor","Christian Heritage Party of Canada","Defeated",319
 "Ontario",2019-10-21,"General","43","Brampton West","Hundal, Harinderpal","Hundal","Harinderpal",NA,"Man","Truck Driver and Real Estate Agent","Communist Party of Canada","Defeated",97
-"Ontario",2019-10-21,"General","43","Brampton West","Malik, Anjum","Malik","Anjum",NA,NA,"Self-employed","Canada's Fourth Front","Defeated",69
+"Ontario",2019-10-21,"General","43","Brampton West","Malik, Anjum","Malik","Anjum",NA,"Data unavailable","Self-employed","Canada's Fourth Front","Defeated",69
 "Ontario",2019-10-21,"General","43","Brantford--Brant","McColeman, Phil","McColeman","Phil",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",26849
 "Ontario",2019-10-21,"General","43","Brantford--Brant","Takacs, Danielle","Takacs","Danielle",NA,"Woman","Government Relations Manager","Liberal Party of Canada","Defeated",20454
 "Ontario",2019-10-21,"General","43","Brantford--Brant","Sawyer, Sabrina","Sawyer","Sabrina",NA,"Woman","Teacher","New Democratic Party","Defeated",13131
@@ -1135,7 +1135,7 @@
 "Ontario",2019-10-21,"General","43","Newmarket--Aurora","Bauer, Walter","Bauer","Walter",NA,"Man","Engineer","Green Party of Canada","Defeated",3551
 "Ontario",2019-10-21,"General","43","Newmarket--Aurora","Baxter, Dorian","Baxter","Dorian",NA,"Man","Anglican Clergyman","Progressive Canadian Party","Defeated",901
 "Ontario",2019-10-21,"General","43","Newmarket--Aurora","McCaughtrie, Andrew","McCaughtrie","Andrew",NA,"Man","Woodworker","People's Party of Canada","Defeated",588
-"Ontario",2019-10-21,"General","43","Newmarket--Aurora","Goble, Laurie","Goble","Laurie",NA,NA,"Veterinary Assistant","Rhinoceros Party of Canada","Defeated",104
+"Ontario",2019-10-21,"General","43","Newmarket--Aurora","Goble, Laurie","Goble","Laurie",NA,"Data unavailable","Veterinary Assistant","Rhinoceros Party of Canada","Defeated",104
 "Ontario",2019-10-21,"General","43","Niagara Centre","Badawey, Vance","Badawey","Vance",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",20292
 "Ontario",2019-10-21,"General","43","Niagara Centre","Jeffs, April","Jeffs","April",NA,"Woman","Photographer","Conservative Party of Canada","Defeated",17987
 "Ontario",2019-10-21,"General","43","Niagara Centre","Allen, Malcolm","Allen","Malcolm",NA,"Man","Electrician","New Democratic Party","Defeated",15469
@@ -1203,7 +1203,7 @@
 "Ontario",2019-10-21,"General","43","Ottawa Centre","Leriche, Marie-Chantal","Leriche","Marie-Chantal",NA,"Woman","Student","Christian Heritage Party of Canada","Defeated",198
 "Ontario",2019-10-21,"General","43","Ottawa Centre","Jones, Chris G","Jones","Chris","G","Man","Consultant","Independent","Defeated",177
 "Ontario",2019-10-21,"General","43","Ottawa Centre","Ryan, Stuart","Ryan","Stuart",NA,"Man","Retired Union Representative","Communist Party of Canada","Defeated",111
-"Ontario",2019-10-21,"General","43","Ottawa Centre","Vo, Giang Ha Thu","Vo","Giang","Ha Thu",NA,"Retired Teacher","Independent","Defeated",65
+"Ontario",2019-10-21,"General","43","Ottawa Centre","Vo, Giang Ha Thu","Vo","Giang","Ha Thu","Data unavailable","Retired Teacher","Independent","Defeated",65
 "Ontario",2019-10-21,"General","43","Ottawa South","McGuinty, David","McGuinty","David",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",34205
 "Ontario",2019-10-21,"General","43","Ottawa South","Tannis, Eli","Tannis","Eli",NA,"Man","Businessman","Conservative Party of Canada","Defeated",16025
 "Ontario",2019-10-21,"General","43","Ottawa South","Gay, Morgan","Gay","Morgan",NA,"Man","Negotiator","New Democratic Party","Defeated",10457
@@ -1304,7 +1304,7 @@
 "Ontario",2019-10-21,"General","43","Scarborough North","Chen, Shaun","Chen","Shaun",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",20911
 "Ontario",2019-10-21,"General","43","Scarborough North","Kong, David","Kong","David",NA,"Man","Investment Advisor","Conservative Party of Canada","Defeated",11838
 "Ontario",2019-10-21,"General","43","Scarborough North","Chen, Yan","Chen","Yan",NA,"Woman","Student","New Democratic Party","Defeated",5039
-"Ontario",2019-10-21,"General","43","Scarborough North","Velez, Avery","Velez","Avery",NA,"Other Gender Identity","Unemployed","Green Party of Canada","Defeated",796
+"Ontario",2019-10-21,"General","43","Scarborough North","Velez, Avery","Velez","Avery",NA,"Another Gender","Unemployed","Green Party of Canada","Defeated",796
 "Ontario",2019-10-21,"General","43","Scarborough North","Guerrier, Jude","Guerrier","Jude",NA,"Woman","Transit Operator","People's Party of Canada","Defeated",370
 "Ontario",2019-10-21,"General","43","Scarborough North","Robinson, Janet","Robinson","Janet",NA,"Woman","Vice-principal","United Party of Canada","Defeated",83
 "Ontario",2019-10-21,"General","43","Scarborough Southwest","Blair, Bill","Blair","Bill",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",28965
@@ -1327,7 +1327,7 @@
 "Ontario",2019-10-21,"General","43","Scarborough--Guildwood","Stefanis, Gus","Stefanis","Gus",NA,"Man","Politician","Canadian Nationalist Party","Defeated",85
 "Ontario",2019-10-21,"General","43","Scarborough--Guildwood","Abara, Stephen","Abara","Stephen",NA,"Man","Community Advisory Engagement Leader","Independent","Defeated",70
 "Ontario",2019-10-21,"General","43","Scarborough--Guildwood","Holding, Kathleen Marie","Holding","Kathleen","Marie","Woman","Homemaker","Independent","Defeated",70
-"Ontario",2019-10-21,"General","43","Scarborough--Guildwood","Alvi, Farhan","Alvi","Farhan",NA,NA,"Self-employed","Canada's Fourth Front","Defeated",55
+"Ontario",2019-10-21,"General","43","Scarborough--Guildwood","Alvi, Farhan","Alvi","Farhan",NA,"Data unavailable","Self-employed","Canada's Fourth Front","Defeated",55
 "Ontario",2019-10-21,"General","43","Scarborough--Rouge Park","Anandasangaree, Gary","Anandasangaree","Gary",NA,"Man","Lawyer","Liberal Party of Canada","Elected",31360
 "Ontario",2019-10-21,"General","43","Scarborough--Rouge Park","Singh, Bobby","Singh","Bobby",NA,"Man","Entrepreneur and Academic","Conservative Party of Canada","Defeated",10115
 "Ontario",2019-10-21,"General","43","Scarborough--Rouge Park","Kwok, Kingsley","Kwok","Kingsley",NA,"Man","Respiratory Therapist","New Democratic Party","Defeated",5801
@@ -1372,10 +1372,10 @@
 "Ontario",2019-10-21,"General","43","Sudbury","Popescu, J. David","Popescu","J.","David","Man","Landlord and Pensioner","Independent","Defeated",70
 "Ontario",2019-10-21,"General","43","Thornhill","Kent, Peter","Kent","Peter",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",29187
 "Ontario",2019-10-21,"General","43","Thornhill","Gladstone, Gary","Gladstone","Gary",NA,"Man","Fundraiser","Liberal Party of Canada","Defeated",18946
-"Ontario",2019-10-21,"General","43","Thornhill","Petrucci, Sara","Petrucci","Sara",NA,"Other Gender Identity","Student","New Democratic Party","Defeated",3469
+"Ontario",2019-10-21,"General","43","Thornhill","Petrucci, Sara","Petrucci","Sara",NA,"Another Gender","Student","New Democratic Party","Defeated",3469
 "Ontario",2019-10-21,"General","43","Thornhill","Rachlis, Josh","Rachlis","Josh",NA,"Man","Comedian","Green Party of Canada","Defeated",1600
 "Ontario",2019-10-21,"General","43","Thornhill","Bregman, Nathan","Bregman","Nathan",NA,"Man","Student","Rhinoceros Party of Canada","Defeated",217
-"Ontario",2019-10-21,"General","43","Thornhill","Malik, Waseem","Malik","Waseem",NA,NA,"Professor","Canada's Fourth Front","Defeated",77
+"Ontario",2019-10-21,"General","43","Thornhill","Malik, Waseem","Malik","Waseem",NA,"Data unavailable","Professor","Canada's Fourth Front","Defeated",77
 "Ontario",2019-10-21,"General","43","Thunder Bay--Rainy River","Powlowski, Marcus","Powlowski","Marcus",NA,"Man","Physician","Liberal Party of Canada","Elected",14498
 "Ontario",2019-10-21,"General","43","Thunder Bay--Rainy River","Rydholm, Linda","Rydholm","Linda",NA,"Woman","Retired","Conservative Party of Canada","Defeated",12039
 "Ontario",2019-10-21,"General","43","Thunder Bay--Rainy River","Won, Yuk-Sem","Won","Yuk-Sem",NA,"Woman","Teacher","New Democratic Party","Defeated",11944
@@ -1642,7 +1642,7 @@
 "Quebec",2019-10-21,"General","43","Dorval--Lachine--LaSalle","Laquerre, Céline","Laquerre","Céline",NA,"Woman","Certified Human Resources Advisor","Conservative Party of Canada","Defeated",5543
 "Quebec",2019-10-21,"General","43","Dorval--Lachine--LaSalle","Malette, Réjean","Malette","Réjean",NA,"Man","Financial Analyst","Green Party of Canada","Defeated",2898
 "Quebec",2019-10-21,"General","43","Dorval--Lachine--LaSalle","Torbati, Arash","Torbati","Arash",NA,"Man","Inventory Planner","People's Party of Canada","Defeated",528
-"Quebec",2019-10-21,"General","43","Dorval--Lachine--LaSalle","Hu, Fang","Hu","Fang",NA,NA,"Engineer","Progressive Canadian Party","Defeated",426
+"Quebec",2019-10-21,"General","43","Dorval--Lachine--LaSalle","Hu, Fang","Hu","Fang",NA,"Data unavailable","Engineer","Progressive Canadian Party","Defeated",426
 "Quebec",2019-10-21,"General","43","Dorval--Lachine--LaSalle","Watso, Xavier","Watso","Xavier",NA,"Man","Teacher","Rhinoceros Party of Canada","Defeated",177
 "Quebec",2019-10-21,"General","43","Drummond","Champoux, Martin","Champoux","Martin",NA,"Man","Communications and Marketing Director","Bloc Québécois","Elected",24574
 "Quebec",2019-10-21,"General","43","Drummond","Morales, William","Morales","William",NA,"Man","Kinesiologist","Liberal Party of Canada","Defeated",9552
@@ -2084,7 +2084,7 @@
 "Saskatchewan",2019-10-21,"General","43","Moose Jaw--Lake Centre--Lanigan","Regent, Talon","Regent","Talon",NA,"Man","Lawyer","New Democratic Party","Defeated",7660
 "Saskatchewan",2019-10-21,"General","43","Moose Jaw--Lake Centre--Lanigan","Melanson, Cecilia","Melanson","Cecilia",NA,"Woman","Graphic Designer","Liberal Party of Canada","Defeated",2517
 "Saskatchewan",2019-10-21,"General","43","Moose Jaw--Lake Centre--Lanigan","Craik, Chey","Craik","Chey",NA,"Man","Business Owner","People's Party of Canada","Defeated",1613
-"Saskatchewan",2019-10-21,"General","43","Moose Jaw--Lake Centre--Lanigan","Walker, Gillian","Walker","Gillian",NA,"Other Gender Identity","Student","Green Party of Canada","Defeated",1201
+"Saskatchewan",2019-10-21,"General","43","Moose Jaw--Lake Centre--Lanigan","Walker, Gillian","Walker","Gillian",NA,"Another Gender","Student","Green Party of Canada","Defeated",1201
 "Saskatchewan",2019-10-21,"General","43","Prince Albert","Hoback, Randy","Hoback","Randy",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",26891
 "Saskatchewan",2019-10-21,"General","43","Prince Albert","Johnson-Harder, Harmony","Johnson-Harder","Harmony",NA,"Woman","Community Developer","New Democratic Party","Defeated",6925
 "Saskatchewan",2019-10-21,"General","43","Prince Albert","Hjertaas, Estelle","Hjertaas","Estelle",NA,"Woman","Lawyer","Liberal Party of Canada","Defeated",4107

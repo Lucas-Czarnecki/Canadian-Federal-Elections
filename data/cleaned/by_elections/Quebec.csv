@@ -1,4 +1,14 @@
 "Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Gainey, Anna","Gainey","Anna",NA,"Woman",NA,"Liberal Party of Canada","Elected",11051
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Filion, Jean-François","Filion","Jean-François",NA,"Man",NA,"New Democratic Party","Defeated",3001
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Kaminski, Mathew","Kaminski","Mathew",NA,"Man",NA,"Conservative Party of Canada","Defeated",2936
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Pedneault, Jonathan","Pedneault","Jonathan",NA,"Man",NA,"Green Party of Canada","Defeated",2922
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Massey, Laurence","Massey","Laurence",NA,"Woman",NA,"Bloc Québécois","Defeated",985
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Trainman Montagano, Alex","Trainman Montagano","Alex",NA,"Man",NA,"Centrist Party of Canada","Defeated",510
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Olinga, Tiny","Olinga","Tiny",NA,"Man",NA,"People's Party of Canada","Defeated",141
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Carson, Sean","Carson","Sean",NA,"Man",NA,"Rhinoceros Party","Defeated",97
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Gilbert, Yves","Gilbert","Yves",NA,"Man",NA,"Christian Heritage Party of Canada","Defeated",65
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Vincent Ardea, Félix","Vincent Ardea","Félix",NA,"Man",NA,"No affiliation to a recognised party","Defeated",18
 "Quebec",2017-04-03,"By-Election","42","Saint-Laurent","Lambropoulos, Emmanuella","Lambropoulos","Emmanuella",NA,"Woman","Teacher","Liberal Party of Canada","Elected",11461
 "Quebec",2017-04-03,"By-Election","42","Saint-Laurent","Yu, Jimmy","Yu","Jimmy",NA,"Man","Business person","Conservative Party of Canada","Defeated",3784
 "Quebec",2017-04-03,"By-Election","42","Saint-Laurent","Green, Daniel","Green","Daniel",NA,"Man","Environmentalist","Green Party of Canada","Defeated",1548
@@ -603,7 +613,7 @@
 "Quebec",1892-08-16,"By-Election","7","Chicoutimi--Saguenay","Belley, Louis de Gonzague","Belley","Louis","de Gonzague","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1892-10-21,"By-Election","7","Hochelaga","Lachapelle, Sévérin","Lachapelle","Sévérin",NA,"Man","Physician","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1892-12-13,"By-Election","7","Soulanges","Bain, James William","Bain","James","William","Man","Merchant","Conservative (1867-1942)","Elected",226
-"Quebec",1892-12-13,"By-Election","7","Soulanges","Bourbonnais, Augustin","Bourbonnais","Augustin",NA,NA,"Physician","Liberal Party of Canada","Defeated",175
+"Quebec",1892-12-13,"By-Election","7","Soulanges","Bourbonnais, Augustin","Bourbonnais","Augustin",NA,"Data unavailable","Physician","Liberal Party of Canada","Defeated",175
 "Quebec",1892-12-18,"By-Election","7","Montreal Centre","Curran, John Joseph","Curran","John","Joseph","Man","Lawyer","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1892-12-21,"By-Election","7","Sherbrooke (Town of)","Ives, William Bullock","Ives","William","Bullock","Man","Businessman","Conservative (1867-1942)","Elected (Acclamation)",0
 "Quebec",1893-01-05,"By-Election","7","L'Islet","Tarte, Joseph Israël","Tarte","Joseph","Israël","Man","Notary","Independent","Elected (Acclamation)",0
