@@ -29,7 +29,7 @@
 "Alberta",2015-10-19,"General","42","Calgary Forest Lawn","Hansell, Judson","Hansell","Judson",NA,"Man","Journeyman plumber/gasfitter","Green Party of Canada","Defeated",1229
 "Alberta",2015-10-19,"General","42","Calgary Forest Lawn","Badura, Matt","Badura","Matt",NA,"Man","Commercial roofing consultant","Libertarian Party of Canada","Defeated",832
 "Alberta",2015-10-19,"General","42","Calgary Forest Lawn","Devine, Jason","Devine","Jason",NA,"Man","Student","Communist Party of Canada","Defeated",390
-"Alberta",2015-10-19,"General","42","Calgary Heritage","Harper, Stephen","Harper","Stephen",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",37263
+"Alberta",2015-10-19,"General","42","Calgary Heritage","Harper, Stephen Joseph","Harper","Stephen","Joseph","Man","Parliamentarian","Conservative Party of Canada","Elected",37263
 "Alberta",2015-10-19,"General","42","Calgary Heritage","Miles, Brendan","Miles","Brendan",NA,"Man","Physician","Liberal Party of Canada","Defeated",15172
 "Alberta",2015-10-19,"General","42","Calgary Heritage","Masters Burgener, Matt","Masters Burgener","Matt",NA,"Man","Musician","New Democratic Party","Defeated",4255
 "Alberta",2015-10-19,"General","42","Calgary Heritage","Christie, Kelly","Christie","Kelly",NA,"Man","Construction consultant/supervisor","Green Party of Canada","Defeated",1246
@@ -449,15 +449,15 @@
 "Manitoba",2015-10-19,"General","42","Provencher","Hayward, Terry","Hayward","Terry",NA,"Man","Retired agrologist","Liberal Party of Canada","Defeated",15509
 "Manitoba",2015-10-19,"General","42","Provencher","Lilley, Les","Lilley","Les",NA,"Man","Retired","New Democratic Party","Defeated",2371
 "Manitoba",2015-10-19,"General","42","Provencher","Wheeldon, Jeff","Wheeldon","Jeff",NA,"Man","Registrar","Green Party of Canada","Defeated",1779
-"Manitoba",2015-10-19,"General","42","Saint Boniface--Saint Vital","Vandal, Daniel","Vandal","Daniel",NA,"Man","Municipal councillor","Liberal Party of Canada","Elected",28530
-"Manitoba",2015-10-19,"General","42","Saint Boniface--Saint Vital","Catellier, François","Catellier","François",NA,"Man","Marketing consultant","Conservative Party of Canada","Defeated",14005
-"Manitoba",2015-10-19,"General","42","Saint Boniface--Saint Vital","Selby, Erin","Selby","Erin",NA,"Woman","Legislator","New Democratic Party","Defeated",5169
-"Manitoba",2015-10-19,"General","42","Saint Boniface--Saint Vital","Zaretski, Glenn","Zaretski","Glenn",NA,"Man","Musician","Green Party of Canada","Defeated",1119
 "Manitoba",2015-10-19,"General","42","Selkirk--Interlake--Eastman","Bezan, James","Bezan","James",NA,"Man","Parliamentarian/farmer","Conservative Party of Canada","Elected",25617
 "Manitoba",2015-10-19,"General","42","Selkirk--Interlake--Eastman","Levy, Joanne","Levy","Joanne",NA,"Woman","Film/tv producer","Liberal Party of Canada","Defeated",15508
 "Manitoba",2015-10-19,"General","42","Selkirk--Interlake--Eastman","Chief, Deborah","Chief","Deborah",NA,"Woman","Health director","New Democratic Party","Defeated",5649
 "Manitoba",2015-10-19,"General","42","Selkirk--Interlake--Eastman","James, Wayne","James","Wayne",NA,"Man","Farmer","Green Party of Canada","Defeated",1707
 "Manitoba",2015-10-19,"General","42","Selkirk--Interlake--Eastman","Grant, Donald L","Grant","Donald","L","Man","Contractor","Libertarian Party of Canada","Defeated",882
+"Manitoba",2015-10-19,"General","42","St. Boniface--St. Vital","Vandal, Daniel","Vandal","Daniel",NA,"Man","Municipal councillor","Liberal Party of Canada","Elected",28530
+"Manitoba",2015-10-19,"General","42","St. Boniface--St. Vital","Catellier, François","Catellier","François",NA,"Man","Marketing consultant","Conservative Party of Canada","Defeated",14005
+"Manitoba",2015-10-19,"General","42","St. Boniface--St. Vital","Selby, Erin","Selby","Erin",NA,"Woman","Legislator","New Democratic Party","Defeated",5169
+"Manitoba",2015-10-19,"General","42","St. Boniface--St. Vital","Zaretski, Glenn","Zaretski","Glenn",NA,"Man","Musician","Green Party of Canada","Defeated",1119
 "Manitoba",2015-10-19,"General","42","Winnipeg Centre","Ouellette, Robert-Falcon","Ouellette","Robert-Falcon",NA,"Man","Educator","Liberal Party of Canada","Elected",18471
 "Manitoba",2015-10-19,"General","42","Winnipeg Centre","Martin, Pat","Martin","Pat",NA,"Man","Parliamentarian","New Democratic Party","Defeated",9490
 "Manitoba",2015-10-19,"General","42","Winnipeg Centre","Szarkiewicz, Allie","Szarkiewicz","Allie",NA,"Woman","Retired educator/admin coordinator","Conservative Party of Canada","Defeated",4189
@@ -868,10 +868,10 @@
 "Ontario",2015-10-19,"General","42","Lanark--Frontenac--Kingston","Fenik, John","Fenik","John",NA,"Man","Municipal politician","New Democratic Party","Defeated",8073
 "Ontario",2015-10-19,"General","42","Lanark--Frontenac--Kingston","Payne, Anita","Payne","Anita",NA,"Woman","Retired teacher","Green Party of Canada","Defeated",2025
 "Ontario",2015-10-19,"General","42","Lanark--Frontenac--Kingston","Budd, Mark","Budd","Mark",NA,"Man","Patent agent","Libertarian Party of Canada","Defeated",418
-"Ontario",2015-10-19,"General","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","Brown, Gordon","Brown","Gordon",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",26738
-"Ontario",2015-10-19,"General","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","McFall, Mary Jean","McFall","Mary","Jean","Woman","Lawyer","Liberal Party of Canada","Defeated",22888
-"Ontario",2015-10-19,"General","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","Andrade, Margaret","Andrade","Margaret",NA,"Woman","Unemployed","New Democratic Party","Defeated",4722
-"Ontario",2015-10-19,"General","42","Leeds--Grenville--Thousand Islands and Rideau Lakes","Rekmans, Lorraine C","Rekmans","Lorraine","C","Woman","Business owner","Green Party of Canada","Defeated",2088
+"Ontario",2015-10-19,"General","42","Leeds--Grenville--Thousand Islands--Rideau Lakes","Brown, Gordon","Brown","Gordon",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",26738
+"Ontario",2015-10-19,"General","42","Leeds--Grenville--Thousand Islands--Rideau Lakes","McFall, Mary Jean","McFall","Mary","Jean","Woman","Lawyer","Liberal Party of Canada","Defeated",22888
+"Ontario",2015-10-19,"General","42","Leeds--Grenville--Thousand Islands--Rideau Lakes","Andrade, Margaret","Andrade","Margaret",NA,"Woman","Unemployed","New Democratic Party","Defeated",4722
+"Ontario",2015-10-19,"General","42","Leeds--Grenville--Thousand Islands--Rideau Lakes","Rekmans, Lorraine C","Rekmans","Lorraine","C","Woman","Business owner","Green Party of Canada","Defeated",2088
 "Ontario",2015-10-19,"General","42","London North Centre","Fragiskatos, Peter","Fragiskatos","Peter",NA,"Man","Academic/commentator","Liberal Party of Canada","Elected",32427
 "Ontario",2015-10-19,"General","42","London North Centre","Truppe, Susan","Truppe","Susan",NA,"Woman","Parliamentarian","Conservative Party of Canada","Defeated",19990
 "Ontario",2015-10-19,"General","42","London North Centre","Gutierrez, German","Gutierrez","German",NA,"Man","Journalist/professor","New Democratic Party","Defeated",9423
@@ -972,7 +972,7 @@
 "Ontario",2015-10-19,"General","42","Nipissing--Timiskaming","Aspin, Jay","Aspin","Jay",NA,"Man","Parliamentarian","Conservative Party of Canada","Defeated",14325
 "Ontario",2015-10-19,"General","42","Nipissing--Timiskaming","Jodouin, Kathleen","Jodouin","Kathleen",NA,"Woman","Social service worker","New Democratic Party","Defeated",7936
 "Ontario",2015-10-19,"General","42","Nipissing--Timiskaming","Peltier, Nicole","Peltier","Nicole",NA,"Woman","Student","Green Party of Canada","Defeated",1257
-"Ontario",2015-10-19,"General","42","Northumberland--Peterborough South","Rudd, Kim","Rudd","Kim",NA,"Woman","Self-employed","Liberal Party of Canada","Elected",27043
+"Ontario",2015-10-19,"General","42","Northumberland--Peterborough South","Rudd, Kim Elizabeth","Rudd","Kim","Elizabeth","Woman","Self-employed","Liberal Party of Canada","Elected",27043
 "Ontario",2015-10-19,"General","42","Northumberland--Peterborough South","Moulton, Adam","Moulton","Adam",NA,"Man","Business manager","Conservative Party of Canada","Defeated",25165
 "Ontario",2015-10-19,"General","42","Northumberland--Peterborough South","Christianson, Russ","Christianson","Russ",NA,"Man","Business consultant","New Democratic Party","Defeated",9411
 "Ontario",2015-10-19,"General","42","Northumberland--Peterborough South","Sinnott, Patricia","Sinnott","Patricia",NA,"Woman","Pharmacist","Green Party of Canada","Defeated",1990

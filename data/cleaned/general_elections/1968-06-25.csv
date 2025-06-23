@@ -7,7 +7,7 @@
 "Alberta",1968-06-25,"General","28","Battle River","Valleau, Stan","Valleau","Stan",NA,"Man","Farmer","Social Credit Party of Canada","Defeated",2756
 "Alberta",1968-06-25,"General","28","Battle River","Scotten, William M.","Scotten","William","M.","Man","Businessman","New Democratic Party","Defeated",1827
 "Alberta",1968-06-25,"General","28","Calgary Centre","Harkness, Douglas Scott","Harkness","Douglas","Scott","Man","Teacher and farmer","Progressive Conservative Party","Elected",16977
-"Alberta",1968-06-25,"General","28","Calgary Centre","Taylor, Nicholas W.","Taylor","Nicholas","W.","Man","Business executive","Liberal Party of Canada","Defeated",16676
+"Alberta",1968-06-25,"General","28","Calgary Centre","Taylor, Nicholas (Nick) William","Taylor","Nicholas","(Nick) William","Man","Business executive","Liberal Party of Canada","Defeated",16676
 "Alberta",1968-06-25,"General","28","Calgary Centre","Jackson, Margaret I.","Jackson","Margaret","I.","Woman","Professor","New Democratic Party","Defeated",2413
 "Alberta",1968-06-25,"General","28","Calgary North","Woolliams, Eldon Mattison","Woolliams","Eldon","Mattison","Man","Barrister","Progressive Conservative Party","Elected",21708
 "Alberta",1968-06-25,"General","28","Calgary North","Petrasuk, Peter","Petrasuk","Peter",NA,"Man","Engineer, lawyer","Liberal Party of Canada","Defeated",18185
@@ -99,7 +99,7 @@
 "British Columbia",1968-06-25,"General","28","Fraser Valley West","Murphy, Edward Patrick","Murphy","Edward","Patrick","Man","Supervisor of welfare","Liberal Party of Canada","Defeated",13745
 "British Columbia",1968-06-25,"General","28","Fraser Valley West","Lohnes, Warren","Lohnes","Warren",NA,"Man","Mink rancher","Progressive Conservative Party","Defeated",4997
 "British Columbia",1968-06-25,"General","28","Fraser Valley West","Price, Bert","Price","Bert",NA,"Man","Shoe service","Social Credit Party of Canada","Defeated",3224
-"British Columbia",1968-06-25,"General","28","Kamloops--Cariboo","Marchand, Len","Marchand","Len",NA,"Man","Agrologist","Liberal Party of Canada","Elected",13000
+"British Columbia",1968-06-25,"General","28","Kamloops--Cariboo","Marchand, Leonard (Len) Stephen","Marchand","Leonard","(Len) Stephen","Man","Agrologist","Liberal Party of Canada","Elected",13000
 "British Columbia",1968-06-25,"General","28","Kamloops--Cariboo","Fulton, Edmund Davie","Fulton","Edmund","Davie","Man","Barrister and solicitor","Progressive Conservative Party","Defeated",9704
 "British Columbia",1968-06-25,"General","28","Kamloops--Cariboo","Jones, Vernor Wilfred","Jones","Vernor","Wilfred","Man","Teacher","New Democratic Party","Defeated",7566
 "British Columbia",1968-06-25,"General","28","Kamloops--Cariboo","Gook, Peter Robert","Gook","Peter","Robert","Man","Realtor","Social Credit Party of Canada","Defeated",1842
@@ -296,10 +296,10 @@
 "Nova Scotia",1968-06-25,"General","28","Halifax--East Hants","Cregan, Alex J.","Cregan","Alex","J.","Man","Labour relations consultant","Liberal Party of Canada","Defeated",13488
 "Nova Scotia",1968-06-25,"General","28","Halifax--East Hants","Devanney, Burris","Devanney","Burris",NA,"Man","Teacher","New Democratic Party","Defeated",1718
 "Nova Scotia",1968-06-25,"General","28","South Shore","Crouse, Lloyd Roseville","Crouse","Lloyd","Roseville","Man","Business executive","Progressive Conservative Party","Elected",17547
-"Nova Scotia",1968-06-25,"General","28","South Shore","Leighton, Raymond Findlay","Leighton","Raymond","Findlay","Man","Professional engineer","Liberal Party of Canada","Defeated",11668
+"Nova Scotia",1968-06-25,"General","28","South Shore","Kinley, John James","Kinley","John","James","Man","Professional engineer","Liberal Party of Canada","Defeated",11668
 "Nova Scotia",1968-06-25,"General","28","South Shore","Harding, Aubrey","Harding","Aubrey",NA,"Man","Businessman","New Democratic Party","Defeated",764
 "Nova Scotia",1968-06-25,"General","28","South Western Nova","Comeau, Louis-Roland","Comeau","Louis-Roland",NA,"Man","Teacher","Progressive Conservative Party","Elected",14543
-"Nova Scotia",1968-06-25,"General","28","South Western Nova","Stewart, John B.","Stewart","John","B.","Man","Professor","Liberal Party of Canada","Defeated",12290
+"Nova Scotia",1968-06-25,"General","28","South Western Nova","Stewart, John Benjamin","Stewart","John","Benjamin","Man","Professor","Liberal Party of Canada","Defeated",12290
 "Nova Scotia",1968-06-25,"General","28","South Western Nova","Gilman, Rae","Gilman","Rae",NA,"Man","Executive secretary","New Democratic Party","Defeated",655
 "Nova Scotia",1968-06-25,"General","28","South Western Nova","Atkinson, N. Evanson","Atkinson","N.","Evanson","Man","Wholesaler","Independent Progressive Conservative","Defeated",293
 "Ontario",1968-06-25,"General","28","Algoma","Foster, Maurice Brydon","Foster","Maurice","Brydon","Man","Veterinarian","Liberal Party of Canada","Elected",9542
@@ -401,7 +401,7 @@
 "Ontario",1968-06-25,"General","28","Kitchener","Rosenberg, Morley","Rosenberg","Morley",NA,"Man","Lawyer","New Democratic Party","Defeated",12799
 "Ontario",1968-06-25,"General","28","Kitchener","Young, Jack","Young","Jack",NA,"Man","Manufacturer","Progressive Conservative Party","Defeated",11217
 "Ontario",1968-06-25,"General","28","Lakeshore","Robinson, William Kenneth","Robinson","William","Kenneth","Man","Barrister","Liberal Party of Canada","Elected",14464
-"Ontario",1968-06-25,"General","28","Lakeshore","Grier, Terence Wyly","Grier","Terence","Wyly","Man","Economist","New Democratic Party","Defeated",12367
+"Ontario",1968-06-25,"General","28","Lakeshore","Grier, Terence (Terry) Wyly","Grier","Terence","(Terry) Wyly","Man","Economist","New Democratic Party","Defeated",12367
 "Ontario",1968-06-25,"General","28","Lakeshore","Summerhayes, Stuart","Summerhayes","Stuart",NA,"Man","Rector","Progressive Conservative Party","Defeated",6794
 "Ontario",1968-06-25,"General","28","Lambton--Kent","McCutcheon, Maclyn (Mac) Thomas","McCutcheon","Maclyn","(Mac) Thomas","Man","Farmer","Progressive Conservative Party","Elected",14460
 "Ontario",1968-06-25,"General","28","Lambton--Kent","Lucier, Len","Lucier","Len",NA,"Man","Accountant","Liberal Party of Canada","Defeated",11094
@@ -443,7 +443,7 @@
 "Ontario",1968-06-25,"General","28","Ontario","Cafik, Norman Augustine","Cafik","Norman","Augustine","Man","Publisher","Liberal Party of Canada","Elected",13483
 "Ontario",1968-06-25,"General","28","Ontario","Muirhead, Clark T.","Muirhead","Clark","T.","Man","Engineer","Progressive Conservative Party","Defeated",10579
 "Ontario",1968-06-25,"General","28","Ontario","Wing, Robert L.","Wing","Robert","L.","Man","Teacher","New Democratic Party","Defeated",7607
-"Ontario",1968-06-25,"General","28","Oshawa--Whitby","Broadbent, John Edward","Broadbent","John","Edward","Man","University professor","New Democratic Party","Elected",15224
+"Ontario",1968-06-25,"General","28","Oshawa--Whitby","Broadbent, John Edward (Ed)","Broadbent","John","Edward (Ed)","Man","University professor","New Democratic Party","Elected",15224
 "Ontario",1968-06-25,"General","28","Oshawa--Whitby","Starr, Michael","Starr","Michael",NA,"Man","Clerk","Progressive Conservative Party","Defeated",15209
 "Ontario",1968-06-25,"General","28","Oshawa--Whitby","Newman, Desmond G.","Newman","Desmond","G.","Man","Businessman","Liberal Party of Canada","Defeated",14899
 "Ontario",1968-06-25,"General","28","Ottawa Centre","McIlraith, George James","McIlraith","George","James","Man","Barrister","Liberal Party of Canada","Elected",19578
@@ -456,7 +456,7 @@
 "Ontario",1968-06-25,"General","28","Ottawa West","Bell, Richard Albert","Bell","Richard","Albert","Man","Barrister-at-law","Progressive Conservative Party","Defeated",16392
 "Ontario",1968-06-25,"General","28","Ottawa West","Sutherland, Ralph","Sutherland","Ralph",NA,"Man","Physician","New Democratic Party","Defeated",5003
 "Ontario",1968-06-25,"General","28","Ottawa--Carleton","Turner, John Napier","Turner","John","Napier","Man","Lawyer","Liberal Party of Canada","Elected",28987
-"Ontario",1968-06-25,"General","28","Ottawa--Carleton","Binks, Kenneth C.","Binks","Kenneth","C.","Man","Lawyer","Progressive Conservative Party","Defeated",11665
+"Ontario",1968-06-25,"General","28","Ottawa--Carleton","Binks, Kenneth Charles","Binks","Kenneth","Charles","Man","Lawyer","Progressive Conservative Party","Defeated",11665
 "Ontario",1968-06-25,"General","28","Ottawa--Carleton","Wilson, Harold","Wilson","Harold",NA,"Man","Teacher","New Democratic Party","Defeated",3115
 "Ontario",1968-06-25,"General","28","Oxford","Nesbitt, Wallace Bickford (Wally)","Nesbitt","Wallace","Bickford (Wally)","Man","Lawyer","Progressive Conservative Party","Elected",18504
 "Ontario",1968-06-25,"General","28","Oxford","Tatham, Charlie","Tatham","Charlie",NA,"Man","Salesman","Liberal Party of Canada","Defeated",12697
@@ -511,7 +511,7 @@
 "Ontario",1968-06-25,"General","28","Simcoe North","Bell, Bill A.","Bell","Bill","A.","Man","School principal","Liberal Party of Canada","Defeated",14936
 "Ontario",1968-06-25,"General","28","Simcoe North","Rintoul, Charles Perrie","Rintoul","Charles","Perrie","Man","Teacher","New Democratic Party","Defeated",4730
 "Ontario",1968-06-25,"General","28","Spadina","Ryan, Sylvester Perry","Ryan","Sylvester","Perry","Man","Lawyer","Liberal Party of Canada","Elected",9379
-"Ontario",1968-06-25,"General","28","Spadina","Heap, Daniel James Macdonnell","Heap","Daniel","James Macdonnell","Man","Worker, priest","New Democratic Party","Defeated",3943
+"Ontario",1968-06-25,"General","28","Spadina","Heap, Daniel (Dan) James Macdonnell","Heap","Daniel","(Dan) James Macdonnell","Man","Worker, priest","New Democratic Party","Defeated",3943
 "Ontario",1968-06-25,"General","28","Spadina","Bagnato, Victor","Bagnato","Victor",NA,"Man","Development manager","Progressive Conservative Party","Defeated",3353
 "Ontario",1968-06-25,"General","28","St. Catharines","McNulty, James Carroll Patrick","McNulty","James","Carroll Patrick","Man","Teacher","Liberal Party of Canada","Elected",18100
 "Ontario",1968-06-25,"General","28","St. Catharines","Sabia, Laura","Sabia","Laura",NA,"Woman","Housewife","Progressive Conservative Party","Defeated",14544
@@ -580,7 +580,7 @@
 "Ontario",1968-06-25,"General","28","York West","Scott, Val","Scott","Val",NA,"Man","Business manager","New Democratic Party","Defeated",16204
 "Ontario",1968-06-25,"General","28","York West","Boddington, Wes","Boddington","Wes",NA,"Man","Manager","Progressive Conservative Party","Defeated",8344
 "Ontario",1968-06-25,"General","28","York West","Gunn, Norman","Gunn","Norman",NA,"Man","Podiatrist","Independent","Defeated",442
-"Ontario",1968-06-25,"General","28","York West","Palangio, Mike","Palangio","Mike",NA,"Man","Secretary","Communist Party of Canada","Defeated",155
+"Ontario",1968-06-25,"General","28","York West","Kashtan, William","Kashtan","William",NA,"Man","Secretary","Communist Party of Canada","Defeated",155
 "Ontario",1968-06-25,"General","28","York--Scarborough","Stanbury, Robert Douglas George","Stanbury","Robert","Douglas George","Man","Lawyer","Liberal Party of Canada","Elected",37374
 "Ontario",1968-06-25,"General","28","York--Scarborough","Heisey, Alan","Heisey","Alan",NA,"Man","Publisher","Progressive Conservative Party","Defeated",15458
 "Ontario",1968-06-25,"General","28","York--Scarborough","Mann, W.E. Ted","Mann","W.E.","Ted","Man","Teacher","New Democratic Party","Defeated",10724
@@ -954,7 +954,7 @@
 "Saskatchewan",1968-06-25,"General","28","Saskatoon--Biggar","Nasserden, Edward","Nasserden","Edward",NA,"Man","Farmer","Progressive Conservative Party","Defeated",13309
 "Saskatchewan",1968-06-25,"General","28","Saskatoon--Biggar","Blacklock, Ben","Blacklock","Ben",NA,"Man","Farmer, auctioneer","Liberal Party of Canada","Defeated",8071
 "Saskatchewan",1968-06-25,"General","28","Saskatoon--Humboldt","Lang, Otto Emil","Lang","Otto","Emil","Man","Law college dean","Liberal Party of Canada","Elected",15210
-"Saskatchewan",1968-06-25,"General","28","Saskatoon--Humboldt","Clark, George","Clark","George",NA,"Man","Lawyer","New Democratic Party","Defeated",14655
+"Saskatchewan",1968-06-25,"General","28","Saskatoon--Humboldt","Taylor, George","Taylor","George",NA,"Man","Lawyer","New Democratic Party","Defeated",14655
 "Saskatchewan",1968-06-25,"General","28","Saskatoon--Humboldt","Brand, Lewis Mackenzie","Brand","Lewis","Mackenzie","Man","Physician","Progressive Conservative Party","Defeated",14444
 "Saskatchewan",1968-06-25,"General","28","Swift Current--Maple Creek","McIntosh, John (Jack)","McIntosh","John","(Jack)","Man","Merchant","Progressive Conservative Party","Elected",11237
 "Saskatchewan",1968-06-25,"General","28","Swift Current--Maple Creek","Currie, Bev","Currie","Bev",NA,"Man","Farmer","New Democratic Party","Defeated",10207

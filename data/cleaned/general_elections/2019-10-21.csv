@@ -529,17 +529,17 @@
 "Manitoba",2019-10-21,"General","43","Provencher","McGee, Erin","McGee","Erin",NA,"Woman","Accounting Assistant","New Democratic Party","Defeated",6187
 "Manitoba",2019-10-21,"General","43","Provencher","Gibson, Janine G.","Gibson","Janine","G.","Woman","Organic Inspector","Green Party of Canada","Defeated",2884
 "Manitoba",2019-10-21,"General","43","Provencher","Sturby, Wayne","Sturby","Wayne",NA,"Man","Corrections Officer","People's Party of Canada","Defeated",1066
-"Manitoba",2019-10-21,"General","43","Saint Boniface--Saint Vital","Vandal, Daniel","Vandal","Daniel",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",20300
-"Manitoba",2019-10-21,"General","43","Saint Boniface--Saint Vital","Caron, Rejeanne","Caron","Rejeanne",NA,"Woman","Police Officer","Conservative Party of Canada","Defeated",15436
-"Manitoba",2019-10-21,"General","43","Saint Boniface--Saint Vital","Cross, Billie","Cross","Billie",NA,"Woman","Teacher","New Democratic Party","Defeated",8037
-"Manitoba",2019-10-21,"General","43","Saint Boniface--Saint Vital","Linnick, Ben","Linnick","Ben",NA,"Man","Emergency Telecommunicator","Green Party of Canada","Defeated",2671
-"Manitoba",2019-10-21,"General","43","Saint Boniface--Saint Vital","McAllister, Adam","McAllister","Adam",NA,"Man","Electrical Engineer in Training","People's Party of Canada","Defeated",591
-"Manitoba",2019-10-21,"General","43","Saint Boniface--Saint Vital","Baljeet, Sharma","Baljeet","Sharma",NA,"Man","Business","Independent","Defeated",303
 "Manitoba",2019-10-21,"General","43","Selkirk--Interlake--Eastman","Bezan, James","Bezan","James",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",31109
 "Manitoba",2019-10-21,"General","43","Selkirk--Interlake--Eastman","Smith, Robert A.","Smith","Robert","A.","Man","Beekeeper","New Democratic Party","Defeated",8873
 "Manitoba",2019-10-21,"General","43","Selkirk--Interlake--Eastman","Regelsky, Detlev","Regelsky","Detlev",NA,"Man","Welder","Liberal Party of Canada","Defeated",6003
 "Manitoba",2019-10-21,"General","43","Selkirk--Interlake--Eastman","James, Wayne","James","Wayne",NA,"Man","Farmer","Green Party of Canada","Defeated",2934
 "Manitoba",2019-10-21,"General","43","Selkirk--Interlake--Eastman","Kathwaroon, Ian","Kathwaroon","Ian",NA,"Man","Counsellor / Bus Driver","People's Party of Canada","Defeated",683
+"Manitoba",2019-10-21,"General","43","St. Boniface--St. Vital","Vandal, Daniel","Vandal","Daniel",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",20300
+"Manitoba",2019-10-21,"General","43","St. Boniface--St. Vital","Caron, Rejeanne","Caron","Rejeanne",NA,"Woman","Police Officer","Conservative Party of Canada","Defeated",15436
+"Manitoba",2019-10-21,"General","43","St. Boniface--St. Vital","Cross, Billie","Cross","Billie",NA,"Woman","Teacher","New Democratic Party","Defeated",8037
+"Manitoba",2019-10-21,"General","43","St. Boniface--St. Vital","Linnick, Ben","Linnick","Ben",NA,"Man","Emergency Telecommunicator","Green Party of Canada","Defeated",2671
+"Manitoba",2019-10-21,"General","43","St. Boniface--St. Vital","McAllister, Adam","McAllister","Adam",NA,"Man","Electrical Engineer in Training","People's Party of Canada","Defeated",591
+"Manitoba",2019-10-21,"General","43","St. Boniface--St. Vital","Baljeet, Sharma","Baljeet","Sharma",NA,"Man","Business","Independent","Defeated",303
 "Manitoba",2019-10-21,"General","43","Winnipeg Centre","Gazan, Leah","Gazan","Leah",NA,"Woman","Instructor","New Democratic Party","Elected",13073
 "Manitoba",2019-10-21,"General","43","Winnipeg Centre","Ouellette, Robert-Falcon","Ouellette","Robert-Falcon",NA,"Man","University Professor","Liberal Party of Canada","Defeated",10704
 "Manitoba",2019-10-21,"General","43","Winnipeg Centre","Dyck, Ryan","Dyck","Ryan",NA,"Man","Culinary Industry","Conservative Party of Canada","Defeated",5561
@@ -1042,11 +1042,11 @@
 "Ontario",2019-10-21,"General","43","Lanark--Frontenac--Kingston","Schilling, Satinka","Schilling","Satinka",NA,"Woman","Baker","New Democratic Party","Defeated",8835
 "Ontario",2019-10-21,"General","43","Lanark--Frontenac--Kingston","Kotze, Stephen","Kotze","Stephen",NA,"Man","Accountant","Green Party of Canada","Defeated",7011
 "Ontario",2019-10-21,"General","43","Lanark--Frontenac--Kingston","Barton, Matthew","Barton","Matthew",NA,"Man","Construction Modeling Specialist","People's Party of Canada","Defeated",1117
-"Ontario",2019-10-21,"General","43","Leeds--Grenville--Thousand Islands and Rideau Lakes","Barrett, Michael","Barrett","Michael",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",28630
-"Ontario",2019-10-21,"General","43","Leeds--Grenville--Thousand Islands and Rideau Lakes","Bennett, Josh","Bennett","Josh",NA,"Man","Market Researcher","Liberal Party of Canada","Defeated",15482
-"Ontario",2019-10-21,"General","43","Leeds--Grenville--Thousand Islands and Rideau Lakes","Taylor, Michelle","Taylor","Michelle",NA,"Woman","Homemaker","New Democratic Party","Defeated",8201
-"Ontario",2019-10-21,"General","43","Leeds--Grenville--Thousand Islands and Rideau Lakes","Rekmans, Lorraine","Rekmans","Lorraine",NA,"Woman","Business Owner","Green Party of Canada","Defeated",5152
-"Ontario",2019-10-21,"General","43","Leeds--Grenville--Thousand Islands and Rideau Lakes","Hindle, Evan","Hindle","Evan",NA,"Man","Hotelier","People's Party of Canada","Defeated",988
+"Ontario",2019-10-21,"General","43","Leeds--Grenville--Thousand Islands--Rideau Lakes","Barrett, Michael","Barrett","Michael",NA,"Man","Parliamentarian","Conservative Party of Canada","Elected",28630
+"Ontario",2019-10-21,"General","43","Leeds--Grenville--Thousand Islands--Rideau Lakes","Bennett, Josh","Bennett","Josh",NA,"Man","Market Researcher","Liberal Party of Canada","Defeated",15482
+"Ontario",2019-10-21,"General","43","Leeds--Grenville--Thousand Islands--Rideau Lakes","Taylor, Michelle","Taylor","Michelle",NA,"Woman","Homemaker","New Democratic Party","Defeated",8201
+"Ontario",2019-10-21,"General","43","Leeds--Grenville--Thousand Islands--Rideau Lakes","Rekmans, Lorraine","Rekmans","Lorraine",NA,"Woman","Business Owner","Green Party of Canada","Defeated",5152
+"Ontario",2019-10-21,"General","43","Leeds--Grenville--Thousand Islands--Rideau Lakes","Hindle, Evan","Hindle","Evan",NA,"Man","Hotelier","People's Party of Canada","Defeated",988
 "Ontario",2019-10-21,"General","43","London North Centre","Fragiskatos, Peter","Fragiskatos","Peter",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",27247
 "Ontario",2019-10-21,"General","43","London North Centre","Bokhari, Sarah","Bokhari","Sarah",NA,"Woman","Dispute Resolution Specialist","Conservative Party of Canada","Defeated",15066
 "Ontario",2019-10-21,"General","43","London North Centre","Prout, Dirka","Prout","Dirka",NA,"Woman","Senior Geotechnical Engineer","New Democratic Party","Defeated",14887
@@ -1167,7 +1167,7 @@
 "Ontario",2019-10-21,"General","43","Nipissing--Timiskaming","Gomm, Alex","Gomm","Alex",NA,"Man","English as a Second Language Teacher","Green Party of Canada","Defeated",3111
 "Ontario",2019-10-21,"General","43","Nipissing--Timiskaming","King, Mark","King","Mark",NA,"Man","Owner/Operator","People's Party of Canada","Defeated",2496
 "Ontario",2019-10-21,"General","43","Northumberland--Peterborough South","Lawrence, Philip","Lawrence","Philip",NA,"Man","Financial Centre Manager","Conservative Party of Canada","Elected",27385
-"Ontario",2019-10-21,"General","43","Northumberland--Peterborough South","Rudd, Kim","Rudd","Kim",NA,"Woman","Parliamentarian","Liberal Party of Canada","Defeated",24977
+"Ontario",2019-10-21,"General","43","Northumberland--Peterborough South","Rudd, Kim Elizabeth","Rudd","Kim","Elizabeth","Woman","Parliamentarian","Liberal Party of Canada","Defeated",24977
 "Ontario",2019-10-21,"General","43","Northumberland--Peterborough South","MacDonald, Mallory","MacDonald","Mallory",NA,"Woman","Registered Nurse","New Democratic Party","Defeated",9615
 "Ontario",2019-10-21,"General","43","Northumberland--Peterborough South","Wheeldon, Jeff","Wheeldon","Jeff",NA,"Man","Realtor","Green Party of Canada","Defeated",5524
 "Ontario",2019-10-21,"General","43","Northumberland--Peterborough South","Vaughan, Frank","Vaughan","Frank",NA,"Man","Self-employed, Market Gardener","People's Party of Canada","Defeated",1460

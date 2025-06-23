@@ -1,14 +1,105 @@
 "Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Gainey, Anna","Gainey","Anna",NA,"Woman",NA,"Liberal Party of Canada","Elected",11051
-"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Filion, Jean-François","Filion","Jean-François",NA,"Man",NA,"New Democratic Party","Defeated",3001
-"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Kaminski, Mathew","Kaminski","Mathew",NA,"Man",NA,"Conservative Party of Canada","Defeated",2936
-"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Pedneault, Jonathan","Pedneault","Jonathan",NA,"Man",NA,"Green Party of Canada","Defeated",2922
-"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Massey, Laurence","Massey","Laurence",NA,"Woman",NA,"Bloc Québécois","Defeated",985
-"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Trainman Montagano, Alex","Trainman Montagano","Alex",NA,"Man",NA,"Centrist Party of Canada","Defeated",510
-"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Olinga, Tiny","Olinga","Tiny",NA,"Man",NA,"People's Party of Canada","Defeated",141
-"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Carson, Sean","Carson","Sean",NA,"Man",NA,"Rhinoceros Party","Defeated",97
-"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Gilbert, Yves","Gilbert","Yves",NA,"Man",NA,"Christian Heritage Party of Canada","Defeated",65
-"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Vincent Ardea, Félix","Vincent Ardea","Félix",NA,"Man",NA,"No affiliation to a recognised party","Defeated",18
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Gainey, Anna","Gainey","Anna",NA,"Woman","Mère","Liberal Party of Canada","Elected",11051
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Filion, Jean-François","Filion","Jean-François",NA,"Man","Teacher","New Democratic Party","Defeated",3001
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Kaminski, Mathew","Kaminski","Mathew",NA,"Man","Senior Client Accountant","Conservative Party of Canada","Defeated",2936
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Pedneault, Jonathan","Pedneault","Jonathan",NA,"Man","Deputy Chief","Green Party of Canada","Defeated",2922
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Massey, Laurence","Massey","Laurence",NA,"Woman","Communications Assistant","Bloc Québécois","Defeated",985
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Trainman Montagano, Alex","Trainman Montagano","Alex",NA,"Man","General Contractor","Centrist Party of Canada","Defeated",510
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Olinga, Tiny","Olinga","Tiny",NA,"Man","Travailleur autonome","People's Party of Canada","Defeated",141
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Carson, Sean","Carson","Sean",NA,"Man","Comedian","Rhinoceros Party","Defeated",97
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Gilbert, Yves","Gilbert","Yves",NA,"Man","Merchant Navy Officer","Christian Heritage Party of Canada","Defeated",65
+"Quebec",2023-06-19,"By-Election","44","Notre-Dame-de-Grâce--Westmount","Vincent Ardea, Félix","Vincent Ardea","Félix",NA,"Man","Conductor","No affiliation to a recognised party","Defeated",18
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Sauvé, Louis-Philippe","Sauvé","Louis-Philippe",NA,"Man","Historian","Bloc Québécois","Elected",8925
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Palestini, Laura","Palestini","Laura",NA,"Woman","City Councillor","Liberal Party of Canada","Defeated",8656
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Sauvé, Craig","Sauvé","Craig",NA,"Man","City Councillor","New Democratic Party","Defeated",8272
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Ialenti, Louis","Ialenti","Louis",NA,"Man","Entrepreneur","Conservative Party of Canada","Defeated",3641
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Mercier, Jency","Mercier","Jency",NA,"Woman","Borough Inspector","Green Party of Canada","Defeated",557
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Jiu Ru Zhu, Tina","Jiu Ru Zhu","Tina",NA,"Woman","Interior designer & broker of Real estate","Independent","Defeated",198
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Yablunovsky, Gregory","Yablunovsky","Gregory",NA,"Man","Transition Project Manager","People's Party of Canada","Defeated",159
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Khoury, Mark","Khoury","Mark",NA,"Man","Entrepreneur","Canadian Future Party","Defeated",93
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","CoRhino, Sébastien","CoRhino","Sébastien",NA,"Man","Artist","Rhinoceros Party","Defeated",67
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Paquette, Alain","Paquette","Alain",NA,"Man","Retired","Christian Heritage Party of Canada","Defeated",55
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Berthelot, Steve","Berthelot","Steve",NA,"Man","Welding shop manager","Marijuana Party","Defeated",53
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Palsson, Lanna","Palsson","Lanna",NA,"Woman","Dental hygienist","Independent","Defeated",48
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Beaulieu, Myriam","Beaulieu","Myriam",NA,"Woman","Farmer","No affiliation to a recognised party","Defeated",40
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Chouinard, Normand","Chouinard","Normand",NA,"Man","Truck Driver","Marxist-Leninist Party of Canada","Defeated",40
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Bélanger, Line","Bélanger","Line",NA,"Woman","Student","Independent","Defeated",34
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","LeBel, Marie-Hélène","LeBel","Marie-Hélène",NA,"Woman","Teacher","Independent","Defeated",30
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Samson, Pierre","Samson","Pierre",NA,"Man","Writer","Independent","Defeated",29
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","St-Amand, Julie","St-Amand","Julie",NA,"Woman","Civil servant","Independent","Defeated",24
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Vegys, Laura","Vegys","Laura",NA,"Woman","Animation artist","Independent","Defeated",23
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Bourgault, Alain","Bourgault","Alain",NA,"Man","Retired","Independent","Defeated",21
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Desbiens, Manon Marie Lili","Desbiens","Manon","Marie Lili","Woman","Communications Manager","No affiliation to a recognised party","Defeated",21
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Moutter, Mark","Moutter","Mark",NA,"Man","Student","Independent","Defeated",20
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Clarke, Peter Barry","Clarke","Peter","Barry","Man","Student","Independent","Defeated",19
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Lemieux, Charles","Lemieux","Charles",NA,"Man","Teacher","Independent","Defeated",19
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Paradis, Guillaume","Paradis","Guillaume",NA,"Man","Information Technology Analyst","Independent","Defeated",19
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Croteau, Martin","Croteau","Martin",NA,"Man","Consultant in medical cannabis processing","Independent","Defeated",17
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Gagnon, Daniel","Gagnon","Daniel",NA,"Man","IT specialist","Independent","Defeated",17
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Hamel, Félix-Antoine","Hamel","Félix-Antoine",NA,"Man","Reprographics workshop manager","Independent","Defeated",17
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Vargas, Hans Armando","Vargas","Hans","Armando","Man","Medical consultant","Independent","Defeated",17
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Banks, Alex","Banks","Alex",NA,"Man","Instrumentation & Control Technician","Independent","Defeated",16
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Barhoumi, Nassim","Barhoumi","Nassim",NA,"Man","Student","Independent","Defeated",16
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Martin, Matéo","Martin","Matéo",NA,"Man","Student","Independent","Defeated",16
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","St-Pierre, Daniel","St-Pierre","Daniel",NA,"Man","Boatwright","Independent","Defeated",16
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Turmel, John ""The Engineer""","Turmel","John","""The Engineer""","Man","Banking Systems Engineer","Independent","Defeated",16
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Hu, Fang","Hu","Fang",NA,"Man","Engineer","No affiliation to a recognised party","Defeated",15
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Marszalek, Agnieszka","Marszalek","Agnieszka",NA,"Woman","Education","Independent","Defeated",15
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Bonneau, Mylène","Bonneau","Mylène",NA,"Woman","Project manager","Independent","Defeated",14
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Lamontagne, Alain","Lamontagne","Alain",NA,"Man","Retired","Independent","Defeated",14
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Lukawski, Connie","Lukawski","Connie",NA,"Man","Software Developer","Independent","Defeated",14
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","MacDonald, Glen","MacDonald","Glen",NA,"Man","Retired","Independent","Defeated",14
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Vermette, Marie-Eve","Vermette","Marie-Eve",NA,"Woman","Self-employed","Independent","Defeated",14
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Davidson, Andrew","Davidson","Andrew",NA,"Man","Software Developer","Independent","Defeated",13
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Huard, Ryan","Huard","Ryan",NA,"Man","Security Engineer","Independent","Defeated",13
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Jubinville, Martin Acetaria Caesar","Jubinville","Martin","Acetaria Caesar","Man","Collective Development Advisor","Independent","Defeated",13
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Martel, Réal BatRhino","Martel","Réal","BatRhino","Man","Public transit driver","Independent","Defeated",13
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Champagne Gareau, Jaël","Champagne Gareau","Jaël",NA,"Man","Lecturer","Independent","Defeated",12
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Dale, John","Dale","John",NA,"Man","Ph.D. Student","Independent","Defeated",12
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Guy, Jacques-Eric","Guy","Jacques-Eric",NA,"Man","Self-employed","Independent","Defeated",12
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","O'Flynn, John Francis","O'Flynn","John","Francis","Man","Teacher","Independent","Defeated",12
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Stocco, Mário","Stocco","Mário",NA,"Man","Retired Teacher","Independent","Defeated",12
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Baril, Christian","Baril","Christian",NA,"Man","Technician","Independent","Defeated",11
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Ducharme, Samuel","Ducharme","Samuel",NA,"Man","Student","Independent","Defeated",11
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Engering, Alexandra","Engering","Alexandra",NA,"Woman","Youth Leadership Specialist","Independent","Defeated",11
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Marcil, Antony George Ernest","Marcil","Antony","George Ernest","Man","Mechanical Engineer","Independent","Defeated",11
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Nasihi, Yusuf","Nasihi","Yusuf",NA,"Man","Pharmacist","Independent","Defeated",11
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Corriveau, Marc","Corriveau","Marc",NA,"Man","Retired","Independent","Defeated",10
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Légaré, Danny","Légaré","Danny",NA,"Man","Web designer","Independent","Defeated",10
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Schoen, Timothy","Schoen","Timothy",NA,"Man","Student","Independent","Defeated",10
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Dejewski, Mark","Dejewski","Mark",NA,"Man","Sailor","Independent","Defeated",9
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Krzywinski, Krzysztof","Krzywinski","Krzysztof",NA,"Man","Student","Independent","Defeated",9
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Bednarski, Michael","Bednarski","Michael",NA,"Man","Teacher","Independent","Defeated",8
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Pollard, Grayson","Pollard","Grayson",NA,"Man","Student","Independent","Defeated",8
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Eckstrom, Donovan","Eckstrom","Donovan",NA,"Man","Teacher","Independent","Defeated",7
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Hill, Judy D.","Hill","Judy","D.","Woman","Retired","Independent","Defeated",7
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Polya, Lorant","Polya","Lorant",NA,"Man","Software Developer","Independent","Defeated",7
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Boudreault, Jeani","Boudreault","Jeani",NA,"Woman","Social worker","Independent","Defeated",6
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Le Rougetel, Katy","Le Rougetel","Katy",NA,"Woman","Industrial worker","No affiliation to a recognised party","Defeated",6
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Smith, Adam","Smith","Adam",NA,"Man","Retail","Independent","Defeated",6
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Wong, Jordan","Wong","Jordan",NA,"Man","Automotive Technician","Independent","Defeated",6
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Polya, Lajos","Polya","Lajos",NA,"Man","Software Developer","Independent","Defeated",5
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Skirzynski, Michael","Skirzynski","Michael",NA,"Man","Account Executive","Independent","Defeated",5
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Vanderwater, Darcy Justin","Vanderwater","Darcy","Justin","Man","Student","Independent","Defeated",5
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Vanderwater, Gavin","Vanderwater","Gavin",NA,"Man","Unemployed","Independent","Defeated",5
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Wand, Elliot","Wand","Elliot",NA,"Man","Merchandiser","Independent","Defeated",5
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Dogger, Gerrit","Dogger","Gerrit",NA,"Man","Project manager","Independent","Defeated",4
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Manougian, Harout","Manougian","Harout",NA,"Man","Engineer","Independent","Defeated",4
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Rocchi, Spencer","Rocchi","Spencer",NA,"Man","Teacher","Independent","Defeated",4
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Sherwood, Roger","Sherwood","Roger",NA,"Man","Research and Development","Independent","Defeated",4
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Strzalkowski, Patrick","Strzalkowski","Patrick",NA,"Man","Ecologist","Independent","Defeated",4
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Bowman, Erle Stanley","Bowman","Erle","Stanley","Man","Retired","Independent","Defeated",3
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Frazer, Dji-Pé","Frazer","Dji-Pé",NA,"Man","Retired","Independent","Defeated",3
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Hamel, Anthony","Hamel","Anthony",NA,"Man","Student","Independent","Defeated",3
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Selody, Julian","Selody","Julian",NA,"Man","Musician","Independent","Defeated",3
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Teichman, Benjamin","Teichman","Benjamin",NA,"Man","Software Engineer","Independent","Defeated",3
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Hamilton, Blake","Hamilton","Blake",NA,"Man","Administrative Services Manager","Independent","Defeated",2
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Neutel, Winston","Neutel","Winston",NA,"Man","Writer","Independent","Defeated",2
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Erland, David","Erland","David",NA,"Man","Self-employed handyman","Independent","Defeated",1
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Rowat, Wallace Richard","Rowat","Wallace","Richard","Man","IT Consultant","Independent","Defeated",1
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","St-Amand, Pascal","St-Amand","Pascal",NA,"Man","Civil servant","Independent","Defeated",1
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Dupont, Ysack","Dupont","Ysack",NA,"Man","Truck Driver","Independent","Defeated",0
+"Quebec",2024-09-16,"By-Election","44","LaSalle--Émard--Verdun","Stuckless, Daniel","Stuckless","Daniel",NA,"Man","Academic","Independent","Defeated",0
 "Quebec",2017-04-03,"By-Election","42","Saint-Laurent","Lambropoulos, Emmanuella","Lambropoulos","Emmanuella",NA,"Woman","Teacher","Liberal Party of Canada","Elected",11461
 "Quebec",2017-04-03,"By-Election","42","Saint-Laurent","Yu, Jimmy","Yu","Jimmy",NA,"Man","Business person","Conservative Party of Canada","Defeated",3784
 "Quebec",2017-04-03,"By-Election","42","Saint-Laurent","Green, Daniel","Green","Daniel",NA,"Man","Environmentalist","Green Party of Canada","Defeated",1548
@@ -449,7 +540,7 @@
 "Quebec",1928-12-17,"By-Election","16","Joliette","Guilbault, René-Laurier","Guilbault","René-Laurier",NA,"Man","Notary","Liberal Party of Canada","Defeated",2636
 "Quebec",1929-07-22,"By-Election","16","Laprairie--Napierville","Dupuis, Vincent","Dupuis","Vincent",NA,"Man","Lawyer","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1929-07-29,"By-Election","16","Vaudreuil--Soulanges","Wilson, Lawrence Alexander","Wilson","Lawrence","Alexander","Man","Pensioner","Liberal Party of Canada","Elected",4409
-"Quebec",1929-07-29,"By-Election","16","Vaudreuil--Soulanges","Paton, Saul","Paton","Saul",NA,"Man","Lawyer","Independent Liberal","Defeated",1766
+"Quebec",1929-07-29,"By-Election","16","Vaudreuil--Soulanges","Mousseau, Roland-Gilles","Mousseau","Roland-Gilles",NA,"Man","Lawyer","Independent Liberal","Defeated",1766
 "Quebec",1929-07-29,"By-Election","16","Vaudreuil--Soulanges","Gagné, Émile","Gagné","Émile",NA,"Man","Distributor","Independent Liberal","Defeated",306
 "Quebec",1930-01-27,"By-Election","16","Bagot","Dumaine, Cyrille","Dumaine","Cyrille",NA,"Man","Notary","Liberal Party of Canada","Elected (Acclamation)",0
 "Quebec",1930-01-27,"By-Election","16","Châteauguay--Huntingdon","O'Connor, Dennis James","O'Connor","Dennis","James","Man","Contractor","Liberal Party of Canada","Elected (Acclamation)",0

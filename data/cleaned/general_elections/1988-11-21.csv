@@ -1,5 +1,5 @@
 "Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Alberta",1988-11-21,"General","34","Athabasca","Shields, Jack Wendele","Shields","Jack","Wendele","Man","Member of Parliament","Progressive Conservative Party","Elected",17248
+"Alberta",1988-11-21,"General","34","Athabasca","Shields, John (Jack) Wendele","Shields","John","(Jack) Wendele","Man","Member of Parliament","Progressive Conservative Party","Elected",17248
 "Alberta",1988-11-21,"General","34","Athabasca","Thorn, Ian","Thorn","Ian",NA,"Man","National rep.--Engy--Chem. Wrkrs","New Democratic Party","Defeated",8911
 "Alberta",1988-11-21,"General","34","Athabasca","Meakes, Dan","Meakes","Dan",NA,"Man","Priest","Liberal Party of Canada","Defeated",4031
 "Alberta",1988-11-21,"General","34","Athabasca","Lebsack, Betty","Lebsack","Betty",NA,"Woman","Businesswoman","Reform Party of Canada","Defeated",1781
@@ -45,7 +45,7 @@
 "Alberta",1988-11-21,"General","34","Calgary Southwest","Barretto, Johnny","Barretto","Johnny",NA,"Man","Draftsman","Rhinoceros Party of Canada","Defeated",372
 "Alberta",1988-11-21,"General","34","Calgary Southwest","Sinclair, Bill","Sinclair","Bill",NA,"Man","Insurance consultant","Confederation of Regions Western Party","Defeated",68
 "Alberta",1988-11-21,"General","34","Calgary West","Hawkes, Frederick James (Jim)","Hawkes","Frederick","James (Jim)","Man","Member of Parliament","Progressive Conservative Party","Elected",32025
-"Alberta",1988-11-21,"General","34","Calgary West","Harper, Stephen","Harper","Stephen",NA,"Man","Economist","Reform Party of Canada","Defeated",9074
+"Alberta",1988-11-21,"General","34","Calgary West","Harper, Stephen Joseph","Harper","Stephen","Joseph","Man","Economist","Reform Party of Canada","Defeated",9074
 "Alberta",1988-11-21,"General","34","Calgary West","Phillips, John","Phillips","John",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",6880
 "Alberta",1988-11-21,"General","34","Calgary West","Vanderberg, Richard D.","Vanderberg","Richard","D.","Man","Professor","New Democratic Party","Defeated",6355
 "Alberta",1988-11-21,"General","34","Calgary West","Faren, David","Faren","David",NA,"Man","Advertising consultant","Libertarian Party of Canada","Defeated",225
@@ -276,7 +276,7 @@
 "British Columbia",1988-11-21,"General","34","Okanagan Centre","Horning, Edward Allan","Horning","Edward","Allan","Man","Realtor","Progressive Conservative Party","Elected",19485
 "British Columbia",1988-11-21,"General","34","Okanagan Centre","McIver, Bryan","McIver","Bryan",NA,"Man","Businessman","New Democratic Party","Defeated",15800
 "British Columbia",1988-11-21,"General","34","Okanagan Centre","Pendharkar, Murli","Pendharkar","Murli",NA,"Man","Retired","Liberal Party of Canada","Defeated",8922
-"British Columbia",1988-11-21,"General","34","Okanagan Centre","Schmidt, Werner","Schmidt","Werner",NA,"Man","Financial consultant","Reform Party of Canada","Defeated",7599
+"British Columbia",1988-11-21,"General","34","Okanagan Centre","Schmidt, Werner George","Schmidt","Werner","George","Man","Financial consultant","Reform Party of Canada","Defeated",7599
 "British Columbia",1988-11-21,"General","34","Okanagan Centre","Hughes, David","Hughes","David",NA,"Man","Painter","Green Party of Canada","Defeated",496
 "British Columbia",1988-11-21,"General","34","Okanagan--Shuswap","MacWilliam, Lyle Dean","MacWilliam","Lyle","Dean","Man","Market research--education","New Democratic Party","Elected",18749
 "British Columbia",1988-11-21,"General","34","Okanagan--Shuswap","Spoor, Jake","Spoor","Jake",NA,"Man","Realtor","Progressive Conservative Party","Defeated",15606
@@ -455,7 +455,7 @@
 "Manitoba",1988-11-21,"General","34","Winnipeg North Centre","Hawryluk, William","Hawryluk","William",NA,"Man","Accountant","Independent","Defeated",242
 "Manitoba",1988-11-21,"General","34","Winnipeg North Centre","Robson, Lorne","Robson","Lorne",NA,"Man","Party leader","Communist Party of Canada","Defeated",179
 "Manitoba",1988-11-21,"General","34","Winnipeg North Centre","Michalchuk, Glen","Michalchuk","Glen",NA,"Man","Machinist","No affiliation to a recognised party","Defeated",97
-"Manitoba",1988-11-21,"General","34","Winnipeg South","Dobbie, Dorothy I.","Dobbie","Dorothy","I.","Woman","Publisher","Progressive Conservative Party","Elected",22865
+"Manitoba",1988-11-21,"General","34","Winnipeg South","Dobbie, Dorothy Ina Elgiva","Dobbie","Dorothy","Ina Elgiva","Woman","Publisher","Progressive Conservative Party","Elected",22865
 "Manitoba",1988-11-21,"General","34","Winnipeg South","Kaufman, Allan","Kaufman","Allan",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",22150
 "Manitoba",1988-11-21,"General","34","Winnipeg South","Van Roon, Len","Van Roon","Len",NA,"Man","Letter carrier","New Democratic Party","Defeated",3151
 "Manitoba",1988-11-21,"General","34","Winnipeg South","Cummings, Gary","Cummings","Gary",NA,"Man","Senior engineering technician","Reform Party of Canada","Defeated",1428
@@ -554,7 +554,7 @@
 "Northwest Territories",1988-11-21,"General","34","Western Arctic","McCauley, Cece","McCauley","Cece",NA,"Man","Chief","Independent","Defeated",331
 "Northwest Territories",1988-11-21,"General","34","Western Arctic","Lennie, Ernie","Lennie","Ernie",NA,"Man","Consultant","Independent","Defeated",169
 "Nova Scotia",1988-11-21,"General","34","Annapolis Valley--Hants","Nowlan, John Patrick (Pat)","Nowlan","John","Patrick (Pat)","Man","Lawyer","Progressive Conservative Party","Elected",20763
-"Nova Scotia",1988-11-21,"General","34","Annapolis Valley--Hants","Murphy, John","Murphy","John",NA,"Man","Social worker","Liberal Party of Canada","Defeated",18840
+"Nova Scotia",1988-11-21,"General","34","Annapolis Valley--Hants","Murphy, John William","Murphy","John","William","Man","Social worker","Liberal Party of Canada","Defeated",18840
 "Nova Scotia",1988-11-21,"General","34","Annapolis Valley--Hants","Collins, Keith","Collins","Keith",NA,"Woman","Economist","New Democratic Party","Defeated",5886
 "Nova Scotia",1988-11-21,"General","34","Annapolis Valley--Hants","Enserink, Jack","Enserink","Jack",NA,"Man","Self employed carpenter","Christian Heritage Party of Canada","Defeated",1318
 "Nova Scotia",1988-11-21,"General","34","Annapolis Valley--Hants","Gates, Rik","Gates","Rik",NA,"Man","Student","No affiliation to a recognised party","Defeated",200
@@ -584,7 +584,7 @@
 "Nova Scotia",1988-11-21,"General","34","Halifax","McInnes, Stewart Donald","McInnes","Stewart","Donald","Man","Lawyer","Progressive Conservative Party","Defeated",19840
 "Nova Scotia",1988-11-21,"General","34","Halifax","Larkin, Ray","Larkin","Ray",NA,"Man","Lawyer","New Democratic Party","Defeated",9269
 "Nova Scotia",1988-11-21,"General","34","Halifax","MacKinnon, Howard J.","MacKinnon","Howard","J.","Man","Graduate student","Libertarian Party of Canada","Defeated",292
-"Nova Scotia",1988-11-21,"General","34","Halifax","Denton, Tom","Denton","Tom",NA,"Man","Journalist","Communist Party of Canada","Defeated",151
+"Nova Scotia",1988-11-21,"General","34","Halifax","Figueroa, Miguel","Figueroa","Miguel",NA,"Man","Journalist","Communist Party of Canada","Defeated",151
 "Nova Scotia",1988-11-21,"General","34","Halifax","Seed, Tony","Seed","Tony",NA,"Man","Journalist","Independent","Defeated",134
 "Nova Scotia",1988-11-21,"General","34","Halifax","MacDougall, J. Basil","MacDougall","J.","Basil","Man","Retired","Party for the Commonwealth of Canada","Defeated",94
 "Nova Scotia",1988-11-21,"General","34","Halifax West","Crosby, Howard Edward","Crosby","Howard","Edward","Man","Lawyer","Progressive Conservative Party","Elected",24815
@@ -640,7 +640,7 @@
 "Ontario",1988-11-21,"General","34","Bruce--Grey","Hird, Cathy","Hird","Cathy",NA,"Woman","Farmer","New Democratic Party","Defeated",9183
 "Ontario",1988-11-21,"General","34","Bruce--Grey","Cianci, Don","Cianci","Don",NA,"Man","Househusband","Green Party of Canada","Defeated",317
 "Ontario",1988-11-21,"General","34","Bruce--Grey","Bothwell, George","Bothwell","George",NA,"Man","Farmer","Party for the Commonwealth of Canada","Defeated",267
-"Ontario",1988-11-21,"General","34","Burlington","Kempling, William James","Kempling","William","James","Man","Businessman","Progressive Conservative Party","Elected",26293
+"Ontario",1988-11-21,"General","34","Burlington","Kempling, William (Bill) James","Kempling","William","(Bill) James","Man","Businessman","Progressive Conservative Party","Elected",26293
 "Ontario",1988-11-21,"General","34","Burlington","Smith, James","Smith","James",NA,"Man","Store planner","Liberal Party of Canada","Defeated",13448
 "Ontario",1988-11-21,"General","34","Burlington","Mulkewich, Jane","Mulkewich","Jane",NA,"Woman","Researcher","New Democratic Party","Defeated",8149
 "Ontario",1988-11-21,"General","34","Burlington","Bremer, Ron","Bremer","Ron",NA,"Man","Computer consultant","Christian Heritage Party of Canada","Defeated",2285
@@ -704,7 +704,7 @@
 "Ontario",1988-11-21,"General","34","Erie","Colyn, Allard","Colyn","Allard",NA,"Man","Dairy farmer","Liberal Party of Canada","Defeated",14278
 "Ontario",1988-11-21,"General","34","Erie","O'FLYNN, Sean","O'FLYNN","Sean",NA,"Man","Teacher","New Democratic Party","Defeated",8168
 "Ontario",1988-11-21,"General","34","Erie","Gritter, Cope","Gritter","Cope",NA,"Man","Electrician","Christian Heritage Party of Canada","Defeated",1607
-"Ontario",1988-11-21,"General","34","Essex--Kent","Pickard, Jerry","Pickard","Jerry",NA,"Man","Teacher","Liberal Party of Canada","Elected",18634
+"Ontario",1988-11-21,"General","34","Essex--Kent","Pickard, Reginald (Jerry)","Pickard","Reginald","(Jerry)","Man","Teacher","Liberal Party of Canada","Elected",18634
 "Ontario",1988-11-21,"General","34","Essex--Kent","Caldwell, James Eber","Caldwell","James","Eber","Man","Broadcaster","Progressive Conservative Party","Defeated",12181
 "Ontario",1988-11-21,"General","34","Essex--Kent","Coggans, John","Coggans","John",NA,"Man","Physiotherapist","New Democratic Party","Defeated",6935
 "Ontario",1988-11-21,"General","34","Essex--Windsor","Langdon, Steven W.","Langdon","Steven","W.","Man","Member of Parliament","New Democratic Party","Elected",18926
@@ -736,7 +736,7 @@
 "Ontario",1988-11-21,"General","34","Glengarry--Prescott--Russell","Mccuaig, Helena","Mccuaig","Helena",NA,"Man","Teacher","New Democratic Party","Defeated",4537
 "Ontario",1988-11-21,"General","34","Glengarry--Prescott--Russell","Brisson, Jean-Serge","Brisson","Jean-Serge",NA,"Man","Welder","Libertarian Party of Canada","Defeated",335
 "Ontario",1988-11-21,"General","34","Glengarry--Prescott--Russell","Feres, John","Feres","John",NA,"Man","Manager, power systems","Party for the Commonwealth of Canada","Defeated",199
-"Ontario",1988-11-21,"General","34","Guelph--Wellington","Winegard, William C.","Winegard","William","C.","Man","Metallurgist","Progressive Conservative Party","Elected",25721
+"Ontario",1988-11-21,"General","34","Guelph--Wellington","Winegard, William Charles","Winegard","William","Charles","Man","Metallurgist","Progressive Conservative Party","Elected",25721
 "Ontario",1988-11-21,"General","34","Guelph--Wellington","Gauthier, Frank","Gauthier","Frank",NA,"Man","Air traffic controller","Liberal Party of Canada","Defeated",19002
 "Ontario",1988-11-21,"General","34","Guelph--Wellington","Michalos, Alex","Michalos","Alex",NA,"Man","University professor","New Democratic Party","Defeated",11623
 "Ontario",1988-11-21,"General","34","Guelph--Wellington","Ellis, Peter","Ellis","Peter",NA,"Man","Real estate agent, broker","Christian Heritage Party of Canada","Defeated",1978
@@ -745,7 +745,7 @@
 "Ontario",1988-11-21,"General","34","Guelph--Wellington","Williams, Marty","Williams","Marty",NA,"Man","Humorist","Rhinoceros Party of Canada","Defeated",240
 "Ontario",1988-11-21,"General","34","Guelph--Wellington","Bruce, Joanne","Bruce","Joanne",NA,"Woman","Student, salesperson","No affiliation to a recognised party","Defeated",80
 "Ontario",1988-11-21,"General","34","Haldimand--Norfolk","Speller, Robert (Bob)","Speller","Robert","(Bob)","Man","Consultant","Liberal Party of Canada","Elected",16921
-"Ontario",1988-11-21,"General","34","Haldimand--Norfolk","Bradley, T.A. Bud","Bradley","T.A.","Bud","Man","Dentist","Progressive Conservative Party","Defeated",16712
+"Ontario",1988-11-21,"General","34","Haldimand--Norfolk","Bradley, Thomas Arhur (Bud)","Bradley","Thomas","Arhur (Bud)","Man","Dentist","Progressive Conservative Party","Defeated",16712
 "Ontario",1988-11-21,"General","34","Haldimand--Norfolk","Butt, Eric","Butt","Eric",NA,"Man","Steelworker","New Democratic Party","Defeated",6736
 "Ontario",1988-11-21,"General","34","Haldimand--Norfolk","Sytsma, Garry","Sytsma","Garry",NA,"Man","Farmer","Christian Heritage Party of Canada","Defeated",3969
 "Ontario",1988-11-21,"General","34","Haldimand--Norfolk","Yaki, David","Yaki","David",NA,"Man","Driver","Libertarian Party of Canada","Defeated",162
@@ -894,7 +894,7 @@
 "Ontario",1988-11-21,"General","34","Ontario","Wiseman, Jim","Wiseman","Jim",NA,"Man","Teacher","New Democratic Party","Defeated",12751
 "Ontario",1988-11-21,"General","34","Ontario","Cain, D'Arcy","Cain","D'Arcy",NA,"Man","Programmer","Libertarian Party of Canada","Defeated",485
 "Ontario",1988-11-21,"General","34","Ontario","Haché, Val","Haché","Val",NA,"Man","Electrician","Party for the Commonwealth of Canada","Defeated",147
-"Ontario",1988-11-21,"General","34","Oshawa","Broadbent, John Edward","Broadbent","John","Edward","Man","Member of Parliament","New Democratic Party","Elected",18410
+"Ontario",1988-11-21,"General","34","Oshawa","Broadbent, John Edward (Ed)","Broadbent","John","Edward (Ed)","Man","Member of Parliament","New Democratic Party","Elected",18410
 "Ontario",1988-11-21,"General","34","Oshawa","Mclean, Nancy","Mclean","Nancy",NA,"Woman","Writer","Progressive Conservative Party","Defeated",14040
 "Ontario",1988-11-21,"General","34","Oshawa","White, Ed","White","Ed",NA,"Man","Compound machine operator","Liberal Party of Canada","Defeated",8496
 "Ontario",1988-11-21,"General","34","Oshawa","Kozaroff, George S.","Kozaroff","George","S.","Man","Assembler","Libertarian Party of Canada","Defeated",449
@@ -1034,7 +1034,7 @@
 "Ontario",1988-11-21,"General","34","Thunder Bay--Atikokan","Dromisky, Stanley Peter (Stan)","Dromisky","Stanley","Peter (Stan)","Man","Professor emeritus","Liberal Party of Canada","Defeated",11968
 "Ontario",1988-11-21,"General","34","Thunder Bay--Atikokan","Boshcoff, Ken","Boshcoff","Ken",NA,"Man","Businessman","Progressive Conservative Party","Defeated",11454
 "Ontario",1988-11-21,"General","34","Thunder Bay--Atikokan","Pugh, Paul","Pugh","Paul",NA,"Man","Welder","Communist Party of Canada","Defeated",75
-"Ontario",1988-11-21,"General","34","Thunder Bay--Nipigon","Comuzzi, Joseph R. (Joe)","Comuzzi","Joseph","R. (Joe)","Man","Lawyer","Liberal Party of Canada","Elected",15346
+"Ontario",1988-11-21,"General","34","Thunder Bay--Nipigon","Comuzzi, Joseph (Joe) Robert","Comuzzi","Joseph","(Joe) Robert","Man","Lawyer","Liberal Party of Canada","Elected",15346
 "Ontario",1988-11-21,"General","34","Thunder Bay--Nipigon","Epp, Abram Ernest","Epp","Abram","Ernest","Man","History professor","New Democratic Party","Defeated",13019
 "Ontario",1988-11-21,"General","34","Thunder Bay--Nipigon","Stille, Fred","Stille","Fred",NA,"Man","Chartered Accountant","Progressive Conservative Party","Defeated",9782
 "Ontario",1988-11-21,"General","34","Timiskaming","MacDougall, John Alexander Frances","MacDougall","John","Alexander Frances","Man","Member of Parliament","Progressive Conservative Party","Elected",11230
@@ -1045,7 +1045,7 @@
 "Ontario",1988-11-21,"General","34","Timmins--Chapleau","Samson, Cyril (Cid)","Samson","Cyril","(Cid)","Man","Ministry of Labour","New Democratic Party","Elected",11622
 "Ontario",1988-11-21,"General","34","Timmins--Chapleau","Thalheimer, Peter","Thalheimer","Peter",NA,"Man","Barrister & solicitor","Liberal Party of Canada","Defeated",10347
 "Ontario",1988-11-21,"General","34","Timmins--Chapleau","Gervais, Aurèle","Gervais","Aurèle",NA,"Man","Businessperson","Progressive Conservative Party","Defeated",9782
-"Ontario",1988-11-21,"General","34","Trinity--Spadina","Heap, Daniel James Macdonnell","Heap","Daniel","James Macdonnell","Man","Printer, slotter, pressman","New Democratic Party","Elected",15565
+"Ontario",1988-11-21,"General","34","Trinity--Spadina","Heap, Daniel (Dan) James Macdonnell","Heap","Daniel","(Dan) James Macdonnell","Man","Printer, slotter, pressman","New Democratic Party","Elected",15565
 "Ontario",1988-11-21,"General","34","Trinity--Spadina","Ianno, Tony","Ianno","Tony",NA,"Man","Businessman","Liberal Party of Canada","Defeated",15082
 "Ontario",1988-11-21,"General","34","Trinity--Spadina","Pimentel, Joe","Pimentel","Joe",NA,"Man","Accountant","Progressive Conservative Party","Defeated",8618
 "Ontario",1988-11-21,"General","34","Trinity--Spadina","Barker, Paul","Barker","Paul",NA,"Man","Printer","Libertarian Party of Canada","Defeated",494
@@ -1073,7 +1073,7 @@
 "Ontario",1988-11-21,"General","34","Wellington--Grey--Dufferin--Simcoe","Farlinger, Shirley","Farlinger","Shirley",NA,"Woman","Journalist","New Democratic Party","Defeated",7746
 "Ontario",1988-11-21,"General","34","Wellington--Grey--Dufferin--Simcoe","Nieuwenhuis, Bert","Nieuwenhuis","Bert",NA,"Man","Real estate broker","Christian Heritage Party of Canada","Defeated",1761
 "Ontario",1988-11-21,"General","34","Wellington--Grey--Dufferin--Simcoe","Stebelsky, Oleh","Stebelsky","Oleh",NA,"Man","Avionics technologist","Libertarian Party of Canada","Defeated",157
-"Ontario",1988-11-21,"General","34","Willowdale","Peterson, James Scott (Jim)","Peterson","James","Scott (Jim)","Man","Lawyer","Liberal Party of Canada","Elected",24230
+"Ontario",1988-11-21,"General","34","Willowdale","Peterson, James (Jim) Scott","Peterson","James","(Jim) Scott","Man","Lawyer","Liberal Party of Canada","Elected",24230
 "Ontario",1988-11-21,"General","34","Willowdale","Oostrom, John Martin","Oostrom","John","Martin","Man","Member of Parliament","Progressive Conservative Party","Defeated",22347
 "Ontario",1988-11-21,"General","34","Willowdale","Adelson, Anne","Adelson","Anne",NA,"Woman","Occupational therapist","New Democratic Party","Defeated",4517
 "Ontario",1988-11-21,"General","34","Willowdale","Tammisto, Peeter","Tammisto","Peeter",NA,"Man","Engineer","Rhinoceros Party of Canada","Defeated",268
@@ -1512,7 +1512,7 @@
 "Quebec",1988-11-21,"General","34","Verdun--Saint-Paul","Mayer, Irène Maman","Mayer","Irène","Maman","Woman","Teacher","Rhinoceros Party of Canada","Defeated",902
 "Quebec",1988-11-21,"General","34","Verdun--Saint-Paul","Brosseau, Claude","Brosseau","Claude",NA,"Man","Trader","Party for the Commonwealth of Canada","Defeated",142
 "Quebec",1988-11-21,"General","34","Verdun--Saint-Paul","Turgeon, Yvon","Turgeon","Yvon",NA,"Man","Offset pressman","No affiliation to a recognised party","Defeated",105
-"Saskatchewan",1988-11-21,"General","34","Kindersley--Lloydminster","McKnight, William Hunter (Bill)","McKnight","William","Hunter (Bill)","Man","Farmer","Progressive Conservative Party","Elected",15089
+"Saskatchewan",1988-11-21,"General","34","Kindersley--Lloydminster","McKnight, William (Bill) Hunter","McKnight","William","(Bill) Hunter","Man","Farmer","Progressive Conservative Party","Elected",15089
 "Saskatchewan",1988-11-21,"General","34","Kindersley--Lloydminster","Whitmore, Grant","Whitmore","Grant",NA,"Man","Farmer","New Democratic Party","Defeated",11198
 "Saskatchewan",1988-11-21,"General","34","Kindersley--Lloydminster","Kaufman, Bev","Kaufman","Bev",NA,"Woman","Farmer","Liberal Party of Canada","Defeated",5039
 "Saskatchewan",1988-11-21,"General","34","Kindersley--Lloydminster","Hermanson, Elwin Norris","Hermanson","Elwin","Norris","Man","Farmer","Reform Party of Canada","Defeated",2217
@@ -1541,19 +1541,19 @@
 "Saskatchewan",1988-11-21,"General","34","Regina--Wascana","Goodale, Ralph","Goodale","Ralph",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",14804
 "Saskatchewan",1988-11-21,"General","34","Regina--Wascana","Cariou, Kimball","Cariou","Kimball",NA,"Man","Printer's representative","Communist Party of Canada","Defeated",76
 "Saskatchewan",1988-11-21,"General","34","Regina--Wascana","Madsen, Ian Christopher","Madsen","Ian","Christopher","Man","Investment portfolio manager","Libertarian Party of Canada","Defeated",65
-"Saskatchewan",1988-11-21,"General","34","Saskatoon--Clark's Crossing","Axworthy, Chris","Axworthy","Chris",NA,"Man","Professor","New Democratic Party","Elected",19889
+"Saskatchewan",1988-11-21,"General","34","Saskatoon--Clark's Crossing","Axworthy, Christopher (Chris) S.","Axworthy","Christopher","(Chris) S.","Man","Professor","New Democratic Party","Elected",19889
 "Saskatchewan",1988-11-21,"General","34","Saskatoon--Clark's Crossing","Hnatyshyn, Ramon John","Hnatyshyn","Ramon","John","Man","Lawyer","Progressive Conservative Party","Defeated",14847
 "Saskatchewan",1988-11-21,"General","34","Saskatoon--Clark's Crossing","Patrick, Bill","Patrick","Bill",NA,"Man","Contractor","Liberal Party of Canada","Defeated",6554
 "Saskatchewan",1988-11-21,"General","34","Saskatoon--Clark's Crossing","Morvick, Keith A.","Morvick","Keith","A.","Man","Civic employee","Green Party of Canada","Defeated",222
-"Saskatchewan",1988-11-21,"General","34","Saskatoon--Dundurn","Fisher, Ron","Fisher","Ron",NA,"Man","Hoistman","New Democratic Party","Elected",20986
+"Saskatchewan",1988-11-21,"General","34","Saskatoon--Dundurn","Fisher, Ronald (Ron) Claude","Fisher","Ronald","(Ron) Claude","Man","Hoistman","New Democratic Party","Elected",20986
 "Saskatchewan",1988-11-21,"General","34","Saskatoon--Dundurn","Bryden, Grant","Bryden","Grant",NA,"Man","Lawyer","Progressive Conservative Party","Defeated",13859
 "Saskatchewan",1988-11-21,"General","34","Saskatoon--Dundurn","Ferguson, Debra","Ferguson","Debra",NA,"Woman","Lawyer","Liberal Party of Canada","Defeated",8389
 "Saskatchewan",1988-11-21,"General","34","Saskatoon--Dundurn","Knutson, Elmer","Knutson","Elmer",NA,"Man","Retired leader C.O.R. West","Confederation of Regions Western Party","Defeated",384
 "Saskatchewan",1988-11-21,"General","34","Saskatoon--Dundurn","Quesnel, Harold","Quesnel","Harold",NA,"Man","Employee","Party for the Commonwealth of Canada","Defeated",51
-"Saskatchewan",1988-11-21,"General","34","Saskatoon--Humboldt","Hovdebo, Stanley J.","Hovdebo","Stanley","J.","Man","Educator, farmer","New Democratic Party","Elected",17703
+"Saskatchewan",1988-11-21,"General","34","Saskatoon--Humboldt","Hovdebo, Stanley John","Hovdebo","Stanley","John","Man","Educator, farmer","New Democratic Party","Elected",17703
 "Saskatchewan",1988-11-21,"General","34","Saskatoon--Humboldt","Ravis, Donald Paul","Ravis","Donald","Paul","Man","Businessman","Progressive Conservative Party","Defeated",14793
 "Saskatchewan",1988-11-21,"General","34","Saskatoon--Humboldt","Williams, C.M.Red","Williams","C.M.Red",NA,"Man","Professor","Liberal Party of Canada","Defeated",8442
-"Saskatchewan",1988-11-21,"General","34","Souris--Moose Mountain","Gustafson, Leonard J.","Gustafson","Leonard","J.","Man","Businessman","Progressive Conservative Party","Elected",17200
+"Saskatchewan",1988-11-21,"General","34","Souris--Moose Mountain","Gustafson, Leonard Joe","Gustafson","Leonard","Joe","Man","Businessman","Progressive Conservative Party","Elected",17200
 "Saskatchewan",1988-11-21,"General","34","Souris--Moose Mountain","Sample, Jeff","Sample","Jeff",NA,"Man","Geologist","New Democratic Party","Defeated",11924
 "Saskatchewan",1988-11-21,"General","34","Souris--Moose Mountain","Bauche, Mike","Bauche","Mike",NA,"Man","Farmer","Liberal Party of Canada","Defeated",6965
 "Saskatchewan",1988-11-21,"General","34","Souris--Moose Mountain","Rutten, Kelvin G.","Rutten","Kelvin","G.","Man","Farmer","Confederation of Regions Western Party","Defeated",652

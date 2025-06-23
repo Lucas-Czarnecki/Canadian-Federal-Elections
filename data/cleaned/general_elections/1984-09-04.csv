@@ -1,5 +1,5 @@
 "Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Alberta",1984-09-04,"General","33","Athabasca","Shields, Jack Wendele","Shields","Jack","Wendele","Man","Businessman","Progressive Conservative Party","Elected",23997
+"Alberta",1984-09-04,"General","33","Athabasca","Shields, John (Jack) Wendele","Shields","John","(Jack) Wendele","Man","Businessman","Progressive Conservative Party","Elected",23997
 "Alberta",1984-09-04,"General","33","Athabasca","Dort-Maclean, Ann","Dort-Maclean","Ann",NA,"Woman","Project Worker","New Democratic Party","Defeated",6001
 "Alberta",1984-09-04,"General","33","Athabasca","Woodward, Mike","Woodward","Mike",NA,"Man","Businessman","Liberal Party of Canada","Defeated",4222
 "Alberta",1984-09-04,"General","33","Athabasca","Borger, Fred W.","Borger","Fred","W.","Man","Bowling lanes operator","Confederation of Regions Western Party","Defeated",578
@@ -147,7 +147,7 @@
 "British Columbia",1984-09-04,"General","33","Comox--Powell River","Higgin, Rob","Higgin","Rob",NA,"Man","Carpenter","Social Credit Party of Canada","Defeated",357
 "British Columbia",1984-09-04,"General","33","Comox--Powell River","Pederson, Sy","Pederson","Sy",NA,"Man","Logger","Communist Party of Canada","Defeated",215
 "British Columbia",1984-09-04,"General","33","Cowichan--Malahat--The Islands","Manly, James Douglas","Manly","James","Douglas","Man","Member of Parliament","New Democratic Party","Elected",24555
-"British Columbia",1984-09-04,"General","33","Cowichan--Malahat--The Islands","Taylor, Don L.","Taylor","Don","L.","Man","Teacher","Progressive Conservative Party","Defeated",22964
+"British Columbia",1984-09-04,"General","33","Cowichan--Malahat--The Islands","Taylor, Donald (Don) L.","Taylor","Donald","(Don) L.","Man","Teacher","Progressive Conservative Party","Defeated",22964
 "British Columbia",1984-09-04,"General","33","Cowichan--Malahat--The Islands","Coleman, Michael G.","Coleman","Michael","G.","Man","Barrister & solicitor","Liberal Party of Canada","Defeated",5899
 "British Columbia",1984-09-04,"General","33","Cowichan--Malahat--The Islands","Armstrong, Lindsay","Armstrong","Lindsay",NA,"Man","Partsman","Green Party of Canada","Defeated",387
 "British Columbia",1984-09-04,"General","33","Cowichan--Malahat--The Islands","Taylor, James","Taylor","James",NA,"Man","Businessman","Libertarian Party of Canada","Defeated",313
@@ -253,7 +253,7 @@
 "British Columbia",1984-09-04,"General","33","Surrey--White Rock--North Delta","Zuliniak, Monty","Zuliniak","Monty",NA,"Man","Umpire","Rhinoceros Party of Canada","Defeated",481
 "British Columbia",1984-09-04,"General","33","Surrey--White Rock--North Delta","Hartl, Dietmar","Hartl","Dietmar",NA,"Man","Citizen","Green Party of Canada","Defeated",315
 "British Columbia",1984-09-04,"General","33","Surrey--White Rock--North Delta","Viaud, Ray","Viaud","Ray",NA,"Man","Manager","Communist Party of Canada","Defeated",155
-"British Columbia",1984-09-04,"General","33","Vancouver Centre","Carney, Pat","Carney","Pat",NA,"Woman","Economist","Progressive Conservative Party","Elected",21704
+"British Columbia",1984-09-04,"General","33","Vancouver Centre","Carney, Patricia (Pat) Dora","Carney","Patricia","(Pat) Dora","Woman","Economist","Progressive Conservative Party","Elected",21704
 "British Columbia",1984-09-04,"General","33","Vancouver Centre","DEN HERTOG, Johanna","DEN HERTOG","Johanna",NA,"Woman","Editor","New Democratic Party","Defeated",16283
 "British Columbia",1984-09-04,"General","33","Vancouver Centre","Manning, Paul E.","Manning","Paul","E.","Man","Businessman","Liberal Party of Canada","Defeated",10654
 "British Columbia",1984-09-04,"General","33","Vancouver Centre","Watson, Paul","Watson","Paul",NA,"Man","Sea captain","Green Party of Canada","Defeated",533
@@ -343,7 +343,7 @@
 "Manitoba",1984-09-04,"General","33","Winnipeg North Centre","Bueti, Frank","Bueti","Frank",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",5144
 "Manitoba",1984-09-04,"General","33","Winnipeg North Centre","McDonald, Monty A.","McDonald","Monty","A.","Man","Teacher","Independent","Defeated",484
 "Manitoba",1984-09-04,"General","33","Winnipeg North Centre","Hogan, Don","Hogan","Don",NA,"Man","Civil rights activist","Independent","Defeated",234
-"Manitoba",1984-09-04,"General","33","Winnipeg--Assiniboine","McKenzie, A. Daniel","McKenzie","A.","Daniel","Man","Communications","Progressive Conservative Party","Elected",27567
+"Manitoba",1984-09-04,"General","33","Winnipeg--Assiniboine","McKenzie, Alvin Daniel (Dan)","McKenzie","Alvin","Daniel (Dan)","Man","Communications","Progressive Conservative Party","Elected",27567
 "Manitoba",1984-09-04,"General","33","Winnipeg--Assiniboine","Matas, David","Matas","David",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",16200
 "Manitoba",1984-09-04,"General","33","Winnipeg--Assiniboine","Johannson, Robert","Johannson","Robert",NA,"Man","Minister","New Democratic Party","Defeated",7067
 "Manitoba",1984-09-04,"General","33","Winnipeg--Assiniboine","Stevens, Lillian","Stevens","Lillian",NA,"Woman","Housewife","Confederation of Regions Western Party","Defeated",1344
@@ -496,7 +496,7 @@
 "Ontario",1984-09-04,"General","33","Bruce--Grey","Gurbin, Gary Michael","Gurbin","Gary","Michael","Man","General practitioner","Progressive Conservative Party","Elected",27611
 "Ontario",1984-09-04,"General","33","Bruce--Grey","Oswald, Ron","Oswald","Ron",NA,"Man","Farmer","Liberal Party of Canada","Defeated",9931
 "Ontario",1984-09-04,"General","33","Bruce--Grey","Peterson, Norma","Peterson","Norma",NA,"Woman","Homemaker","New Democratic Party","Defeated",5112
-"Ontario",1984-09-04,"General","33","Burlington","Kempling, William James","Kempling","William","James","Man","Businessman","Progressive Conservative Party","Elected",37577
+"Ontario",1984-09-04,"General","33","Burlington","Kempling, William (Bill) James","Kempling","William","(Bill) James","Man","Businessman","Progressive Conservative Party","Elected",37577
 "Ontario",1984-09-04,"General","33","Burlington","Mulkewich, Walter","Mulkewich","Walter",NA,"Man","Sales representative","New Democratic Party","Defeated",11687
 "Ontario",1984-09-04,"General","33","Burlington","Schwenger, Fred","Schwenger","Fred",NA,"Man","Professional engineer","Liberal Party of Canada","Defeated",11406
 "Ontario",1984-09-04,"General","33","Cambridge","Speyer, Chris","Speyer","Chris",NA,"Man","Lawyer","Progressive Conservative Party","Elected",22963
@@ -565,12 +565,12 @@
 "Ontario",1984-09-04,"General","33","Grey--Simcoe","Sheffer, Joe","Sheffer","Joe",NA,"Man","Assistant manager, human resources","Liberal Party of Canada","Defeated",9369
 "Ontario",1984-09-04,"General","33","Grey--Simcoe","Stone, Joan","Stone","Joan",NA,"Woman","Registered nurse","New Democratic Party","Defeated",6001
 "Ontario",1984-09-04,"General","33","Grey--Simcoe","Biggins, Eric","Biggins","Eric",NA,"Man","Purchasing agent","Libertarian Party of Canada","Defeated",337
-"Ontario",1984-09-04,"General","33","Guelph","Winegard, William C.","Winegard","William","C.","Man","Metallurgical engineer","Progressive Conservative Party","Elected",23484
+"Ontario",1984-09-04,"General","33","Guelph","Winegard, William Charles","Winegard","William","Charles","Man","Metallurgical engineer","Progressive Conservative Party","Elected",23484
 "Ontario",1984-09-04,"General","33","Guelph","Schroder, James Duncan","Schroder","James","Duncan","Man","Veterinarian","Liberal Party of Canada","Defeated",13757
 "Ontario",1984-09-04,"General","33","Guelph","Robinson, Jim","Robinson","Jim",NA,"Man","National union representative","New Democratic Party","Defeated",9153
 "Ontario",1984-09-04,"General","33","Guelph","Catty, Susie Mew","Catty","Susie","Mew","Woman","Broadcaster","Rhinoceros Party of Canada","Defeated",343
 "Ontario",1984-09-04,"General","33","Guelph","Tucker, Walter A.","Tucker","Walter","A.","Man","Minister","Libertarian Party of Canada","Defeated",314
-"Ontario",1984-09-04,"General","33","Haldimand--Norfolk","Bradley, T.A. Bud","Bradley","T.A.","Bud","Man","Dentist","Progressive Conservative Party","Elected",27296
+"Ontario",1984-09-04,"General","33","Haldimand--Norfolk","Bradley, Thomas Arhur (Bud)","Bradley","Thomas","Arhur (Bud)","Man","Dentist","Progressive Conservative Party","Elected",27296
 "Ontario",1984-09-04,"General","33","Haldimand--Norfolk","Fuller, Edith","Fuller","Edith",NA,"Woman","Mayor of Haldimand","Liberal Party of Canada","Defeated",12161
 "Ontario",1984-09-04,"General","33","Haldimand--Norfolk","Jefferies, Bill","Jefferies","Bill",NA,"Man","Production machinist","New Democratic Party","Defeated",6138
 "Ontario",1984-09-04,"General","33","Haldimand--Norfolk","Weber, Martin J.","Weber","Martin","J.","Man","Fruit grower","Independent","Defeated",656
@@ -685,7 +685,7 @@
 "Ontario",1984-09-04,"General","33","Ontario","Fennell, Thomas Scott","Fennell","Thomas","Scott","Man","Member of Parliament","Progressive Conservative Party","Elected",35163
 "Ontario",1984-09-04,"General","33","Ontario","Herrema, Gary","Herrema","Gary",NA,"Man","Administrator","Liberal Party of Canada","Defeated",14519
 "Ontario",1984-09-04,"General","33","Ontario","Rison, Geoff","Rison","Geoff",NA,"Man","Teacher","New Democratic Party","Defeated",12995
-"Ontario",1984-09-04,"General","33","Oshawa","Broadbent, John Edward","Broadbent","John","Edward","Man","Professor","New Democratic Party","Elected",25092
+"Ontario",1984-09-04,"General","33","Oshawa","Broadbent, John Edward (Ed)","Broadbent","John","Edward (Ed)","Man","Professor","New Democratic Party","Elected",25092
 "Ontario",1984-09-04,"General","33","Oshawa","Sosna, Alex","Sosna","Alex",NA,"Man","Lawyer","Progressive Conservative Party","Defeated",23028
 "Ontario",1984-09-04,"General","33","Oshawa","Kelly, Terry","Kelly","Terry",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",10719
 "Ontario",1984-09-04,"General","33","Oshawa","Posma, Rolf","Posma","Rolf",NA,"Man","Quality control, GM","Libertarian Party of Canada","Defeated",335
@@ -759,7 +759,7 @@
 "Ontario",1984-09-04,"General","33","Sarnia--Lambton","Kahanek, Fred","Kahanek","Fred",NA,"Man","Unemployed","Independent","Defeated",51
 "Ontario",1984-09-04,"General","33","Sault Ste. Marie","Kelleher, James Francis","Kelleher","James","Francis","Man","Lawyer","Progressive Conservative Party","Elected",13135
 "Ontario",1984-09-04,"General","33","Sault Ste. Marie","MORIN-STROM, Karl","MORIN-STROM","Karl",NA,"Man","Financial analyst","New Democratic Party","Defeated",10726
-"Ontario",1984-09-04,"General","33","Sault Ste. Marie","Irwin, Ronald ""Ron"" Albert","Irwin","Ronald","""Ron"" Albert","Man","Lawyer","Liberal Party of Canada","Defeated",9972
+"Ontario",1984-09-04,"General","33","Sault Ste. Marie","Irwin, Ronald (Ron) Albert","Irwin","Ronald","(Ron) Albert","Man","Lawyer","Liberal Party of Canada","Defeated",9972
 "Ontario",1984-09-04,"General","33","Sault Ste. Marie","Rooney, Charles L.","Rooney","Charles","L.","Man","Retired","Party for the Commonwealth of Canada","Defeated",198
 "Ontario",1984-09-04,"General","33","Scarborough Centre","Browes, Pauline","Browes","Pauline",NA,"Woman","Educator","Progressive Conservative Party","Elected",19968
 "Ontario",1984-09-04,"General","33","Scarborough Centre","Kelly, Norman","Kelly","Norman",NA,"Man","Member of Parliament","Liberal Party of Canada","Defeated",14229
@@ -787,7 +787,7 @@
 "Ontario",1984-09-04,"General","33","Simcoe South","Stewart, Ronald Alexander","Stewart","Ronald","Alexander","Man","Wholesale distributor","Progressive Conservative Party","Elected",30702
 "Ontario",1984-09-04,"General","33","Simcoe South","Owen, Bruce","Owen","Bruce",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",13906
 "Ontario",1984-09-04,"General","33","Simcoe South","Berry, Frank","Berry","Frank",NA,"Man","Staff representative with U.S.W.A.","New Democratic Party","Defeated",8283
-"Ontario",1984-09-04,"General","33","Spadina","Heap, Daniel James Macdonnell","Heap","Daniel","James Macdonnell","Man","Parliamentarian","New Democratic Party","Elected",13241
+"Ontario",1984-09-04,"General","33","Spadina","Heap, Daniel (Dan) James Macdonnell","Heap","Daniel","(Dan) James Macdonnell","Man","Parliamentarian","New Democratic Party","Elected",13241
 "Ontario",1984-09-04,"General","33","Spadina","Coutts, Jim","Coutts","Jim",NA,"Man","Management, financial consultant","Liberal Party of Canada","Defeated",11880
 "Ontario",1984-09-04,"General","33","Spadina","Hope, Ying","Hope","Ying",NA,"Man","Alderman","Progressive Conservative Party","Defeated",8061
 "Ontario",1984-09-04,"General","33","Spadina","Burt, William E.","Burt","William","E.","Man","Commodities futures broker","Libertarian Party of Canada","Defeated",358
@@ -855,7 +855,7 @@
 "Ontario",1984-09-04,"General","33","Wellington--Dufferin--Simcoe","Green, John","Green","John",NA,"Man","Plant manager","Liberal Party of Canada","Defeated",7303
 "Ontario",1984-09-04,"General","33","Wellington--Dufferin--Simcoe","Young, Sandy W.A.","Young","Sandy","W.A.","Man","School teacher","New Democratic Party","Defeated",6468
 "Ontario",1984-09-04,"General","33","Willowdale","Oostrom, John Martin","Oostrom","John","Martin","Man","Senior executive finance & admin.","Progressive Conservative Party","Elected",22425
-"Ontario",1984-09-04,"General","33","Willowdale","Peterson, James Scott (Jim)","Peterson","James","Scott (Jim)","Man","Member of Parliament","Liberal Party of Canada","Defeated",22063
+"Ontario",1984-09-04,"General","33","Willowdale","Peterson, James (Jim) Scott","Peterson","James","(Jim) Scott","Man","Member of Parliament","Liberal Party of Canada","Defeated",22063
 "Ontario",1984-09-04,"General","33","Willowdale","Fagan, John","Fagan","John",NA,"Man","Lawyer","New Democratic Party","Defeated",6711
 "Ontario",1984-09-04,"General","33","Willowdale","Graham, George","Graham","George",NA,"Man","Student","Libertarian Party of Canada","Defeated",329
 "Ontario",1984-09-04,"General","33","Windsor West","Gray, Herbert Eser (Herb)","Gray","Herbert","Eser (Herb)","Man","Lawyer","Liberal Party of Canada","Elected",13624
@@ -1379,7 +1379,7 @@
 "Quebec",1984-09-04,"General","33","Verdun--Saint-Paul","Coté, Philippe Hooligan","Coté","Philippe","Hooligan","Man","Dilettante","Rhinoceros Party of Canada","Defeated",1309
 "Quebec",1984-09-04,"General","33","Verdun--Saint-Paul","Paquette, Serge","Paquette","Serge",NA,"Man","Social worker","Parti Nationaliste du Québec","Defeated",798
 "Quebec",1984-09-04,"General","33","Verdun--Saint-Paul","Boyle, Steve","Boyle","Steve",NA,"Man","Student","Party for the Commonwealth of Canada","Defeated",99
-"Saskatchewan",1984-09-04,"General","33","Assiniboia","Gustafson, Leonard J.","Gustafson","Leonard","J.","Man","Farmer, businessman","Progressive Conservative Party","Elected",16026
+"Saskatchewan",1984-09-04,"General","33","Assiniboia","Gustafson, Leonard Joe","Gustafson","Leonard","Joe","Man","Farmer, businessman","Progressive Conservative Party","Elected",16026
 "Saskatchewan",1984-09-04,"General","33","Assiniboia","Adamack, Bill","Adamack","Bill",NA,"Man","Farmer","New Democratic Party","Defeated",10853
 "Saskatchewan",1984-09-04,"General","33","Assiniboia","McKague, Lonny","McKague","Lonny",NA,"Man","Farmer","Liberal Party of Canada","Defeated",6472
 "Saskatchewan",1984-09-04,"General","33","Assiniboia","Coffey, Ted","Coffey","Ted",NA,"Man","Research engineer","Confederation of Regions Western Party","Defeated",595
@@ -1387,7 +1387,7 @@
 "Saskatchewan",1984-09-04,"General","33","Humboldt--Lake Centre","Meiklejohn, Ray","Meiklejohn","Ray",NA,"Man","Program consultant","Progressive Conservative Party","Defeated",13166
 "Saskatchewan",1984-09-04,"General","33","Humboldt--Lake Centre","Dosman, James","Dosman","James",NA,"Man","Doctor","Liberal Party of Canada","Defeated",6005
 "Saskatchewan",1984-09-04,"General","33","Humboldt--Lake Centre","Holtorf, Gary D.","Holtorf","Gary","D.","Man","Farmer","Confederation of Regions Western Party","Defeated",429
-"Saskatchewan",1984-09-04,"General","33","Kindersley--Lloydminster","McKnight, William Hunter (Bill)","McKnight","William","Hunter (Bill)","Man","Farmer","Progressive Conservative Party","Elected",20436
+"Saskatchewan",1984-09-04,"General","33","Kindersley--Lloydminster","McKnight, William (Bill) Hunter","McKnight","William","(Bill) Hunter","Man","Farmer","Progressive Conservative Party","Elected",20436
 "Saskatchewan",1984-09-04,"General","33","Kindersley--Lloydminster","Atkinson, Roy","Atkinson","Roy",NA,"Man","Farmer","New Democratic Party","Defeated",10229
 "Saskatchewan",1984-09-04,"General","33","Kindersley--Lloydminster","Fox, Lyal","Fox","Lyal",NA,"Man","Agriculture","Liberal Party of Canada","Defeated",3979
 "Saskatchewan",1984-09-04,"General","33","Kindersley--Lloydminster","Guillaume, Henry G.","Guillaume","Henry","G.","Man","Farmer","Confederation of Regions Western Party","Defeated",419
@@ -1399,7 +1399,7 @@
 "Saskatchewan",1984-09-04,"General","33","Moose Jaw","Kindrachuk, Glenn","Kindrachuk","Glenn",NA,"Man","Trainman","New Democratic Party","Defeated",13338
 "Saskatchewan",1984-09-04,"General","33","Moose Jaw","Hart, Larry","Hart","Larry",NA,"Man","Farmer","Liberal Party of Canada","Defeated",4762
 "Saskatchewan",1984-09-04,"General","33","Moose Jaw","Boechler, Brant","Boechler","Brant",NA,"Man","Contractor","Confederation of Regions Western Party","Defeated",446
-"Saskatchewan",1984-09-04,"General","33","Prince Albert","Hovdebo, Stanley J.","Hovdebo","Stanley","J.","Man","Educator","New Democratic Party","Elected",13359
+"Saskatchewan",1984-09-04,"General","33","Prince Albert","Hovdebo, Stanley John","Hovdebo","Stanley","John","Man","Educator","New Democratic Party","Elected",13359
 "Saskatchewan",1984-09-04,"General","33","Prince Albert","Dobrowolsky, Gordon","Dobrowolsky","Gordon",NA,"Man","Businessman","Progressive Conservative Party","Defeated",13062
 "Saskatchewan",1984-09-04,"General","33","Prince Albert","Harradence, J.H. Clyne","Harradence","J.H.","Clyne","Man","Lawyer","Liberal Party of Canada","Defeated",10886
 "Saskatchewan",1984-09-04,"General","33","Prince Albert","Panas, Tony","Panas","Tony",NA,"Man","Clerk","Confederation of Regions Western Party","Defeated",262
@@ -1420,12 +1420,12 @@
 "Saskatchewan",1984-09-04,"General","33","Regina West","Cariou, Kimball","Cariou","Kimball",NA,"Man","Publisher's representative","Communist Party of Canada","Defeated",75
 "Saskatchewan",1984-09-04,"General","33","Saskatoon East","Ravis, Donald Paul","Ravis","Donald","Paul","Man","Small businessman","Progressive Conservative Party","Elected",17087
 "Saskatchewan",1984-09-04,"General","33","Saskatoon East","Clay, Colin","Clay","Colin",NA,"Man","Minister of religion","New Democratic Party","Defeated",16670
-"Saskatchewan",1984-09-04,"General","33","Saskatoon East","Racicot, Guy","Racicot","Guy",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",11901
+"Saskatchewan",1984-09-04,"General","33","Saskatoon East","Richardson, Doug","Richardson","Doug",NA,"Man","Lawyer","Liberal Party of Canada","Defeated",11901
 "Saskatchewan",1984-09-04,"General","33","Saskatoon East","Arscott, Hugh","Arscott","Hugh",NA,"Man","Writer","Rhinoceros Party of Canada","Defeated",340
 "Saskatchewan",1984-09-04,"General","33","Saskatoon East","Rogala, Roy","Rogala","Roy",NA,"Man","Graduate student","Green Party of Canada","Defeated",164
 "Saskatchewan",1984-09-04,"General","33","Saskatoon East","Neefs, Germaine","Neefs","Germaine",NA,"Woman","Homemaker","Confederation of Regions Western Party","Defeated",123
 "Saskatchewan",1984-09-04,"General","33","Saskatoon West","Hnatyshyn, Ramon John","Hnatyshyn","Ramon","John","Man","Lawyer","Progressive Conservative Party","Elected",26012
-"Saskatchewan",1984-09-04,"General","33","Saskatoon West","Fisher, Ron","Fisher","Ron",NA,"Man","Hoistman","New Democratic Party","Defeated",18910
+"Saskatchewan",1984-09-04,"General","33","Saskatoon West","Fisher, Ronald (Ron) Claude","Fisher","Ronald","(Ron) Claude","Man","Hoistman","New Democratic Party","Defeated",18910
 "Saskatchewan",1984-09-04,"General","33","Saskatoon West","Darling, Maureen","Darling","Maureen",NA,"Woman","Regional project manager","Liberal Party of Canada","Defeated",6355
 "Saskatchewan",1984-09-04,"General","33","Saskatoon West","Adilman, George","Adilman","George",NA,"Man","Retired","Rhinoceros Party of Canada","Defeated",495
 "Saskatchewan",1984-09-04,"General","33","Saskatoon West","Goodine, Dayle","Goodine","Dayle",NA,"Man","Farmer","Confederation of Regions Western Party","Defeated",337

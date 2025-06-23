@@ -1,57 +1,63 @@
 "Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Manitoba",2023-06-19,"By-Election","44","Portage--Lisgar","Leslie, Branden","Leslie","Branden",NA,"Man",NA,"Conservative Party of Canada","Elected",20250
-"Manitoba",2023-06-19,"By-Election","44","Portage--Lisgar","Bernier, Maxime","Bernier","Maxime",NA,"Man",NA,"People's Party of Canada","Defeated",5352
-"Manitoba",2023-06-19,"By-Election","44","Portage--Lisgar","Smith, Kerry","Smith","Kerry",NA,"Woman",NA,"Liberal Party of Canada","Defeated",2666
-"Manitoba",2023-06-19,"By-Election","44","Portage--Lisgar","Tessier-Burch, Lisa","Tessier-Burch","Lisa",NA,"Woman",NA,"New Democratic Party","Defeated",2208
-"Manitoba",2023-06-19,"By-Election","44","Portage--Lisgar","Geddert, Nicolas","Geddert","Nicolas",NA,"Man",NA,"Green Party of Canada","Defeated",704
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Carr, Ben","Carr","Ben",NA,"Man",NA,"Liberal Party of Canada","Elected",14278
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Stipanovic, Damir","Stipanovic","Damir",NA,"Man",NA,"Conservative Party of Canada","Defeated",6100
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Riddell, Julia","Riddell","Julia",NA,"Woman",NA,"New Democratic Party","Defeated",3778
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Hemmerling, Douglas","Hemmerling","Douglas",NA,"Man",NA,"Green Party of Canada","Defeated",698
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Baer, Tylor","Baer","Tylor",NA,"Man",NA,"People's Party of Canada","Defeated",324
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","CoRhino, Sébastien","CoRhino","Sébastien",NA,"Man",NA,"Rhinoceros Party","Defeated",55
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Palsson, Tait","Palsson","Tait",NA,"Man",NA,"Independent","Defeated",52
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Carroll, Jevin David","Carroll","Jevin","David","Man",NA,"Independent","Defeated",36
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Dale, John","Dale","John",NA,"Man",NA,"Independent","Defeated",29
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","MacDonald, Glen","MacDonald","Glen",NA,"Man",NA,"Independent","Defeated",27
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Lukawski, Connie","Lukawski","Connie",NA,"Woman",NA,"Independent","Defeated",24
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Stewart, Paul","Stewart","Paul",NA,"Man",NA,"Independent","Defeated",22
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Strzalkowski, Patrick","Strzalkowski","Patrick",NA,"Man",NA,"Independent","Defeated",19
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Dejewski, Mark","Dejewski","Mark",NA,"Man",NA,"Independent","Defeated",18
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Galas, Stella","Galas","Stella",NA,"Woman",NA,"Independent","Defeated",16
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Karavas, Demetrios","Karavas","Demetrios",NA,"Man",NA,"Independent","Defeated",16
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Beaulieu, Myriam","Beaulieu","Myriam",NA,"Woman",NA,"Independent","Defeated",14
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Clacio, Christopher","Clacio","Christopher",NA,"Man",NA,"Independent","Defeated",14
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Bourgault, Alain","Bourgault","Alain",NA,"Man",NA,"Independent","Defeated",13
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Jubinville, Martin ""Acetaria Caesar""","Jubinville","Martin","""Acetaria Caesar""","Man",NA,"Independent","Defeated",13
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Krzywinski, Krzysztof","Krzywinski","Krzysztof",NA,"Man",NA,"Independent","Defeated",13
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Lamontagne, Alain","Lamontagne","Alain",NA,"Man",NA,"Independent","Defeated",11
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","LeBel, Marie-Hélène","LeBel","Marie-Hélène",NA,"Woman",NA,"Independent","Defeated",11
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Wong, Jordan","Wong","Jordan",NA,"Man",NA,"Independent","Defeated",11
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Bélanger, Line","Bélanger","Line",NA,"Woman",NA,"Independent","Defeated",10
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Kozakewich, Andrew","Kozakewich","Andrew",NA,"Man",NA,"Independent","Defeated",10
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Rosenblum, Eliana","Rosenblum","Eliana",NA,"Woman",NA,"Independent","Defeated",10
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Dogger, Gerrit","Dogger","Gerrit",NA,"Man",NA,"Independent","Defeated",9
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","St-Amand, Julie","St-Amand","Julie",NA,"Woman",NA,"Independent","Defeated",9
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Engering, Alexandra","Engering","Alexandra",NA,"Woman",NA,"Independent","Defeated",8
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Hamel, Anthony","Hamel","Anthony",NA,"Man",NA,"Independent","Defeated",8
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Vanderwater, Darcy Justin","Vanderwater","Darcy","Justin","Man",NA,"Independent","Defeated",8
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Sherwood, Roger","Sherwood","Roger",NA,"Man",NA,"Independent","Defeated",7
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","St-Amand, Pascal","St-Amand","Pascal",NA,"Man",NA,"Independent","Defeated",7
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Frazer, Dji-Pé","Frazer","Dji-Pé",NA,"Man",NA,"Independent","Defeated",6
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Gagnon, Daniel","Gagnon","Daniel",NA,"Man",NA,"Independent","Defeated",6
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Rocchi, Spencer","Rocchi","Spencer",NA,"Man",NA,"Independent","Defeated",6
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Stocco, Mário","Stocco","Mário",NA,"Man",NA,"Independent","Defeated",6
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Desbiens, Manon Marie Lili","Desbiens","Manon","Marie Lili","Woman",NA,"Independent","Defeated",5
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Dupont, Ysack Émile","Dupont","Ysack","Émile","Man",NA,"Independent","Defeated",5
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Nasihi, Yusuf","Nasihi","Yusuf",NA,"Man",NA,"Independent","Defeated",5
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Champagne Gareau, Jaël","Champagne Gareau","Jaël",NA,"Man",NA,"Independent","Defeated",4
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Eckstrom, Donovan","Eckstrom","Donovan",NA,"Man",NA,"Independent","Defeated",3
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Huard, Ryan","Huard","Ryan",NA,"Man",NA,"Independent","Defeated",2
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Polya, Lorant","Polya","Lorant",NA,"Man",NA,"Independent","Defeated",2
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Teichman, Benjamin","Teichman","Benjamin",NA,"Man",NA,"Independent","Defeated",2
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Vanderwater, Gavin","Vanderwater","Gavin",NA,"Man",NA,"Independent","Defeated",2
-"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Waziruddin, Saleh","Waziruddin","Saleh",NA,"Man",NA,"Independent","Defeated",1
+"Manitoba",2023-06-19,"By-Election","44","Portage--Lisgar","Leslie, Branden","Leslie","Branden",NA,"Man","Agricultural Advocate","Conservative Party of Canada","Elected",20250
+"Manitoba",2023-06-19,"By-Election","44","Portage--Lisgar","Bernier, Maxime","Bernier","Maxime",NA,"Man","Politician","People's Party of Canada","Defeated",5352
+"Manitoba",2023-06-19,"By-Election","44","Portage--Lisgar","Smith, Kerry","Smith","Kerry",NA,"Woman","Senior Program Director","Liberal Party of Canada","Defeated",2666
+"Manitoba",2023-06-19,"By-Election","44","Portage--Lisgar","Tessier-Burch, Lisa","Tessier-Burch","Lisa",NA,"Woman","Teacher","New Democratic Party","Defeated",2208
+"Manitoba",2023-06-19,"By-Election","44","Portage--Lisgar","Geddert, Nicolas","Geddert","Nicolas",NA,"Man","Heavy equipment operator","Green Party of Canada","Defeated",704
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Carr, Ben","Carr","Ben",NA,"Man","Consultant","Liberal Party of Canada","Elected",14278
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Stipanovic, Damir","Stipanovic","Damir",NA,"Man","Retired Air Traffic Controller","Conservative Party of Canada","Defeated",6100
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Riddell, Julia","Riddell","Julia",NA,"Woman","Psychologist","New Democratic Party","Defeated",3778
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Hemmerling, Douglas","Hemmerling","Douglas",NA,"Man","Teacher","Green Party of Canada","Defeated",698
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Baer, Tylor","Baer","Tylor",NA,"Man","Tele Fundraiser","People's Party of Canada","Defeated",324
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","CoRhino, Sébastien","CoRhino","Sébastien",NA,"Man","Chef & Dealer","Rhinoceros Party","Defeated",55
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Palsson, Tait","Palsson","Tait",NA,"Man","Student","Independent","Defeated",52
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Carroll, Jevin David","Carroll","Jevin","David","Man","Accountant","Independent","Defeated",36
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Dale, John","Dale","John",NA,"Man","Student","Independent","Defeated",29
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","MacDonald, Glen","MacDonald","Glen",NA,"Man","Retired","Independent","Defeated",27
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Lukawski, Connie","Lukawski","Connie",NA,"Man","Software Developer","Independent","Defeated",24
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Stewart, Paul","Stewart","Paul",NA,"Man","Self employed","Independent","Defeated",22
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Strzalkowski, Patrick","Strzalkowski","Patrick",NA,"Man","Ecologist","Independent","Defeated",19
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Dejewski, Mark","Dejewski","Mark",NA,"Man","Student","Independent","Defeated",18
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Galas, Stella","Galas","Stella",NA,"Woman","Student","Independent","Defeated",16
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Karavas, Demetrios","Karavas","Demetrios",NA,"Man","IT Manager","Independent","Defeated",16
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Beaulieu, Myriam","Beaulieu","Myriam",NA,"Woman","Farmer","Independent","Defeated",14
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Clacio, Christopher","Clacio","Christopher",NA,"Man","Natural Values Clerk","Independent","Defeated",14
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Bourgault, Alain","Bourgault","Alain",NA,"Man","Retired (Available)","Independent","Defeated",13
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Jubinville, Martin ""Acetaria Caesar""","Jubinville","Martin","""Acetaria Caesar""","Man","Group Development Advisor","Independent","Defeated",13
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Krzywinski, Krzysztof","Krzywinski","Krzysztof",NA,"Man","Unemployed","Independent","Defeated",13
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Lamontagne, Alain","Lamontagne","Alain",NA,"Man","Retired","Independent","Defeated",11
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","LeBel, Marie-Hélène","LeBel","Marie-Hélène",NA,"Woman","Teacher","Independent","Defeated",11
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Wong, Jordan","Wong","Jordan",NA,"Man","Automotive service technician","Independent","Defeated",11
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Bélanger, Line","Bélanger","Line",NA,"Woman","Quality Assurance Officer","Independent","Defeated",10
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Kozakewich, Andrew","Kozakewich","Andrew",NA,"Man","Hardware Store Cashier","Independent","Defeated",10
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Rosenblum, Eliana","Rosenblum","Eliana",NA,"Woman","Teacher","Independent","Defeated",10
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Dogger, Gerrit","Dogger","Gerrit",NA,"Man","Project Manager","Independent","Defeated",9
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","St-Amand, Julie","St-Amand","Julie",NA,"Woman","Telecom employee","Independent","Defeated",9
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Engering, Alexandra","Engering","Alexandra",NA,"Woman","Outdoor Educator","Independent","Defeated",8
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Hamel, Anthony","Hamel","Anthony",NA,"Man","Student","Independent","Defeated",8
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Vanderwater, Darcy Justin","Vanderwater","Darcy","Justin","Man","Tech Service respresentative","Independent","Defeated",8
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Sherwood, Roger","Sherwood","Roger",NA,"Man","Cemetery Groundskeeper","Independent","Defeated",7
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","St-Amand, Pascal","St-Amand","Pascal",NA,"Man","Professional - Municipal","Independent","Defeated",7
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Frazer, Dji-Pé","Frazer","Dji-Pé",NA,"Man","Retired","Independent","Defeated",6
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Gagnon, Daniel","Gagnon","Daniel",NA,"Man","IT Professional","Independent","Defeated",6
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Rocchi, Spencer","Rocchi","Spencer",NA,"Man","Teacher","Independent","Defeated",6
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Stocco, Mário","Stocco","Mário",NA,"Man","Teacher","Independent","Defeated",6
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Desbiens, Manon Marie Lili","Desbiens","Manon","Marie Lili","Woman","Communications Officer","Independent","Defeated",5
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Dupont, Ysack Émile","Dupont","Ysack","Émile","Man","Tim Hortons Supervisor","Independent","Defeated",5
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Nasihi, Yusuf","Nasihi","Yusuf",NA,"Man","Pharmacist","Independent","Defeated",5
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Champagne Gareau, Jaël","Champagne Gareau","Jaël",NA,"Man","Student","Independent","Defeated",4
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Eckstrom, Donovan","Eckstrom","Donovan",NA,"Man","Paranormal Investigator","Independent","Defeated",3
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Huard, Ryan","Huard","Ryan",NA,"Man","Security Firmware Developer","Independent","Defeated",2
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Polya, Lorant","Polya","Lorant",NA,"Man","Software Developer","Independent","Defeated",2
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Teichman, Benjamin","Teichman","Benjamin",NA,"Man","Software Engineer","Independent","Defeated",2
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Vanderwater, Gavin","Vanderwater","Gavin",NA,"Man","Student","Independent","Defeated",2
+"Manitoba",2023-06-19,"By-Election","44","Winnipeg South Centre","Waziruddin, Saleh","Waziruddin","Saleh",NA,"Man","Self-employed","Independent","Defeated",1
+"Manitoba",2024-09-16,"By-Election","44","Elmwood--Transcona","Dance, Leila","Dance","Leila",NA,"Woman","Executive Director","New Democratic Party","Elected",13597
+"Manitoba",2024-09-16,"By-Election","44","Elmwood--Transcona","Reynolds, Colin","Reynolds","Colin",NA,"Man","Construction Electrician","Conservative Party of Canada","Defeated",12415
+"Manitoba",2024-09-16,"By-Election","44","Elmwood--Transcona","MacIntyre, Ian","MacIntyre","Ian",NA,"Man","Retired","Liberal Party of Canada","Defeated",1362
+"Manitoba",2024-09-16,"By-Election","44","Elmwood--Transcona","Geddert , Nicolas","Geddert ","Nicolas",NA,"Man","Construction Worker","Green Party of Canada","Defeated",360
+"Manitoba",2024-09-16,"By-Election","44","Elmwood--Transcona","Couture , Sarah","Couture ","Sarah",NA,"Woman","Information Technology","People's Party of Canada","Defeated",353
+"Manitoba",2024-09-16,"By-Election","44","Elmwood--Transcona","Strycharz , Zbig","Strycharz ","Zbig",NA,"Man","Senior Assessment Processing Officer","Canadian Future Party","Defeated",132
 "Manitoba",2013-11-25,"By-Election","41","Brandon--Souris","Maguire, Larry","Maguire","Larry",NA,"Man","Legislator","Conservative Party of Canada","Elected",12205
 "Manitoba",2013-11-25,"By-Election","41","Brandon--Souris","Dinsdale, Rolf","Dinsdale","Rolf",NA,"Man","Business Executive","Liberal Party of Canada","Defeated",11816
 "Manitoba",2013-11-25,"By-Election","41","Brandon--Souris","Szczepanski, Cory","Szczepanski","Cory",NA,"Man","Welder","New Democratic Party","Defeated",1996

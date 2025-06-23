@@ -20,7 +20,7 @@ FED_Ridings <- read_excel("~/GitHub/Canadian-Federal-Elections/data/raw/Parlinfo
 # Rename columns to enforce a consistent naming scheme with other data in this repository.
 FED_Ridings <- FED_Ridings %>% 
   rename(Constituency = Name,
-         Province_Territory = Province,
+         Province_Territory = `Province or Territory`,
          Start_Date = `Start Date`,
          End_Date = `End Date`,
          Currently_Active = `Currently Active`)

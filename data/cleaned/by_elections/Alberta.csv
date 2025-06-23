@@ -1,12 +1,12 @@
 "Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
-"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Majumdar, Shuvaloy","Majumdar","Shuvaloy",NA,"Data unavailable",NA,"Conservative Party of Canada","Elected",15853
-"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Weinstein, Elliot","Weinstein","Elliot",NA,"Data unavailable",NA,"Liberal Party of Canada","Defeated",3465
-"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Bhachu, Gurmit","Bhachu","Gurmit",NA,"Data unavailable",NA,"New Democratic Party","Defeated",3429
-"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Lorencz, Kelly","Lorencz","Kelly",NA,"Data unavailable",NA,"People's Party of Canada","Defeated",656
-"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Crocker, Ravenmoon","Crocker","Ravenmoon",NA,"Data unavailable",NA,"Green Party of Canada","Defeated",407
-"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Heather, Larry R.","Heather","Larry","R.","Data unavailable",NA,"Christian Heritage Party of Canada","Defeated",144
-"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Irving, Dan","Irving","Dan",NA,"Data unavailable",NA,"Maverick Party","Defeated",131
-"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Eckstrom, Donovan","Eckstrom","Donovan",NA,"Data unavailable",NA,"No affiliation to a recognised party","Defeated",71
+"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Majumdar, Shuvaloy","Majumdar","Shuvaloy",NA,"Man","Consultant","Conservative Party of Canada","Elected",15853
+"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Weinstein, Elliot","Weinstein","Elliot",NA,"Man","Business Owner","Liberal Party of Canada","Defeated",3465
+"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Bhachu, Gurmit","Bhachu","Gurmit",NA,"Man","Teacher","New Democratic Party","Defeated",3429
+"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Lorencz, Kelly","Lorencz","Kelly",NA,"Man","Self Employed","People's Party of Canada","Defeated",656
+"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Crocker, Ravenmoon","Crocker","Ravenmoon",NA,"Woman","Quality Assurance and Compliance Officer","Green Party of Canada","Defeated",407
+"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Heather, Larry R.","Heather","Larry","R.","Man","Retired","Christian Heritage Party of Canada","Defeated",144
+"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Irving, Dan","Irving","Dan",NA,"Man","Landscaper","Maverick Party","Defeated",131
+"Alberta",2023-07-24,"By-Election","44","Calgary Heritage","Eckstrom, Donovan","Eckstrom","Donovan",NA,"Man","Paranormal Investigator","No affiliation to a recognised party","Defeated",71
 "Alberta",2016-10-24,"By-Election","42","Medicine Hat--Cardston--Warner","Motz, Glen","Motz","Glen",NA,"Man","Retired police officer","Conservative Party of Canada","Elected",23932
 "Alberta",2016-10-24,"By-Election","42","Medicine Hat--Cardston--Warner","Sakamoto, Stan","Sakamoto","Stan",NA,"Man","Caterer","Liberal Party of Canada","Defeated",8777
 "Alberta",2016-10-24,"By-Election","42","Medicine Hat--Cardston--Warner","Taylor, Rod.","Taylor","Rod.",NA,"Man","Quality control supervisor","Christian Heritage Party of Canada","Defeated",703
@@ -51,7 +51,7 @@
 "Alberta",2014-11-17,"By-Election","41","Yellowhead","Rosendahl, Eric","Rosendahl","Eric",NA,"Man","Retired","New Democratic Party","Defeated",1203
 "Alberta",2014-11-17,"By-Election","41","Yellowhead","Williams, Dean","Williams","Dean",NA,"Man","Documentarian/photographer","Independent","Defeated",622
 "Alberta",2014-11-17,"By-Election","41","Yellowhead","Lystang, Cory","Lystang","Cory",NA,"Man","Pressure truck driver","Libertarian Party of Canada","Defeated",374
-"Alberta",2002-05-13,"By-Election","37","Calgary Southwest","Harper, Stephen","Harper","Stephen",NA,"Man","Economist","Canadian Reform Conservative Alliance","Elected",13200
+"Alberta",2002-05-13,"By-Election","37","Calgary Southwest","Harper, Stephen Joseph","Harper","Stephen","Joseph","Man","Economist","Canadian Reform Conservative Alliance","Elected",13200
 "Alberta",2002-05-13,"By-Election","37","Calgary Southwest","Phipps, Bill","Phipps","Bill",NA,"Man","Minister","New Democratic Party","Defeated",3813
 "Alberta",2002-05-13,"By-Election","37","Calgary Southwest","Kohut, James S.","Kohut","James","S.","Man","Pipeline surveyor","Green Party of Canada","Defeated",660
 "Alberta",2002-05-13,"By-Election","37","Calgary Southwest","Barrett, Gordon","Barrett","Gordon",NA,"Man","Contractor/administrator","Independent","Defeated",428

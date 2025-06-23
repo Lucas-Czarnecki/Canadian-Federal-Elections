@@ -1,7 +1,7 @@
 "Province_Territory","Election_Date","Election_Type","Parliament","Constituency","Candidate","Last_Name","First_Name","Middle_Names","Gender","Occupation","Political_Affiliation","Result","Votes"
 "Alberta",1993-10-25,"General","35","Athabasca","Chatters, David Cameron","Chatters","David","Cameron","Man","Farmer","Reform Party of Canada","Elected",15350
 "Alberta",1993-10-25,"General","35","Athabasca","Courtoreille, Lawrence","Courtoreille","Lawrence",NA,"Man","Administrator","Liberal Party of Canada","Defeated",8020
-"Alberta",1993-10-25,"General","35","Athabasca","Shields, Jack Wendele","Shields","Jack","Wendele","Man","Politician","Progressive Conservative Party","Defeated",6248
+"Alberta",1993-10-25,"General","35","Athabasca","Shields, John (Jack) Wendele","Shields","John","(Jack) Wendele","Man","Politician","Progressive Conservative Party","Defeated",6248
 "Alberta",1993-10-25,"General","35","Athabasca","Thorn, Ian","Thorn","Ian",NA,"Man","Union representative","New Democratic Party","Defeated",2489
 "Alberta",1993-10-25,"General","35","Athabasca","Scott, Harvey A.","Scott","Harvey","A.","Man","Teacher, farmer","Green Party of Canada","Defeated",312
 "Alberta",1993-10-25,"General","35","Athabasca","Shapka, Roger","Shapka","Roger",NA,"Man","Machinist","Natural Law Party of Canada","Defeated",195
@@ -52,7 +52,7 @@
 "Alberta",1993-10-25,"General","35","Calgary Southwest","Bugmann, Ida","Bugmann","Ida",NA,"Woman","Artist, poet","Natural Law Party of Canada","Defeated",249
 "Alberta",1993-10-25,"General","35","Calgary Southwest","Gabriel, Miel S.R.","Gabriel","Miel","S.R.","Man","Businessman, civil engineer","Independent","Defeated",57
 "Alberta",1993-10-25,"General","35","Calgary Southwest","Rankin, Darrell T.","Rankin","Darrell","T.","Man","Researcher","Independent","Defeated",28
-"Alberta",1993-10-25,"General","35","Calgary West","Harper, Stephen","Harper","Stephen",NA,"Man","Economist","Reform Party of Canada","Elected",30209
+"Alberta",1993-10-25,"General","35","Calgary West","Harper, Stephen Joseph","Harper","Stephen","Joseph","Man","Economist","Reform Party of Canada","Elected",30209
 "Alberta",1993-10-25,"General","35","Calgary West","Gainer, Karen","Gainer","Karen",NA,"Woman","Lawyer","Liberal Party of Canada","Defeated",15314
 "Alberta",1993-10-25,"General","35","Calgary West","Hawkes, Frederick James (Jim)","Hawkes","Frederick","James (Jim)","Man","Professor","Progressive Conservative Party","Defeated",9090
 "Alberta",1993-10-25,"General","35","Calgary West","Rogers, Rudy","Rogers","Rudy",NA,"Man","Accounting consultant","New Democratic Party","Defeated",1194
@@ -116,7 +116,7 @@
 "Alberta",1993-10-25,"General","35","Edmonton--Strathcona","Shapka, Maury","Shapka","Maury",NA,"Man","Owner-manager, furniture business","Natural Law Party of Canada","Defeated",284
 "Alberta",1993-10-25,"General","35","Edmonton--Strathcona","Rankin, Naomi","Rankin","Naomi",NA,"Woman","Computer programmer","No affiliation to a recognised party","Defeated",92
 "Alberta",1993-10-25,"General","35","Edmonton--Strathcona","Johnson, Oran K.","Johnson","Oran","K.","Man","Financial advisor","Canada Party","Defeated",83
-"Alberta",1993-10-25,"General","35","Elk Island","Epp, Ken","Epp","Ken",NA,"Man","Instructor","Reform Party of Canada","Elected",25726
+"Alberta",1993-10-25,"General","35","Elk Island","Epp, Marvin Kenneth (Ken)","Epp","Marvin","Kenneth (Ken)","Man","Instructor","Reform Party of Canada","Elected",25726
 "Alberta",1993-10-25,"General","35","Elk Island","Boisvert, Jean","Boisvert","Jean",NA,"Man","Service manager, AGT","Liberal Party of Canada","Defeated",11589
 "Alberta",1993-10-25,"General","35","Elk Island","O'Kurley, Brian Alexander","O'Kurley","Brian","Alexander","Man","Educator","Progressive Conservative Party","Defeated",5714
 "Alberta",1993-10-25,"General","35","Elk Island","Jacobs, Steve","Jacobs","Steve",NA,"Man","Small businessman","New Democratic Party","Defeated",1296
@@ -153,7 +153,7 @@
 "Alberta",1993-10-25,"General","35","Red Deer","Mc Laren, Karen","Mc Laren","Karen",NA,"Woman","Pet groomer","New Democratic Party","Defeated",1313
 "Alberta",1993-10-25,"General","35","Red Deer","Hepburn, Joan","Hepburn","Joan",NA,"Woman","Office manager","National Party of Canada","Defeated",1074
 "Alberta",1993-10-25,"General","35","Red Deer","Arnold, Ken","Arnold","Ken",NA,"Man","Computer consultant","Natural Law Party of Canada","Defeated",297
-"Alberta",1993-10-25,"General","35","St. Albert","Williams, John G.","Williams","John","G.","Man","Accountant","Reform Party of Canada","Elected",24964
+"Alberta",1993-10-25,"General","35","St. Albert","Williams, John Glass","Williams","John","Glass","Man","Accountant","Reform Party of Canada","Elected",24964
 "Alberta",1993-10-25,"General","35","St. Albert","Jeffery, Jack","Jeffery","Jack",NA,"Man","Chartered Accountant","Liberal Party of Canada","Defeated",13860
 "Alberta",1993-10-25,"General","35","St. Albert","Manegre, Jerry","Manegre","Jerry",NA,"Man","Manager","Progressive Conservative Party","Defeated",5884
 "Alberta",1993-10-25,"General","35","St. Albert","Powers, Steven","Powers","Steven",NA,"Man","Insurance adjuster","National Party of Canada","Defeated",2219
@@ -277,7 +277,7 @@
 "British Columbia",1993-10-25,"General","35","Kamloops","Edge, Randall","Edge","Randall",NA,"Man","Businessman","Libertarian Party of Canada","Defeated",109
 "British Columbia",1993-10-25,"General","35","Kamloops","Munday, Marion","Munday","Marion",NA,"Woman","Registered nurse","Canada Party","Defeated",45
 "British Columbia",1993-10-25,"General","35","Kamloops","Brown, Thomas","Brown","Thomas",NA,"Man","Businessman","Independent","Defeated",41
-"British Columbia",1993-10-25,"General","35","Kootenay East","Abbott, Jim","Abbott","Jim",NA,"Man","Businessman","Reform Party of Canada","Elected",17050
+"British Columbia",1993-10-25,"General","35","Kootenay East","Abbott, James (Jim) Edward","Abbott","James","(Jim) Edward","Man","Businessman","Reform Party of Canada","Elected",17050
 "British Columbia",1993-10-25,"General","35","Kootenay East","Wavrecan, Jim S.","Wavrecan","Jim","S.","Man","Bus driver, business","Liberal Party of Canada","Defeated",7915
 "British Columbia",1993-10-25,"General","35","Kootenay East","Parker, Sidney James","Parker","Sidney","James","Man","Politician","New Democratic Party","Defeated",5107
 "British Columbia",1993-10-25,"General","35","Kootenay East","McInnis, Jake","McInnis","Jake",NA,"Man","College president","Progressive Conservative Party","Defeated",3840
@@ -344,7 +344,7 @@
 "British Columbia",1993-10-25,"General","35","North Vancouver","Ashley, Clarke L.","Ashley","Clarke","L.","Man","Businessman","Independent","Defeated",147
 "British Columbia",1993-10-25,"General","35","North Vancouver","Jasich, Anthony","Jasich","Anthony",NA,"Man","Businessman","Libertarian Party of Canada","Defeated",113
 "British Columbia",1993-10-25,"General","35","North Vancouver","Fraleigh, Paul","Fraleigh","Paul",NA,"Man","Sales representative","Party for the Commonwealth of Canada","Defeated",21
-"British Columbia",1993-10-25,"General","35","Okanagan Centre","Schmidt, Werner","Schmidt","Werner",NA,"Man","Businessman","Reform Party of Canada","Elected",30703
+"British Columbia",1993-10-25,"General","35","Okanagan Centre","Schmidt, Werner George","Schmidt","Werner","George","Man","Businessman","Reform Party of Canada","Elected",30703
 "British Columbia",1993-10-25,"General","35","Okanagan Centre","Pendharkar, Murli G.","Pendharkar","Murli","G.","Man","Trustee, school board chairman","Liberal Party of Canada","Defeated",15688
 "British Columbia",1993-10-25,"General","35","Okanagan Centre","Horning, Edward Allan","Horning","Edward","Allan","Man","Realtor","Progressive Conservative Party","Defeated",12629
 "British Columbia",1993-10-25,"General","35","Okanagan Centre","McIver, Bryan","McIver","Bryan",NA,"Man",NA,"New Democratic Party","Defeated",4562
@@ -548,7 +548,7 @@
 "Manitoba",1993-10-25,"General","35","Provencher","Penner, Wes","Penner","Wes",NA,"Man","Computer consultant","National Party of Canada","Defeated",1212
 "Manitoba",1993-10-25,"General","35","Provencher","Ayotte, Corrine","Ayotte","Corrine",NA,"Woman","Self-employed","Natural Law Party of Canada","Defeated",157
 "Manitoba",1993-10-25,"General","35","Provencher","Bezan, Ted","Bezan","Ted",NA,"Man","Retired","Canada Party","Defeated",69
-"Manitoba",1993-10-25,"General","35","Selkirk--Red River","Fewchuk, Ron","Fewchuk","Ron",NA,"Man","Self-employed","Liberal Party of Canada","Elected",16003
+"Manitoba",1993-10-25,"General","35","Selkirk--Red River","Fewchuk, Ronald (Ron) William","Fewchuk","Ronald","(Ron) William","Man","Self-employed","Liberal Party of Canada","Elected",16003
 "Manitoba",1993-10-25,"General","35","Selkirk--Red River","Schreyer, Jason E.","Schreyer","Jason","E.","Man",NA,"New Democratic Party","Defeated",12515
 "Manitoba",1993-10-25,"General","35","Selkirk--Red River","Lewis, Terry","Lewis","Terry",NA,"Man","Educational consultant","Reform Party of Canada","Defeated",12412
 "Manitoba",1993-10-25,"General","35","Selkirk--Red River","Bjornson, David","Bjornson","David",NA,"Man","Member of Parliament","Progressive Conservative Party","Defeated",5687
@@ -582,7 +582,7 @@
 "Manitoba",1993-10-25,"General","35","Winnipeg North Centre","Besson, Cliff","Besson","Cliff",NA,"Man","Landlord","Canada Party","Defeated",97
 "Manitoba",1993-10-25,"General","35","Winnipeg South","Alcock, Reginald B.","Alcock","Reginald","B.","Man","Former MLA","Liberal Party of Canada","Elected",25950
 "Manitoba",1993-10-25,"General","35","Winnipeg South","Hughes, Mark","Hughes","Mark",NA,"Man","Minister","Reform Party of Canada","Defeated",14822
-"Manitoba",1993-10-25,"General","35","Winnipeg South","Dobbie, Dorothy I.","Dobbie","Dorothy","I.","Woman","Member of Parliament","Progressive Conservative Party","Defeated",6432
+"Manitoba",1993-10-25,"General","35","Winnipeg South","Dobbie, Dorothy Ina Elgiva","Dobbie","Dorothy","Ina Elgiva","Woman","Member of Parliament","Progressive Conservative Party","Defeated",6432
 "Manitoba",1993-10-25,"General","35","Winnipeg South","Loewen, Shirley","Loewen","Shirley",NA,"Woman","Political party organizer","National Party of Canada","Defeated",2512
 "Manitoba",1993-10-25,"General","35","Winnipeg South","Buss, Rose","Buss","Rose",NA,"Woman","Organizer","New Democratic Party","Defeated",2180
 "Manitoba",1993-10-25,"General","35","Winnipeg South","Lepinsky, Richard","Lepinsky","Richard",NA,"Man","Insurance and real estate","Natural Law Party of Canada","Defeated",197
@@ -707,7 +707,7 @@
 "Northwest Territories",1993-10-25,"General","35","Western Arctic","Schram, Bill","Schram","Bill",NA,"Man","Mill operator","New Democratic Party","Defeated",896
 "Northwest Territories",1993-10-25,"General","35","Western Arctic","O'Brien, Chris","O'Brien","Chris",NA,"Man","Writer, photographer","Green Party of Canada","Defeated",325
 "Northwest Territories",1993-10-25,"General","35","Western Arctic","Taylor, Lynn","Taylor","Lynn",NA,"Woman","Librarian","Natural Law Party of Canada","Defeated",213
-"Nova Scotia",1993-10-25,"General","35","Annapolis Valley--Hants","Murphy, John","Murphy","John",NA,"Man","Social worker, administrator","Liberal Party of Canada","Elected",18238
+"Nova Scotia",1993-10-25,"General","35","Annapolis Valley--Hants","Murphy, John William","Murphy","John","William","Man","Social worker, administrator","Liberal Party of Canada","Elected",18238
 "Nova Scotia",1993-10-25,"General","35","Annapolis Valley--Hants","White, Jim","White","Jim",NA,"Man","Lawyer","Progressive Conservative Party","Defeated",9406
 "Nova Scotia",1993-10-25,"General","35","Annapolis Valley--Hants","Nowlan, John Patrick (Pat)","Nowlan","John","Patrick (Pat)","Man","Member of Parliament","Independent","Defeated",8958
 "Nova Scotia",1993-10-25,"General","35","Annapolis Valley--Hants","Merriam, John","Merriam","John",NA,"Man","Insurance broker","Reform Party of Canada","Defeated",5919
@@ -923,7 +923,7 @@
 "Ontario",1993-10-25,"General","35","Erie","Kiers, Alfred","Kiers","Alfred",NA,"Man","Greenhouse manager","Christian Heritage Party of Canada","Defeated",591
 "Ontario",1993-10-25,"General","35","Erie","Robbins, Bill","Robbins","Bill",NA,"Man","Construction worker","National Party of Canada","Defeated",586
 "Ontario",1993-10-25,"General","35","Erie","Dreben, Jeffrey Ian","Dreben","Jeffrey","Ian","Man","Business consultant","Natural Law Party of Canada","Defeated",197
-"Ontario",1993-10-25,"General","35","Essex--Kent","Pickard, Jerry","Pickard","Jerry",NA,"Man","Teacher","Liberal Party of Canada","Elected",21974
+"Ontario",1993-10-25,"General","35","Essex--Kent","Pickard, Reginald (Jerry)","Pickard","Reginald","(Jerry)","Man","Teacher","Liberal Party of Canada","Elected",21974
 "Ontario",1993-10-25,"General","35","Essex--Kent","Abbott, Wayne","Abbott","Wayne",NA,"Man","Construction supplier","Reform Party of Canada","Defeated",6412
 "Ontario",1993-10-25,"General","35","Essex--Kent","Flood, Kevin Charles","Flood","Kevin","Charles","Man","Grain elevator manager","Progressive Conservative Party","Defeated",4751
 "Ontario",1993-10-25,"General","35","Essex--Kent","Darnell, Mike","Darnell","Mike",NA,"Man","Union representative","New Democratic Party","Defeated",2000
@@ -971,7 +971,7 @@
 "Ontario",1993-10-25,"General","35","Guelph--Wellington","Chamberlain, Brenda","Chamberlain","Brenda",NA,"Woman","Executive director","Liberal Party of Canada","Elected",24359
 "Ontario",1993-10-25,"General","35","Guelph--Wellington","Organ, Gerry","Organ","Gerry",NA,"Man","Pastor","Reform Party of Canada","Defeated",15483
 "Ontario",1993-10-25,"General","35","Guelph--Wellington","Scott, Bill","Scott","Bill",NA,"Man","Superintendent of schools","Progressive Conservative Party","Defeated",12825
-"Ontario",1993-10-25,"General","35","Guelph--Wellington","Maine, Francis William (Frank)","Maine","Francis","William (Frank)","Man","Professional engineer","Independent","Defeated",3465
+"Ontario",1993-10-25,"General","35","Guelph--Wellington","Maine, Francis (Frank) William","Maine","Francis","(Frank) William","Man","Professional engineer","Independent","Defeated",3465
 "Ontario",1993-10-25,"General","35","Guelph--Wellington","Michalos, Alex","Michalos","Alex",NA,"Man",NA,"New Democratic Party","Defeated",2904
 "Ontario",1993-10-25,"General","35","Guelph--Wellington","Laidlaw, Maggie","Laidlaw","Maggie",NA,"Woman","Lab supervisor, nutrientist","National Party of Canada","Defeated",2018
 "Ontario",1993-10-25,"General","35","Guelph--Wellington","Francis, Simon C.","Francis","Simon","C.","Man","Student","Green Party of Canada","Defeated",318
@@ -1336,7 +1336,7 @@
 "Ontario",1993-10-25,"General","35","Sarnia--Lambton","Elliot, John Kenneth","Elliot","John","Kenneth","Man","Stationary engineer","Independent","Defeated",188
 "Ontario",1993-10-25,"General","35","Sarnia--Lambton","Bourke, Shannon M.","Bourke","Shannon","M.","Woman","Teacher","Natural Law Party of Canada","Defeated",178
 "Ontario",1993-10-25,"General","35","Sarnia--Lambton","O'Dell, Doug","O'Dell","Doug",NA,"Man","Steam fitter, farmer","Independent","Defeated",67
-"Ontario",1993-10-25,"General","35","Sault Ste. Marie","Irwin, Ronald ""Ron"" Albert","Irwin","Ronald","""Ron"" Albert","Man","Lawyer","Liberal Party of Canada","Elected",21427
+"Ontario",1993-10-25,"General","35","Sault Ste. Marie","Irwin, Ronald (Ron) Albert","Irwin","Ronald","(Ron) Albert","Man","Lawyer","Liberal Party of Canada","Elected",21427
 "Ontario",1993-10-25,"General","35","Sault Ste. Marie","Butland, Steve","Butland","Steve",NA,"Man","Member of Parliament","New Democratic Party","Defeated",8970
 "Ontario",1993-10-25,"General","35","Sault Ste. Marie","Mathewson, Paul","Mathewson","Paul",NA,"Man","Retail automotive shop owner","Reform Party of Canada","Defeated",6576
 "Ontario",1993-10-25,"General","35","Sault Ste. Marie","Nori, Gerry","Nori","Gerry",NA,"Man","Lawyer","Progressive Conservative Party","Defeated",3143
@@ -1442,7 +1442,7 @@
 "Ontario",1993-10-25,"General","35","Thunder Bay--Atikokan","Angus, Iain Francis","Angus","Iain","Francis","Man","Member of Parliament","New Democratic Party","Defeated",6565
 "Ontario",1993-10-25,"General","35","Thunder Bay--Atikokan","Gibbons, Colyne","Gibbons","Colyne",NA,"Woman","Retired administrator","Reform Party of Canada","Defeated",5378
 "Ontario",1993-10-25,"General","35","Thunder Bay--Atikokan","Stehmann, Tony","Stehmann","Tony",NA,"Man","Retail consultant","Progressive Conservative Party","Defeated",2836
-"Ontario",1993-10-25,"General","35","Thunder Bay--Nipigon","Comuzzi, Joseph R. (Joe)","Comuzzi","Joseph","R. (Joe)","Man","Member of Parliament","Liberal Party of Canada","Elected",24277
+"Ontario",1993-10-25,"General","35","Thunder Bay--Nipigon","Comuzzi, Joseph (Joe) Robert","Comuzzi","Joseph","(Joe) Robert","Man","Member of Parliament","Liberal Party of Canada","Elected",24277
 "Ontario",1993-10-25,"General","35","Thunder Bay--Nipigon","Reynolds, Bob","Reynolds","Bob",NA,"Man","Water treatment plant operator","Reform Party of Canada","Defeated",5575
 "Ontario",1993-10-25,"General","35","Thunder Bay--Nipigon","Hogarth, Marlene","Hogarth","Marlene",NA,"Woman","Educator","Progressive Conservative Party","Defeated",3575
 "Ontario",1993-10-25,"General","35","Thunder Bay--Nipigon","Ramsay, David","Ramsay","David",NA,"Man","Social worker","New Democratic Party","Defeated",3372
@@ -1499,7 +1499,7 @@
 "Ontario",1993-10-25,"General","35","Wellington--Grey--Dufferin--Simcoe","Greenland, Bob","Greenland","Bob",NA,"Man","Self-employed","Reform Party of Canada","Defeated",15400
 "Ontario",1993-10-25,"General","35","Wellington--Grey--Dufferin--Simcoe","Heffernan, Dan","Heffernan","Dan",NA,"Man","Staff officer","New Democratic Party","Defeated",2000
 "Ontario",1993-10-25,"General","35","Wellington--Grey--Dufferin--Simcoe","Francis, Sara","Francis","Sara",NA,"Woman","Student","Green Party of Canada","Defeated",563
-"Ontario",1993-10-25,"General","35","Willowdale","Peterson, James Scott (Jim)","Peterson","James","Scott (Jim)","Man","Lawyer","Liberal Party of Canada","Elected",28622
+"Ontario",1993-10-25,"General","35","Willowdale","Peterson, James (Jim) Scott","Peterson","James","(Jim) Scott","Man","Lawyer","Liberal Party of Canada","Elected",28622
 "Ontario",1993-10-25,"General","35","Willowdale","Oostrom, John Martin","Oostrom","John","Martin","Man","Consultant","Progressive Conservative Party","Defeated",7843
 "Ontario",1993-10-25,"General","35","Willowdale","Welbourn, Gerry","Welbourn","Gerry",NA,"Man","Sales manager","Reform Party of Canada","Defeated",7108
 "Ontario",1993-10-25,"General","35","Willowdale","Maron, Mary","Maron","Mary",NA,"Woman","Homemaker","New Democratic Party","Defeated",1687
@@ -2102,7 +2102,7 @@
 "Saskatchewan",1993-10-25,"General","35","Regina--Wascana","Owens, Hugh","Owens","Hugh",NA,"Man","Corrections officer","Christian Heritage Party of Canada","Defeated",192
 "Saskatchewan",1993-10-25,"General","35","Regina--Wascana","Farr, Barry James","Farr","Barry","James","Man","Businessman","Independent","Defeated",189
 "Saskatchewan",1993-10-25,"General","35","Regina--Wascana","Sigda, Walter P.","Sigda","Walter","P.","Man","Farmer","Canada Party","Defeated",64
-"Saskatchewan",1993-10-25,"General","35","Saskatoon--Clark's Crossing","Axworthy, Chris","Axworthy","Chris",NA,"Man","Law professor","New Democratic Party","Elected",12266
+"Saskatchewan",1993-10-25,"General","35","Saskatoon--Clark's Crossing","Axworthy, Christopher (Chris) S.","Axworthy","Christopher","(Chris) S.","Man","Law professor","New Democratic Party","Elected",12266
 "Saskatchewan",1993-10-25,"General","35","Saskatoon--Clark's Crossing","Norris, Roy","Norris","Roy",NA,"Man","Broadcaster","Liberal Party of Canada","Defeated",11200
 "Saskatchewan",1993-10-25,"General","35","Saskatoon--Clark's Crossing","Wesolowski, Frederick","Wesolowski","Frederick",NA,"Man","Police officer","Reform Party of Canada","Defeated",11149
 "Saskatchewan",1993-10-25,"General","35","Saskatoon--Clark's Crossing","McCann, Peter","McCann","Peter",NA,"Man","Businessman","Progressive Conservative Party","Defeated",4114
@@ -2111,7 +2111,7 @@
 "Saskatchewan",1993-10-25,"General","35","Saskatoon--Clark's Crossing","Frostad, Rhys","Frostad","Rhys",NA,"Man","Pharmacist","Independent","Defeated",114
 "Saskatchewan",1993-10-25,"General","35","Saskatoon--Clark's Crossing","Cawley, Shawn","Cawley","Shawn",NA,"Man","Truck driver","Canada Party","Defeated",77
 "Saskatchewan",1993-10-25,"General","35","Saskatoon--Dundurn","Bodnar, Morris P.","Bodnar","Morris","P.","Man","Lawyer","Liberal Party of Canada","Elected",14716
-"Saskatchewan",1993-10-25,"General","35","Saskatoon--Dundurn","Fisher, Ron","Fisher","Ron",NA,"Man","Hoistman","New Democratic Party","Defeated",11514
+"Saskatchewan",1993-10-25,"General","35","Saskatoon--Dundurn","Fisher, Ronald (Ron) Claude","Fisher","Ronald","(Ron) Claude","Man","Hoistman","New Democratic Party","Defeated",11514
 "Saskatchewan",1993-10-25,"General","35","Saskatoon--Dundurn","Schenstead, Eric Eugene","Schenstead","Eric","Eugene","Man","Estate planner","Reform Party of Canada","Defeated",10281
 "Saskatchewan",1993-10-25,"General","35","Saskatoon--Dundurn","Birkmaier, Donna L.","Birkmaier","Donna","L.","Woman","Accountant","Progressive Conservative Party","Defeated",3726
 "Saskatchewan",1993-10-25,"General","35","Saskatoon--Dundurn","Pino, Kateri Hellman","Pino","Kateri","Hellman","Woman","Communications officer","National Party of Canada","Defeated",784
