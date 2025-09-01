@@ -58,11 +58,11 @@ server <- function(input, output, session) {
             group_by(`Political Affiliation`) %>%
             summarise(
                 `Seats Won` = sum(Result == "Elected"),
-                `Total Votes` = sum(Votes, na.rm = TRUE),
+                `Total Votes` = format(as.integer(sum(Votes, na.rm = TRUE)), big.mark ="," ),
                 .groups = "drop"
             ) %>%
             mutate(
-                `Vote Share (%)` = round((`Total Votes` / total_votes) * 100, 2)
+                `Vote Share (%)` = round((as.numeric(gsub(",", "", `Total Votes`)) / total_votes) * 100, 2)
             ) %>%
             arrange(desc(`Seats Won`))
         
@@ -72,7 +72,7 @@ server <- function(input, output, session) {
             tibble(
                 `Political Affiliation` = "TOTAL",
                 `Seats Won` = total_seats,
-                `Total Votes` = total_votes,
+                `Total Votes` = format(as.integer(total_votes), big.mark=","),
                 `Vote Share (%)` = 100
             )
         )
