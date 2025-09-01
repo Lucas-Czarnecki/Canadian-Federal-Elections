@@ -2,17 +2,16 @@
 if(!require(pacman)) install.packages("pacman")
 pacman::p_load(shiny, shinythemes, dplyr, readr, here)
 
-
 # Path to data
-data_path <- here::here("data", "cleaned", "master", "FED_1867_present.csv")
+data_path <- here::here("data", "cleaned", "master", "FED_1867_present.rds")
 
 # Load data
-fed_data <- read_csv(data_path, show_col_types = FALSE)
+fed_data <- read_rds(data_path)
 
 # UI ----
 ui <- fluidPage(
     theme = shinytheme("slate"),
-    titlePanel("Canadian Federal Elections Explorer"),
+    titlePanel("Canadian Federal Elections"),
     
     sidebarLayout(
         sidebarPanel(
@@ -39,15 +38,46 @@ server <- function(input, output, session) {
     # Reactive data for selected election
     filtered_data <- reactive({
         fed_data %>%
-            filter(Election_Date == input$election_date, Result == "Elected")
+            rename(
+                `Province/Territory` = Province_Territory,
+                `Election Date` = Election_Date,
+                `Election Type` = Election_Type,
+                `Political Affiliation` = Political_Affiliation
+            ) %>%
+            filter(`Election Date` == input$election_date)
     })
     
-    # Summarize seats per party
+    # Summarize seats, votes, and vote share
     output$summary_table <- renderTable({
-        filtered_data() %>%
-            group_by(Political_Affiliation) %>%
-            summarise(Seats_Won = n(), .groups = "drop") %>%
-            arrange(desc(Seats_Won))
+        df <- filtered_data()
+        
+        total_votes <- sum(df$Votes, na.rm = TRUE)
+        total_seats <- sum(df$Result == "Elected", na.rm = TRUE)
+        
+        summary <- df %>%
+            group_by(`Political Affiliation`) %>%
+            summarise(
+                `Seats Won` = sum(Result == "Elected"),
+                `Total Votes` = sum(Votes, na.rm = TRUE),
+                .groups = "drop"
+            ) %>%
+            mutate(
+                `Vote Share (%)` = round((`Total Votes` / total_votes) * 100, 2)
+            ) %>%
+            arrange(desc(`Seats Won`))
+        
+        # Add totals row
+        summary <- bind_rows(
+            summary,
+            tibble(
+                `Political Affiliation` = "TOTAL",
+                `Seats Won` = total_seats,
+                `Total Votes` = total_votes,
+                `Vote Share (%)` = 100
+            )
+        )
+        
+        summary
     })
     
     # Download Handlers
@@ -56,7 +86,7 @@ server <- function(input, output, session) {
             paste0("FED_1867_present_", Sys.Date(), ".csv")
         },
         content = function(file) {
-            write_csv(fed_data, file)
+            write.csv(fed_data, file, row.names = FALSE, na = "")
         }
     )
     
