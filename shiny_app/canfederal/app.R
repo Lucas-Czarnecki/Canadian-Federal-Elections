@@ -1,6 +1,6 @@
 # Load packages
 if(!require(pacman)) install.packages("pacman")
-pacman::p_load(shiny, shinythemes, dplyr, readr, here, ggplot2)
+pacman::p_load(shiny, shinythemes, dplyr, readr, here, ggplot2, ggthemes)
 
 # Path to data
 data_path <- here::here("data", "cleaned", "master", "FED_1867_present.rds")
@@ -141,8 +141,21 @@ server <- function(input, output, session) {
             coord_flip() +
             labs(x = "",
                  y = "\n Vote Share (%)") +
-            theme_dark(base_size = 14) +
-            theme(legend.position = "none")
+            theme_fivethirtyeight(base_size = 10) +
+            theme(
+                panel.background = element_rect(fill="grey90"),
+                rect = element_rect(fill = "grey90"),
+                plot.background = element_rect(fill = "grey90"),
+                strip.background = element_rect(fill = "grey90"),
+                text = element_text(colour = "#131313"),
+                axis.title = element_text(face = "bold", size = 12),
+                axis.text.x = element_text(angle = 0, size = 12, vjust = 0),
+                axis.text.y = element_text(angle = 0, size = 12, vjust = 0.5, hjust = 0),
+                legend.position = "none",
+                panel.grid.major = element_blank(),
+                axis.line = element_line(colour = "#131313"),
+                axis.line.y = element_blank()
+            ) 
     })
     
     # Download Handlers
