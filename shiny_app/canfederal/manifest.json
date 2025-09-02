@@ -2,6 +2,7 @@
   "appMode": "shiny",
   "primaryFile": "app.R",
   "title": "Canadian Federal Elections Dashboard",
+  "platform": "R-4.5.1", 
   "dependencies": [
     "shiny",
     "shinythemes",
