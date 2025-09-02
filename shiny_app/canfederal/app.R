@@ -26,7 +26,7 @@ main_parties <- c(
 # UI ----
 ui <- fluidPage(
     theme = shinytheme("slate"),
-    titlePanel("Canadian Federal Elections"),
+    titlePanel("🍁 Canadian Federal Elections"),
     
     sidebarLayout(
         sidebarPanel(
@@ -41,7 +41,7 @@ ui <- fluidPage(
         ),
         
         mainPanel(
-            h3("Summary of Results by Party"),
+            uiOutput("dynamic_title"),  # placeholder for reactive title
             fluidRow(
                 column(6, tableOutput("summary_table")),
                 column(6, plotOutput("vote_share_plot", height = "500px"))
@@ -52,6 +52,24 @@ ui <- fluidPage(
 
 # SERVER ----
 server <- function(input, output, session) {
+    
+    output$dynamic_title <- renderUI({
+        selected_row <- fed_data %>% 
+            filter(Election_Date == input$election_date) %>% 
+            slice(1)  # Get the first row for that date
+        
+        h3(
+            paste0(
+                "Summary of ",
+                selected_row$Election_Type,
+                " Results for Parliament ",
+                selected_row$Parliament,
+                " (",
+                selected_row$Election_Date,
+                ")"
+            )
+        )
+    })
     
     # Reactive data for selected election
     filtered_data <- reactive({
@@ -65,7 +83,7 @@ server <- function(input, output, session) {
             filter(`Election Date` == input$election_date)
     })
     
-    # Summarize seats, votes, and vote share
+    # Summarize results by party
     output$summary_table <- renderTable({
         df <- filtered_data()
         
@@ -121,9 +139,9 @@ server <- function(input, output, session) {
             fill = Party)) +
             geom_col() +
             coord_flip() +
-            labs(x = "Party", y = "Vote Share (%)",
-                 title = paste("Vote Share -", input$election_date)) +
-            theme_minimal(base_size = 14) +
+            labs(x = "",
+                 y = "\n Vote Share (%)") +
+            theme_dark(base_size = 14) +
             theme(legend.position = "none")
     })
     
