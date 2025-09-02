@@ -2,14 +2,8 @@
 if(!require(pacman)) install.packages("pacman")
 pacman::p_load(shiny, shinythemes, dplyr, readr, here, ggplot2, ggthemes)
 
-# to create manifest.json use:
-# rsconnect::writeManifest(appPrimaryDoc = "app.R")
-
-# Path to data
-data_path <- here::here("data", "cleaned", "master", "FED_1867_present.rds")
-
 # Load data
-fed_data <- read_rds(data_path)
+fed_data <- readRDS("data/cleaned/master/FED_1867_present.rds")
 
 # Main political parties 
 main_parties <- c(
