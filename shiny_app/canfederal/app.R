@@ -19,7 +19,8 @@ main_parties <- c(
     "Bloc Québécois",
     "Conservative (1867-1942)",
     "Liberal-Conservative",
-    "Anti-Confederate"
+    "Anti-Confederate",
+    "Unknown"
 )
 
 
@@ -28,35 +29,53 @@ ui <- fluidPage(
     theme = shinytheme("slate"),
     titlePanel("🍁 Canadian Federal Elections"),
     
-    sidebarPanel(
-        selectInput(
-            "election_type",
-            "Select Election Type:",
-            choices = sort(unique(fed_data$Election_Type)),
-            selected = "General"
+    sidebarLayout(
+        sidebarPanel(
+            selectInput(
+                "election_type",
+                "Select Election Type:",
+                choices = sort(unique(fed_data$Election_Type)),
+                selected = unique(fed_data$Election_Type)[1]
+            ),
+            selectInput(
+                "election_date",
+                "Select Election:",
+                choices = sort(unique(fed_data$Election_Date), decreasing = TRUE),
+                selected = max(fed_data$Election_Date)
+            ),
+            
+            downloadButton("download_filtered_csv", "Download CSV"),
+            downloadButton("download_filtered_rds", "Download RDS")
         ),
-        selectInput(
-            "election_date",
-            "Select Election:",
-            choices = sort(unique(fed_data$Election_Date), decreasing = TRUE),
-            selected = max(fed_data$Election_Date)
-        ),
-        downloadButton("download_csv", "Download CSV"),
-        downloadButton("download_rds", "Download RDS")
-    ),
         
         mainPanel(
-            uiOutput("dynamic_title"),  # placeholder for reactive title
+            uiOutput("dynamic_title"), # placeholder for reactive title
             fluidRow(
                 column(6, tableOutput("summary_table")),
                 column(6, plotOutput("vote_share_plot", height = "500px"))
+            ),
+            
+            # 
+            fluidRow(
+                column(
+                    12,
+                    div(
+                        style = "margin-top:20px; text-align:left;",
+                        h4("Download entire dataset:"),
+                        downloadButton("download_full_csv", "Download Full CSV"),
+                        downloadButton("download_full_rds", "Download Full RDS")
+                    )
+                )
             )
         )
     )
+)
+
 
 # SERVER ----
 server <- function(input, output, session) {
     
+    # Dynamic title
     output$dynamic_title <- renderUI({
         selected_row <- fed_data %>% 
             filter(Election_Date == input$election_date) %>% 
@@ -75,8 +94,8 @@ server <- function(input, output, session) {
         )
     })
     
+    # Update election dates when type changes
     observeEvent(input$election_type, {
-        # Filter dates based on selected type
         filtered_dates <- fed_data %>%
             filter(Election_Type == input$election_type) %>%
             pull(Election_Date) %>%
@@ -89,7 +108,6 @@ server <- function(input, output, session) {
             selected = max(filtered_dates)
         )
     })
-    
     
     # Reactive data for selected election
     filtered_data <- reactive({
@@ -178,19 +196,40 @@ server <- function(input, output, session) {
             ) 
     })
     
-    # Download Handlers
-    output$download_csv <- downloadHandler(
+    # Download Handlers ----
+    
+    # Filtered data (based on user selections)
+    output$download_filtered_csv <- downloadHandler(
         filename = function() {
-            paste0("FED_1867_present_", Sys.Date(), ".csv")
+            paste0("filtered_data_", input$election_type, "_", input$election_date, ".csv")
         },
         content = function(file) {
-            write.csv(fed_data, file, row.names = FALSE, na = "")
+            write.csv(filtered_data(), file, row.names = FALSE)
         }
     )
     
-    output$download_rds <- downloadHandler(
+    output$download_filtered_rds <- downloadHandler(
         filename = function() {
-            paste0("FED_1867_present_", Sys.Date(), ".rds")
+            paste0("filtered_data_", input$election_type, "_", input$election_date, ".rds")
+        },
+        content = function(file) {
+            saveRDS(filtered_data(), file)
+        }
+    )
+    
+    # Full dataset
+    output$download_full_csv <- downloadHandler(
+        filename = function() {
+            "full_dataset.csv"
+        },
+        content = function(file) {
+            write.csv(fed_data, file, row.names = FALSE)
+        }
+    )
+    
+    output$download_full_rds <- downloadHandler(
+        filename = function() {
+            "full_dataset.rds"
         },
         content = function(file) {
             saveRDS(fed_data, file)
