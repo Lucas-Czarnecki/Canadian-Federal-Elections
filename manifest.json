@@ -3468,10 +3468,10 @@
   },
   "files": {
     "app.R": {
-      "checksum": "7a59697a216e873b88b1eb12c7190ed9"
+      "checksum": "99a0d4cdd2dcd1195c45897c6867a5c9"
     },
     "data/cleaned/by_elections/.Rprofile": {
-      "checksum": "2c6dc8a34404337131ca551cbd5d9887"
+      "checksum": "87921fd4e6a31e783f2f4c0e8f00b485"
     },
     "data/cleaned/by_elections/Alberta.csv": {
       "checksum": "96864accab3eae9158e8209609bda29b"
@@ -3700,9 +3700,6 @@
     },
     "README.md": {
       "checksum": "bd45a0250318e339054a05abd4ab9e15"
-    },
-    "shiny_app/canfederal/app.R": {
-      "checksum": "fc44b7e2dd170f82d71fbd729ee7cf33"
     }
   },
   "users": null

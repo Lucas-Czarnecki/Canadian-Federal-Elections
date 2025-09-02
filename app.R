@@ -5,6 +5,9 @@ pacman::p_load(shiny, shinythemes, dplyr, readr, here, ggplot2, ggthemes)
 # Load data
 fed_data <- readRDS("data/cleaned/master/FED_1867_present.rds")
 
+# to create manifest.json use:
+# rsconnect::writeManifest(appPrimaryDoc = "app.R")
+
 # Main political parties 
 main_parties <- c(
     "Conservative Party of Canada",
