@@ -1,0 +1,14 @@
+{
+  "appMode": "shiny",
+  "primaryFile": "app.R",
+  "title": "Canadian Federal Elections Dashboard",
+  "dependencies": [
+    "shiny",
+    "shinythemes",
+    "dplyr",
+    "readr",
+    "here",
+    "ggplot2",
+    "ggthemes"
+  ]
+}
