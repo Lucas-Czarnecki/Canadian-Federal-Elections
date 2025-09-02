@@ -28,17 +28,22 @@ ui <- fluidPage(
     theme = shinytheme("slate"),
     titlePanel("🍁 Canadian Federal Elections"),
     
-    sidebarLayout(
-        sidebarPanel(
-            selectInput(
-                "election_date",
-                "Select Election:",
-                choices = sort(unique(fed_data$Election_Date), decreasing = TRUE),
-                selected = max(fed_data$Election_Date)
-            ),
-            downloadButton("download_csv", "Download CSV"),
-            downloadButton("download_rds", "Download RDS")
+    sidebarPanel(
+        selectInput(
+            "election_type",
+            "Select Election Type:",
+            choices = sort(unique(fed_data$Election_Type)),
+            selected = "General"
         ),
+        selectInput(
+            "election_date",
+            "Select Election:",
+            choices = sort(unique(fed_data$Election_Date), decreasing = TRUE),
+            selected = max(fed_data$Election_Date)
+        ),
+        downloadButton("download_csv", "Download CSV"),
+        downloadButton("download_rds", "Download RDS")
+    ),
         
         mainPanel(
             uiOutput("dynamic_title"),  # placeholder for reactive title
@@ -48,7 +53,6 @@ ui <- fluidPage(
             )
         )
     )
-)
 
 # SERVER ----
 server <- function(input, output, session) {
@@ -70,6 +74,22 @@ server <- function(input, output, session) {
             )
         )
     })
+    
+    observeEvent(input$election_type, {
+        # Filter dates based on selected type
+        filtered_dates <- fed_data %>%
+            filter(Election_Type == input$election_type) %>%
+            pull(Election_Date) %>%
+            unique() %>%
+            sort(decreasing = TRUE)
+        
+        updateSelectInput(
+            session, "election_date",
+            choices = filtered_dates,
+            selected = max(filtered_dates)
+        )
+    })
+    
     
     # Reactive data for selected election
     filtered_data <- reactive({
