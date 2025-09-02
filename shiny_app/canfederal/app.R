@@ -25,6 +25,7 @@ main_parties <- c(
 
 
 # UI ----
+
 ui <- fluidPage(
     theme = shinytheme("slate"),
     titlePanel("🍁 Canadian Federal Elections"),
@@ -60,9 +61,18 @@ ui <- fluidPage(
             uiOutput("dynamic_title"), 
             
             fluidRow(
-                column(6, tableOutput("summary_table")),
-                column(6, plotOutput("vote_share_plot", height = "500px"))
-            ),
+                column(
+                    6,
+                    div(
+                        style = "max-height: 500px; overflow-y: auto",
+                        tableOutput("summary_table")
+                    )
+                ),
+                column(
+                    6,
+                    plotOutput("vote_share_plot", height = "500px")
+                )
+            )
             
         )
     )
@@ -130,7 +140,7 @@ server <- function(input, output, session) {
         summary <- df %>%
             group_by(`Political Affiliation`) %>%
             summarise(
-                `Total Candidates` = n(),
+                `Total Candidates` = format(as.integer(n()), big.mark = ","),
                 `Seats Won` = sum(Result %in% valid_results),
                 `Total Votes` = format(as.integer(sum(Votes, na.rm = TRUE)), big.mark ="," ),
                 .groups = "drop"
@@ -145,7 +155,7 @@ server <- function(input, output, session) {
             summary,
             tibble(
                 `Political Affiliation` = "TOTAL",
-                `Total Candidates` = sum(summary$`Total Candidates`),
+                `Total Candidates` = format(as.integer(sum(as.integer(gsub(",", "", summary$`Total Candidates`)))), big.mark = ","),
                 `Seats Won` = total_seats,
                 `Total Votes` = format(as.integer(total_votes), big.mark=","),
                 `Vote Share (%)` = round(sum(summary$`Vote Share (%)`), 0)
@@ -172,9 +182,9 @@ server <- function(input, output, session) {
         
         ggplot(plot_data, aes(
             x = forcats::fct_reorder(Party, Vote_Share),
-            y = Vote_Share,
-            fill = Party)) +
-            geom_col() +
+            y = Vote_Share
+            )) +
+            geom_col(fill="#8b2942") +
             coord_flip() +
             labs(x = "",
                  y = "\n Vote Share (%)") +
