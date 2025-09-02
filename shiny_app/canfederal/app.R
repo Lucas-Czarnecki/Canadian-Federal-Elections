@@ -44,29 +44,26 @@ ui <- fluidPage(
                 selected = max(fed_data$Election_Date)
             ),
             
+            h4("Summary of election:"),
+            tableOutput("election_summary"),
+            
+            h4("Download filtered results:"),
             downloadButton("download_filtered_csv", "Download CSV"),
-            downloadButton("download_filtered_rds", "Download RDS")
+            downloadButton("download_filtered_rds", "Download RDS"),
+            
+            h4("Download complete dataset:"),
+            downloadButton("download_full_csv", "Download Full CSV"),
+            downloadButton("download_full_rds", "Download Full RDS")
         ),
         
         mainPanel(
-            uiOutput("dynamic_title"), # placeholder for reactive title
+            uiOutput("dynamic_title"), 
+            
             fluidRow(
                 column(6, tableOutput("summary_table")),
                 column(6, plotOutput("vote_share_plot", height = "500px"))
             ),
             
-            # 
-            fluidRow(
-                column(
-                    12,
-                    div(
-                        style = "margin-top:20px; text-align:left;",
-                        h4("Download entire dataset:"),
-                        downloadButton("download_full_csv", "Download Full CSV"),
-                        downloadButton("download_full_rds", "Download Full RDS")
-                    )
-                )
-            )
         )
     )
 )
@@ -133,6 +130,7 @@ server <- function(input, output, session) {
         summary <- df %>%
             group_by(`Political Affiliation`) %>%
             summarise(
+                `Total Candidates` = n(),
                 `Seats Won` = sum(Result %in% valid_results),
                 `Total Votes` = format(as.integer(sum(Votes, na.rm = TRUE)), big.mark ="," ),
                 .groups = "drop"
@@ -147,6 +145,7 @@ server <- function(input, output, session) {
             summary,
             tibble(
                 `Political Affiliation` = "TOTAL",
+                `Total Candidates` = sum(summary$`Total Candidates`),
                 `Seats Won` = total_seats,
                 `Total Votes` = format(as.integer(total_votes), big.mark=","),
                 `Vote Share (%)` = round(sum(summary$`Vote Share (%)`), 0)
@@ -195,6 +194,32 @@ server <- function(input, output, session) {
                 axis.line.y = element_blank()
             ) 
     })
+    
+    output$election_summary <- renderTable({
+        filtered <- filtered_data()
+        
+        num_constituencies <- length(unique(filtered$Constituency))
+        num_candidates <- length(unique(filtered$Candidate))
+        num_parties <- length(unique(filtered$`Political Affiliation`))
+        
+        gender_parity <- mean(filtered$Gender == "Woman", na.rm = TRUE) * 100
+        
+        data.frame(
+            Metric = c(
+                "Number of Constituencies",
+                "Number of Candidates",
+                "Number of Political Parties",
+                "Gender Parity (%)"
+            ),
+            Value = c(
+                format(as.integer(num_constituencies), big.mark = ","),
+                format(as.integer(num_candidates), big.mark = ","),
+                format(as.integer(num_parties), big.mark = ","),
+                round(gender_parity, 2) 
+            ),
+            stringsAsFactors = FALSE
+        )
+    }, colnames = FALSE)
     
     # Download Handlers ----
     
