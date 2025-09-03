@@ -2,7 +2,7 @@
 
 The purpose of this repository is to provide the public with candidate-level federal election results from the Canadian Library of Parliament in formats that are easy for researchers, and other interested parties, to access and analyze.
 
-Users can explore and download the data here or interactively using the [dashboard here.](https://01990fc6-cc06-2bf5-0f12-9ad451e2bcff.share.connect.posit.cloud/)
+Users can explore and download the data here or interactively using [the dashboard.](https://01990fc6-cc06-2bf5-0f12-9ad451e2bcff.share.connect.posit.cloud/)
 
 ## The Raw Data
 

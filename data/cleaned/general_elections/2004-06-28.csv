@@ -346,7 +346,7 @@
 "British Columbia",2004-06-28,"General","38","Vancouver South","Von Sychowcki, Stephen","Von Sychowcki","Stephen",NA,"Man","Travel agent","Communist Party of Canada","Defeated",105
 "British Columbia",2004-06-28,"General","38","Vancouver South","Sandhu, H. MR","Sandhu","H.","MR","Man","Real estate agent","No affiliation to a recognised party","Defeated",98
 "British Columbia",2004-06-28,"General","38","Vancouver South","Horrocks, Joe Sixpack","Horrocks","Joe","Sixpack","Man","Drywall contractor","Canadian Action Party","Defeated",90
-"British Columbia",2004-06-28,"General","38","Victoria","Anderson, David","Anderson","David",NA,"Man","Parliamentarian","Liberal Party of Canada","Elected",20398
+"British Columbia",2004-06-28,"General","38","Victoria","Anderson, David A.","Anderson","David","A.","Man","Parliamentarian","Liberal Party of Canada","Elected",20398
 "British Columbia",2004-06-28,"General","38","Victoria","Turner, David","Turner","David",NA,"Man","Professor","New Democratic Party","Defeated",18093
 "British Columbia",2004-06-28,"General","38","Victoria","Wenham, Logan","Wenham","Logan",NA,"Man","Executive/legislative assistant","Conservative Party of Canada","Defeated",12708
 "British Columbia",2004-06-28,"General","38","Victoria","Lade, Ariel","Lade","Ariel",NA,"Man","Economist","Green Party of Canada","Defeated",6807
@@ -357,7 +357,7 @@
 "British Columbia",2004-06-28,"General","38","West Vancouver--Sunshine Coast","Goldsmith, Andrea","Goldsmith","Andrea",NA,"Woman","Town councillor","Green Party of Canada","Defeated",5887
 "British Columbia",2004-06-28,"General","38","West Vancouver--Sunshine Coast","Bombois, Marc","Bombois","Marc",NA,"Man","General contractor","Canadian Action Party","Defeated",321
 "British Columbia",2004-06-28,"General","38","West Vancouver--Sunshine Coast","Jamieson, Anne","Jamieson","Anne",NA,"Woman","Registered nurse","Marxist-Leninist Party of Canada","Defeated",123
-"Manitoba",2004-06-28,"General","38","Brandon--Souris","Tweed, Mervin C.","Tweed","Mervin","C.","Man","Business owner","Conservative Party of Canada","Elected",18209
+"Manitoba",2004-06-28,"General","38","Brandon--Souris","Tweed, Merv","Tweed","Merv",NA,"Man","Business owner","Conservative Party of Canada","Elected",18209
 "Manitoba",2004-06-28,"General","38","Brandon--Souris","Downing, Murray","Downing","Murray",NA,"Man","Farmer","Liberal Party of Canada","Defeated",8522
 "Manitoba",2004-06-28,"General","38","Brandon--Souris","Abbey, Mike","Abbey","Mike",NA,"Man","Civil servant","New Democratic Party","Defeated",6740
 "Manitoba",2004-06-28,"General","38","Brandon--Souris","Kattenburg, David","Kattenburg","David",NA,"Man","Teacher/broadcaster","Green Party of Canada","Defeated",1264
@@ -784,7 +784,7 @@
 "Ontario",2004-06-28,"General","38","Kitchener--Waterloo","Ellis, Frank","Ellis","Frank",NA,"Man","Clerk","Christian Heritage Party of Canada","Defeated",379
 "Ontario",2004-06-28,"General","38","Kitchener--Waterloo","Mihalcea, Ciprian","Mihalcea","Ciprian",NA,"Man","Student","Independent","Defeated",124
 "Ontario",2004-06-28,"General","38","Lanark--Frontenac--Lennox and Addington","Reid, Scott","Reid","Scott",NA,"Man","Author/journalist","Conservative Party of Canada","Elected",27566
-"Ontario",2004-06-28,"General","38","Lanark--Frontenac--Lennox and Addington","McCormick, Larry","McCormick","Larry",NA,"Man","Parliamentarian","Liberal Party of Canada","Defeated",17507
+"Ontario",2004-06-28,"General","38","Lanark--Frontenac--Lennox and Addington","McCormick, Larry James Earl","McCormick","Larry","James Earl","Man","Parliamentarian","Liberal Party of Canada","Defeated",17507
 "Ontario",2004-06-28,"General","38","Lanark--Frontenac--Lennox and Addington","Sutherland, Ross","Sutherland","Ross",NA,"Man","Registered nurse","New Democratic Party","Defeated",7418
 "Ontario",2004-06-28,"General","38","Lanark--Frontenac--Lennox and Addington","Baranyi, John","Baranyi","John",NA,"Man","Business person","Green Party of Canada","Defeated",2736
 "Ontario",2004-06-28,"General","38","Lanark--Frontenac--Lennox and Addington","Vankoughnet, William John","Vankoughnet","William","John","Man","Retired","Independent","Defeated",820
@@ -1039,7 +1039,7 @@
 "Ontario",2004-06-28,"General","38","St. Paul's","Tobias, Norman","Tobias","Norman",NA,"Man","Lawyer","New Democratic Party","Defeated",8667
 "Ontario",2004-06-28,"General","38","St. Paul's","Elgie, Peter","Elgie","Peter",NA,"Man","Teacher","Green Party of Canada","Defeated",3031
 "Ontario",2004-06-28,"General","38","Stormont--Dundas--South Glengarry","Lauzon, Guy","Lauzon","Guy",NA,"Man","Business manager","Conservative Party of Canada","Elected",21678
-"Ontario",2004-06-28,"General","38","Stormont--Dundas--South Glengarry","Kilger, Robert (Bob)","Kilger","Robert","(Bob)","Man","Parliamentarian","Liberal Party of Canada","Defeated",17779
+"Ontario",2004-06-28,"General","38","Stormont--Dundas--South Glengarry","Kilger, Robert (Bob) Peter Paul","Kilger","Robert","(Bob) Peter Paul","Man","Parliamentarian","Liberal Party of Canada","Defeated",17779
 "Ontario",2004-06-28,"General","38","Stormont--Dundas--South Glengarry","MacDonald, Elaine","MacDonald","Elaine",NA,"Woman","Teacher","New Democratic Party","Defeated",5387
 "Ontario",2004-06-28,"General","38","Stormont--Dundas--South Glengarry","Manley, Tom","Manley","Tom",NA,"Man","Business person","Green Party of Canada","Defeated",3491
 "Ontario",2004-06-28,"General","38","Sudbury","Marleau, Diane","Marleau","Diane",NA,"Woman","Parliamentarian","Liberal Party of Canada","Elected",18914
@@ -1625,7 +1625,7 @@
 "Saskatchewan",2004-06-28,"General","38","Churchill River","Cook, Earl","Cook","Earl",NA,"Man","Educator","New Democratic Party","Defeated",3910
 "Saskatchewan",2004-06-28,"General","38","Churchill River","Laliberte, Rick","Laliberte","Rick",NA,"Man","Parliamentarian","Independent","Defeated",1923
 "Saskatchewan",2004-06-28,"General","38","Churchill River","Gall, Marcella","Gall","Marcella",NA,"Woman","Psychiatric nurse","Green Party of Canada","Defeated",539
-"Saskatchewan",2004-06-28,"General","38","Cypress Hills--Grasslands","Anderson, David","Anderson","David",NA,"Man","Business person/farmer","Conservative Party of Canada","Elected",18010
+"Saskatchewan",2004-06-28,"General","38","Cypress Hills--Grasslands","Anderson, David L.","Anderson","David","L.","Man","Business person/farmer","Conservative Party of Canada","Elected",18010
 "Saskatchewan",2004-06-28,"General","38","Cypress Hills--Grasslands","Caton, Bill","Caton","Bill",NA,"Man","Rancher","Liberal Party of Canada","Defeated",5547
 "Saskatchewan",2004-06-28,"General","38","Cypress Hills--Grasslands","Potts, Jeff","Potts","Jeff",NA,"Man","Customer service","New Democratic Party","Defeated",4901
 "Saskatchewan",2004-06-28,"General","38","Cypress Hills--Grasslands","Currie, Bev","Currie","Bev",NA,"Man","Farmer","Green Party of Canada","Defeated",1243
