@@ -2,8 +2,11 @@
 if(!require(pacman)) install.packages("pacman")
 pacman::p_load(shiny, shinythemes, dplyr, readr, here, ggplot2, ggthemes)
 
-# Load data
-fed_data <- readRDS("data/cleaned/master/FED_1867_present.rds")
+
+setwd("~/GitHub/Canadian-Federal-Elections/shiny_app")
+
+shiny_data <- readRDS("~/GitHub/Canadian-Federal-Elections/shiny_app/shiny_data.Rds")
+
 
 # to create manifest.json use:
 # rsconnect::writeManifest(appPrimaryDoc = "app.R")
@@ -35,14 +38,14 @@ ui <- fluidPage(
             selectInput(
                 "election_type",
                 "Select Election Type:",
-                choices = sort(unique(fed_data$Election_Type)),
-                selected = unique(fed_data$Election_Type)[1]
+                choices = sort(unique(shiny_data$Election_Type)),
+                selected = unique(shiny_data$Election_Type)[1]
             ),
             selectInput(
                 "election_date",
                 "Select Election:",
-                choices = sort(unique(fed_data$Election_Date), decreasing = TRUE),
-                selected = max(fed_data$Election_Date)
+                choices = sort(unique(shiny_data$Election_Date), decreasing = TRUE),
+                selected = max(shiny_data$Election_Date)
             ),
             
             h4("Summary of election:"),
@@ -84,7 +87,7 @@ server <- function(input, output, session) {
     
     # Dynamic title
     output$dynamic_title <- renderUI({
-        selected_row <- fed_data %>% 
+        selected_row <- shiny_data %>% 
             filter(Election_Date == input$election_date) %>% 
             slice(1)  # Get the first row for that date
         
@@ -103,7 +106,7 @@ server <- function(input, output, session) {
     
     # Update election dates when type changes
     observeEvent(input$election_type, {
-        filtered_dates <- fed_data %>%
+        filtered_dates <- shiny_data %>%
             filter(Election_Type == input$election_type) %>%
             pull(Election_Date) %>%
             unique() %>%
@@ -118,7 +121,7 @@ server <- function(input, output, session) {
     
     # Reactive data for selected election
     filtered_data <- reactive({
-        fed_data %>%
+        shiny_data %>%
             rename(
                 `Province/Territory` = Province_Territory,
                 `Election Date` = Election_Date,
@@ -258,7 +261,7 @@ server <- function(input, output, session) {
             "full_dataset.csv"
         },
         content = function(file) {
-            write.csv(fed_data, file, row.names = FALSE)
+            write.csv(shiny_data, file, row.names = FALSE)
         }
     )
     
@@ -267,7 +270,7 @@ server <- function(input, output, session) {
             "full_dataset.rds"
         },
         content = function(file) {
-            saveRDS(fed_data, file)
+            saveRDS(shiny_data, file)
         }
     )
 }
