@@ -119,6 +119,7 @@ FED_1867_present$Candidate <- gsub(" NA", "", FED_1867_present$Candidate)
 
 # 1. Create Master File.
 saveRDS(FED_1867_present, file = "~/GitHub/Canadian-Federal-Elections/data/cleaned/master/FED_1867_present.Rds")
+saveRDS(FED_1867_present, file = "~/GitHub/Canadian-Federal-Elections/shiny_app/shiny_data.Rds")
 write.csv(FED_1867_present, file = "~/GitHub/Canadian-Federal-Elections/data/cleaned/master/FED_1867_present.csv", row.names = FALSE, fileEncoding = "UTF-8")
 
 # 2. Create Yearly Reports for General Elections and Provincial Summaries of By-elections.
