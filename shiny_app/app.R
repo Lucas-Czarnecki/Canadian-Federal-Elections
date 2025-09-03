@@ -3,9 +3,8 @@ if(!require(pacman)) install.packages("pacman")
 pacman::p_load(shiny, shinythemes, dplyr, readr, here, ggplot2, ggthemes)
 
 
-setwd("~/GitHub/Canadian-Federal-Elections/shiny_app")
-
-shiny_data <- readRDS("~/GitHub/Canadian-Federal-Elections/shiny_app/shiny_data.Rds")
+data_path <- here("shiny_app", "shiny_data.Rds")
+shiny_data <- readRDS(data_path)
 
 
 # to create manifest.json use:
