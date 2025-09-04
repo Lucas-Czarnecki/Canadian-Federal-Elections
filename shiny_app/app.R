@@ -2,28 +2,26 @@
 if(!require(pacman)) install.packages("pacman")
 pacman::p_load(shiny, shinythemes, dplyr, readr, here, ggplot2, ggthemes)
 
-
 data_path <- here("shiny_app", "shiny_data.Rds")
 shiny_data <- readRDS(data_path)
-
 
 # to create manifest.json use:
 # rsconnect::writeManifest(appPrimaryDoc = "app.R")
 
 # Main political parties 
-main_parties <- c(
-    "Conservative Party of Canada",
-    "New Democratic Party",
-    "Progressive Conservative Party",
-    "Reform Party of Canada",
-    "Green Party of Canada",
-    "Liberal Party of Canada",
-    "Bloc Québécois",
-    "Conservative (1867-1942)",
-    "Liberal-Conservative",
-    "Anti-Confederate",
-    "Unknown"
-)
+# main_parties <- c(
+#     "Conservative Party of Canada",
+#     "New Democratic Party",
+#     "Progressive Conservative Party",
+#     "Reform Party of Canada",
+#     "Green Party of Canada",
+#     "Liberal Party of Canada",
+#     "Bloc Québécois",
+#     "Conservative (1867-1942)",
+#     "Liberal-Conservative",
+#     "Anti-Confederate",
+#     "Unknown"
+# )
 
 
 # UI ----
@@ -87,8 +85,10 @@ server <- function(input, output, session) {
     # Dynamic title
     output$dynamic_title <- renderUI({
         selected_row <- shiny_data %>% 
+            mutate(Election_Type = case_when(Election_Type=="General" ~ "General Election",
+                                             TRUE ~ Election_Type)) %>% 
             filter(Election_Date == input$election_date) %>% 
-            slice(1)  # Get the first row for that date
+            slice(1)
         
         h3(
             paste0(
@@ -150,7 +150,7 @@ server <- function(input, output, session) {
             mutate(
                 `Vote Share (%)` = round((as.numeric(gsub(",", "", `Total Votes`)) / total_votes) * 100, 2)
             ) %>%
-            arrange(desc(`Seats Won`))
+            arrange(desc(`Seats Won`), desc(`Vote Share (%)`))
         
         # Add totals row
         summary <- bind_rows(
