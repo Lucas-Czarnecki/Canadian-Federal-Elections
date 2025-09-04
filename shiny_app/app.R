@@ -72,8 +72,17 @@ ui <- fluidPage(
                     6,
                     plotOutput("vote_share_plot", height = "500px")
                 )
-            )
+            ),
             
+            br(), hr(),
+            
+            # New Constituency-level Results Section
+            h3("Constituency-Level Results"),
+            uiOutput("constituency_selector"),
+            div(
+                style = "max-height: 500px; overflow-y: auto",
+                tableOutput("constituency_table")
+            )
         )
     )
 )
@@ -127,6 +136,47 @@ server <- function(input, output, session) {
                 `Political Affiliation` = Political_Affiliation
             ) %>%
             filter(`Election Date` == input$election_date)
+    })
+    
+    # Constituency-level data ----
+    observeEvent(filtered_data(), {
+        constituencies <- sort(unique(filtered_data()$Constituency))
+        updateSelectInput(
+            session, "constituency",
+            choices = constituencies,
+            selected = constituencies[1]
+        )
+    })
+    
+    output$constituency_selector <- renderUI({
+        selectInput(
+            "constituency",
+            "Select Constituency:",
+            choices = sort(unique(filtered_data()$Constituency)),
+            selected = sort(unique(filtered_data()$Constituency))[1]
+        )
+    })
+    
+    output$constituency_table <- renderTable({
+        req(input$constituency)
+        
+        df <- filtered_data() %>%
+            filter(Constituency == input$constituency)
+        
+        total_votes <- sum(df$Votes, na.rm = TRUE)
+        
+        df %>%
+            select(
+                Candidate,
+                `Political Affiliation`,
+                Occupation,
+                Votes,
+                Result
+            ) %>%
+            mutate(
+                `Vote Share (%)` = round((Votes / total_votes) * 100, 2)
+            ) %>%
+            arrange(desc(Votes))
     })
     
     # Summarize results by party
