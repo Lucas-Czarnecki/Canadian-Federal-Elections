@@ -48,7 +48,7 @@ ui <- fluidPage(
             h4("Summary of election:"),
             tableOutput("election_summary"),
             
-            h4("Download filtered results:"),
+            h4("Download election results:"),
             downloadButton("download_filtered_csv", "Download CSV"),
             downloadButton("download_filtered_rds", "Download RDS"),
             
@@ -77,7 +77,7 @@ ui <- fluidPage(
             br(), hr(),
             
             # New Constituency-level Results Section
-            h3("Constituency-Level Results"),
+            h3("Constituency-Level Data"),
             uiOutput("constituency_selector"),
             div(
                 style = "max-height: 500px; overflow-y: auto",
@@ -138,47 +138,8 @@ server <- function(input, output, session) {
             filter(`Election Date` == input$election_date)
     })
     
-    # Constituency-level data ----
-    observeEvent(filtered_data(), {
-        constituencies <- sort(unique(filtered_data()$Constituency))
-        updateSelectInput(
-            session, "constituency",
-            choices = constituencies,
-            selected = constituencies[1]
-        )
-    })
     
-    output$constituency_selector <- renderUI({
-        selectInput(
-            "constituency",
-            "Select Constituency:",
-            choices = sort(unique(filtered_data()$Constituency)),
-            selected = sort(unique(filtered_data()$Constituency))[1]
-        )
-    })
-    
-    output$constituency_table <- renderTable({
-        req(input$constituency)
-        
-        df <- filtered_data() %>%
-            filter(Constituency == input$constituency)
-        
-        total_votes <- sum(df$Votes, na.rm = TRUE)
-        
-        df %>%
-            select(
-                Candidate,
-                `Political Affiliation`,
-                Occupation,
-                Votes,
-                Result
-            ) %>%
-            mutate(
-                `Vote Share (%)` = round((Votes / total_votes) * 100, 2)
-            ) %>%
-            arrange(desc(Votes))
-    })
-    
+    # Election-level data ----
     # Summarize results by party
     output$summary_table <- renderTable({
         df <- filtered_data()
@@ -281,6 +242,51 @@ server <- function(input, output, session) {
             stringsAsFactors = FALSE
         )
     }, colnames = FALSE)
+    
+    
+    # Constituency-level data ----
+    observeEvent(filtered_data(), {
+        constituencies <- sort(unique(filtered_data()$Constituency))
+        updateSelectInput(
+            session, "constituency",
+            choices = constituencies,
+            selected = constituencies[1]
+        )
+    })
+    
+    output$constituency_selector <- renderUI({
+        selectInput(
+            "constituency",
+            "Select Constituency:",
+            choices = sort(unique(filtered_data()$Constituency)),
+            selected = sort(unique(filtered_data()$Constituency))[1]
+        )
+    })
+    
+    output$constituency_table <- renderTable({
+        req(input$constituency)
+        
+        df <- filtered_data() %>%
+            filter(Constituency == input$constituency)
+        
+        total_votes <- sum(df$Votes, na.rm = TRUE)
+        
+        df %>%
+            select(
+                Candidate,
+                `Political Affiliation`,
+                Occupation,
+                Gender,
+                Votes,
+                Result
+            ) %>%
+            mutate(
+                `Vote Share (%)` = round((Votes / total_votes) * 100, 2),
+                Votes = format(as.integer(Votes), big.mark=",")
+            ) %>%
+            arrange(desc(`Vote Share (%)`))
+    })
+    
     
     # Download Handlers ----
     
