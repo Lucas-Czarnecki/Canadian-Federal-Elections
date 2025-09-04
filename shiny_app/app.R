@@ -154,15 +154,16 @@ server <- function(input, output, session) {
             summarise(
                 `Confirmed Candidates` = format(as.integer(n()), big.mark = ","),
                 `Seats Won` = sum(Result %in% valid_results),
-                `Total Votes` = format(as.integer(sum(Votes, na.rm = TRUE)), big.mark ="," ),
+                 `Total Votes` = sum(Votes, na.rm = TRUE),
                 .groups = "drop"
             ) %>%
             mutate(
-                `Vote Share (%)` = round((as.numeric(gsub(",", "", `Total Votes`)) / total_votes) * 100, 2)
+                `Vote Share (%)` = round((as.numeric(gsub(",", "", `Total Votes`)) / total_votes) * 100, 2),
+                `Total Votes` = format(`Total Votes`, big.mark ="," ),
             ) %>%
             arrange(desc(`Seats Won`), desc(`Vote Share (%)`))
         
-        # Add totals row
+        # Add totals 
         summary <- bind_rows(
             summary,
             tibble(
@@ -217,6 +218,7 @@ server <- function(input, output, session) {
             ) 
     })
     
+    # Election summary ----
     output$election_summary <- renderTable({
         filtered <- filtered_data()
         
@@ -284,7 +286,8 @@ server <- function(input, output, session) {
                 `Vote Share (%)` = round((Votes / total_votes) * 100, 2),
                 Votes = format(as.integer(Votes), big.mark=",")
             ) %>%
-            arrange(desc(`Vote Share (%)`))
+            arrange(desc(`Vote Share (%)`)) %>% 
+            relocate(Result, .after=`Vote Share (%)`)
     })
     
     
