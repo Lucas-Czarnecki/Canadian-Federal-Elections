@@ -92,7 +92,6 @@ server <- function(input, output, session) {
         
         h3(
             paste0(
-                "Summary of ",
                 selected_row$Election_Type,
                 " Results for Parliament ",
                 selected_row$Parliament,
@@ -142,7 +141,7 @@ server <- function(input, output, session) {
         summary <- df %>%
             group_by(`Political Affiliation`) %>%
             summarise(
-                `Total Candidates` = format(as.integer(n()), big.mark = ","),
+                `Confirmed Candidates` = format(as.integer(n()), big.mark = ","),
                 `Seats Won` = sum(Result %in% valid_results),
                 `Total Votes` = format(as.integer(sum(Votes, na.rm = TRUE)), big.mark ="," ),
                 .groups = "drop"
@@ -157,7 +156,7 @@ server <- function(input, output, session) {
             summary,
             tibble(
                 `Political Affiliation` = "TOTAL",
-                `Total Candidates` = format(as.integer(sum(as.integer(gsub(",", "", summary$`Total Candidates`)))), big.mark = ","),
+                `Confirmed Candidates` = format(as.integer(sum(as.integer(gsub(",", "", summary$`Confirmed Candidates`)))), big.mark = ","),
                 `Seats Won` = total_seats,
                 `Total Votes` = format(as.integer(total_votes), big.mark=","),
                 `Vote Share (%)` = round(sum(summary$`Vote Share (%)`), 0)
