@@ -35,6 +35,3 @@ The data found in `by-elections`, `general-elections`, and `master` are candidat
 Currently, there does not appear to be any official federal government record of electors at the constituency-level. It is not possible, therefore, to calculate voter turnout from these data. 🥺
 
 If you are interested in this kind of research or know about a **digital(!)** data set that could be used to match the total number of electors to the LOP data set, please reach out. 
-
-📧: lczarnec@ucalgary.ca
-
