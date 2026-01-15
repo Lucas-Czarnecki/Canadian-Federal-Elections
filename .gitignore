@@ -1,4 +1,9 @@
+# R and Rstudio
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Pycharm
+.idea/
+*.ipynb
