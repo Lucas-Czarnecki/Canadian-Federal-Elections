@@ -1,0 +1,5 @@
+# Project-local Codex configuration.
+#
+# Codex loads project .codex/ configuration only after the project is trusted.
+# Keep this file intentionally minimal until the project needs specific model,
+# sandbox, approval, MCP, hook, or rule settings.
